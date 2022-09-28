@@ -790,7 +790,7 @@
 "横图显示": "0",
 //可以自定义列表翻页起始页的页数
 "qishiye": "1",
-"fenlei": "电影$/list/1/-#动漫$/list/3/-#国产剧$/list/13/-#美剧$/list/14/-#日韩剧$/list/15/-#情色片$/list/27/-#记录片$/list/29/-",
+"fenlei": "电影$/list/1/page/-#动漫$/list/3/page/-#国产剧$/list/13/page/-#美剧$/list/14/page/-#日韩剧$/list/15/page/-#情色片$/list/27/page/-#记录片$/list/29/page/-",
 "houzhui": ".html",
 "shifouercijiequ": "0",
 "jiequqian": "空",
