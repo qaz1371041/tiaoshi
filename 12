@@ -1,16 +1,23 @@
 //首页的栏目可以自己设置标题名称和图片，key不用改动，是列表页的识别标志，每个栏目的顺序也可以随意排序。注意最后一个不用加,号
 {"Home": [
-{"key":"APP","title":"APP","pic":"https://pic.netbian.com/uploads/allimg/220716/001159-1657901519eb96.jpg"},
-{"key":"网页","title":"网页","pic":"https://pic.netbian.com/uploads/allimg/220716/000946-16579013861fe3.jpg"},
-{"key":"采集","title":"采集站","pic":"https://pic.netbian.com/uploads/allimg/220716/000857-1657901337b7b9.jpg"},
-{"key":"直播","title":"直播","pic":"https://pic.netbian.com/uploads/allimg/220715/235203-16579003239a93.jpg"},
-{"key":"历史","title":"历史","pic":"https://pic.netbian.com/uploads/allimg/220421/225912-16505531526c39.jpg"},
-{"key":"收藏","title":"收藏","pic":"https://pic.netbian.com/uploads/allimg/220206/161011-16441350118bb4.jpg"},
-{"key":"推送","title":"推送","pic":"https://pic.netbian.com/uploads/allimg/211222/213101-16401798611c4d.jpg"},
-{"key": "自选网页",
-"title": "填写自选自定义名称",
-"pic": "http://pic.netbian.com/uploads/allimg/161004/221627-1475590587ba17.jpg",
+{"key":"APP","title":"APP电影","pic":"https://pic.netbian.com/uploads/allimg/210114/232459-1610637899a88a.jpg"},
+{"key":"网页","title":"电影网站","pic":"https://pic.netbian.com/uploads/allimg/210114/232044-16106376444d1d.jpg"},
+{"key":"采集","title":"采集电影","pic":"https://pic.netbian.com/uploads/allimg/210114/231845-1610637525493a.jpg"},
+{"key":"直播","title":"电视直播","pic":"https://pic.netbian.com/uploads/allimg/210114/224605-1610635565f58d.jpg"},
+{"key": "自选网页","title": "哔哩哔哩电影","pic": "http://n.sinaimg.cn/spider2021225/253/w600h453/20210225/161a-kkmphps9702402.jpg",
 "custom": "http://xxx.json"}
+{"key": "自选网页","title": "哔哩哔哩综艺","pic": "https://doc-fd.zol-img.com.cn/t_s640x2000/g6/M00/0A/01/ChMkKmBZObCIHYAKAABFPfWqDdUAAL6cQPuDjEAAEVV064.jpg",
+"custom": "http://xxx.json"}
+{"key": "自选网页","title": "斗鱼","pic": "http://5b0988e595225.cdn.sohucs.com/images/20171220/8760f169848a4214af2c9c2dc4e26023.jpeg",
+"custom": "http://xxx.json"}
+{"key": "自选网页","title": "体育直播","pic": "http://i0.hdslb.com/bfs/article/d60acbc68e1c7cfe792acfe9ae7cafe5eb296267.jpg",
+"custom": "http://xxx.json"}
+{"key": "自选网页","title": "影视","pic": "https://pic.netbian.com/uploads/allimg/191227/234738-15774616581cb7.jpg",
+ "custom": "http://xxx.json"}
+{"key":"历史","title":"历史记录","pic":"https://pic.netbian.com/uploads/allimg/191116/231011-15739170113efd.jpg"},
+{"key":"收藏","title":"我的收藏","pic":"https://pic.netbian.com/uploads/allimg/180629/120918-15302453582fb7.jpg"},
+{"key":"推送","title":"远程推送","pic":"https://pic.netbian.com/uploads/allimg/200808/000233-159681615365a2.jpg"}
+
 ],
 
 //填写APP接口，支持以下5种接口格式。
