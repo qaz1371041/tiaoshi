@@ -104,6 +104,7 @@
 
 //主解析是JSON直链格式的解析
 "zhujiexi":[
+ {"name":"江湖解析","url":"http://211.99.99.236:4567/jhjson/ceshi.php?url="}, 
 {"name": "绿叶", "url": "https://hc.izny.cn/json.php?url="},
 {"name":"解析5","url":"https://json.freejx.in/?url="},
 {"name":"解析6","url":"http://tgjx.itcker.com/api/?key=u7eWwiakUR1L6KS4sj&url="},
@@ -112,17 +113,20 @@
 {"name":"左岸","url":"http://110.42.2.115:880/analysis/json/?uid=2284&my=efghjmxzADEFIS0268&url="},
 {"name":"HF影视","url":"http://119.91.206.244:9999/jx/hfys.php?url="},
 {"name":"GGTV1","url":"https://play.fuqizhishi.com/juhe/API.php?appkey=caijijuhe220902&url="},
- 
 {"name":"优众","url":"http://49.232.186.195:1980/home/api?type=ys&uid=57542&key=bcfhopqrxFGMNUZ018&url="},
+
+
  
-{"name": "江湖解析","url": "http://211.99.99.236:4567/jhjson/ceshi.php?url="},
 ],
 
 //备用解析是常规格式的解析
-"beiyongjiexi": [
+"beiyongjiexi":[
+ {"name":"VS解析","url":"https://www.vsvss.com/?url="},
+ {"name":"爱酷解析","url":"https://jx.zhanlangbu.com/?url="},
+ 
 {"name":"4","url":"http://43.140.205.222/jiexi.php?url="},
 {"name":"7","url":"http://bfq.blssv.com/bfq/?url="},
-{"name":"8","url":"https://jiexi.91ymz.cn/?url="},
+{"name":"8","url":"https://jiexi.91ymz.cn/?url="}, 
 {"name":"14","url":"https://vip.anltv.cn/?url="},
 {"name": "15","url": "https://api.tvip.cc/?url="},
 {"name":"虾米","url":"https://jx.xmflv.com/?url="},
