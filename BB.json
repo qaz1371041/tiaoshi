@@ -24,7 +24,7 @@
 
 //填写APP接口，支持以下5种接口格式。
 "zhuyejiekou": [
-{"name":"优众影视","url":"http://43.249.192.246:2626/xgtv.php/v2/"},
+{"name":"优众影视","url":"http://124.248.66.168:1212/xgapp.php/v2/"},
 {"name":"九亿影视","url":"http://vod.9e03.com/lvdou_api.php/v1.vod"},
 {"name":"9999","url":"http://www.cx99999.cn/lvdou_api.php/v1.vod"},
 {"name":"影库","url":"https://yingkudy.com/lvdou_api.php/v1.vod"},
