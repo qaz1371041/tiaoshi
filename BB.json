@@ -124,19 +124,21 @@
 
 //备用解析是常规格式的解析
 "beiyongjiexi":[
- {"name":"parwix1","url":"https://jx.parwix.com:4433/player/?url="},
- {"name":"VS解析","url":"https://www.vsvss.com/?url="},
- {"name":"爱酷解析","url":"https://jx.zhanlangbu.com/?url="},
-{"name":"4","url":"http://43.140.205.222/jiexi.php?url="},
-{"name":"7","url":"http://bfq.blssv.com/bfq/?url="},
-{"name":"8","url":"https://jiexi.91ymz.cn/?url="}, 
-{"name":"14","url":"https://vip.anltv.cn/?url="},
-{"name": "15","url": "https://api.tvip.cc/?url="},
-{"name":"虾米","url":"https://jx.xmflv.com/?url="},
+ {"name":"1","url":"http://43.140.205.222/jiexi.php?url="},
+{"name":"2","url":"https://jx.bozrc.com:4433/player/?url="},
+{"name":"3","url":"https://jx.parwix.com:4433/player/?url="},
+{"name":"4","url":"https://jx.parwix.com:4433/player/analysis.php?v="},
+{"name": "5","url": "https://www.yemu.xyz/?url="},
+{"name": "6","url": "https://svip.bljiex.cc/?v="},
+{"name":"7","url":"https://www.vsvss.com/?url="},
+{"name":"8","url":"http://bfq.blssv.com/bfq/?url="},
+{"name":"9","url":"https://jiexi.91ymz.cn/?url="},
+{"name":"10","url":"https://vip.anltv.cn/?url="},
+{"name": "11","url": "https://api.tvip.cc/?url="},
+ 
 {"name":"MAO","url":"https://www.mtosz.com/m3u8.php?url="},
 {"name":"盖世","url":"https://www.gai4.com/?url="},
-{"name":"17云","url":"https://www.1717yun.com/jx/ty.php?url="},
- {"name":"vipjx","url":"https://vipjx.cc/?url="},
+{"name":"17云","url":"https://www.1717yun.com/jx/ty.php?url="}
 ],
 
 
