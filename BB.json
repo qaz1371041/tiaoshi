@@ -18,9 +18,14 @@
 {"key":"收藏","title":"我的收藏","pic":"https://pic.netbian.com/uploads/allimg/180629/120918-15302453582fb7.jpg"},
 {"key":"推送","title":"远程推送","pic":"https://pic.netbian.com/uploads/allimg/200808/000233-159681615365a2.jpg"}
 ],
-
+//{"name":"填接口名称","url":"http://xxx/api.php/v1.vod"},
+//{"name":"填接口名称","url":"https://xxx/xgapp.php/v1/"},
+//{"name":"填接口名称","url":"http://xxx/api.php/app/"},
+//{"name":"填接口名称","url":"https://xxx/xgapp.php/v2/"},
+//{"name":"填接口名称","url":"http://xxx/mogai_api.php/v1.vod"},
 //填写APP接口，支持以下5种接口格式。
 "zhuyejiekou": [
+ 
 {"name":"优众影视","url":"http://124.248.66.168:1212/xgapp.php/v2/"},
 {"name":"9999","url":"http://www.cx99999.cn/lvdou_api.php/v1.vod"},
 {"name":"影库","url":"https://yingkudy.com/lvdou_api.php/v1.vod"},
