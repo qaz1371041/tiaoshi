@@ -798,17 +798,11 @@
 "bfhouzhui": "空"},
  
  
- 
-//https://www.555yy2.com/
-
-{"name": "555电影",
+ {"name": "*555电影",
   "url": "https://www.555dy.fun",
   "tihuan": "cnzz.com",
   "User": "User-Agent:Dart/2.14 (dart:io)",
-  "shouye": "1",
-  "fenlei": "Netflix(片)$/vodshow/1---Netflix-----#Netflix(剧)$/vodshow/2---Netflix-----#热播电影$/vodshow/1--hits------#热播剧集$/vodshow/13--------#电影$/vodshow/1--------#电视剧$/vodshow/2--------#综艺$/vodshow/3--------#动漫$/vodshow/4--------#国产剧$/vodshow/2-大陆-------#欧美剧$/vodshow/45--------#国漫$/vodshow/4-大陆-------#日漫$/vodshow/4-日本-------#福利$/vodshow/124--------",
- 
- 
+  "fenlei": "电影$/vodshow/1--------#国产剧$/vodshow/13--------#港台剧$/vodshow/15--------#综艺$/vodshow/3--------#福利$/vodshow/124--------#动漫$/vodshow/4--------",
   "houzhui": "---.html",
   "shifouercijiequ": "1",
   "jiequqian": "module-page",
@@ -842,14 +836,14 @@
   "bfshifouercijiequ": "0",
   "bfjiequqian": "空",
   "bfjiequhou": "空",
-  "zhuangtaiqian": "更新：", //
+  "zhuangtaiqian": "更新：",
   "zhuangtaihou": "</div>",
   "daoyanqian": "导演：",
   "daoyanhou": "</div>",
   "zhuyanqian": "主演：",
   "zhuyanhou": "</div>",
-  "juqingqian": "style=\"line-height: 20px;\">", //简介：
-  "juqinghou": "</p>",
+  "juqingqian": "简介：",
+  "juqinghou": "/div>",
   "bfjiequshuzuqian": "class=\"module-list",
   "bfjiequshuzuhou": "</div>",
   "bfyshifouercijiequ": "0",
@@ -861,6 +855,7 @@
   "bfbiaotihou": "</span>",
   "bflianjieqian": "href=\"",
   "bflianjiehou": "\""},
+
  
  
  
