@@ -2081,8 +2081,8 @@
 
 
 
-{
-  "name": "1080Kkk",
+
+  {"name": "1080Kkk",
   "url": "https://www.1080kkk.com",
   "User": "空",
   "shouye": "1",
@@ -2203,8 +2203,8 @@
   "bflianjiehou": "\""
 },
 
-{
-  "name": "创艺影视",
+
+ { "name": "创艺影视",
   "url": "https://www.30dian.cn",
   "tihuan": "vip.30dian.cn",
   "User": "空",
@@ -2264,8 +2264,8 @@
   "bflianjiehou": "\""
 },
 
-{
-  "author": "20220606",
+
+  {"author": "20220606",
   "name": "瓜皮TV",
   "url": "https://guapitv.xyz",
   "tihuan": "cnzz.com", //这个不用动，是个别网站嗅探时过滤地址用的
@@ -2331,12 +2331,12 @@
   "bfbiaotiqian": "span>", //播放剧集标题前关键词
   "bfbiaotihou": "</span", //状播放剧集标题后关键词
   "bflianjieqian": "href=\"", //播放剧集链接前关键词
-  "bflianjiehou": "\""
-},
+  "bflianjiehou": "\""},
 
 
-{
-  "name": "花猫TV",
+
+
+  {"name": "花猫TV",
   "url": "http://www.huamaotv.com",
   "User": "空",
   "shouye": "1",
@@ -2392,8 +2392,8 @@
   "bfbiaotiqian": "\">",
   "bfbiaotihou": "</a>",
   "bflianjieqian": "href=\"",
-  "bflianjiehou": "\""
-},
+  "bflianjiehou": "\""},
+
 
 {"name": "趣享星视",
 "url": "https://www.quxw.net",
