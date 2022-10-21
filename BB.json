@@ -802,7 +802,7 @@
 //https://www.555yy2.com/
 
 {"name": "555电影",
-  "url": "https://www.xawqxh.net/",
+  "url": "https://www.zxk555.com/",
   "tihuan": "cnzz.com",
   "User": "User-Agent:Dart/2.14 (dart:io)",
   "shouye": "1",
@@ -868,8 +868,8 @@
 {
   "name": "子子影视",
   "url": "https://www.ziziys.com",
+"ua": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36",
   "shouye": "1",
- 
   "fenlei": "动作片$/list/6/page/#剧情片$/list/7/page/#喜剧$/list/8/page/#爱情片$/list/9/page/#惊悚片$/list/10/page/#奇幻片$/list/11/page/#悬疑片$/list/12/page/#动漫片$/list/23/page/#恐怖片$/list/24/page/#历史传记片$/list/25/page/#战争片$/list/26/page/#情色片$/list/27/page/#武侠古装$/list/28/page/#记录片$/list/29/page/#灾难片$/list/30/page/#音乐歌舞$/list/31/page/#美剧$/list/14/page/#动漫$/list/3/page/#日韩剧$/list/15/page/#泰剧$/list/16/page/",
   "houzhui": "html",
   "shifouercijiequ": "0",
@@ -927,6 +927,7 @@
 
  {"name": "艾菲影视",
 "url": "https://www.ifimv.com/",
+"ua": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36",
 "User": "空",
 "fenlei": "电影$/vodshow/1-----------/page/#连续剧$/vodshow/2-----------/page/#情色片$/vodshow/27-----------/page/#动漫$/vodshow/3-----------/page/",
  
@@ -1247,7 +1248,7 @@
 
 {
   "name": "555电影",
-  "url": "https://www.xawqxh.net/", 
+  "url": "https://www.zxk555.com/", 
   "ua":"Mozilla/5.0 (Linux; Android 10; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.104 Mobile Safari/537.36",
   "User": "authority$www.555dy1.com#origin$https://www.555dy1.com",
   "cookie":"",
