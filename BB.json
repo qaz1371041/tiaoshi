@@ -3263,10 +3263,10 @@
   "bflianjieqian": "href=\"",
   "bflianjiehou": "\""
 },
- {
-  "name": "如如影视",
+ 
+  {"name": "如如影视",
   "url": "http://s3.579d.com/",
-"ua":"Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36",
+  "ua":"Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36",
   "User": "空",
   "shouye": "1",
   "fenlei": "电影$/sy/movie--time--/page/#电视剧$/sy/dsj--time--/page/#综艺$/sy/zong----/page/#动漫$/sy/dong----/page/#伦理$/sy/lun----/page/#纪录片$/sy/jl----/page/",
@@ -3329,8 +3329,8 @@
   "bfbiaotiqian": "\">",
   "bfbiaotihou": "</a>",
   "bflianjieqian": "href=\"",
-  "bflianjiehou": "\""
-},
+  "bflianjiehou": "\""},
+
  
 ]
 }
