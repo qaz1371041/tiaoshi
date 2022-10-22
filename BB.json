@@ -121,9 +121,9 @@
 {"name":"左岸","url":"http://110.42.2.115:880/analysis/json/?uid=2284&my=efghjmxzADEFIS0268&url="},
 {"name":"HF影视","url":"http://119.91.206.244:9999/jx/hfys.php?url="},
 {"name":"GGTV1","url":"https://play.fuqizhishi.com/juhe/API.php?appkey=caijijuhe220902&url="},
-{"name":"优众","url":"http://49.232.186.195:1980/home/api?type=ys&uid=57542&key=bcfhopqrxFGMNUZ018&url="},
-{"name": "1","type": 1,"url":"http://chaloli.cn/home/api?type=ys&uid=1942949&key=bfijlnovBCEGHJTV09&url="},
-{"name": "2","type": 1,"url":"http://api.ckflv.cn/?url="},
+{"name":"优众","url":"http://45.253.64.126:7879/qpjxzy/TV/qpyzzyjxtv.php?url="},
+{"name": "1","url":"http://chaloli.cn/home/api?type=ys&uid=1942949&key=bfijlnovBCEGHJTV09&url="},
+{"name": "2","url":"http://api.ckflv.cn/?url="},
 
 
  
