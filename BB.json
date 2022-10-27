@@ -3521,29 +3521,30 @@
 "bfbiaotihou": "<",
 "bflianjieqian": "href=\"",
 "bflianjiehou": "\""},
-{
-  "name": "冷曦影视",
-  "url": "https://www.lenxitv.cc/",
+
+ {
+  "name": "凌云影视",
+  "url": "https://www.lingyun.in/",
   "User": "空",
   "shouye": "1",
- 
-  "fenlei": "电影$/s/movie-----------/page/#电视剧$/s/tv-----------/page/#综艺$/s/zongyi-----------/page/#动漫$/s/dongman-----------/page/#福利$/s/fuli-----------/page/#伦理$/s/lunlipian-----------/page/#纪录片$/s/jilupian-----------/page/#体育频道$/s/tiyu-----------/page/",
- 
+
+  "fenlei": "电影$/list/movie-----------/page/#电视剧$/list/tv-----------/page/#综艺$/list/variety-----------/page/#动漫$/list/cartoon-----------/page/",
+
   "houzhui": ".html",
- 
+
   "shifouercijiequ": "0",
   "jiequqian": "空",
   "jiequhou": "空",
-  "jiequshuzuqian": "class=\"fed-list-item fed-padding fed-col-xs4 fed-col-sm3 fed-col-md2",
+  "jiequshuzuqian": "class=\"li-img",
   "jiequshuzuhou": "</li>",
-  "tupianqian": "data-original=\"",
+  "tupianqian": "data-src=\"",
   "tupianhou": "\"",
-  "biaotiqian": ".html\" >",
-  "biaotihou": "</a>",
+  "biaotiqian": "title=\"",
+  "biaotihou": "\"",
   "lianjieqian": "href=\"",
   "lianjiehou": "\"",
- 
-  "sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
+
+  "sousuoqian": "/search.html?wd=",
   "sousuohou": "&limit=500",
   "sousuohouzhui": "/voddetail/",
   "ssmoshi": "0",
@@ -3561,22 +3562,22 @@
   "ssbiaotihou": "空",
   "sslianjieqian": "空",
   "sslianjiehou": "空",
- 
+
   "bfshifouercijiequ": "0",
   "bfjiequqian": "空",
   "bfjiequhou": "空",
-  "bfjiequshuzuqian": "class=\"fed-drop-btns ",
-  "bfjiequshuzuhou": "</li>",
- 
-  "zhuangtaiqian": "更新：</span>",
-  "zhuangtaihou": "</li>",
+  "bfjiequshuzuqian": "class=\"player ckp",
+  "bfjiequshuzuhou": "</ul>",
+
+  "zhuangtaiqian": "类型：</span>",
+  "zhuangtaihou": "</div>",
   "daoyanqian": "导演：</span>",
-  "daoyanhou": "</li>",
+  "daoyanhou": "</a>",
   "zhuyanqian": "主演：</span>",
-  "zhuyanhou": "</li>",
-  "juqingqian": "class=\"fed-padding fed-part-both fed-text-muted\">",
-  "juqinghou": "</div>",
- 
+  "zhuyanhou": "</a>",
+  "juqingqian": "class=\"sqjj_a\"",
+  "juqinghou": "class=\"sq_jj\">",
+
   "bfyshifouercijiequ": "0",
   "bfyjiequqian": "空",
   "bfyjiequhou": "空",
@@ -3587,7 +3588,6 @@
   "bflianjieqian": "href=\"",
   "bflianjiehou": "\""
 },
- 
 
  
   {"name": "如如影视",
