@@ -34,15 +34,15 @@
 {"name":"玖卿乐播","url":"https://vod.nqcode.cn/api.php/v1.vod"},
 
 
-{"name":"零刻影院","url":"https://ys.ling00.cn/api.php/v1.vod"}, 
+//{"name":"零刻影院","url":"https://ys.ling00.cn/api.php/v1.vod"}, 
 {"name":"优众影视","url":"http://124.248.66.168:1212/xgapp.php/v2/"},
 {"name":"9999","url":"http://www.cx99999.cn/lvdou_api.php/v1.vod"},
 {"name":"影库","url":"https://yingkudy.com/lvdou_api.php/v1.vod"},
-{"name":"铭轩影视","url":"http://lz0716.com/api.php/v1.vod"},
+//{"name":"铭轩影视","url":"http://lz0716.com/api.php/v1.vod"},
 
 {"name":"爱麻花影视","url":"http://v.jiexi.work/qingdoujiekou.php/v1.vod"},
-{"name":"HG影视","url":"http://bbq.1006.tk/api.php/v1.vod"},
-{"name":"雨笙影视","url":"http://xkmovies.cn/mc_api.php/v1.vod"},
+//{"name":"HG影视","url":"http://bbq.1006.tk/api.php/v1.vod"},
+{"name":"雨笙影视","url":"http://xkmovies.cn/mogai_api.php/v1.vod/"},
 {"name":"CNMB","url":"http://ys.cnmb.sb/mogai_api.php/v1.vod"},
 {"name":"一站VIP影视","url":"https://www.dpp8.xyz/api.php/v1.vod"},
 {"name":"极速影视","url":"http://ysappcms.hwzczx.cn/api.php/v1.vod"},
