@@ -1558,59 +1558,109 @@
 "bflianjieqian": "href=\"",
 "bflianjiehou": "\""},
 
- 
-{"name": "LIBVIO",
-"url": "https://www.libvio.me",
-"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
-"User": "空",
+ {"name": "LIBVIO影视",
+"url": "https://www.libvio.me/",
+//访问请求头
+"ua": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Mobile Safari/537.36",
+//访问请求cookie
+"cookie":"",
+//播放请求头
+"User": "User-Agent$123",
+//0：不添加，1：添加
+"添加手动点击图标": "0",
+//0：不启用，1：启用
+"启用js加载源码":"1",
+//根据网站响应速度自行调整加载需要的时间，时间太短可能导致获取数据失败。
+"js加载源码时间":"3",
+//填写播放地址寻找的地址标识词，中间用#号分割，不填写的话就使用全局的嗅探词
+"嗅探词": "m3u8?#.m3u8#mp4#.flv#.mp3#.m4a",
+//填写播放地址过滤规则，中间用#号分割，不填写的话就使用全局的过滤词
+"过滤词": "?url=#.css#51.la#cnzz.com#baidu.com",
+//0：记录，1：不记录
+"是否记录历史": "0",
+//直接播放截取的播放页链接网址，0表示：否，1表示：是
 "直接播放": "0",
+//分类页是否使用列表方式显示，0表示：否，1表示：是
 "列表显示": "0",
+//列表图片是否横图显示，0表示：否，1表示：是
 "横图显示": "0",
-"fenlei": "最近更新$/show/19--------#电影$/show/1--------#电视剧$/show/2--------#综艺$/show/3--------#动漫$/show/4--------#动画片$/show/1---动画-----#纪录片$/show/21--------#国产剧$/show/13--------#日韩剧$/show/15--------#欧美剧$/show/16--------#港台剧$/show/14--------#泰国剧$/show/2-泰国-------#喜剧片$/show/1---喜剧-----#爱情片$/show/1---爱情-----#恐怖片$/show/1---恐怖-----#动作片$/show/1---动作-----#科幻片$/show/1---科幻-----#剧情片$/show/1---剧情-----#战争片$/show/1---战争-----#警匪片$/show/1---警匪-----#犯罪片$/show/1---犯罪-----#奇幻片$/show/1---奇幻-----#武侠片$/show/1---武侠-----#冒险片$/show/1---冒险-----",
-"houzhui": "---.html",
+//可以自定义列表翻页起始页的页数
 "qishiye": "1",
+//如果分类类型填空，例如：电视剧$空，则直接取url字段网址的源码。
+"fenlei": "电视剧$/show/2-----------/page/#电影$/show/1-----------/page/#日韩剧$/show/15-----------/page/#欧美剧$/show/16-----------/page/#动漫$/show/4-----------/page/",
+"houzhui": ".html",
 "shifouercijiequ": "0",
 "jiequqian": "空",
 "jiequhou": "空",
-"jiequshuzuqian": "lazyload\"",
-"jiequshuzuhou": "<span",
-"tupianqian": "data-original=\"",
+"jiequshuzuqian": "class=\"stui-vodlist__thumb lazyload",
+"jiequshuzuhou": "</span>",
+
+//如果图片前字段填写完整网络图片地址的话，列表页就自动使用这个网络图片作为列表的图片。
+"tupianqian": "original=\"",
 "tupianhou": "\"",
+"tupianqianzhui": "空",
 "biaotiqian": "title=\"",
 "biaotihou": "\"",
+"fubiaotiqian": "",
+"fubiaotihou": "",
 "lianjieqian": "href=\"",
 "lianjiehou": "\"",
-"sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
-"sousuohou": "&limit=500",
-"sousuohouzhui": "/detail/",
+"ljqianzhui": "空",
+"ljhouzhui": "空",
+
+//搜索部分
+//0：get方式，1：post方式，注意：如果用post方式，【ssmoshi】要填：1
+"搜索请求方式": "0",
 "ssmoshi": "0",
-"sousuoshifouercijiequ": "0",
+"sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
+"sousuohou": "&limit=150",
+"sousuohouzhui": "/voddetail/",
 "jspic": "pic",
 "jsname": "name",
 "jsid": "id",
+"sousuoshifouercijiequ": "0",
 "ssjiequqian": "空",
 "ssjiequhou": "空",
 "ssjiequshuzuqian": "空",
 "ssjiequshuzuhou": "空",
 "sstupianqian": "空",
 "sstupianhou": "空",
+"sstupianqianzhui": "空",
 "ssbiaotiqian": "空",
 "ssbiaotihou": "空",
+"ssfubiaotiqian": "空",
+"ssfubiaotihou": "空",
 "sslianjieqian": "空",
 "sslianjiehou": "空",
-"bfshifouercijiequ": "0",
-"bfjiequqian": "空",
-"bfjiequhou": "空",
-"bfjiequshuzuqian": "class=\"stui-content__playlist",
-"bfjiequshuzuhou": "</ul>",
-"zhuangtaiqian": "class=\"data\">总集数：",
+"ssljqianzhui": "空",
+"ssljhouzhui": "空",
+
+//线路名称显示部分，0不启用，1启用
+"是否启用播放线路名": "0",
+"线路名是否二次截取": "0",
+"线路名截取前": "空",
+"线路名截取后": "空",
+"线路名截取数组前": "空",
+"线路名截取数组后": "空",
+"线路名标题前": "空",
+"线路名标题后": "空",
+
+//状态，导演，演员，剧情的截取
+"zhuangtaiqian": "class=\"data\">类型：",
 "zhuangtaihou": "</p>",
-"daoyanqian": "class=\"data\">类型：",
+"daoyanqian": "class=\"data\">最后更新：",
 "daoyanhou": "</p>",
 "zhuyanqian": "class=\"data\">主演：",
 "zhuyanhou": "</p>",
 "juqingqian": "style=\"display: none;\">",
 "juqinghou": "</span>",
+
+//播放集数截取部分
+"bfshifouercijiequ": "0",
+"bfjiequqian": "空",
+"bfjiequhou": "空",
+"bfjiequshuzuqian": "class=\"stui-content__playlist",
+"bfjiequshuzuhou": "</ul>",
 "bfyshifouercijiequ": "0",
 "bfyjiequqian": "空",
 "bfyjiequhou": "空",
@@ -1619,7 +1669,10 @@
 "bfbiaotiqian": ">",
 "bfbiaotihou": "<",
 "bflianjieqian": "href=\"",
-"bflianjiehou": "\""},
+"bflianjiehou": "\"",
+"bfqianzhui": "空",
+"bfhouzhui": "空"},
+
 
 {
   "name": "搜狗影院(官)",
