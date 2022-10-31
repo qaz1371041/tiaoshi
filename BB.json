@@ -404,6 +404,17 @@
 "ssbiaotihou": "空",
 "sslianjieqian": "空",
 "sslianjiehou": "空",
+  
+//线路名称显示部分，0不启用，1启用
+"是否启用播放线路名": "1",
+"线路名是否二次截取": "0",
+"线路名截取前": "空",
+"线路名截取后": "空",
+"线路名截取数组前": "class=\"more text-muted pull-right",
+"线路名截取数组后": "</div>",
+"线路名标题前": "/>",
+"线路名标题后": "</h3>",  
+  
 "bfshifouercijiequ": "0",
 "bfjiequqian": "空",
 "bfjiequhou": "空",
