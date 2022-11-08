@@ -102,6 +102,12 @@
 {"name": "懒懒1","url": "http://123.57.56.94:9931/lanlan/?url="},
 {"name": "绿叶", "url": "https://hc.izny.cn/json.php?url="},
 
+{"name":"解析12","url":"https://humaosp.com/json.php?url="},
+{"name":"解析24","url":"http://jx.vipmv.co/json.php?token=123457&url="},
+{"name":"解析26","url":"http://rxjx.kuanjv.com/allm3u8.php?url="},
+
+{"name":"解析6","url":"http://api.vip123kan.vip/?url="},
+{"name": "主解13","url":"https://play.fuqizhishi.com/ggtv/API.php?appkey=QQ172598364&url="},
 
 
 
@@ -311,6 +317,81 @@
       "bfhouzhui": "空",
       "bfjiexi": "空" },
    
+ {"网站名字": "追剧达人",
+"网站地址": "http://vipmv.tv/",
+"访问请求ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
+"访问请求cookie": "空",
+"访问请求referer": "空",
+"播放请求头": "User-Agent$123",
+"图片请求头": "空",
+"网页编码": "utf-8",
+ 
+//0：不禁用，1：禁用
+"禁用搜索": "0",
+ 
+//0：不启用，1：启用
+"启用js加载源码":"0",
+"js加载源码时间":"5",
+ 
+"嗅探词": "m3u8?#.m3u8#.mp4#.flv#.mp3#.m4a",
+"过滤词": "51.la#cnzz.com#baidu.com#bilibili.com",
+ 
+//0：记录，1：不记录
+"是否记录历史": "0",
+ 
+//0：否，1：是
+"直接播放": "0",
+"列表显示": "0",
+"横图显示": "0",
+"列表起始页": "1",
+"列表分类": "电视剧$/vodshow/id/2/page/#电影$/vodshow/id/1/page/#综艺$/vodshow/id/3/page/#动漫$/vodshow/id/4/page/动作片$/vodshow/id/6/page/#喜剧片$/vodshow/id/7/page/#爱情片$/vodshow/id/8/page/#科幻片$/vodshow/id/9/page/#恐怖片$/vodshow/id/10/page/#剧情片$/vodshow/id/11/page/#战争片$/vodshow/id/12/page/#国产剧$/vodshow/id/13/page/#港台剧$/vodshow/id/14/page/#日韩剧$/vodshow/id/15/page/#欧美剧$/vodshow/id/16/page/",
+"列表后缀": ".html",
+"列表二次截取": "class=\"module-items$$id=\"page\">",
+"列表截取数组": "<a$$</a>",
+"列表图片前缀": "空",
+"列表图片": "original=\"$$\"",
+"列表标题": "title=\"$$\"",
+"列表副标题": "class=\"module-item-cover\">$$</div>",
+"列表链接": "href=\"$$\"",
+"列表链接前缀": "空",
+"列表链接后缀": "空",
+ 
+//0：get方式，1：post方式，注意：如果用post方式，【搜索模式】要填：1
+"搜索请求方式": "0",
+"搜索模式": "0",
+"搜索前": "/index.php/ajax/suggest?mid=1&wd=",
+"搜索后": "&limit=150",
+"搜索连接后缀": "/vod/",
+"搜索二次截取": "空",
+"搜索截取数组": "前$$后",
+"搜索图片前缀": "空",
+"搜索图片": "original=\"$$\"",
+"搜索标题": "title=\"$$\"",
+"搜索副标题": "class=\"pic-text text-right\">$$</span>",
+"搜索链接": "href=\"$$\"",
+"搜索链接前缀": "空",
+"搜索链接后缀": "空",
+ 
+//0：不启用，1：启用
+"启用线路名": "1",
+"线路名二次截取": "空",
+"线路名截取数组": "data-dropdown-value=$$</div>",
+"线路名标题": "<span>$$</span>",
+ 
+"播放页状态": "更新：</span>$$</div>",
+"播放页导演": "导演：</span>$$</div>",
+"播放页演员": "主演：</span>$$</div>",
+"播放页剧情": "style=\"line-height: 20px;\">$$</div>",
+ 
+"播放页二次截取": "空",
+"播放页截取数组": "class=\"module-play-list-content$$</div>",
+"播放剧集二次截取": "空",
+"播放剧集截取数组": "<a$$/a>",
+"播放剧集标题": "<span>$$</span>",
+"播放剧集链接": "href=\"$$\"",
+"播放剧集链接前缀": "空",
+"播放剧集链接后缀": "空"},
+ 
 {
   "name": "子子影视",
   "url": "https://www.ziziys.com",
@@ -1036,55 +1117,7 @@
 "bfqianzhui": "空",
 "bfhouzhui": "空"},
  
- {"name": "黄瓜TV",
-"url": "https://kkg53.com:33666/",
-//访问请求头
-"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
-//访问请求cookie
-"cookie":"",
-//播放请求头
-"User": "User-Agent$123",
-//0：不添加，1：添加
-"添加手动点击图标": "0",
-//0：不启用，1：启用
-"启用js加载源码":"0",
-//根据网站响应速度自行调整加载需要的时间，时间太短可能导致获取数据失败。
-"js加载源码时间":"3",
-//填写播放地址寻找的地址标识词，中间用#号分割，不填写的话就使用全局的嗅探词
-"嗅探词": "m3u8?#.m3u8#mp4#.flv#.mp3#.m4a",
-//填写播放地址过滤规则，中间用#号分割，不填写的话就使用全局的过滤词
-"过滤词": "?url=#.css#51.la#cnzz.com#baidu.com",
-//0：记录，1：不记录
-"是否记录历史": "0",
-//直接播放截取的播放页链接网址，0表示：否，1表示：是
-"直接播放": "1",
-//分类页是否使用列表方式显示，0表示：否，1表示：是
-"列表显示": "0",
-//列表图片是否横图显示，0表示：否，1表示：是
-"横图显示": "0",
-//可以自定义列表翻页起始页的页数
-"qishiye": "1",
-//如果分类类型填空，例如：电视剧$空，则直接取url字段网址的源码。
-"fenlei": "日韩无🐎$/home/vodlist/38/1316-#欧美无🐎$/home/vodlist/38/1317-#中文字幕$/home/vodlist/38/1318-#日韩有🐎$/home/vodlist/38/1319-#国产自📸$/home/vodlist/38/1320-#国产偷🚺拍$/home/vodlist/38/1321-#卡通动漫$/home/vodlist/38/1322-#三级剧情$/home/vodlist/38/1323-",
-"houzhui": ".html",
-"shifouercijiequ": "0",
-"jiequqian": "空",
-"jiequhou": "空",
-"jiequshuzuqian": "<a",
-"jiequshuzuhou": "<i>",
  
-//如果图片前字段填写完整网络图片地址的话，列表页就自动使用这个网络图片作为列表的图片。
-"tupianqian": "original=\"",
-"tupianhou": "\"",
-"tupianqianzhui": "空",
-"biaotiqian": "title=\"",
-"biaotihou": "\"",
-"fubiaotiqian": "<i>",
-"fubiaotihou": "</i>",
-"lianjieqian": "href=\"",
-"lianjiehou": "\"",
-"ljqianzhui": "空",
-"ljhouzhui": "空"},
  
  {"name": "香蕉超清资源",
 "url": "https://avss.vip/",
@@ -1293,55 +1326,7 @@
  
  
  
- {"name": "杏欲轮回",
-"url": "https://www.singyulh.cc",
-//访问请求头
-"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
-//访问请求cookie
-"cookie":"",
-//播放请求头
-"User": "User-Agent$123",
-//0：不添加，1：添加
-"添加手动点击图标": "0",
-//0：不启用，1：启用
-"启用js加载源码":"0",
-//根据网站响应速度自行调整加载需要的时间，时间太短可能导致获取数据失败。
-"js加载源码时间":"3",
-//填写播放地址寻找的地址标识词，中间用#号分割，不填写的话就使用全局的嗅探词
-"嗅探词": "m3u8?#.m3u8#mp4#.flv#.mp3#.m4a",
-//填写播放地址过滤规则，中间用#号分割，不填写的话就使用全局的过滤词
-"过滤词": "?url=#.css#51.la#cnzz.com#baidu.com",
-//0：记录，1：不记录
-"是否记录历史": "0",
-//直接播放截取的播放页链接网址，0表示：否，1表示：是
-"直接播放": "1",
-//分类页是否使用列表方式显示，0表示：否，1表示：是
-"列表显示": "0",
-//列表图片是否横图显示，0表示：否，1表示：是
-"横图显示": "0",
-//可以自定义列表翻页起始页的页数
-"qishiye": "1",
-//如果分类类型填空，例如：电视剧$空，则直接取url字段网址的源码。
-"fenlei": "国产视频$/index.php/vodtype/1/page/#国产传媒$/index.php/vodtype/160/page/#中文字幕$/index.php/vodtype/9/page/#日本视频$/index.php/vodtype/2/page/#欧美视频$/index.php/vodtype/5/page/",
-"houzhui": ".html",
-"shifouercijiequ": "0",
-"jiequqian": "空",
-"jiequhou": "空",
-"jiequshuzuqian": "class=\"item-box",
-"jiequshuzuhou": "</section>",
  
-//如果图片前字段填写完整网络图片地址的话，列表页就自动使用这个网络图片作为列表的图片。
-"tupianqian": "img src=\"",
-"tupianhou": "\"",
-"tupianqianzhui": "空",
-"biaotiqian": "title=\"",
-"biaotihou": "\"",
-"fubiaotiqian": "",
-"fubiaotihou": "",
-"lianjieqian": "href=\"",
-"lianjiehou": "\"",
-"ljqianzhui": "空",
-"ljhouzhui": "空"},
  
  
  
