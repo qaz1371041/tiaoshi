@@ -95,23 +95,16 @@
 
 //主解析是JSON直链格式的解析
 "zhujiexi":[
- {"name":"江湖解析","url":"http://211.99.99.236:4567/jhjson/ceshi.php?url="}, 
- {"name":"8","url":"https://k.json.icu/home/api?type=ys&uid=4274082&key=ajlrtuvwIJNOPQSX03&url="},
- {"name": "2","url":"http://api.ckflv.cn/?url="},
- {"name": "懒懒2","url":"http://lanlan.ckflv.cn/?url="},
-{"name": "懒懒1","url": "http://123.57.56.94:9931/lanlan/?url="},
+ {"name":"解析1","url":"https://humaosp.com/json.php?url="},
+{"name":"解析2","url":"http://jx.vipmv.co/json.php?token=123457&url="},
+{"name":"解析3","url":"http://rxjx.kuanjv.com/allm3u8.php?url="},
+{"name": "主解4","url":"https://play.fuqizhishi.com/ggtv/API.php?appkey=QQ172598364&url="},
+{"name":"主解5","url":"https://k.json.icu/home/api?type=ys&uid=4274082&key=ajlrtuvwIJNOPQSX03&url="},
+{"name": "主解6","url":"http://api.ckflv.cn/?url="},
+{"name": "懒懒2","type":1,"url":"http://lanlan.ckflv.cn/?url="},
+{"name": "懒懒1","type": 1,"url": "http://123.57.56.94:9931/lanlan/?url="},
 {"name": "绿叶", "url": "https://hc.izny.cn/json.php?url="},
-
-{"name":"解析12","url":"https://humaosp.com/json.php?url="},
-{"name":"解析24","url":"http://jx.vipmv.co/json.php?token=123457&url="},
-{"name":"解析26","url":"http://rxjx.kuanjv.com/allm3u8.php?url="},
-
-{"name":"解析6","url":"http://api.vip123kan.vip/?url="},
-{"name": "主解13","url":"https://play.fuqizhishi.com/ggtv/API.php?appkey=QQ172598364&url="},
-
-
-
-{"name":"HF影视","url":"http://119.91.206.244:9999/jx/hfys.php?url="},
+{"name":"解析7","url":"http://api.vip123kan.vip/?url="},
 
 
 
