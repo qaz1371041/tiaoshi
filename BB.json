@@ -1340,9 +1340,8 @@
 "bfhouzhui": "空"},
  
  
- 
- {"name": "香蕉超清资源",
-"url": "https://avss.vip/",
+ {"name": "爱看影院",
+"url": "https://www.readav.com",
 //访问请求头
 "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
 //访问请求cookie
@@ -1362,7 +1361,7 @@
 //0：记录，1：不记录
 "是否记录历史": "0",
 //直接播放截取的播放页链接网址，0表示：否，1表示：是
-"直接播放": "1",
+"直接播放": "0",
 //分类页是否使用列表方式显示，0表示：否，1表示：是
 "列表显示": "0",
 //列表图片是否横图显示，0表示：否，1表示：是
@@ -1370,65 +1369,144 @@
 //可以自定义列表翻页起始页的页数
 "qishiye": "1",
 //如果分类类型填空，例如：电视剧$空，则直接取url字段网址的源码。
-"fenlei": "超清传媒$/cq/2k-chaoqingchuanmei-#自拍偷拍$/cq/2k-zipaitoupai-#亚洲艾Ｖ$/cq/2k-yazhou-#3D动漫$/cq/2k-3Ddongman-#欧美艾Ｖ$/cq/2k-oumei-#鸾论人7$/cq/2k-luanlunrenqi-#四娃制伏$/cq/2k-siwazhifu-#直播录播$/cq/2k-zhibolubo-#SM另类$/cq/2k-SMlinglei-#超清伦理$/cq/2k-chaoqingsanji-",
+"fenlei": "国产视频$/index.php/vod/type/id/1/page/#日本视频$/index.php/vod/type/id/2/page/#VR视频$/index.php/vod/type/id/3/page/#韩国视频$/index.php/vod/type/id/4/page/#欧美视频$/index.php/vod/type/id/5/page/#动画视频$/index.php/vod/type/id/6/page/6#中文字幕$/index.php/vod/type/id/9/page/#国产精品$/index.php/vod/show/id/10/page/#精品三级$/index.php/vod/show/id/11/page/#主播大秀$/index.php/vod/show/id/12/page/#抖阴视频$/index.php/vod/show/id/13/page/#国模私拍$/index.php/vod/show/id/14/page/#颜射瞬间$/index.php/vod/show/id/15/page/#女神学生$/index.php/vod/show/id/16/page/#美熟少妇$/index.php/vod/show/id/17/page/#娇妻素人$/index.php/vod/show/id/18/page/#空姐模特$/index.php/vod/show/id/19/page/#国产乱伦$/index.php/vod/show/id/20/page/#骑兵有码$/index.php/vod/show/id/27/page/#步兵无码$/index.php/vod/show/id/28/page/#制服师生$/index.php/vod/show/id/50/page/#强奸乱伦$/index.php/vod/show/id/51/page/#人妻熟女$/index.php/vod/show/id/53/page/#三级剧情$/index.php/vod/show/id/55/page/#丝袜美腿$/index.php/vod/show/id/56/page/#亚洲情色$/index.php/vod/show/id/58/page/#VR有码$/index.php/vod/show/id/7/page/#VR无码$/index.php/vod/show/id/8/page/#韩国精品$/index.php/vod/show/id/42/page/#韩国制服主播$/index.php/vod/show/id/43/page/#韩国萝莉主播$/index.php/vod/show/id/44/page/#韩国大秀主播$/index.php/vod/show/id/45/page/#韩国自慰主播$/index.php/vod/show/id/46/page/#韩国唯美三级$/index.php/vod/show/id/47/page/#韩国明星学生$/index.php/vod/show/id/48/page/#无码中文$/index.php/vod/show/id/34/page/#强奸中文$/index.php/vod/show/id/35/page/#巨乳中文$/index.php/vod/show/id/36/page/#乱伦中文$/index.php/vod/show/id/37/page/#制服中文$/index.php/vod/show/id/38/page/#人妻中文$/index.php/vod/show/id/39/page/#调教中文$/index.php/vod/show/id/40/page/#出轨中文$/index.php/vod/show/id/41/page/#中文字幕$/index.php/vod/show/id/59/page/#卡通动漫$/index.php/vod/show/id/49/page/#欧美性爱$/index.php/vod/show/id/29/page/#欧美人兽$/index.php/vod/show/id30/page/#欧美人妖$/index.php/vod/show/id/31/page/#欧美男同$/index.php/vod/show/id/32/page/#欧美女同$/index.php/vod/show/id/33/page/",
 "houzhui": ".html",
 "shifouercijiequ": "0",
 "jiequqian": "空",
 "jiequhou": "空",
-"jiequshuzuqian": "class=\"item",
-"jiequshuzuhou": "</a>",
- 
-//如果图片前字段填写完整网络图片地址的话，列表页就自动使用这个网络图片作为列表的图片。
-"tupianqian": "data-original=\"",
-"tupianhou": "\"",
-"tupianqianzhui": "空",
-"biaotiqian": "title=\"",
-"biaotihou": "\"",
-"fubiaotiqian": "",
-"fubiaotihou": "",
-"lianjieqian": "href=\"/cq/k",
-"lianjiehou": ".html\"",
-"ljqianzhui": "https://avss.vip/cq/Kplay",
-"ljhouzhui": "-1-1.html"},
+"jiequshuzuqian": "class=\"stui-vodlist__item\"",
+"jiequshuzuhou": "</li>",
 
- {"name": "香蕉国产传媒",
-"url": "https://avss.vip/",
+//如果图片前字段填写完整网络图片地址的话，列表页就自动使用这个网络图片作为列表的图片。
+"tupianqian": "data-original=\"",
+"tupianhou": "\"",
+"tupianqianzhui": "空",
+"biaotiqian": "title=\"",
+"biaotihou": "\"",
+"fubiaotiqian": "",
+"fubiaotihou": "",
+"lianjieqian": "href=\"",
+"lianjiehou": "\"",
+"ljqianzhui": "空",
+"ljhouzhui": "空",
+
+//搜索部分
+//0：get方式，1：post方式，注意：如果用post方式，【ssmoshi】要填：1
+"搜索请求方式": "0",
+"ssmoshi": "0",
+"sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
+"sousuohou": "&limit=150",
+"sousuohouzhui": "/voddetail/",
+"jspic": "pic",
+"jsname": "name",
+"jsid": "id",
+"sousuoshifouercijiequ": "0",
+"ssjiequqian": "空",
+"ssjiequhou": "空",
+"ssjiequshuzuqian": "空",
+"ssjiequshuzuhou": "空",
+"sstupianqian": "空",
+"sstupianhou": "空",
+"sstupianqianzhui": "空",
+"ssbiaotiqian": "空",
+"ssbiaotihou": "空",
+"ssfubiaotiqian": "空",
+"ssfubiaotihou": "空",
+"sslianjieqian": "空",
+"sslianjiehou": "空",
+"ssljqianzhui": "空",
+"ssljhouzhui": "空",
+
+//线路名称显示部分，0不启用，1启用
+"是否启用播放线路名": "0",
+"线路名是否二次截取": "0",
+"线路名截取前": "空",
+"线路名截取后": "空",
+"线路名截取数组前": "空",
+"线路名截取数组后": "空",
+"线路名标题前": "空",
+"线路名标题后": "空",
+
+//状态，导演，演员，剧情的截取
+"zhuangtaiqian": "类型：</span>",
+"zhuangtaihou": "</p>",
+"daoyanqian": "导演：</span>",
+"daoyanhou": "</p>",
+"zhuyanqian": "主演：</span>",
+"zhuyanhou": "</p>",
+"juqingqian": "class=\"stui-content__detail fl-l\"",
+"juqinghou": "</a>",
+
+//播放集数截取部分
+"bfshifouercijiequ": "0",
+"bfjiequqian": "空",
+"bfjiequhou": "空",
+"bfjiequshuzuqian": "class=\"stui-content__playlist",
+"bfjiequshuzuhou": "</ul>",
+"bfyshifouercijiequ": "0",
+"bfyjiequqian": "空",
+"bfyjiequhou": "空",
+"bfyjiequshuzuqian": "<a",
+"bfyjiequshuzuhou": "/a>",
+"bfbiaotiqian": ">",
+"bfbiaotihou": "<",
+"bflianjieqian": "href=\"",
+"bflianjiehou": "\"",
+"bfqianzhui": "空",
+"bfhouzhui": "空"},
+ 
+
+ 
+ {"name": "小姨子的诱惑",  //永久域名：www.xxyizz.cc/xx
+"url": "https://xxyizz1.pw/",
+ 
 //访问请求头
 "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
+ 
 //访问请求cookie
 "cookie":"",
+ 
 //播放请求头
 "User": "User-Agent$123",
+ 
 //0：不添加，1：添加
 "添加手动点击图标": "0",
+ 
 //0：不启用，1：启用
 "启用js加载源码":"0",
+ 
 //根据网站响应速度自行调整加载需要的时间，时间太短可能导致获取数据失败。
 "js加载源码时间":"3",
+ 
 //填写播放地址寻找的地址标识词，中间用#号分割，不填写的话就使用全局的嗅探词
 "嗅探词": "m3u8?#.m3u8#mp4#.flv#.mp3#.m4a",
+ 
 //填写播放地址过滤规则，中间用#号分割，不填写的话就使用全局的过滤词
 "过滤词": "?url=#.css#51.la#cnzz.com#baidu.com",
+ 
 //0：记录，1：不记录
 "是否记录历史": "0",
+ 
 //直接播放截取的播放页链接网址，0表示：否，1表示：是
-"直接播放": "1",
+"直接播放": "0",
+ 
 //分类页是否使用列表方式显示，0表示：否，1表示：是
 "列表显示": "0",
+ 
 //列表图片是否横图显示，0表示：否，1表示：是
 "横图显示": "0",
+ 
 //可以自定义列表翻页起始页的页数
 "qishiye": "1",
+ 
 //如果分类类型填空，例如：电视剧$空，则直接取url字段网址的源码。
-"fenlei": "麻豆原创$/gccm/91-madouyuanchuang-#91制片厂$/gccm/91-91zhipianchang-#糖心Vlgo$/gccm/91-tangxinVlgo-#天美传媒$/gccm/91-tianmeichuanmei-#蜜桃传媒$/gccm/91-mitaochuanmei-#皇家华人$/gccm/91-huangjiahuaren-#星空传媒$/gccm/91-xingkongchuanmei-#精东影业$/gccm/91-jingdongyingye-#乐播传媒$/gccm/91-lebochuanmei-#乌鸦传媒$/gccm/91-wuyachuanmei-#兔子先生$/gccm/91-tuzixiansheng-#杏吧原创$/gccm/91-xingbayuanchuang-#MINI传媒$/gccm/91-minichuanmei-#大象传媒$/gccm/91-daxiangchuanmei-#开心鬼传媒$/gccm/91-kaixinguichuanmei-#PsychoPorn-$/gccm/91-PsychoPorn-",
- 
- 
+"fenlei": "视频一区$/index.php/vod/type/id/20/page/#视频二区$/index.php/vod/type/id/21/page/#视频三区$/index.php/vod/type/id/22/page/#视频四区$/index.php/vod/type/id/23/page/#视频五区$/index.php/vod/type/id/24/page/",
 "houzhui": ".html",
 "shifouercijiequ": "0",
 "jiequqian": "空",
 "jiequhou": "空",
-"jiequshuzuqian": "class=\"item",
-"jiequshuzuhou": "</a>",
+"jiequshuzuqian": "class=\"content-item",
+"jiequshuzuhou": "</li>",
  
 //如果图片前字段填写完整网络图片地址的话，列表页就自动使用这个网络图片作为列表的图片。
 "tupianqian": "data-original=\"",
@@ -1438,115 +1516,75 @@
 "biaotihou": "\"",
 "fubiaotiqian": "",
 "fubiaotihou": "",
-"lianjieqian": "href=\"/gccm/p",
-"lianjiehou": ".html\"",
-"ljqianzhui": "https://avss.vip/gccm/pplay",
-"ljhouzhui": "-1-1.html"},
+"lianjieqian": "href=\"",
+"lianjiehou": "\"",
+"ljqianzhui": "空",
+"ljhouzhui": "空",
  
- {"name": "香蕉久久热视频",
-"url": "https://avss.vip/",
-//访问请求头
-"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
-//访问请求cookie
-"cookie":"",
-//播放请求头
-"User": "User-Agent$123",
-//0：不添加，1：添加
-"添加手动点击图标": "0",
-//0：不启用，1：启用
-"启用js加载源码":"0",
-//根据网站响应速度自行调整加载需要的时间，时间太短可能导致获取数据失败。
-"js加载源码时间":"3",
-//填写播放地址寻找的地址标识词，中间用#号分割，不填写的话就使用全局的嗅探词
-"嗅探词": "m3u8?#.m3u8#mp4#.flv#.mp3#.m4a",
-//填写播放地址过滤规则，中间用#号分割，不填写的话就使用全局的过滤词
-"过滤词": "?url=#.css#51.la#cnzz.com#baidu.com",
-//0：记录，1：不记录
-"是否记录历史": "0",
-//直接播放截取的播放页链接网址，0表示：否，1表示：是
-"直接播放": "1",
-//分类页是否使用列表方式显示，0表示：否，1表示：是
-"列表显示": "0",
-//列表图片是否横图显示，0表示：否，1表示：是
-"横图显示": "0",
-//可以自定义列表翻页起始页的页数
-"qishiye": "1",
-//如果分类类型填空，例如：电视剧$空，则直接取url字段网址的源码。
-"fenlei": "国产📸$/99re/kdw-guochanzipai-#欧美$/99re/kdw-oumei-#中文字幕$/99re/kdw-zhongwenzimu-#李宗瑞全集$/99re/kdw-lizongruiquanji-#日本无🐎$/99re/kdw-ribenwuma-#加勒比$/99re/kdw-jialebi-#日本有🐎$/99re/kdw-ribenyouma-#一本道$/99re/kdw-yibendao-#高清$/99re/kdw-gaoqing-#潮吹$/99re/kdw-chaochui-#会员认证作品$/99re/kdw-jiujiurehuiyuanrenzhengzuopin-#制伏丝挖$/99re/kdw-zhifusiwa-#口暴素颜$/99re/kdw-koubaoyanshe-#缸交$/99re/kdw-gangjiao-#东京热$/99re/kdw-dongjingre-#小格式综合$/99re/kdw-xiaogeshizonghe-#女主播系列$/99re/kdw-hanguonvzhuboxilie-#动漫$/99re/kdw-chengrendongman-#SM$/99re/kdw-SMxingnue-#韩国综合$/99re/kdw-hanguozonghe-",
+//搜索部分
+//0：get方式，1：post方式，注意：如果用post方式，【ssmoshi】要填：1
+"搜索请求方式": "0",
+"ssmoshi": "0",
+"sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
+"sousuohou": "&limit=150",
+"sousuohouzhui": "/voddetail/",
+"jspic": "pic",
+"jsname": "name",
+"jsid": "id",
+"sousuoshifouercijiequ": "0",
+"ssjiequqian": "空",
+"ssjiequhou": "空",
+"ssjiequshuzuqian": "空",
+"ssjiequshuzuhou": "空",
+"sstupianqian": "空",
+"sstupianhou": "空",
+"sstupianqianzhui": "空",
+"ssbiaotiqian": "空",
+"ssbiaotihou": "空",
+"ssfubiaotiqian": "空",
+"ssfubiaotihou": "空",
+"sslianjieqian": "空",
+"sslianjiehou": "空",
+"ssljqianzhui": "空",
+"ssljhouzhui": "空",
  
+//线路名称显示部分，0不启用，1启用
+"是否启用播放线路名": "0",
+"线路名是否二次截取": "0",
+"线路名截取前": "空",
+"线路名截取后": "空",
+"线路名截取数组前": "空",
+"线路名截取数组后": "空",
+"线路名标题前": "空",
+"线路名标题后": "空",
  
-"houzhui": ".html",
-"shifouercijiequ": "0",
-"jiequqian": "空",
-"jiequhou": "空",
-"jiequshuzuqian": "class=\"item",
-"jiequshuzuhou": "</a>",
+//状态，导演，演员，剧情的截取
+"zhuangtaiqian": "<time class=\"time\">",
+"zhuangtaihou": "</time>",
+"daoyanqian": "导演：</span>",
+"daoyanhou": "</p>",
+"zhuyanqian": "主演：</span>",
+"zhuyanhou": "</p>",
+"juqingqian": "<span class=\"data\"",
+"juqinghou": "</span>",
  
-//如果图片前字段填写完整网络图片地址的话，列表页就自动使用这个网络图片作为列表的图片。
-"tupianqian": "data-original=\"",
-"tupianhou": "\"",
-"tupianqianzhui": "空",
-"biaotiqian": "title=\"",
-"biaotihou": "\"",
-"fubiaotiqian": "",
-"fubiaotihou": "",
-"lianjieqian": "href=\"/99re/d",
-"lianjiehou": ".html\"",
-"ljqianzhui": "https://avss.vip/99re/dplay",
-"ljhouzhui": "-1-1.html"},
- 
- {"name": "香蕉中文资源",
-"url": "https://avss.vip/",
-//访问请求头
-"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
-//访问请求cookie
-"cookie":"",
-//播放请求头
-"User": "User-Agent$123",
-//0：不添加，1：添加
-"添加手动点击图标": "0",
-//0：不启用，1：启用
-"启用js加载源码":"0",
-//根据网站响应速度自行调整加载需要的时间，时间太短可能导致获取数据失败。
-"js加载源码时间":"3",
-//填写播放地址寻找的地址标识词，中间用#号分割，不填写的话就使用全局的嗅探词
-"嗅探词": "m3u8?#.m3u8#mp4#.flv#.mp3#.m4a",
-//填写播放地址过滤规则，中间用#号分割，不填写的话就使用全局的过滤词
-"过滤词": "?url=#.css#51.la#cnzz.com#baidu.com",
-//0：记录，1：不记录
-"是否记录历史": "0",
-//直接播放截取的播放页链接网址，0表示：否，1表示：是
-"直接播放": "1",
-//分类页是否使用列表方式显示，0表示：否，1表示：是
-"列表显示": "0",
-//列表图片是否横图显示，0表示：否，1表示：是
-"横图显示": "0",
-//可以自定义列表翻页起始页的页数
-"qishiye": "1",
-//如果分类类型填空，例如：电视剧$空，则直接取url字段网址的源码。
-"fenlei": "中文无🐎$/xjzy/cn-zhongwenwuma-#中文综合$/xjzy/cn-zhongwenzonghe-#中文近亲$/xjzy/cn-zhongwenjingqing-#中文护士$/xjzy/cn-zhongwenhushi-#中文师生$/xjzy/cn-zhongwenshisheng-#中文强歼$/xjzy/cn-zhongwenqiangjian-#国产📸$/xjzy/cn-guochanzipai-#美女主播$/xjzy/cn-meinvzhubo-#伦理$/xjzy/cn-sanjizonghe-",
- 
-"houzhui": ".html",
-"shifouercijiequ": "0",
-"jiequqian": "空",
-"jiequhou": "空",
-"jiequshuzuqian": "class=\"item",
-"jiequshuzuhou": "</a>",
- 
-//如果图片前字段填写完整网络图片地址的话，列表页就自动使用这个网络图片作为列表的图片。
-"tupianqian": "data-original=\"",
-"tupianhou": "\"",
-"tupianqianzhui": "空",
-"biaotiqian": "title=\"",
-"biaotihou": "\"",
-"fubiaotiqian": "",
-"fubiaotihou": "",
-"lianjieqian": "href=\"/xjzy/c",
-"lianjiehou": ".html\"",
-"ljqianzhui": "https://avss.vip/xjzy/xplay",
-"ljhouzhui": "-1-1.html"},
- 
- 
+//播放集数截取部分
+"bfshifouercijiequ": "0",
+"bfjiequqian": "空",
+"bfjiequhou": "空",
+"bfjiequshuzuqian": "class=\"playlistlink-4 list-15256 clearfix",
+"bfjiequshuzuhou": "</tbody>",
+"bfyshifouercijiequ": "0",
+"bfyjiequqian": "空",
+"bfyjiequhou": "空",
+"bfyjiequshuzuqian": "<a",
+"bfyjiequshuzuhou": "/a>",
+"bfbiaotiqian": ">",
+"bfbiaotihou": "<",
+"bflianjieqian": "href=\"",
+"bflianjiehou": "\"",
+"bfqianzhui": "空",
+"bfhouzhui": "空"},
  
  
  
