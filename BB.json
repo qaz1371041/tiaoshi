@@ -2426,7 +2426,80 @@
   "bflianjieqian": "href=\"",
   "bflianjiehou": "\""
 },
-
+{"网站名称": "喵影视",
+"网站地址": "http://www.miaoys.cc/",
+"访问请求ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
+"访问请请求cookie": "空",
+"访问请求referer": "空",
+"播放请求头": "User-Agent$123",
+"图片请求头": "空",
+"网页编码": "utf-8",
+ 
+//0：不禁止使用，1：禁止使用
+"禁止使用搜索": "0",
+ 
+//0：不启动，1：启动
+"启用js加载源码":"0",
+"js加载源代码时间":"5",
+ 
+"嗅探词": "m3u8?#.m3u8#.mp4#.flv#.mp3#.m4a",
+"过滤词": "51.la#cnzz.com#baidu.com#bilibili.com",
+ 
+//0：记录，1：不记录
+"是否记录历史": "0",
+ 
+//0：否，1：是
+"直播放映": "0",
+"列表显示": "0",
+"横图显示": "0",
+"列表起始页": "1",
+"列表分类": "电视剧$/index.php/vod/show/id/2/page/#电影$/index.php/vod/show/id/1/page/#综艺$/index.php/vod /show/id/3/page/#动画$/index.php/vod/show/id/4/page/",
+"列表后缩": ".html",
+"列表二次截图": "class=\"module-items$$id=\"page",
+"列表截图取数组": "<a$$</a>",
+"列表图片前缺": "空",
+"列表图片": "data-original=\"$$\"",
+"列表标题": "alt=\"$$\"",
+"列表副标题": "class=\"pic-text text-right\">$$</span>",
+"列表链接": "href=\"$$\"",
+"列表链接前缘": "空",
+"列表链接后缩": "空",
+ 
+//0：get方法，1：post方法，注意：如果使用post方法，【搜索模型】要填：1
+"搜索请求方式": "0",
+"搜索模型": "0",
+"搜索前": "/index.php/ajax/suggest?mid=1&wd=",
+"搜索后": "&limit=150",
+"搜索连接后缩": "/index.php/vod/detail/id/",
+"搜索二次截图": "空",
+"搜索截图取数组": "前$$后",
+"搜索图片前缺": "空",
+"搜索图片": "data-original=\"$$\"",
+"搜索标题": "alt=\"$$\"",
+"搜索副标题": "class=\"pic-text text-right\">$$</span>",
+"搜索链接": "href=\"$$\"",
+"搜索链接接入前": "空",
+"搜索链接后漏": "空",
+ 
+//0：不启动，1：启动
+"启动线路名称": "1",
+"线路名二次截图": "空",
+"线路名截取数组": "data-dropdown-value=$$</div>",
+"线路名称标题": "<span>$$</span>",
+ 
+"播放页面状态": "class=\"module-info-item-title\">更新$$</div>",
+"播放页导演": "导演：</span>$$</div>",
+"播放页演员": "主演：</span>$$</div>",
+"播放页剧情": " class=\"module-info-introduction-content\">$$</div>",
+ 
+"播放页二次截图": "空",
+"播放页面截取数组": "class=\"module-play-list-content$$</div>",
+"播放剧集二次截图": "空",
+"播放剧集截图取数组": "<a$$/a>",
+"播放剧集标题": "<span>$$</span>",
+"播放剧集链接": "href=\"$$\"",
+"播放剧集链接接入前": "空",
+"播放剧集链接后扣": "空"},
 
 
 {"name": "极品影视",
