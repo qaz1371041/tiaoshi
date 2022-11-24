@@ -64,37 +64,30 @@
 //填写采集接口
 "caijizhan": [
 {"name":"七七采集","url":"http://api.kunyu77.com/api.php"},
-//{"name":"天天影视","url":"http://tttv.cf/api.php"},
-{"name":"多多资源","url":"https://www.ddzyz1.com/api.php"},
- 
-//{"name":"官方资源","url":"https://www.zycaiji.net:7788/api.php"},
 {"name":"天堂资源","url":"http://vipmv.cc/api.php"}, 
-{"name":"小猫咪","url":"http://zy.xiaomaomi.cc/api.php"}, 
+{"name":"追剧达人","url":"http://zjdr.tv/api.php/"},
 {"name":"千橙资源","url":"http://124.223.10.96:8090/api.php"}, 
 {"name":"醉璃笙TV","url":"http://web.xhdj.vip/api.php"}, 
- 
+ {"name":"最大资源","url":"http://zuidazy.me/api.php/"},
+{"name":"非凡资源","url":"http://cj.ffzyapi.com/api.php/"},
 {"name":"星海资源","url":"https://www.xhzy01.com/api.php"},
-{"name":"冠军资源","url":"https://www.cmpzy.com/api.php"},
 {"name":"U酷资源","url":"https://api.ukuapi.com/api.php"},
 {"name":"1080资源库","url":"https://api.1080zyku.com/inc/api_mac10.php"},
 {"name":"TOM资源","url":"https://api.tomcaiji.com/api.php"},
-{"name":"168影院","url":"http://168.qxzm.cc/resources//api.php/chengcheng/vod/"},
-{"name":"独优影视","url":"http://121.205.88.71:218/api.php/Chengcheng/vod/"},
-{"name":"新369TV","url":"http://106.13.10.156:2023//api.php/Chengcheng/vod/"},
 {"name":"云玺TV","url":"http://43.138.193.213:8181//api.php/Miguo/vod/"},
 {"name":"柚子TV","url":"http://tvht.lanrentk.cc/api.php/iptv/vod/"},
 {"name":"天空TV","url":"http://tv.tkys.tv/api.php/iptv/vod/"},
-{"name":"开乐TV","url":"http://server.sztuotai.com//api.php/Chengcheng/vod/"},
 {"name":"三级2号〔Z〕","url":"http://phoebe.cf/api.php/iptv/vod/"},
 {"name":"诺讯资源","url":"http://caiji.nxflv.com/api.php"}, 
 {"name":"忆梦","url":"http://anltv.cn/api.php"},
-{"name":"酷点","url":"http://kudianzy.com/api.php"},
+{"name":"酷点","url":"http://kudianzy.com/api.php"}],
 
-{"name":"每天看看采集","url":"http://47.113.126.237:1234/api.php"}
-],
+
+
 
 //主解析是JSON直链格式的解析
 "zhujiexi":[
+ {"name": "懒懒2","type":1,"url":"http://lanlan.ckflv.cn/?url="},
  {"name":"解析1","url":"https://humaosp.com/json.php?url="},
 {"name":"解析2","url":"http://jx.vipmv.co/json.php?token=123457&url="},
 {"name":"解析3","url":"http://rxjx.kuanjv.com/allm3u8.php?url="},
@@ -105,7 +98,7 @@
 {"name": "懒懒1","type": 1,"url": "http://123.57.56.94:9931/lanlan/?url="},
 {"name": "绿叶", "url": "https://hc.izny.cn/json.php?url="},
 {"name":"解析7","url":"http://api.vip123kan.vip/?url="},
-
+{"name":"解析26","url":"http://rxjx.kuanjv.com/allm3u8.php?url="},
 
 
 
