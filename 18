@@ -549,393 +549,81 @@
 "列表链接前缀": "空",
 "列表链接后缀": "空"},
 
-
-{"name": "猛男仓库",
-"url": "https://mengnanck.buzz/",
-
-//访问请求头
-"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
-
-//访问请求cookie
-"cookie":"",
-
-//播放请求头
-"User": "User-Agent$123",
-
-//0：不添加，1：添加
-"添加手动点击图标": "0",
-
-//0：不启用，1：启用
-"启用js加载源码":"0",
-
-//根据网站响应速度自行调整加载需要的时间，时间太短可能导致获取数据失败。
-"js加载源码时间":"3",
-
-//填写播放地址寻找的地址标识词，中间用#号分割，不填写的话就使用全局的嗅探词
-"嗅探词": "m3u8?#.m3u8#mp4#.flv#.mp3#.m4a",
-
-//填写播放地址过滤规则，中间用#号分割，不填写的话就使用全局的过滤词
-"过滤词": "?url=#.css#51.la#cnzz.com#baidu.com",
-
-//0：记录，1：不记录
-"是否记录历史": "0",
-
-//直接播放截取的播放页链接网址，0表示：否，1表示：是
-"直接播放": "0",
-
-//分类页是否使用列表方式显示，0表示：否，1表示：是
-"列表显示": "0",
-
-//列表图片是否横图显示，0表示：否，1表示：是
-"横图显示": "0",
-
-//可以自定义列表翻页起始页的页数
-"qishiye": "1",
-
-//如果分类类型填空，例如：电视剧$空，则直接取url字段网址的源码。
-"fenlei": "国产青涩$/list/204/page/#日本无马$/list/205/page/#日本有马$/list/206/page/#中文字幕$/list/207/page/#欧美极品$/list/208/page/#动漫精品$/list/209/page/#墙捡栾论$/list/210/page/#便泰另类$/list/211/page/#国产主播$/list/212/page/#剧如美儒$/list/213/page/#之福有货$/list/214/page/#叔女人7$/list/215/page/#伦理$/list/216/page/#自牌偷牌$/list/217/page/#AI换脸$/list/218/page/#海外明星$/list/219/page/#少女萝莉$/list/221/page/",
-"houzhui": ".html",
-"shifouercijiequ": "0",
-"jiequqian": "空",
-"jiequhou": "空",
-"jiequshuzuqian": "class=\"thumb",
-"jiequshuzuhou": "<span",
-
-//如果图片前字段填写完整网络图片地址的话，列表页就自动使用这个网络图片作为列表的图片。
-"tupianqian": "src=\"",
-"tupianhou": "\"",
-"tupianqianzhui": "空",
-"biaotiqian": "title=\"",
-"biaotihou": "\"",
-"fubiaotiqian": "",
-"fubiaotihou": "",
-"lianjieqian": "href=\"",
-"lianjiehou": "\"",
-"ljqianzhui": "空",
-"ljhouzhui": "空",
-
-//搜索部分
-//0：get方式，1：post方式，注意：如果用post方式，【ssmoshi】要填：1
-"搜索请求方式": "0",
-"ssmoshi": "0",
-"sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
-"sousuohou": "&limit=150",
-"sousuohouzhui": "/voddetail/",
-"jspic": "pic",
-"jsname": "name",
-"jsid": "id",
-"sousuoshifouercijiequ": "0",
-"ssjiequqian": "空",
-"ssjiequhou": "空",
-"ssjiequshuzuqian": "空",
-"ssjiequshuzuhou": "空",
-"sstupianqian": "空",
-"sstupianhou": "空",
-"sstupianqianzhui": "空",
-"ssbiaotiqian": "空",
-"ssbiaotihou": "空",
-"ssfubiaotiqian": "空",
-"ssfubiaotihou": "空",
-"sslianjieqian": "空",
-"sslianjiehou": "空",
-"ssljqianzhui": "空",
-"ssljhouzhui": "空",
-
-//线路名称显示部分，0不启用，1启用
-"是否启用播放线路名": "0",
-"线路名是否二次截取": "0",
-"线路名截取前": "空",
-"线路名截取后": "空",
-"线路名截取数组前": "空",
-"线路名截取数组后": "空",
-"线路名标题前": "空",
-"线路名标题后": "空",
-
-//状态，导演，演员，剧情的截取
-"zhuangtaiqian": "class=\"otherbox\">",
-"zhuangtaihou": "</p>",
-"daoyanqian": "导演：</span>",
-"daoyanhou": "</p>",
-"zhuyanqian": "主演：</span>",
-"zhuyanhou": "</p>",
-"juqingqian": "<span class=\"data\"",
-"juqinghou": "</span>",
-
-//播放集数截取部分
-"bfshifouercijiequ": "0",
-"bfjiequqian": "空",
-"bfjiequhou": "空",
-"bfjiequshuzuqian": "class=\"group-box",
-"bfjiequshuzuhou": "</div>",
-"bfyshifouercijiequ": "0",
-"bfyjiequqian": "空",
-"bfyjiequhou": "空",
-"bfyjiequshuzuqian": "<a",
-"bfyjiequshuzuhou": "/a>",
-"bfbiaotiqian": ">",
-"bfbiaotihou": "<",
-"bflianjieqian": "href=\"",
-"bflianjiehou": "\"",
-"bfqianzhui": "空",
-"bfhouzhui": "空"},
-
-{"name": "猛男仓库",
-"url": "https://mengnanck.buzz/",
+{"网站名字": "猫爪影院",
+"网站地址": "https://mzav7.xyz/",//牢记回家地址:mzav.xyz
+"访问请求ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
+"访问请求cookie": "空",
+"访问请求referer": "空",
+"播放请求头": "User-Agent$123",
+"图片请求头": "空",
+"网页编码": "utf-8",
  
-//访问请求头
-"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
- 
-//访问请求cookie
-"cookie":"",
- 
-//播放请求头
-"User": "User-Agent$123",
- 
-//0：不添加，1：添加
-"添加手动点击图标": "0",
+//0：不禁用，1：禁用
+"禁用搜索": "0",
  
 //0：不启用，1：启用
 "启用js加载源码":"0",
+"js加载源码时间":"5",
  
-//根据网站响应速度自行调整加载需要的时间，时间太短可能导致获取数据失败。
-"js加载源码时间":"3",
- 
-//填写播放地址寻找的地址标识词，中间用#号分割，不填写的话就使用全局的嗅探词
-"嗅探词": "m3u8?#.m3u8#mp4#.flv#.mp3#.m4a",
- 
-//填写播放地址过滤规则，中间用#号分割，不填写的话就使用全局的过滤词
-"过滤词": "?url=#.css#51.la#cnzz.com#baidu.com",
+"嗅探词": "m3u8?#.m3u8#.mp4#.flv#.mp3#.m4a",
+"过滤词": "51.la#cnzz.com#baidu.com#bilibili.com",
  
 //0：记录，1：不记录
 "是否记录历史": "0",
  
-//直接播放截取的播放页链接网址，0表示：否，1表示：是
+//0：否，1：是
 "直接播放": "0",
- 
-//分类页是否使用列表方式显示，0表示：否，1表示：是
 "列表显示": "0",
- 
-//列表图片是否横图显示，0表示：否，1表示：是
 "横图显示": "0",
+"列表起始页": "1",
+"列表分类": "国产$/x/guochan-#精品$/x/jingpin-#主播$/x/zhubo-#无码$/x/wuma-#有码$/x/youma-#中文$/x/zhongwen-#欧美$/x/oumei-#动漫$/x/dongman-#三级$/x/sanji-#网红系列$/x/whxl-#网曝系列$/x/wbxl-#多P系列$/x/duopi-#口爆颜射$/x/kbys-#童真萝莉$/x/tzll-#丝袜OL$/x/swol-#台湾色情$/x/twsq-#自拍偷拍$/x/tpzp-#日本片商$/x/rbps-#东南亚情色$/x/dlysq-#韩国自拍$/x/hgzp-#性感港姐$/x/xggj-#东南亚情色$/x/dlysq-#女同人妖$/x/ntry-#性感人妻$/x/xgrq-#强奸乱伦$/x/qjll-#水果派解说$/x/sgp-#麻豆传媒$/x/mdcm-#91制片厂$/x/91zp-#蜜桃传媒$/x/mtcm-#天美传媒$/x/tmcm-#京东影业$/x/jdyy-#星空传媒$/x/xkcm-#台湾SWAG/x/twswag-$#其他传媒$/x/qtcm-#葫芦影业$/x/hlyy-",
+"列表后缀": ".html",
+"列表二次截取": "空",
+"列表截取数组": "class=\"stui-vodlist__item\"$$</li>",
+"列表图片前缀": "空",
+"列表图片": "original=\"$$\"",
+"列表标题": "title=\"$$\"",
+"列表副标题": "class=\"pic-text text-right\">$$</span>",
+"列表链接": "href=\"$$\"",
+"列表链接前缀": "空",
+"列表链接后缀": "空",
  
-//可以自定义列表翻页起始页的页数
-"qishiye": "1",
- 
-//如果分类类型填空，例如：电视剧$空，则直接取url字段网址的源码。
-"fenlei": "国产传媒$/list/158/page/#日本视频$/list/180/page/#国产视频$/list/181/page/#韩国$/list/159/page/#欧美视频$/list/182/page/#成人动画$/list/160/page/#精品推荐$/list/274/page/#国产系列$/list/275/page/#主播直播$/list/276/page/#亚洲无马$/list/277/page/#亚洲有马$/list/278/page/#中文字幕$/list/279/page/#剧如美如$/list/280/page/#人7叔女$/list/281/page/#枪捡栾论$/list/282/page/#欧美精品$/list/283/page/#萝莉$/list/284/page/#伦理三级$/list/285/page/#自拍褕拍$/list/287/page/#支付四娃$/list/288/page/#抠教颜射$/list/289/page/#日本精品$/list/290/page/#Cospla$/list/291/page/#素人自拍$/list/292/page/#台湾辣妹$/list/293/page/#韩国御姐$/list/294/page/#唯美港姐$/list/295/page/#东南亚AV$/list/296/page/#7辱0辱$/list/297/page/#剧情介绍$/list/298/page/#多人多P$/list/299/page/#91探花$/list/300/page/#网红流出$/list/301/page/#野外露出$/list/302/page/#古装扮演$/list/303/page/#女忧系列$/list/304/page/#可爱学生$/list/305/page/#风情旗袍$/list/306/page/#兽耳系列$/list/307/page/#瑜伽裤$/list/308/page/#闷骚护士$/list/309/page/#过膝袜$/list/310/page/#网曝门$/list/311/page/#传媒出品$/list/312/page/#钕同新链$/list/313/page/#恋腿狂魔$/list/315/page/   ",
-"houzhui": ".html",
-"shifouercijiequ": "0",
-"jiequqian": "空",
-"jiequhou": "空",
-"jiequshuzuqian": "class=\"thumb",
-"jiequshuzuhou": "<span",
- 
-//如果图片前字段填写完整网络图片地址的话，列表页就自动使用这个网络图片作为列表的图片。
-"tupianqian": "src=\"",
-"tupianhou": "\"",
-"tupianqianzhui": "空",
-"biaotiqian": "title=\"",
-"biaotihou": "\"",
-"fubiaotiqian": "",
-"fubiaotihou": "",
-"lianjieqian": "href=\"",
-"lianjiehou": "\"",
-"ljqianzhui": "空",
-"ljhouzhui": "空",
- 
-//搜索部分
-//0：get方式，1：post方式，注意：如果用post方式，【ssmoshi】要填：1
+//0：get方式，1：post方式，注意：如果用post方式，【搜索模式】要填：1
 "搜索请求方式": "0",
-"ssmoshi": "0",
-"sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
-"sousuohou": "&limit=150",
-"sousuohouzhui": "/voddetail/",
-"jspic": "pic",
-"jsname": "name",
-"jsid": "id",
-"sousuoshifouercijiequ": "0",
-"ssjiequqian": "空",
-"ssjiequhou": "空",
-"ssjiequshuzuqian": "空",
-"ssjiequshuzuhou": "空",
-"sstupianqian": "空",
-"sstupianhou": "空",
-"sstupianqianzhui": "空",
-"ssbiaotiqian": "空",
-"ssbiaotihou": "空",
-"ssfubiaotiqian": "空",
-"ssfubiaotihou": "空",
-"sslianjieqian": "空",
-"sslianjiehou": "空",
-"ssljqianzhui": "空",
-"ssljhouzhui": "空",
- 
-//线路名称显示部分，0不启用，1启用
-"是否启用播放线路名": "0",
-"线路名是否二次截取": "0",
-"线路名截取前": "空",
-"线路名截取后": "空",
-"线路名截取数组前": "空",
-"线路名截取数组后": "空",
-"线路名标题前": "空",
-"线路名标题后": "空",
- 
-//状态，导演，演员，剧情的截取
-"zhuangtaiqian": "class=\"otherbox\">",
-"zhuangtaihou": "</p>",
-"daoyanqian": "导演：</span>",
-"daoyanhou": "</p>",
-"zhuyanqian": "主演：</span>",
-"zhuyanhou": "</p>",
-"juqingqian": "<span class=\"data\"",
-"juqinghou": "</span>",
- 
-//播放集数截取部分
-"bfshifouercijiequ": "0",
-"bfjiequqian": "空",
-"bfjiequhou": "空",
-"bfjiequshuzuqian": "class=\"group-box",
-"bfjiequshuzuhou": "</div>",
-"bfyshifouercijiequ": "0",
-"bfyjiequqian": "空",
-"bfyjiequhou": "空",
-"bfyjiequshuzuqian": "<a",
-"bfyjiequshuzuhou": "/a>",
-"bfbiaotiqian": ">",
-"bfbiaotihou": "<",
-"bflianjieqian": "href=\"",
-"bflianjiehou": "\"",
-"bfqianzhui": "空",
-"bfhouzhui": "空"},
-
-{"name": "猛男仓库",
-"url": "https://mengnanck.buzz/",
- 
-//访问请求头
-"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
- 
-//访问请求cookie
-"cookie":"",
- 
-//播放请求头
-"User": "User-Agent$123",
- 
-//0：不添加，1：添加
-"添加手动点击图标": "0",
+"搜索模式": "0",
+"搜索前": "/index.php/ajax/suggest?mid=1&wd=",
+"搜索后": "&limit=150",
+"搜索连接后缀": "/video/",
+"搜索二次截取": "空",
+"搜索截取数组": "前$$后",
+"搜索图片前缀": "空",
+"搜索图片": "original=\"$$\"",
+"搜索标题": "title=\"$$\"",
+"搜索副标题": "class=\"pic-text text-right\">$$</span>",
+"搜索链接": "href=\"$$\"",
+"搜索链接前缀": "空",
+"搜索链接后缀": "空",
  
 //0：不启用，1：启用
-"启用js加载源码":"0",
+"启用线路名": "0",
+"线路名二次截取": "空",
+"线路名截取数组": "class=\"more$$</div>",
+"线路名标题": "/>$$</h3>",
  
-//根据网站响应速度自行调整加载需要的时间，时间太短可能导致获取数据失败。
-"js加载源码时间":"3",
+"播放页状态": "hidden-xs\">类型：$$</p>",
+"播放页导演": "发布时间：</span>$$</p>",
+"播放页演员": "主演：$$</p>",
+"播放页剧情": "<p class=\"col-pd\">$$</p>",
  
-//填写播放地址寻找的地址标识词，中间用#号分割，不填写的话就使用全局的嗅探词
-"嗅探词": "m3u8?#.m3u8#mp4#.flv#.mp3#.m4a",
- 
-//填写播放地址过滤规则，中间用#号分割，不填写的话就使用全局的过滤词
-"过滤词": "?url=#.css#51.la#cnzz.com#baidu.com",
- 
-//0：记录，1：不记录
-"是否记录历史": "0",
- 
-//直接播放截取的播放页链接网址，0表示：否，1表示：是
-"直接播放": "0",
- 
-//分类页是否使用列表方式显示，0表示：否，1表示：是
-"列表显示": "0",
- 
-//列表图片是否横图显示，0表示：否，1表示：是
-"横图显示": "0",
- 
-//可以自定义列表翻页起始页的页数
-"qishiye": "1",
- 
-//如果分类类型填空，例如：电视剧$空，则直接取url字段网址的源码。
-"fenlei": "亚洲无马$/list/184/page/#亚洲有马$/list/185/page/#欧美亲涩$/list/186/page/#中文字幕$/list/187/page/#美女主播$/list/189/page/#动漫卡通$/list/188/page/#人7熟钕$/list/190/page/#日韩伦理$/list/192/page/#国产字牌$/list/193/page/#精选蔻爆$/list/194/page/#同心同子$/list/195/page/#众蔻位$/list/196/page/#久1大深$/list/199/page/#网红付利$/list/200/page/#Pornhub欧美子源$/list/202/page/#Pornhub亚洲子源$/list/203/page/",
-"houzhui": ".html",
-"shifouercijiequ": "0",
-"jiequqian": "空",
-"jiequhou": "空",
-"jiequshuzuqian": "class=\"thumb",
-"jiequshuzuhou": "<span",
- 
-//如果图片前字段填写完整网络图片地址的话，列表页就自动使用这个网络图片作为列表的图片。
-"tupianqian": "src=\"",
-"tupianhou": "\"",
-"tupianqianzhui": "空",
-"biaotiqian": "title=\"",
-"biaotihou": "\"",
-"fubiaotiqian": "",
-"fubiaotihou": "",
-"lianjieqian": "href=\"",
-"lianjiehou": "\"",
-"ljqianzhui": "空",
-"ljhouzhui": "空",
- 
-//搜索部分
-//0：get方式，1：post方式，注意：如果用post方式，【ssmoshi】要填：1
-"搜索请求方式": "0",
-"ssmoshi": "0",
-"sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
-"sousuohou": "&limit=150",
-"sousuohouzhui": "/voddetail/",
-"jspic": "pic",
-"jsname": "name",
-"jsid": "id",
-"sousuoshifouercijiequ": "0",
-"ssjiequqian": "空",
-"ssjiequhou": "空",
-"ssjiequshuzuqian": "空",
-"ssjiequshuzuhou": "空",
-"sstupianqian": "空",
-"sstupianhou": "空",
-"sstupianqianzhui": "空",
-"ssbiaotiqian": "空",
-"ssbiaotihou": "空",
-"ssfubiaotiqian": "空",
-"ssfubiaotihou": "空",
-"sslianjieqian": "空",
-"sslianjiehou": "空",
-"ssljqianzhui": "空",
-"ssljhouzhui": "空",
- 
-//线路名称显示部分，0不启用，1启用
-"是否启用播放线路名": "0",
-"线路名是否二次截取": "0",
-"线路名截取前": "空",
-"线路名截取后": "空",
-"线路名截取数组前": "空",
-"线路名截取数组后": "空",
-"线路名标题前": "空",
-"线路名标题后": "空",
- 
-//状态，导演，演员，剧情的截取
-"zhuangtaiqian": "class=\"otherbox\">",
-"zhuangtaihou": "</p>",
-"daoyanqian": "导演：</span>",
-"daoyanhou": "</p>",
-"zhuyanqian": "主演：</span>",
-"zhuyanhou": "</p>",
-"juqingqian": "<span class=\"data\"",
-"juqinghou": "</span>",
- 
-//播放集数截取部分
-"bfshifouercijiequ": "0",
-"bfjiequqian": "空",
-"bfjiequhou": "空",
-"bfjiequshuzuqian": "class=\"group-box",
-"bfjiequshuzuhou": "</div>",
-"bfyshifouercijiequ": "0",
-"bfyjiequqian": "空",
-"bfyjiequhou": "空",
-"bfyjiequshuzuqian": "<a",
-"bfyjiequshuzuhou": "/a>",
-"bfbiaotiqian": ">",
-"bfbiaotihou": "<",
-"bflianjieqian": "href=\"",
-"bflianjiehou": "\"",
-"bfqianzhui": "空",
-"bfhouzhui": "空"},
+"播放页二次截取": "空",
+"播放页截取数组": "class=\"stui-content__playlist$$</ul>",
+"播放剧集二次截取": "空",
+"播放剧集截取数组": "<a$$/a>",
+"播放剧集标题": ">$$<",
+"播放剧集链接": "href=\"$$\"",
+"播放剧集链接前缀": "空",
+"播放剧集链接后缀": "空"},
+
 
 {"name": "香蕉视频",
   "url": "https://xx8888.cc/",
