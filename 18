@@ -5,7 +5,7 @@
 //上面不用管，把下面的网页自定义规则编辑好，复制全部，粘贴到全局就可以测试自定义规则了
 "zidingyi": [
 {"name": "小姨子的诱惑",  //永久域名：www.xxyizz.cc/xx
-"url": "https://xxyizz1.pw/",
+"url": "https://xxyizz1.cc/",
  
 //访问请求头
 "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
