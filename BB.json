@@ -1663,136 +1663,165 @@
 "bfqianzhui": "空",
 "bfhouzhui": "空"},
  
+{"网站名字": "破色吧",
+"网站地址": "http://sspp.yb213.buzz/",//http://wangzhi.mom/
+"访问请求ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
+"访问请求cookie": "空",
+"访问请求referer": "空",
+"播放请求头": "User-Agent$123",
+"图片请求头": "空",
+"网页编码": "utf-8",
 
+//0：不禁用，1：禁用
+"禁用搜索": "0",
+
+//0：不启用，1：启用
+"启用js加载源码":"0",
+"js加载源码时间":"5",
+
+"嗅探词": "m3u8?#.m3u8#.mp4#.flv#.mp3#.m4a",
+"过滤词": "51.la#cnzz.com#baidu.com#bilibili.com",
+
+//0：记录，1：不记录
+"是否记录历史": "0",
+
+//0：否，1：是
+"直接播放": "0",
+"列表显示": "0",
+"横图显示": "0",
+"列表起始页": "1",
+"列表分类": "线路一$/vod/type/id/15/page/#线路二$/vod/type/id/16/page/#线路三$/vod/type/id/20/page/#线路四$/vod/type/id/21/page/",
+"列表后缀": ".html",
+"列表二次截取": "空",
+"列表截取数组": "class=\"stui-vodlist__item\"$$</li>",
+"列表图片前缀": "空",
+"列表图片": "original=\"$$\"",
+"列表标题": "title=\"$$\"",
+"列表副标题": "class=\"pic-text text-right\">$$</span>",
+"列表链接": "href=\"$$\"",
+"列表链接前缀": "空",
+"列表链接后缀": "空",
+
+//0：get方式，1：post方式，注意：如果用post方式，【搜索模式】要填：1
+"搜索请求方式": "0",
+"搜索模式": "0",
+"搜索前": "/index.php/ajax/suggest?mid=1&wd=",
+"搜索后": "&limit=150",
+"搜索连接后缀": "/vod/detail/id/",
+"搜索二次截取": "空",
+"搜索截取数组": "前$$后",
+"搜索图片前缀": "空",
+"搜索图片": "original=\"$$\"",
+"搜索标题": "title=\"$$\"",
+"搜索副标题": "class=\"pic-text text-right\">$$</span>",
+"搜索链接": "href=\"$$\"",
+"搜索链接前缀": "空",
+"搜索链接后缀": "空",
+
+//0：不启用，1：启用
+"启用线路名": "0",
+"线路名二次截取": "空",
+"线路名截取数组": "class=\"more$$</div>",
+"线路名标题": "/>$$</h3>",
+
+"播放页状态": "class=\"pic-text text-right\">$$</span>",
+"播放页导演": "地区：$$</p>",
+"播放页演员": "主演：$$</p>",
+"播放页剧情": "<p class=\"col-pd\">$$</p>",
+
+"播放页二次截取": "空",
+"播放页截取数组": "class=\"stui-content__playlist$$</ul>",
+"播放剧集二次截取": "空",
+"播放剧集截取数组": "<a$$/a>",
+"播放剧集标题": ">$$<",
+"播放剧集链接": "href=\"$$\"",
+"播放剧集链接前缀": "空",
+"播放剧集链接后缀": "空"},
  
- {"name": "小姨子的诱惑",  //永久域名：www.xxyizz.cc/xx
-"url": "https://xxyizz1.cc/",
+{"网站名字": "贵宾MM",
+"网站地址": "https://avv167.com:12121/",//海外域名：gbmm399.com
+"访问请求ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
+"访问请求cookie": "空",
+"访问请求referer": "空",
+"播放请求头": "User-Agent$123",
+"图片请求头": "空",
+"网页编码": "utf-8",
  
-//访问请求头
-"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
+//0：不禁用，1：禁用
+"禁用搜索": "0",
  
-//访问请求cookie
-"cookie":"",
+//0：不启用，1：启用
+"是否启用解析模式": "0",
  
-//播放请求头
-"User": "User-Agent$123",
- 
-//0：不添加，1：添加
-"添加手动点击图标": "0",
+//需要点击播放的网站可以自己找网页的点击js字符
+"自动点击字符": "空",
  
 //0：不启用，1：启用
 "启用js加载源码":"0",
+"js加载源码时间":"5",
  
-//根据网站响应速度自行调整加载需要的时间，时间太短可能导致获取数据失败。
-"js加载源码时间":"3",
- 
-//填写播放地址寻找的地址标识词，中间用#号分割，不填写的话就使用全局的嗅探词
-"嗅探词": "m3u8?#.m3u8#mp4#.flv#.mp3#.m4a",
- 
-//填写播放地址过滤规则，中间用#号分割，不填写的话就使用全局的过滤词
-"过滤词": "?url=#.css#51.la#cnzz.com#baidu.com",
+"嗅探词": "m3u8?#.m3u8#.mp4#.flv#.mp3#.m4a",
+"过滤词": "51.la#cnzz.com#baidu.com#bilibili.com",
  
 //0：记录，1：不记录
 "是否记录历史": "0",
  
-//直接播放截取的播放页链接网址，0表示：否，1表示：是
-"直接播放": "0",
- 
-//分类页是否使用列表方式显示，0表示：否，1表示：是
+//0：否，1：是
+"直接播放": "1",
 "列表显示": "0",
- 
-//列表图片是否横图显示，0表示：否，1表示：是
 "横图显示": "0",
+"列表起始页": "1",
+"列表分类": "日韩无码$/home/vodlist/141/1966-#欧美无码$/home/vodlist/141/1967-#中文字幕$/home/vodlist/141/1968-#日韩有码$/home/vodlist/141/1969-#国产偷拍$/home/vodlist/141/1971-#卡通动漫$/home/vodlist/141/1972-#三级剧情$/home/vodlist/141/1973-",
+"列表后缀": ".html",
+"列表二次截取": "空",
+"列表截取数组": "class=\"lazyload$$</div>",
+"列表图片前缀": "空",
+"列表图片": "data-original=\"$$\"",
+"列表标题": "title=\"$$\"",
+"列表副标题": "class=\"player\">$$</div>",
+"列表链接": "href=\"$$\"",
+"列表链接前缀": "空",
+"列表链接后缀": "空"},
+
  
-//可以自定义列表翻页起始页的页数
-"qishiye": "1",
+ {"网站名字": "咪咪影院",  //邮箱：mm@mmyy.one
+"网站地址": "https://www.mmyy1.top/",
+"访问请求ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36",
+"访问请求cookie": "空",
+"访问请求referer": "空",
+"播放请求头": "User-Agent$123",
+"图片请求头": "空",
+"网页编码": "utf-8",
  
-//如果分类类型填空，例如：电视剧$空，则直接取url字段网址的源码。
-"fenlei": "视频一区$/index.php/vod/type/id/20/page/#视频二区$/index.php/vod/type/id/21/page/#视频三区$/index.php/vod/type/id/22/page/#视频四区$/index.php/vod/type/id/23/page/#视频五区$/index.php/vod/type/id/24/page/",
-"houzhui": ".html",
-"shifouercijiequ": "0",
-"jiequqian": "空",
-"jiequhou": "空",
-"jiequshuzuqian": "class=\"content-item",
-"jiequshuzuhou": "</li>",
+//0：不禁用，1：禁用
+"禁用搜索": "0",
  
-//如果图片前字段填写完整网络图片地址的话，列表页就自动使用这个网络图片作为列表的图片。
-"tupianqian": "data-original=\"",
-"tupianhou": "\"",
-"tupianqianzhui": "空",
-"biaotiqian": "title=\"",
-"biaotihou": "\"",
-"fubiaotiqian": "",
-"fubiaotihou": "",
-"lianjieqian": "href=\"",
-"lianjiehou": "\"",
-"ljqianzhui": "空",
-"ljhouzhui": "空",
+//0：不启用，1：启用
+"启用js加载源码":"0",
+"js加载源码时间":"5",
  
-//搜索部分
-//0：get方式，1：post方式，注意：如果用post方式，【ssmoshi】要填：1
-"搜索请求方式": "0",
-"ssmoshi": "0",
-"sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
-"sousuohou": "&limit=150",
-"sousuohouzhui": "/index.php/vod/detail/id/",
-"jspic": "pic",
-"jsname": "name",
-"jsid": "id",
-"sousuoshifouercijiequ": "0",
-"ssjiequqian": "空",
-"ssjiequhou": "空",
-"ssjiequshuzuqian": "空",
-"ssjiequshuzuhou": "空",
-"sstupianqian": "空",
-"sstupianhou": "空",
-"sstupianqianzhui": "空",
-"ssbiaotiqian": "空",
-"ssbiaotihou": "空",
-"ssfubiaotiqian": "空",
-"ssfubiaotihou": "空",
-"sslianjieqian": "空",
-"sslianjiehou": "空",
-"ssljqianzhui": "空",
-"ssljhouzhui": "空",
+"嗅探词": "m3u8?#.m3u8#.mp4#.flv#.mp3#.m4a",
+"过滤词": "51.la#cnzz.com#baidu.com#bilibili.com",
  
-//线路名称显示部分，0不启用，1启用
-"是否启用播放线路名": "0",
-"线路名是否二次截取": "0",
-"线路名截取前": "空",
-"线路名截取后": "空",
-"线路名截取数组前": "空",
-"线路名截取数组后": "空",
-"线路名标题前": "空",
-"线路名标题后": "空",
+//0：记录，1：不记录
+"是否记录历史": "0",
  
-//状态，导演，演员，剧情的截取
-"zhuangtaiqian": "<time class=\"time\">",
-"zhuangtaihou": "</time>",
-"daoyanqian": "导演：</span>",
-"daoyanhou": "</p>",
-"zhuyanqian": "主演：</span>",
-"zhuyanhou": "</p>",
-"juqingqian": "<span class=\"data\"",
-"juqinghou": "</span>",
- 
-//播放集数截取部分
-"bfshifouercijiequ": "0",
-"bfjiequqian": "空",
-"bfjiequhou": "空",
-"bfjiequshuzuqian": "class=\"playlistlink-4 list-15256 clearfix",
-"bfjiequshuzuhou": "</tbody>",
-"bfyshifouercijiequ": "0",
-"bfyjiequqian": "空",
-"bfyjiequhou": "空",
-"bfyjiequshuzuqian": "<a",
-"bfyjiequshuzuhou": "/a>",
-"bfbiaotiqian": ">",
-"bfbiaotihou": "<",
-"bflianjieqian": "href=\"",
-"bflianjiehou": "\"",
-"bfqianzhui": "空",
-"bfhouzhui": "空"},
+//0：否，1：是
+"直接播放": "1",
+"列表显示": "0",
+"横图显示": "0",
+"列表起始页": "1",
+"列表分类": "国产高清$/guochangaoqing/#日韩无码$/rihanwuma/#日韩有码$/rihanyouma/#纯爱素人$/chunaisuren/#中文字幕$/zhongwenzimu/#成人动漫$/chengrendongman/#三级伦理$/sanjilunli/#欧美情色$/oumeiqingse/#巨乳美乳$/jurumeiru/#AI换脸$/AIhuanlian/#人气主播$/renqizhubo/#少女萝莉$/shaonvluoli/#制服诱惑$/zhifuyouhuo/#强奸乱伦$/qiangjianluanlun/#变态另类$/biantailinglei/#熟女人妻$/shunvrenqi/#自拍偷拍$/zipaitoupai/#海外明星$/haiwaimingxing/#JAV专区$/JAVzhuanqu/",
+"列表后缀": ".html",
+"列表二次截取": "空",
+"列表截取数组": "class=\"vod-img\"$$class=\"vod\"",
+"列表图片前缀": "空",
+"列表图片": "data-original=\"$$\"",
+"列表标题": "class=\"vod-txt\">$$</div>",
+"列表副标题": "class=\"module-item-note\">$$</div>",
+"列表链接": "href=\"$$\"",
+"列表链接前缀": "空",
+"列表链接后缀": "空"},
  
  
  {"网站名字": "banan.tv",
@@ -1910,142 +1939,7 @@
 "播放剧集链接前缀": "空",
 "播放剧集链接后缀": "空"},
  
- {"网站名字": "床吧资源网",
-"网站地址": "https://chuangba18.xyz/",
-"访问请求ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
-"访问请求cookie": "空",
-"访问请求referer": "空",
-"播放请求头": "User-Agent$123",
-"图片请求头": "空",
-"网页编码": "utf-8",
-
-//0：不禁用，1：禁用
-"禁用搜索": "0",
-
-//0：不启用，1：启用
-"启用js加载源码":"0",
-"js加载源码时间":"5",
-
-"嗅探词": "m3u8?#.m3u8#.mp4#.flv#.mp3#.m4a",
-"过滤词": "51.la#cnzz.com#baidu.com#bilibili.com",
-
-//0：记录，1：不记录
-"是否记录历史": "0",
-
-//0：否，1：是
-"直接播放": "0",
-"列表显示": "0",
-"横图显示": "0",
-"列表起始页": "1",
-"列表分类": "国产精品$/index.php/vod/type/id/50/page/#亚洲无码$/index.php/vod/type/id/2/page/#中文字幕$/index.php/vod/type/id/3/page/#美女主播$/index.php/vod/type/id/4/page/#动漫卡通$/index.php/vod/type/id/5/page/#人妻熟女$/index.php/vod/type/id/42/page/#重口味$/index.php/vod/type/id/43/page/#三级伦理$/index.php/vod/type/id/44/page/#精选口爆$/index.php/vod/type/id/54/page/#亚洲有码$/index.php/vod/type/id/47/page/#欧美情色$/index.php/vod/type/id/48/page/#同性同志$/index.php/vod/type/id/52/page/#91大神$/index.php/vod/type/id/51/page/#AV解说$/index.php/vod/type/id/56/page/",
-"列表后缀": ".html",
-"列表二次截取": "空",
-"列表截取数组": "class=\"video\"$$</a>",
-"列表图片前缀": "空",
-"列表图片": "src=\"$$\"",
-"列表标题": "title=\"$$\"",
-"列表副标题": "class=\"video-overlay badge transparent\">$$</span>",
-"列表链接": "href=\"$$\"",
-"列表链接前缀": "空",
-"列表链接后缀": "空",
-
-//0：get方式，1：post方式，注意：如果用post方式，【搜索模式】要填：1
-"搜索请求方式": "0",
-"搜索模式": "0",
-"搜索前": "/index.php/ajax/suggest?mid=1&wd=",
-"搜索后": "&limit=150",
-"搜索连接后缀": "/index.php/vod/detail/id/",
-"搜索二次截取": "空",
-"搜索截取数组": "前$$后",
-"搜索图片前缀": "空",
-"搜索图片": "src=\"$$\"",
-"搜索标题": "title=\"$$\"",
-"搜索副标题": "class=\"pic-text text-right\">$$</span>",
-"搜索链接": "href=\"$$\"",
-"搜索链接前缀": "空",
-"搜索链接后缀": "空",
-
-//0：不启用，1：启用
-"启用线路名": "0",
-"线路名二次截取": "空",
-"线路名截取数组": "class=\"more$$</div>",
-"线路名标题": "/>$$</h3>",
-
-"播放页状态": "class=\"pic-text text-right\">$$</span>",
-"播放页导演": "导演：$$</p>",
-"播放页演员": "主演：$$</p>",
-"播放页剧情": "<p class=\"col-pd\">$$</p>",
-
-"播放页二次截取": "空",
-"播放页截取数组": "class=\"play$$</div>",
-"播放剧集二次截取": "空",
-"播放剧集截取数组": "<a$$/a>",
-"播放剧集标题": "<button>$$</button>",
-"播放剧集链接": "href=\"$$\"",
-"播放剧集链接前缀": "空",
-"播放剧集链接后缀": "空"},
-
  
- {"name": "麻豆传媒",
-"url": "https://www.madoupj.com",
-"tihuan": "cnzz.com",
- 
- 
-"User": "空",
-"fenlei": "MD系列$/index.php/&m=vodtype/mdapp4/page/#导演系列$/index.php/&m=vodtype/mdapp5/page/#MDS系列$/index.php/&m=vodtype/mdapp6/page/#MDX系列$/index.php/&m=vodtype/mdapp7/page/#MKY系列$/index.php/&m=vodtype/mdapp86/page/#MCY系列$/index.php/&m=vodtype/mdapp95/page/#MDXS系列$/index.php/&m=vodtype/mdapp8/page/#MDL系列$/index.php/&m=vodtype/mdapp46/page/#MMZ猫爪系列$/index.php/&m=vodtype/mdapp50/page/#MAD哎豆系列$/index.php/&m=vodtype/mdapp52/page/#MDWP职场银行系列$/index.php/&m=vodtype/mdapp57/page/#MLT乐天系列$/index.php/&m=vodtype/mdapp62/page/#MSD系列$/index.php/&m=vodtype/mdapp63/page/#MSM杏梦者$/index.php/&m=vodtype/mdapp64/page/#MDM恋爱咖啡馆$/index.php/&m=vodtype/mdapp73/page/#MDUS系列$/index.php/&m=vodtype/mdapp77/page/#MXJ系列$/index.php/&m=vodtype/mdapp78/page/#MSG系列$/index.php/&m=vodtype/mdapp85/page/#MAN系列$/index.php/&m=vodtype/mdapp88/page/#杏吧专区$/index.php/&m=vodtype/mdapp9/page/#辣椒原创$/index.php/&m=vodtype/mdapp79/page/#兔子先生$/index.php/&m=vodtype/mdapp10/page/#O-STAR$/index.php/&m=vodtype/mdapp80/page/#果冻传媒$/index.php/&m=vodtype/mdapp11/page/#91制片厂$/index.php/&m=vodtype/mdapp51/page/#皇家华人$/index.php/&m=vodtype/mdapp12/page/#天美传媒$/index.php/&m=vodtype/mdapp45/page/#吴梦梦专区$/index.php/&m=vodtype/mdapp13/page/#PsychoPorn涩控$/index.php/&m=vodtype/mdapp14/page/#叮叮映画$/index.php/&m=vodtype/mdapp70/page/#涩会$/index.php/&m=vodtype/mdapp71/page/#蜜桃影像传媒$/index.php/&m=vodtype/mdapp15/page/#豚豚创媒$/index.php/&m=vodtype/mdapp74/page/#宫美娱乐$/index.php/&m=vodtype/mdapp84/page/#柔柔传媒$/index.php/&m=vodtype/mdapp90/page/#爱妃传媒$/index.php/&m=vodtype/mdapp75/page/#渡边传媒$/index.php/&m=vodtype/mdapp94/page/#葵心娱乐$/index.php/&m=vodtype/mdapp96/page/#YOKUBOU$/index.php/&m=vodtype/mdapp97/page/#糖心$/index.php/&m=vodtype/mdapp72/page/#CCAV城人头条$/index.php/&m=vodtype/mdapp89/page/#精东影业$/index.php/&m=vodtype/mdapp34/page/#星空无限传媒$/index.php/&m=vodtype/mdapp47/page/#乐播传媒$/index.php/&m=vodtype/mdapp48/page/#开心鬼传媒$/index.php/&m=vodtype/mdapp56/page/#葫芦影业$/index.php/&m=vodtype/mdapp81/page/#深ye保健室$/index.php/&m=vodtype/mdapp35/page/#大象传媒$/index.php/&m=vodtype/mdapp58/page/#天马传媒$/index.php/&m=vodtype/mdapp82/page/#SWAG$/index.php/&m=vodtype/mdapp36/page/#HongKongDoll$/index.php/&m=vodtype/mdapp59/page/#国产短视频$/index.php/&m=vodtype/mdapp38/page/#北京天使$/index.php/&m=vodtype/mdapp39/page/#MINI传媒$/index.php/&m=vodtype/mdapp61/page/#麻豆不回家$/index.php/&m=vodtype/mdapp41/page/#狼人$/index.php/&m=vodtype/mdapp53/page/#女忧擂台摔角狂热$/index.php/&m=vodtype/mdapp54/page/#恋爱巴士$/index.php/&m=vodtype/mdapp60/page/#男女忧生死斗$/index.php/&m=vodtype/mdapp65/page/#情人劫密室逃脱$/index.php/&m=vodtype/mdapp66/page/#换7$/index.php/&m=vodtype/mdapp67/page/#你好同学$/index.php/&m=vodtype/mdapp68/page/#宝玉的胜利$/index.php/&m=vodtype/mdapp83/page/#杏爱自修室$/index.php/&m=vodtype/mdapp87/page/#春游记$/index.php/&m=vodtype/mdapp91/page/#心动的信号$/index.php/&m=vodtype/mdapp92/page/#情七大富翁$/index.php/&m=vodtype/mdapp93/page/#大鸟18$/index.php/&m=vodtype/mdapp17/page/#疯拍系列$/index.php/&m=vodtype/mdapp18/page/#创造银2021$/index.php/&m=vodtype/mdapp55/page/#禁玉小屋$/index.php/&m=vodtype/mdapp76/page/#KISS糖果屋$/index.php/&m=vodtype/mdapp19/page/#小鹏奇啪行$/index.php/&m=vodtype/mdapp20/page/#男忧出征趣$/index.php/&m=vodtype/mdapp21/page/",
-"houzhui": ".html",
-"shifouercijiequ": "0",
-"jiequqian": "空",
-"jiequhou": "空",
-"jiequshuzuqian": "class=\"col-sm-4\"",
-"jiequshuzuhou": "</a>",
-"tupianqian": "img src=\"",
-"tupianhou": "\"",
-"biaotiqian": "title=\"",
-"biaotihou": "\"",
-"lianjieqian": "href=\"",
-"lianjiehou": "\"",
-"sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
-"sousuohou": ".html",
-"sousuohouzhui": "/index.php/vod/detail/id/",
-"ssmoshi": "0",
-"sousuoshifouercijiequ": "0",
-"jspic": "空",
-"jsname": "空",
-"jsid": "空",
-"ssjiequqian": "空",
-"ssjiequhou": "空",
-"ssjiequshuzuqian": "class=\"col-sm-4\"",
-"ssjiequshuzuhou": "</a>",
-"sstupianqian": "src=\"",
-"sstupianhou": "\"",
-"ssbiaotiqian": "title=\"",
-"ssbiaotihou": "\"",
-"sslianjieqian": "href=\"",
-"sslianjiehou": "\"",
-"bfshifouercijiequ": "0",
-"bfjiequqian": "空",
-"bfjiequhou": "空",
-"bfjiequshuzuqian": "class=\"blog-single",
-"bfjiequshuzuhou": "</div>",
-"zhuangtaiqian": "class=\"yac\">",
-"zhuangtaihou": "</p>",
-"daoyanqian": "导演：</span>",
-"daoyanhou": "</p>",
-"zhuyanqian": "主演：</span>",
-"zhuyanhou": "</p>",
-"juqingqian": "class=\"title\">",
-"juqinghou": "title",
-"bfyshifouercijiequ": "0",
-"bfyjiequqian": "空",
-"bfyjiequhou": "空",
-"bfyjiequshuzuqian": "<a",
-"bfyjiequshuzuhou": "</a>",
-"bfbiaotiqian": ">",
-"bfbiaotihou": "</button>",
-"bflianjieqian": "href=\"",
-"bflianjiehou": "\""
-},
  
  {"网站名字": "四裤全输",
 "网站地址": "https://sikuqs.xyz/",
