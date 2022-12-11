@@ -27,7 +27,8 @@
 //{"name":"填接口名称","url":"http://xxx/mogai_api.php/v1.vod"},
 //填写APP接口，支持以下5种接口格式。
 "zhuyejiekou": [
-{"name":"天空影视","url":"https://www.tkys6.com/xgapp.php/v1/"},
+{"name":"天空影视","url":"http://tkznp.com/xgapp.php/v1/"},
+{"name":"影视之家","url":"http://yszjvip.com/xgapp.php/v1/"},
 {"name":"佑尘云影视","url":"http://v.i7yc.cn/api.php/v1.vod"},
 {"name":"555","url":"https://www.xawqxh.net/api.php/app/"},
 {"name":"上云影视","url":"http://www.shagyn.mom/mogai_api.php/v1.vod"},
@@ -88,10 +89,12 @@
 "zhujiexi":[
  
 {"name":"左岸","url":"http://110.42.2.115:880/analysis/json/?uid=2100&my=cqrtwyACDGLOXY0249&mgtv=app&url="},
+ {"name":"01","url":"http://it.bt5v.com/json/jsonindex.php/?url="},
 {"name":"懒懒1","url":"http://lanlan.ckflv.cn/?url="},
 {"name":"很牛逼","type":1,"url":"http://rxjx.kuanjv.com/allm3u8.php?url="},
 {"name":"解析3","url":"http://rxjx.kuanjv.com/allm3u8.php?url="},
-
+{"name": "解析4","type": 1,"url": "http://newjiexi.gotka.top/keyu3.php?url="},
+{"name": "解析10","type": 1,"url": "https://www.1920lgzy.top/json.php?url="},
 
 
 
