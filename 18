@@ -119,6 +119,98 @@
 "播放剧集链接": "href=\"$$\"",
 "播放剧集链接前缀": "空",
 "播放剧集链接后缀": "空"},
+
+{"网站名字": "88av",
+"网站地址": "https://jj88av.com/",
+"访问请求ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
+"访问请求cookie": "空",
+"访问请求referer": "空",
+"播放请求头": "User-Agent$123",
+"图片请求头": "空",
+"网页编码": "utf-8",
+ 
+//0：不禁用，1：禁用
+"禁用搜索": "0",
+ 
+//0：不启用，1：启用
+"是否启用解析模式": "0",
+ 
+//需要点击播放的网站可以自己找网页的点击js字符
+"自动点击字符": "空",
+ 
+//0：不启用，1：启用
+"启用js加载源码":"0",
+"js加载源码时间":"5",
+ 
+"嗅探词": "m3u8?#.m3u8#.mp4#.flv#.mp3#.m4a",
+"过滤词": "51.la#cnzz.com#baidu.com#bilibili.com",
+ 
+//0：记录，1：不记录
+"是否记录历史": "0",
+ 
+//0：否，1：是
+"直接播放": "1",
+"列表显示": "0",
+"横图显示": "0",
+"列表起始页": "1",
+"列表分类": "水果解说$/JJav/AVJS-#中文综合$/JJav/zhongwenzonghe-#中文无码$/JJav/zhongwenwuma-#中文近亲$/JJav/zhongwenjingqing-#中文护士$/JJav/zhongwenhushi-#中文师生$/JJav/zhongwenshisheng-#中文强奸$/JJav/zhongwenqiangjian-#国产自拍$/JJav/guochanzipai-#美女主播$/JJav/meinvzhubo-#三级伦理$/JJav/sanjizonghe-
+
+#亚洲ＡＶ$/JJav/yazhou-#自拍偷拍$/JJav/zipaitoupai-#超清传媒$/JJav/chaoqingchuanmei-#3D动漫$/JJav/3Ddongman-#欧美ＡＶ$/JJav/oumei-#乱伦人妻$/JJav/luanlunrenqi-#丝袜制服$/JJav/siwazhifu-#直播录播$/JJav/zhibolubo-#SM另类$/JJav/SMlinglei-#超清三级$/JJav/chaoqingsanji-
+
+#CN麻豆原创$/JJav/madouyuanchuang-#91制片厂$/JJav/91zhipianchang/-#天美传媒$/JJav/tianmeichuanmei-#蜜桃传媒 $/JJav/mitaochuanmei-#皇家华人$/JJav/huangjiahuaren-#星空传媒$/JJav/xingkongchuanmei-#精东影业$/JJav/jingdongyingye-#乐播传媒$/JJav/lebochuanmei-#乌鸦传媒$/JJav/wuyachuanmei-#兔子先生$/JJav/tuzixiansheng-#杏吧原创$/JJav/xingbayuanchuang-#mini传媒$/JJav/minichuanmei-#大象传媒$/JJav/daxiangchuanmei-#开心鬼传媒$/JJav/kaixinguichuanmei-#PsychoPorn$/JJav/PsychoPorn-#糖心Vlgo$/JJav/tangxinVlgo-
+
+#99国产自拍$/JJav/guochanzipai-#肛交$/99re/index.php/99re/gangjiao-#口爆颜射$/99re/index.php/99re/koubaoyanshe-#潮吹$/99re/index.php/99re/chaochui-#会员认证作品$/JJav/jiujiurehuiyuanrenzhengzuopin-#制服丝袜$/99re/index.php/99re/zhifusiwa-#一本道$/99re/index.php/99re/yibendao-#高清$/99re/index.php/99re/gaoqing-#日本有码$/99re/index.php/99re/ribenyouma-#加勒比$/99re/index.php/99re/jialebi-#日本无码$/99re/index.php/99re/ribenwuma-#李宗瑞全集$/99re/index.php/99re/lizongruiquanji-#中文字幕$/JJav/zhongwenzimu-#欧美$/99re/index.php/99re/oumei-#东京热$/99re/index.php/99re/dongjingre-#小格式综合$/99re/index.php/99re/xiaogeshizonghe-#女主播系列$/99re/index.php/99re/hanguonvzhuboxilie-#成人动漫$/99re/index.php/99re/chengrendongman-#SM性虐$/99re/index.php/99re/SMxingnue-#韩国综合$/99re/index.php/99re/hanguozonghe-
+
+#FC国产自拍$/fcw/index.php/fcw/guochanzipai-#VIP专区$/fcw/index.php/fcw/VIPzhuanqu-#偷拍系列$/fcw/index.php/fcw/toupaixilie-#日本有码$/fcw/index.php/fcw/ribenyouma-#日本无码$/fcw/index.php/fcw/ribenwuma-#成人动漫$/fcw/index.php/fcw/chengrendongman-#韩国综合$/fcw/index.php/fcw/hanguozonghe-#VR专区$/fcw/index.php/fcw/VRzhuanqu-#欧美$/fcw/index.php/fcw/oumei-",
+"列表后缀": ".html",
+"列表二次截取": "空",
+"列表截取数组": "class=\"item$$</a>",
+"列表图片前缀": "空",
+"列表图片": "data-original=\"$$\"",
+"列表标题": "title=\"$$\"",
+"列表副标题": "class=\"pic-text text-right\">$$</span>",
+"列表链接": "href=\"$$\"",
+"列表链接前缀": "空",
+"列表链接后缀": "空",
+ 
+//0：get方式，1：post方式，注意：如果用post方式，【搜索模式】要填：1
+"搜索请求方式": "0",
+"搜索模式": "0",
+"搜索前": "/index.php/ajax/suggest?mid=1&wd=",
+"搜索后": "&limit=150",
+"搜索连接后缀": "/vod/",
+"搜索二次截取": "空",
+"搜索截取数组": "前$$后",
+"搜索图片前缀": "空",
+"搜索图片": "original=\"$$\"",
+"搜索标题": "title=\"$$\"",
+"搜索副标题": "class=\"pic-text text-right\">$$</span>",
+"搜索链接": "href=\"$$\"",
+"搜索链接前缀": "空",
+"搜索链接后缀": "空",
+ 
+//0：不启用，1：启用
+"启用线路名": "0",
+"线路名二次截取": "空",
+"线路名截取数组": "class=\"more$$</div>",
+"线路名标题": "/>$$</h3>",
+ 
+"播放页状态": "class=\"pic-text text-right\">$$</span>",
+"播放页导演": "导演：$$</p>",
+"播放页演员": "主演：$$</p>",
+"播放页剧情": "<p class=\"col-pd\">$$</p>",
+ 
+"播放页二次截取": "空",
+"播放页截取数组": "class=\"stui-content__playlist$$</ul>",
+"播放剧集二次截取": "空",
+"播放剧集截取数组": "<a$$/a>",
+"播放剧集标题": ">$$<",
+"播放剧集链接": "href=\"$$\"",
+"播放剧集链接前缀": "空",
+"播放剧集链接后缀": "空",
+//0：不跳转，1：跳转
+"播放页跳转看图": "0"},
+
 {"name": "香蕉超清资源",
 "url": "https://avss.vip/",
 //访问请求头
@@ -168,6 +260,8 @@
 "lianjiehou": ".html\"",
 "ljqianzhui": "https://avss.vip/cq/Kplay",
 "ljhouzhui": "-1-1.html"},
+
+
 
 {"name": "香蕉国产传媒",
 "url": "https://avss.vip/",
