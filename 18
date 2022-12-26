@@ -9,7 +9,7 @@
 "网站地址": "http://dnhsck.cc/",
 "访问请求ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
 "访问请求cookie": "空",
-"访问请求referer": "空",
+"访问请求referer": "http://dohsck.cc",
 "播放请求头": "User-Agent$123",
 "图片请求头": "空",
 "网页编码": "utf-8",
