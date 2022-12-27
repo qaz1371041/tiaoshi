@@ -5,10 +5,10 @@
 //上面不用管，把下面的网页自定义规则编辑好，复制全部，粘贴到全局就可以测试自定义规则了
 "zidingyi": [
  {"网站名字": "黄色仓库",
-"网站地址": "http://dohsck.cc/",
+"网站地址": "http://emhsck.cc/",
 "访问请求ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
 "访问请求cookie": "空",
-"访问请求referer": "http://dohsck.cc",
+"访问请求referer": "http://emhsck.cc/",
 "播放请求头": "User-Agent$123",
 "图片请求头": "空",
 "网页编码": "utf-8",
