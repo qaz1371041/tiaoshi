@@ -4,11 +4,13 @@
 
 //上面不用管，把下面的网页自定义规则编辑好，复制全部，粘贴到全局就可以测试自定义规则了
 "zidingyi": [
- {"网站名字": "黄色仓库",
-"网站地址": "http://emhsck.cc/",
+
+
+{"网站名字": "爱B视频",
+"网站地址": "https://www.absp4.top/",//永久发布页：https://www.fldz8.com
 "访问请求ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
 "访问请求cookie": "空",
-"访问请求referer": "http://emhsck.cc/",
+"访问请求referer": "空",
 "播放请求头": "User-Agent$123",
 "图片请求头": "空",
 "网页编码": "utf-8",
@@ -31,18 +33,33 @@
 "列表显示": "0",
 "横图显示": "0",
 "列表起始页": "1",
-"列表分类": "日韩AV$/vodtype/1-#国产系列$/vodtype/2-#欧美$/vodtype/3-#成人动漫$/vodtype/4-#无码中文字幕$/vodtype/8-#有码中文字幕$/vodtype/9-#日本无码$/vodtype/10-#日本有码$/vodtype/7-#国产视频$/vodtype/15-#欧美高清$/vodtype/21-#动漫剧情$/vodtype/22-",
+"列表分类": "国产传媒$/vodtype/11-#国产情色$/vodtype/12-#美女主播$/vodtype/13-#AV解说$/vodtype/14-#AI换脸$/vodtype/15-#抖阴视频$/vodtype/16-#网曝门$/vodtype/17-#三级伦理$/vodtype/18-#中文字幕$/vodtype/21-#女优明星$/vodtype/22-#亚洲有码$/vodtype/23-#亚洲无码$/vodtype/24-#制服黑丝$/vodtype/25-#人妻熟女$/vodtype/26-#强奸乱伦$/vodtype/27-#日韩综合$/vodtype/28-#海外精品$/vodtype/31-#海外亚洲$/vodtype/32-#欧美情色$/vodtype/33-#精选口爆$/vodtype/34-#重口味$/vodtype/35-#人妖系列$/vodtype/36-#男同女同$/vodtype/37-#动漫里番$/vodtype/38-",
 "列表后缀": ".html",
 "列表二次截取": "空",
-"列表截取数组": "class=\"stui-vodlist__box\"$$</div>",
+"列表截取数组": "class=\"uzimg\"$$</li>",
 "列表图片前缀": "空",
 "列表图片": "original=\"$$\"",
 "列表标题": "title=\"$$\"",
-"列表副标题": "class=\"pic-text text-right\">$$</span>",
+"列表副标题": "class=\"vodtitle\">$$</p>",
 "列表链接": "href=\"$$\"",
 "列表链接前缀": "空",
-"列表链接后缀": "空"},
+"列表链接后缀": "空",
  
+//0：get方式，1：post方式，注意：如果用post方式，【搜索模式】要填：1
+"搜索请求方式": "0",
+"搜索模式": "0",
+"搜索前": "/index.php/ajax/suggest?mid=1&wd=",
+"搜索后": "&limit=150",
+"搜索连接后缀": "/vodplay/",
+"搜索二次截取": "空",
+"搜索截取数组": "前$$后",
+"搜索图片前缀": "空",
+"搜索图片": "original=\"$$\"",
+"搜索标题": "title=\"$$\"",
+"搜索副标题": "class=\"pic-text text-right\">$$</span>",
+"搜索链接": "href=\"$$\"",
+"搜索链接前缀": "空",
+"搜索链接后缀": "空"},
 
 {"网站名字": "趣谷视频",
 "网站地址": "https://qugutv5.me/",
@@ -720,7 +737,44 @@
 "bflianjieqian": "href=\"",
 "bflianjiehou": "\""},
  
-
+ {"网站名字": "黄色仓库",
+"网站地址": "http://emhsck.cc/",
+"访问请求ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
+"访问请求cookie": "空",
+"访问请求referer": "http://emhsck.cc/",
+"播放请求头": "User-Agent$123",
+"图片请求头": "空",
+"网页编码": "utf-8",
+ 
+//0：不禁用，1：禁用
+"禁用搜索": "0",
+ 
+//0：不启用，1：启用
+"启用js加载源码":"0",
+"js加载源码时间":"5",
+ 
+"嗅探词": "m3u8?#.m3u8#.mp4#.flv#.mp3#.m4a",
+"过滤词": "51.la#cnzz.com#baidu.com#bilibili.com",
+ 
+//0：记录，1：不记录
+"是否记录历史": "0",
+ 
+//0：否，1：是
+"直接播放": "1",
+"列表显示": "0",
+"横图显示": "0",
+"列表起始页": "1",
+"列表分类": "日韩AV$/vodtype/1-#国产系列$/vodtype/2-#欧美$/vodtype/3-#成人动漫$/vodtype/4-#无码中文字幕$/vodtype/8-#有码中文字幕$/vodtype/9-#日本无码$/vodtype/10-#日本有码$/vodtype/7-#国产视频$/vodtype/15-#欧美高清$/vodtype/21-#动漫剧情$/vodtype/22-",
+"列表后缀": ".html",
+"列表二次截取": "空",
+"列表截取数组": "class=\"stui-vodlist__box\"$$</div>",
+"列表图片前缀": "空",
+"列表图片": "original=\"$$\"",
+"列表标题": "title=\"$$\"",
+"列表副标题": "class=\"pic-text text-right\">$$</span>",
+"列表链接": "href=\"$$\"",
+"列表链接前缀": "空",
+"列表链接后缀": "空"},
 
 {"网站名字": "骑士TV",
 "网站地址": "https://qstvv.us/",   //https://aicaola.github.io/
