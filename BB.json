@@ -1744,80 +1744,7 @@
 "播放剧集链接前缀": "空",
 "播放剧集链接后缀": "空"},
  
-{"网站名字": "骑士TV",
-"网站地址": "https://qstvv.us/",   //https://aicaola.github.io/
-"访问请求ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
-"访问请求cookie": "空",
-"访问请求referer": "空",
-"播放请求头": "User-Agent$123",
-"图片请求头": "空",
-"网页编码": "utf-8",
- 
-//0：不禁用，1：禁用
-"禁用搜索": "0",
- 
-//0：不启用，1：启用
-"启用js加载源码":"0",
-"js加载源码时间":"5",
- 
-"嗅探词": "m3u8?#.m3u8#.mp4#.flv#.mp3#.m4a",
-"过滤词": "51.la#cnzz.com#baidu.com#bilibili.com",
- 
-//0：记录，1：不记录
-"是否记录历史": "0",
- 
-//0：否，1：是
-"直接播放": "0",
-"列表显示": "0",
-"横图显示": "0",
-"列表起始页": "1",
-"列表分类": "麻豆精品$/vodtype/13-#国产视频$/vodtype/14-#自拍偷拍$/vodtype/15-#主播裸聊$/vodtype/16-#精品探花$/vodtype/17-#日本无码$/vodtype/18-#中文字幕$/vodtype/20-#原创自拍$/vodtype/21-#麻豆传媒$/vodtype/22-#国产自拍$/vodtype/23-#无码专区$/vodtype/24-#制服诱惑$/vodtype/25-#中文字幕$/vodtype/26-#美女主播$/vodtype/27-#熟女人妻$/vodtype/28-#群交乱伦$/vodtype/29-#国产厂商$/vodtype/30#国产专区$/vodtype/31-#主播视讯$/vodtype/32-#日本无码$/vodtype/33-#中文字幕$/vodtype/34-#91制片$/vodtype/35-#黑料事件$/vodtype/36-#水果解说$/vodtype/37-#影业传媒$/vodtype/38-#国产视频$/vodtype/39-#网暴事件$/vodtype/40-#抖阴视频$/vodtype/41-#强奸乱伦$/vodtype/42-#制服诱惑$/vodtype/43-#三级伦理$/vodtype/44-#卡通动漫$/vodtype/45-",
-"列表后缀": ".html",
-"列表二次截取": "空",
-"列表截取数组": "class=\"video\"$$</div>",
-"列表图片前缀": "空",
-"列表图片": "src=\"$$\"",
-"列表标题": "title=\"$$\"",
-"列表副标题": "class=\"pic-text text-right\">$$</span>",
-"列表链接": "href=\"$$\"",
-"列表链接前缀": "空",
-"列表链接后缀": "空",
- 
-//0：get方式，1：post方式，注意：如果用post方式，【搜索模式】要填：1
-"搜索请求方式": "0",
-"搜索模式": "0",
-"搜索前": "/index.php/ajax/suggest?mid=1&wd=",
-"搜索后": "&limit=150",
-"搜索连接后缀": "/voddetail/",
-"搜索二次截取": "空",
-"搜索截取数组": "前$$后",
-"搜索图片前缀": "空",
-"搜索图片": "original=\"$$\"",
-"搜索标题": "title=\"$$\"",
-"搜索副标题": "class=\"pic-text text-right\">$$</span>",
-"搜索链接": "href=\"$$\"",
-"搜索链接前缀": "空",
-"搜索链接后缀": "空",
- 
-//0：不启用，1：启用
-"启用线路名": "0",
-"线路名二次截取": "空",
-"线路名截取数组": "class=\"more$$</div>",
-"线路名标题": "/>$$</h3>",
- 
-"播放页状态": "更新：</span>$$</dd>",
-"播放页导演": "导演：$$</dd>",
-"播放页演员": "主演：$$</dd>",
-"播放页剧情": "<p class=\"col-pd\">$$</p>",
- 
-"播放页二次截取": "空",
-"播放页截取数组": "class=\"col-xs-12$$</div>",
-"播放剧集二次截取": "空",
-"播放剧集截取数组": "<a class=\"btn btn-lg$$/a>",
-"播放剧集标题": ">$$<",
-"播放剧集链接": "href=\"$$\"",
-"播放剧集链接前缀": "空",
-"播放剧集链接后缀": "空"},
+
  
  {"网站名字": "白虎色",
 "网站地址": "https://paipancon.com/",
@@ -2016,81 +1943,7 @@
  
  
  
- {"网站名字": "四裤全输",
-"网站地址": "https://sikuqs.xyz/",
-"访问请求ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
-"访问请求cookie": "空",
-"访问请求referer": "空",
-"播放请求头": "User-Agent$123",
-"图片请求头": "空",
-"网页编码": "utf-8",
  
-//0：不禁用，1：禁用
-"禁用搜索": "0",
- 
-//0：不启用，1：启用
-"启用js加载源码":"0",
-"js加载源码时间":"5",
- 
-"嗅探词": "m3u8?#.m3u8#.mp4#.flv#.mp3#.m4a",
-"过滤词": "51.la#cnzz.com#baidu.com#bilibili.com",
- 
-//0：记录，1：不记录
-"是否记录历史": "0",
- 
-//0：否，1：是
-"直接播放": "0",
-"列表显示": "0",
-"横图显示": "0",
-"列表起始页": "1",
-"列表分类": "巨乳美乳$/index.php/vod/type/id/29/page/  #中文字幕$/index.php/vod/type/id/28/page/#日本有码$/index.php/vod/type/id/27/page/#日本无码$/index.php/vod/type/id/26/page/#主播直播$/index.php/vod/type/id/25/page/#热门事件$/index.php/vod/type/id/24/page/#网拍嫩模$/index.php/vod/type/id/23/page/#嫩妹福利$/index.php/vod/type/id/22/page/ #精彩时刻$/index.php/vod/type/id/21/page/#欧美极品$/index.php/vod/type/id/31/page/#熟女人妻$/index.php/vod/type/id/32/page/#变态调教$/index.php/vod/type/id/33/page/#制服诱惑$/index.php/vod/type/id/34/page/#少女萝莉$ /index.php/vod/type/id/36/page/#自拍偷拍$/index.php/vod/type/id/37/page/#三级伦理$/index.php/vod/type/id/38/page/ #明星偶像$/index.php/vod/type/id/39/page/#91大神$ /index.php/vod/type/id/40/page/ #国产原创$ /index.php/vod/type/id/41/page/#经典剧情$ /index.php/vod/type/id/42/page/#恐怖色情$/index.php/vod/type/id/43/page/#水果派$/index.php/vod/type/id/61/page/#麻豆传媒$/index.php/vod/type/id/62/page/ #91制片厂$ /index.php/vod/type/id/63/page/#蜜桃影像$ /index.php/vod/type/id/64/page/#天美传媒$/index.php/vod/type/id/65/page/#精东影业$  /index.php/vod/type/id/66/page/ #星空无限$/index.php/vod/type/id/67/page/ #台湾swag$/index.php/vod/type/id/68/page/#成人动漫$ /index.php/vod/type/id/35/page/   ",
-"列表后缀": ".html",
-"列表二次截取": "空",
-"列表截取数组": "class=\"thumbnail$$</a>",
-"列表图片前缀": "空",
-"列表图片": "src=\"$$\"",
-"列表标题": "alt=\"$$\"",
-"列表副标题": "class=\"pic-text text-right\">$$</span>",
-"列表链接": "href=\"$$\"",
-"列表链接前缀": "空",
-"列表链接后缀": "空",
- 
-//0：get方式，1：post方式，注意：如果用post方式，【搜索模式】要填：1
-"搜索请求方式": "0",
-"搜索模式": "0",
-"搜索前": "/index.php/ajax/suggest?mid=1&wd=",
-"搜索后": "&limit=150",
-"搜索连接后缀": "/index.php/vod/detail/id/",
-"搜索二次截取": "空",
-"搜索截取数组": "前$$后",
-"搜索图片前缀": "空",
-"搜索图片": "original=\"$$\"",
-"搜索标题": "title=\"$$\"",
-"搜索副标题": "class=\"pic-text text-right\">$$</span>",
-"搜索链接": "href=\"$$\"",
-"搜索链接前缀": "空",
-"搜索链接后缀": "空",
- 
-//0：不启用，1：启用
-"启用线路名": "0",
-"线路名二次截取": "空",
-"线路名截取数组": "class=\"more$$</div>",
-"线路名标题": "/>$$</h3>",
- 
-"播放页状态": "片名：$$</li>",
-"播放页导演": "类型：$$</li>",
-"播放页演员": "更新：$$</li>",
-"播放页剧情": "本站地址：$$</li>",
- 
-"播放页二次截取": "空",
-"播放页截取数组": "class=\"detail-play-list$$</ul>",
-"播放剧集二次截取": "空",
-"播放剧集截取数组": "<a$$/a>",
-"播放剧集标题": ">$$<",
-"播放剧集链接": "href=\"$$\"",
-"播放剧集链接前缀": "空",
-"播放剧集链接后缀": "空"},
-
  {"name": "麻豆传媒",
 "url": "https://www.madoupj.com",
 "tihuan": "cnzz.com",
@@ -2881,7 +2734,7 @@
 
 {
   "name": "在线之家",
-  "url": "https://zxzj.vip/",
+  "url": "https://www.zxzj.pro/",
   "User": "空",
   "shouye": "1",
   "fenlei": "电影$/list/1-#美剧$/list/2-#韩剧$/list/3-#日剧$/list/4-#泰剧$/list/5-#动漫$/list/6-",
@@ -2938,161 +2791,12 @@
   "bflianjieqian": "href=\"",
   "bflianjiehou": "\""},
 
- {"网站名字": "喵影视",
-"网站地址": "http://www.miaoys.cc/",
-"访问请求ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
-"访问请求cookie": "空",
-"访问请求referer": "空",
-"播放请求头": "User-Agent$123",
-"图片请求头": "空",
-"网页编码": "utf-8",
-
-//0：不禁用，1：禁用
-"禁用搜索": "0",
-
-//0：不启用，1：启用
-"启用js加载源码":"0",
-"js加载源码时间":"5",
-
-"嗅探词": "m3u8?#.m3u8#.mp4#.flv#.mp3#.m4a",
-"过滤词": "51.la#cnzz.com#baidu.com#bilibili.com",
-
-//0：记录，1：不记录
-"是否记录历史": "0",
-
-//0：否，1：是
-"直接播放": "0",
-"列表显示": "0",
-"横图显示": "0",
-"列表起始页": "1",
-"列表分类": "电视剧$/index.php/vod/show/id/2/page/#电影$/index.php/vod/show/id/1/page/#综艺$/index.php/vod/show/id/3/page/#动漫$/index.php/vod/show/id/4/page/",
-"列表后缀": ".html",
-"列表二次截取": "class=\"module-items$$id=\"page",
-"列表截取数组": "<a$$</a>",
-"列表图片前缀": "空",
-"列表图片": "data-original=\"$$\"",
-"列表标题": "alt=\"$$\"",
-"列表副标题": "class=\"pic-text text-right\">$$</span>",
-"列表链接": "href=\"$$\"",
-"列表链接前缀": "空",
-"列表链接后缀": "空",
-
-//0：get方式，1：post方式，注意：如果用post方式，【搜索模式】要填：1
-"搜索请求方式": "0",
-"搜索模式": "0",
-"搜索前": "/index.php/ajax/suggest?mid=1&wd=",
-"搜索后": "&limit=150",
-"搜索连接后缀": "/index.php/vod/detail/id/",
-"搜索二次截取": "空",
-"搜索截取数组": "前$$后",
-"搜索图片前缀": "空",
-"搜索图片": "data-original=\"$$\"",
-"搜索标题": "alt=\"$$\"",
-"搜索副标题": "class=\"pic-text text-right\">$$</span>",
-"搜索链接": "href=\"$$\"",
-"搜索链接前缀": "空",
-"搜索链接后缀": "空",
-
-//0：不启用，1：启用
-"启用线路名": "1",
-"线路名二次截取": "空",
-"线路名截取数组": "data-dropdown-value=$$</div>",
-"线路名标题": "<span>$$</span>",
-
-"播放页状态": "class=\"module-info-item-title\">更新$$</div>",
-"播放页导演": "导演：</span>$$</div>",
-"播放页演员": "主演：</span>$$</div>",
-"播放页剧情": " class=\"module-info-introduction-content\">$$</div>",
-
-"播放页二次截取": "空",
-"播放页截取数组": "class=\"module-play-list-content$$</div>",
-"播放剧集二次截取": "空",
-"播放剧集截取数组": "<a$$/a>",
-"播放剧集标题": "<span>$$</span>",
-"播放剧集链接": "href=\"$$\"",
-"播放剧集链接前缀": "空",
-"播放剧集链接后缀": "空"},
-
-{"网站名字": "布蕾蓝光影城",
-"网站地址": "https://bulei.cc/",
-"访问请求ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
-"访问请求cookie": "空",
-"访问请求referer": "空",
-"播放请求头": "User-Agent$123",
-"图片请求头": "空",
-"网页编码": "utf-8",
-
-//0：不禁用，1：禁用
-"禁用搜索": "0",
-
-//0：不启用，1：启用
-"启用js加载源码":"0",
-"js加载源码时间":"5",
-
-"嗅探词": "m3u8?#.m3u8#.mp4#.flv#.mp3#.m4a",
-"过滤词": "51.la#cnzz.com#baidu.com#bilibili.com",
-
-//0：记录，1：不记录
-"是否记录历史": "0",
-
-//0：否，1：是
-"直接播放": "0",
-"列表显示": "0",
-"横图显示": "0",
-"列表起始页": "1",
-"列表分类": "电影$/index.php/vod/show/id/1/page/#电视剧$/index.php/vod/show/id/2/page/#综艺$/index.php/vod/show/id/3/page/#动漫$/index.php/vod/show/id/4/page/#欧美剧$/index.php/vod/show/id/5/page/#日韩剧$/index.php/vod/show/id/21/page/#哔哩哔哩$/index.php/vod/show/id/22/page/#记录片$/index.php/vod/show/id/20/page/",
-"列表后缀": ".html",
-"列表二次截取": "评分排序</a>$$id=\"page",
-"列表截取数组": "<a$$</a>",
-"列表图片前缀": "空",
-"列表图片":"data-original=\"$$\"",
-"列表标题": "alt=\"$$\"",
-"列表副标题": "class=\"module-item-note\">$$</div>",
-"列表链接": "href=\"$$\"",
-"列表链接前缀": "空",
-"列表链接后缀": "空",
-
-//0：get方式，1：post方式，注意：如果用post方式，【搜索模式】要填：1
-"搜索请求方式": "0",
-"搜索模式": "0",
-"搜索前": "/index.php/ajax/suggest?mid=1&wd=",
-"搜索后": "&limit=150",
-"搜索连接后缀": "/index.php/vod/detail/id/",
-"搜索二次截取": "空",
-"搜索截取数组": "class=\"card-content\"$$class=\"card-content",
-"搜索图片前缀": "空",
-"搜索图片": "data-original=\"$$\"",
-"搜索标题": "alt=\"$$\"",
-"搜索副标题": "class=\"module-item-note\">$$</div>",
-"搜索链接": "href=\"$$\"",
-"搜索链接前缀": "空",
-"搜索链接后缀": "空",
-
-//0：不启用，1：启用
-"启用线路名": "1",
-"线路名二次截取": "空",
-"线路名截取数组": "data-dropdown-value=$$</div>",
-"线路名标题": "<span>$$</span>",
-
-"播放页状态": "更新：</span>$$</div>",
-"播放页导演": "导演：</span>$$</div>",
-"播放页演员": "主演：</span>$$</div>",
-"播放页剧情": "style=\"line-height: 20px;\">$$</p>",
-
-"播放页二次截取": "空",
-"播放页截取数组": "class=\"module-play-list-content$$</div>",
-"播放剧集二次截取": "空",
-"播放剧集截取数组": "<a$$/a>",
-"播放剧集标题": "<span>$$</span>",
-"播放剧集链接": "href=\"$$\"",
-"播放剧集链接前缀": "空",
-"播放剧集链接后缀": "空"},
-
+ 
 
 
 
 {"name": "蓝光影院",
-"url": "https://www.lgyy.cc",
+"url": "https://www.lgyy.cc/",
 "tihuan": "cnzz.com",
  "ua":"Mozilla/5.0 (Linux; Android 10; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.104 Mobile Safari/537.36",
 "User": "空",
