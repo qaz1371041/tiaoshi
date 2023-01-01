@@ -154,6 +154,44 @@
 "播放剧集链接前缀": "空",
 "播放剧集链接后缀": "空"},
 
+{"网站名字": "CaoPorm",
+"网站地址": "https://xiaomi333.lol/",//永久地址：https://fuck188.com/
+"访问请求ua": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36",
+"访问请求cookie": "空",
+"访问请求referer": "空",
+"播放请求头": "User-Agent$123",
+"图片请求头": "空",
+"网页编码": "utf-8",
+ 
+//0：不禁用，1：禁用
+"禁用搜索": "0",
+ 
+//0：不启用，1：启用
+"启用js加载源码":"0",
+"js加载源码时间":"5",
+ 
+"嗅探词": "m3u8?#.m3u8#.mp4#.flv#.mp3#.m4a",
+"过滤词": "51.la#cnzz.com#baidu.com#bilibili.com",
+ 
+//0：记录，1：不记录
+"是否记录历史": "0",
+ 
+//0：否，1：是
+"直接播放": "1",
+"列表显示": "0",
+"横图显示": "0",
+"列表起始页": "1",
+"列表分类": "原创精品$/index.php/vod/type/id/6/page/#热门传媒$/index.php/vod/type/id/7/page/#日本无码$/index.php/vod/type/id/21/page/#PR福利社$/index.php/vod/type/id/8/page/#欧美激情$/index.php/vod/type/id/9/page/#精选国产$/index.php/vod/type/id/4/page/#网红主播$/index.php/vod/type/id/32/page/#动漫里番$/index.php/vod/type/id/12/page/#A V 解说$/index.php/vod/type/id/10/page/#明星换脸$/index.php/vod/type/id/5/page/",
+"列表后缀": ".html",
+"列表二次截取": "空",
+"列表截取数组": "class=\"pre-img$$class=\"pre-img",
+"列表图片前缀": "空",
+"列表图片": "data-src=\"$$\"",
+"列表标题": "class=\"video-desc\">$$</div>",
+"列表副标题": "class=\"video-desc-comment\">$$</div>",
+"列表链接": "href=\"$$\"",
+"列表链接前缀": "空",
+"列表链接后缀": "空"},
 
 {"网站名字": "爱B视频",
 "网站地址": "https://www.absp4.top/",//永久发布页：https://www.fldz8.com
