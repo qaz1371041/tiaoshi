@@ -89,12 +89,17 @@
 
 //主解析是JSON直链格式的解析
 "zhujiexi":[
+ 
+ {"name":"02","url":"http://110.42.2.115:880/analysis/json/?uid=2361&my=bcfjrtuvyBCDFNPQZ3&url="},
+{"name":"03","url":"https://svip.rongxingvr.top/api/?key=adK6frXXYNiu2Ocx84&url="},
+{"name":"04","url":"http://183.131.85.14:7788/home/api?type=ys&uid=3496830&key=gklpqrvxDEFKMORSV5&url="},
+ 
+ 
  {"name": "解析1","type": 1,"url": "https://mv.i8k.cc/API.php?abcdfjnoxGHPQW0126&url="},
  {"name": "解析2","type": 1,"url": "http://110.42.2.115:880/analysis/json/?uid=45&my=cdflotwyAIMPQTV467&url="},
  {"name":"1","url":"http://61.160.223.41:7788/home/api?type=ys&uid=3565393&key=acginotxzCEFNRS368&url="},
  {"name":"2","url":"http://110.42.2.115:880/analysis/json/?uid=2361&my=befhlsvCEFHIMUY189&url="},
  {"name":"3","url":"https://svip.rongxingvr.top/api/?key=adK6frXXYNiu2Ocx84&url="},
- 
 {"name":"左岸","url":"http://110.42.2.115:880/analysis/json/?uid=2100&my=cqrtwyACDGLOXY0249&mgtv=app&url="},
  {"name":"01","url":"http://it.bt5v.com/json/jsonindex.php/?url="},
 {"name":"懒懒1","url":"http://lanlan.ckflv.cn/?url="},
