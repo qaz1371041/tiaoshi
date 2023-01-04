@@ -67,6 +67,7 @@
 //填写采集接口
 "caijizhan": [
 {"name":"七七采集","url":"http://api.kunyu77.com/api.php"},
+{"name":"量子资源","url":"https://cj.lziapi.com/api.php/"}, 
 {"name":"天堂资源","url":"http://vipmv.cc/api.php"}, 
 {"name":"追剧达人","url":"http://zjdr.tv/api.php/"},
 {"name":"千橙资源","url":"http://124.223.10.96:8090/api.php"}, 
