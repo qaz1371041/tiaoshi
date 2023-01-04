@@ -67,12 +67,23 @@
 //填写采集接口
 "caijizhan": [
 {"name":"七七采集","url":"http://api.kunyu77.com/api.php"},
+ 
 {"name":"量子资源","url":"https://cj.lziapi.com/api.php/"}, 
+{"name":"卧龙资源{有广告}","url":"https://collect.wolongzyw.com/api.php/"},
+{"name":"乐活影视","url":"https://lehootv.com/api.php/"},
+{"name":"最大资源","url":"http://zuidazy.me/api.php/"}, 
+{"name":"酷点资源","url":"https://kudianzy.com/api.php/"},
+{"name":"飞速资源{有广告}","url":"https://www.feisuzy.com/api.php/"}, 
+{"name":"光速资源","url":"https://api.guangsuapi.com/api.php/"}, 
+{"name":"快播资源{有广告}","url":"http://www.kuaibozy.com/api.php/"},
+{"name":"南国影源","url":"http://api.nguonphim.tv/api.php/"}, 
+{"name":"热剧天堂","url":"http://175.178.7.35:2020/api.php/"},
+ 
 {"name":"天堂资源","url":"http://vipmv.cc/api.php"}, 
 {"name":"追剧达人","url":"http://zjdr.tv/api.php/"},
 {"name":"千橙资源","url":"http://124.223.10.96:8090/api.php"}, 
 {"name":"醉璃笙TV","url":"http://web.xhdj.vip/api.php"}, 
- {"name":"最大资源","url":"http://zuidazy.me/api.php/"},
+{"name":"最大资源","url":"http://zuidazy.me/api.php/"},
 {"name":"非凡资源","url":"http://cj.ffzyapi.com/api.php/"},
 {"name":"星海资源","url":"https://www.xhzy01.com/api.php"},
 {"name":"U酷资源","url":"https://api.ukuapi.com/api.php"},
