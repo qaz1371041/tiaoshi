@@ -39,7 +39,9 @@
 {"name":"追影猫","url":"https://zhuiyingmao.com/api.php/app/"},
 {"name":"神马影院","url":"https://www.smdyy.cc/api.php/app/"},
 {"name":"无限影视网","url":"https://www.wxtv.net/api.php/app/"}, 
- 
+ {"name":"映迷","url":"https://www.inmi.app/xgapp.php/v1/"},
+
+
 {"name":"爱电影","url":"https://www.idianying.com.cn/mogai_api.php/v1.vod"},
 {"name":"大米星球","url":"https://dmdy2.vip/api.php/app/"},
 {"name":"HG影视","url":"http://bbq.1006.tk/api.php/v1.vod"},
@@ -79,8 +81,8 @@
 {"name":"光速资源","url":"https://api.guangsuapi.com/api.php/"}, 
 {"name":"快播资源{有广告}","url":"http://www.kuaibozy.com/api.php/"},
 {"name":"南国影源","url":"http://api.nguonphim.tv/api.php/"}, 
-
- 
+{"name":"TVB云播","url":"http://www.tvyb03.com/api.php/"},
+{"name":"考拉TV","url":"https://ikaola.tv/api.php/"},
 {"name":"天堂资源","url":"http://vipmv.cc/api.php"}, 
 {"name":"追剧达人","url":"http://zjdr.tv/api.php/"},
 {"name":"千橙资源","url":"http://124.223.10.96:8090/api.php"}, 
@@ -134,6 +136,12 @@
  {"name":"8K影视","url":"http://play.dy4.top:888/api7_cc/?url="},
  {"name": "解析7","type": 0,"url": "https://api.okjx.cc:3389/jx.php?url="},
  
+ {"name":"夜幕","type": 1,"url":"https://www.yemu.xyz/?url="},
+{"name":"左岸","type": 1,"url":"https://jx.bozrc.com:4433/player/?url="},
+{"name":"OK解析","type": 0,"url": "https://okjx.cc/?url="},
+{"name":"线路2","url":"https://jx.bozrc.com:4433/player/?url="},
+{"name":"线路10","url":"https://www.nxflv.com/?url="},
+
 {"name":"2","url":"https://jx.bozrc.com:4433/player/?url="},
 {"name":"3","url":"http://43.140.205.222/jiexi.php?url="},
 {"name":"4","url":"https://jx.xmflv.com/?url="},
