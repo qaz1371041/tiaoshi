@@ -107,7 +107,8 @@
 "zhujiexi":[
  {"name":"懒懒1","url":"http://lanlan.ckflv.cn/?url="},
  
-
+{"name":"1号线","url":"https://it.cntnn.com/API.php?appkey=404164cdd1472561b4c61f1845e0bff8&url=
+"},
  
  
 
@@ -122,6 +123,7 @@
 //备用解析是常规格式的解析
 "beiyongjiexi":[
  {"name":"1","url":"https://jx.777jiexi.com/player/?url="},
+ {"name":"3号线","url":"https://iptv.tkmovice.com/?url="},
  {"name":"8K影视","url":"http://play.dy4.top:888/api7_cc/?url="},
  {"name": "解析7","type": 0,"url": "https://api.okjx.cc:3389/jx.php?url="},
  
