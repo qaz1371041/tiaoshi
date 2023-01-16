@@ -378,91 +378,7 @@
 "播放剧集链接后缀": "空"},
 
 
- {"网站名字": "扛把子影院",
-"网站地址": "https://www.ququmc.com/",
-"访问请求ua": "Mozilla/5.0 (iPad; CPU OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 Mobile/14E304 Safari/602.1",
-"访问请求cookie": "空",
-"访问请求referer": "空",
-"播放请求头": "User-Agent$123",
-"图片请求头": "空",
-"网页编码": "utf-8",
  
-//0：不禁用，1：禁用
-"禁用搜索": "0",
- 
-//0：不启用，1：启用
-"搜索手动验证": "0",
- 
-//0：不启用，1：启用
-"是否启用解析模式": "0",
- 
-//需要点击播放的网站可以自己找网页的点击js字符
-"自动点击字符": "空",
- 
-//0：不启用，1：启用
-"启用js加载源码":"0",
-"js加载源码时间":"5",
- 
-"嗅探词": "m3u8?#.m3u8#.mp4#.flv#.mp3#.m4a",
-"过滤词": "51.la#cnzz.com#baidu.com#bilibili.com",
- 
-//0：记录，1：不记录
-"是否记录历史": "0",
- 
-//0：否，1：是
-"直接播放": "0",
-"列表显示": "0",
-"横图显示": "0",
-"列表起始页": "1",
-"列表分类": "电视剧$/type/2/#电影$/type/1/#综艺$/type/3/#动漫$/type/4/#福利$/type/5/#神曲$/type/6/",
-"列表后缀": ".html",
-"列表二次截取": "空",
-"列表截取数组": "class=\"vbox\"$$</h4>",
-"列表图片前缀": "空",
-"列表图片": "url($$);",
-"列表标题": "title=\"$$\"",
-"列表副标题": "class=\"pic-text text-right\">$$</span>",
-"列表链接": "href=\"$$\"",
-"列表链接前缀": "空",
-"列表链接后缀": "空",
- 
-//0：get方式，1：post方式，注意：如果用post方式，【搜索模式】要填：1
-"搜索请求方式": "0",
-"搜索模式": "1",
-"搜索前": "/index.php/ajax/suggest?mid=1&wd=",
-"搜索后": "&limit=150",
-"搜索连接后缀": "/show/",
-"搜索二次截取": "空",
-"搜索截取数组": "class=\"vbox_t\"$$</h4>",
-"搜索图片前缀": "空",
-"搜索图片": "original=\"$$\"",
-"搜索标题": "title=\"$$\"",
-"搜索副标题": "class=\"pic-text text-right\">$$</span>",
-"搜索链接": "href=\"$$\"",
-"搜索链接前缀": "空",
-"搜索链接后缀": "空",
- 
-//0：不启用，1：启用
-"启用线路名": "1",
-"线路名二次截取": "空",
-"线路名截取数组": "class=\"tbox tabs$$</div>",
-"线路名标题": "</i>$$(",
- 
-"播放页状态": "class=\"yac\">$$</p>",
-"播放页导演": "class=\"dir\">$$</p>",
-"播放页演员": "class=\"act\">$$</p>",
-"播放页剧情": "class=\"tbox_js\">$$</div>",
- 
-"播放页二次截取": "空",
-"播放页截取数组": "class=\"list_block show$$</ul>",
-"播放剧集二次截取": "空",
-"播放剧集截取数组": "<a$$/a>",
-"播放剧集标题": ">$$<",
-"播放剧集链接": "href=\"$$\"",
-"播放剧集链接前缀": "空",
-"播放剧集链接后缀": "空",
-//0：不跳转，1：跳转
-"播放页跳转看图": "0"},
 
 
  {"网站名字": "巨人影院",
@@ -551,95 +467,90 @@
 //0：不跳转，1：跳转
 "播放页跳转看图": "0"},
  
- 
-      {"name": "饭团影视",
-      "url": "https://www.fantuanhd.com",
-      "ua": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36",
-      "User": "User-Agent$123",
-      "嗅探词": "m3u8?#.m3u8#.mp4#.flv#.mp3#.m4a",
-      "过滤词": "51.la#cnzz.com#baidu.com#?url=",
-      "cookie": "",
-      "是否记录历史": "0",
-      "直接播放": "0",
-      "列表显示": "0",
-      "横图显示": "0",
-      "添加手动点击图标": "1",
-      "qishiye": "1",
-      "fenlei": "电影$/type/id-20-#电视剧$/type/id-21-#综艺$/type/id-22-#动漫/少儿$/type/id-23-#纪录片$/type/id-24-",
-      "houzhui": ".html",
-      "shifouercijiequ": "0",
-      "jiequqian": "空",
-      "jiequhou": "空",
-      "jiequshuzuqian": "class=\"stui-vodlist__box",
-      "jiequshuzuhou": "</a>",
-      "tupianqian": "original=\"",
-      "tupianhou": "\"",
-      "tupianqianzhui": "空",
-      "biaotiqian": "title=\"",
-      "biaotihou": "\"",
-      "fubiaotiqian": "text-right\">",
-      "fubiaotihou": "</span>",
-      "lianjieqian": "href=\"/play/",
-      "lianjiehou": "-1-1.html\"",
-      "ljqianzhui": "https://www.fantuanhd.com/detail/",
-      "ljhouzhui": ".html",
-      "搜索请求方式": "0",
-      "ssmoshi": "0",
-      "sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
-      "sousuohou": "&limit=500",
-      "sousuohouzhui": "/detail/",
-      "jspic": "pic",
-      "jsname": "name",
-      "jsid": "id",
-      "sousuoshifouercijiequ": "0",
-      "ssjiequqian": "空",
-      "ssjiequhou": "空",
-      "ssjiequshuzuqian": "class=\"stui-vodlist__box",
-      "ssjiequshuzuhou": "</a>",
-      "sstupianqian": "original=\"",
-      "sstupianhou": "\"",
-      "sstupianqianzhui": "空",
-      "ssbiaotiqian": "title=\"",
-      "ssbiaotihou": "\"",
-      "ssfubiaotiqian": "text_right\">",
-      "ssfubiaotihou": "</span>",
-      "sslianjieqian": "href=\"",
-      "sslianjiehou": "\"",
-      "ssljqianzhui": "空",
-      "ssljhouzhui": "空",
-      "是否启用播放线路名": "1",
-      "线路名是否二次截取": "0",
-      "线路名截取前": "",
-      "线路名截取后": "",
-      "线路名截取数组前": "class=\"pull-right\">",
-      "线路名截取数组后": "</div>",
-      "线路名标题前": "<h3>",
-      "线路名标题后": "</h3>",
-      "bfshifouercijiequ": "0",
-      "bfjiequqian": "空",
-      "bfjiequhou": "空",
-      "bfjiequshuzuqian": "class=\"stui-content__playlist",
-      "bfjiequshuzuhou": "</ul>",
-      "zhuangtaiqian": "类型：",
-      "zhuangtaihou": "</p>",
-      "daoyanqian": "导演：",
-      "daoyanhou": "</p>",
-      "zhuyanqian": "主演：",
-      "zhuyanhou": "</p>",
-      "juqingqian": "class=\"detail-content\" style=\"display: none;\">",
-      "juqinghou": "</span>",
-      "bfyshifouercijiequ": "0",
-      "bfyjiequqian": "空",
-      "bfyjiequhou": "空",
-      "bfyjiequshuzuqian": "<a",
-      "bfyjiequshuzuhou": "/a>",
-      "bfbiaotiqian": ">",
-      "bfbiaotihou": "<",
-      "bflianjieqian": "href=\"",
-      "bflianjiehou": "\"",
-      "bfqianzhui": "空",
-      "bfhouzhui": "空",
-      "bfjiexi": "空" },
+ {"网站名字": "饭团影视",
+"网站地址": "https://www.fantuanhd.com/",
+"访问请求ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
+"访问请求cookie": "空",
+"访问请求referer": "空",
+"播放请求头": "User-Agent$123",
+"图片请求头": "空",
+"网页编码": "utf-8",
+
+//0：不禁用，1：禁用
+"禁用搜索": "0",
+
+//0：不启用，1：启用
+"是否启用解析模式": "0",
+
+//需要点击播放的网站可以自己找网页的点击js字符
+"自动点击字符": "空",
+
+//0：不启用，1：启用
+"启用js加载源码":"0",
+"js加载源码时间":"5",
+
+"嗅探词": "m3u8?#.m3u8#.mp4#.flv#.mp3#.m4a",
+"过滤词": "51.la#cnzz.com#baidu.com#bilibili.com",
+
+//0：记录，1：不记录
+"是否记录历史": "0",
+
+//0：否，1：是
+"直接播放": "0",
+"列表显示": "0",
+"横图显示": "0",
+"列表起始页": "1",
+"列表分类": "电影$/type/id-20-#电视剧$/type/id-21-#综艺$/type/id-22-#动漫/少儿$/type/id-23-#纪录片$/type/id-24-",
+"列表后缀": ".html",
+"列表二次截取": "空",
+"列表截取数组": "class=\"stui-vodlist__box\"$$</a>",
+"列表图片前缀": "空",
+"列表图片": "original=\"$$\"",
+"列表标题": "title=\"$$\"",
+"列表副标题": "class=\"pic-text text-right\">$$</span>",
+"列表链接": "href=\"$$\"",
+"列表链接前缀": "空",
+"列表链接后缀": "空",
+
+//0：get方式，1：post方式，注意：如果用post方式，【搜索模式】要填：1
+"搜索请求方式": "0",
+"搜索模式": "0",
+"搜索前": "/index.php/ajax/suggest?mid=1&wd=",
+"搜索后": "&limit=150",
+"搜索连接后缀": "/detail/id-",
+"搜索二次截取": "空",
+"搜索截取数组": "前$$后",
+"搜索图片前缀": "空",
+"搜索图片": "original=\"$$\"",
+"搜索标题": "title=\"$$\"",
+"搜索副标题": "class=\"pic-text text-right\">$$</span>",
+"搜索链接": "href=\"$$\"",
+"搜索链接前缀": "空",
+"搜索链接后缀": "空",
+
+//0：不启用，1：启用
+"启用线路名": "1",
+"线路名二次截取": "空",
+"线路名截取数组": "class=\"pull-right$$</div>",
+"线路名标题": "<h3>$$</h3>",
+
+"播放页状态": "class=\"data\">类型：$$</p>",
+"播放页导演": "导演：$$</p>",
+"播放页演员": "主演：$$</p>",
+"播放页剧情": "style=\"display: none;\">$$</p>",
+
+"播放页二次截取": "空",
+"播放页截取数组": "class=\"stui-content__playlist$$</ul>",
+"播放剧集二次截取": "空",
+"播放剧集截取数组": "<a$$/a>",
+"播放剧集标题": ">$$<",
+"播放剧集链接": "href=\"$$\"",
+"播放剧集链接前缀": "空",
+"播放剧集链接后缀": "空",
+//0：不跳转，1：跳转
+"播放页跳转看图": "0"},
+
+      
  
  {"网站名字": "低端影视",
 "网站地址": "http://www.jinyanw.com/",
@@ -799,158 +710,12 @@
 "播放剧集链接前缀": "空",
 "播放剧集链接后缀": "空"},
  
- {"网站名字": "2023看电影网",
-"网站地址": "https://www.2023kan.com/",
-"访问请求ua": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36",
-"访问请求cookie": "空",
-"访问请求referer": "空",
-"播放请求头": "User-Agent$123",
-"图片请求头": "空",
-"网页编码": "utf-8",
-
-//0：不禁用，1：禁用
-"禁用搜索": "0",
-
-//0：不启用，1：启用
-"启用js加载源码":"0",
-"js加载源码时间":"5",
-
-"嗅探词": "m3u8?#.m3u8#.mp4#.flv#.mp3#.m4a",
-"过滤词": "51.la#cnzz.com#baidu.com#bilibili.com",
-
-//0：记录，1：不记录
-"是否记录历史": "0",
-
-//0：否，1：是
-"直接播放": "0",
-"列表显示": "0",
-"横图显示": "0",
-"列表起始页": "1",
-"列表分类": "电视剧$/type/2/#电影$/type/1/#综艺$/type/3/#动漫$/type/4/#纪录片$/type/5/#伦理$/type/6/",
-"列表后缀": ".html",
-"列表二次截取": "空",
-"列表截取数组": "class=\"link-hover\"$$</a>",
-"列表图片前缀": "空",
-"列表图片": "src=\"$$\"",
-"列表标题": "title=\"$$\"",
-"列表副标题": "class=\"other\">$$</p>",
-"列表链接": "href=\"$$\"",
-"列表链接前缀": "空",
-"列表链接后缀": "空",
-
-//0：get方式，1：post方式，注意：如果用post方式，【搜索模式】要填：1
-"搜索请求方式": "0",
-"搜索模式": "1",
-"搜索前": "/index.php/vod/search/wd/",
-"搜索后": ".html",
-"搜索连接后缀": "",
-"搜索二次截取": "空",
-"搜索截取数组": "class=\"link-hover\"$$</a>",
-"搜索图片前缀": "空",
-"搜索图片": "original=\"$$\"",
-"搜索标题": "title=\"$$\"",
-"搜索副标题": "class=\"pic-text text-right\">$$</span>",
-"搜索链接": "href=\"$$\"",
-"搜索链接前缀": "空",
-"搜索链接后缀": "空",
-
-//0：不启用，1：启用
-"启用线路名": "1",
-"线路名二次截取": "class=\"playfrom$$</ul>",
-"线路名截取数组": "<li$$/li>",
-"线路名标题": "</i>$$<",
-
-"播放页状态": "更新时间：</span>$$</dl>",
-"播放页导演": "导演：</span>$$</dd>",
-"播放页演员": "主演：</span>$$</dd>",
-"播放页剧情": "class=\"js\">$$</div>",
-
-"播放页二次截取": "空",
-"播放页截取数组": "class=\"playlist clearfix$$</ul>",
-"播放剧集二次截取": "空",
-"播放剧集截取数组": "<a$$/a>",
-"播放剧集标题": ">$$<",
-"播放剧集链接": "href=\"$$\"",
-"播放剧集链接前缀": "空",
-"播放剧集链接后缀": "空"},
+ 
     
  
  
    
- {"网站名字": "追剧达人",
-"网站地址": "http://vipmv.tv/",
-"访问请求ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
-"访问请求cookie": "空",
-"访问请求referer": "空",
-"播放请求头": "User-Agent$123",
-"图片请求头": "空",
-"网页编码": "utf-8",
  
-//0：不禁用，1：禁用
-"禁用搜索": "0",
- 
-//0：不启用，1：启用
-"启用js加载源码":"0",
-"js加载源码时间":"5",
- 
-"嗅探词": "m3u8?#.m3u8#.mp4#.flv#.mp3#.m4a",
-"过滤词": "51.la#cnzz.com#baidu.com#bilibili.com",
- 
-//0：记录，1：不记录
-"是否记录历史": "0",
- 
-//0：否，1：是
-"直接播放": "0",
-"列表显示": "0",
-"横图显示": "0",
-"列表起始页": "1",
-"列表分类": "电视剧$/vodshow/id/2/page/#电影$/vodshow/id/1/page/#综艺$/vodshow/id/3/page/#动漫$/vodshow/id/4/page/动作片$/vodshow/id/6/page/#喜剧片$/vodshow/id/7/page/#爱情片$/vodshow/id/8/page/#科幻片$/vodshow/id/9/page/#恐怖片$/vodshow/id/10/page/#剧情片$/vodshow/id/11/page/#战争片$/vodshow/id/12/page/#国产剧$/vodshow/id/13/page/#港台剧$/vodshow/id/14/page/#日韩剧$/vodshow/id/15/page/#欧美剧$/vodshow/id/16/page/",
-"列表后缀": ".html",
-"列表二次截取": "class=\"module-items$$id=\"page\">",
-"列表截取数组": "<a$$</a>",
-"列表图片前缀": "空",
-"列表图片": "original=\"$$\"",
-"列表标题": "title=\"$$\"",
-"列表副标题": "class=\"module-item-cover\">$$</div>",
-"列表链接": "href=\"$$\"",
-"列表链接前缀": "空",
-"列表链接后缀": "空",
- 
-//0：get方式，1：post方式，注意：如果用post方式，【搜索模式】要填：1
-"搜索请求方式": "0",
-"搜索模式": "0",
-"搜索前": "/index.php/ajax/suggest?mid=1&wd=",
-"搜索后": "&limit=150",
-"搜索连接后缀": "/vod/",
-"搜索二次截取": "空",
-"搜索截取数组": "前$$后",
-"搜索图片前缀": "空",
-"搜索图片": "original=\"$$\"",
-"搜索标题": "title=\"$$\"",
-"搜索副标题": "class=\"pic-text text-right\">$$</span>",
-"搜索链接": "href=\"$$\"",
-"搜索链接前缀": "空",
-"搜索链接后缀": "空",
- 
-//0：不启用，1：启用
-"启用线路名": "1",
-"线路名二次截取": "空",
-"线路名截取数组": "data-dropdown-value=$$</div>",
-"线路名标题": "<span>$$</span>",
- 
-"播放页状态": "更新：</span>$$</div>",
-"播放页导演": "导演：</span>$$</div>",
-"播放页演员": "主演：</span>$$</div>",
-"播放页剧情": "style=\"line-height: 20px;\">$$</div>",
- 
-"播放页二次截取": "空",
-"播放页截取数组": "class=\"module-play-list-content$$</div>",
-"播放剧集二次截取": "空",
-"播放剧集截取数组": "<a$$/a>",
-"播放剧集标题": "<span>$$</span>",
-"播放剧集链接": "href=\"$$\"",
-"播放剧集链接前缀": "空",
-"播放剧集链接后缀": "空"},
  
  {"网站名字": "影视之家",
 "网站地址": "http://yszjvip.com/",
@@ -1038,74 +803,88 @@
 //0：不跳转，1：跳转
 "播放页跳转看图": "0"},
  
-{
-  "name": "子子影视",
-  "url": "https://www.ziziys.com",
-"ua": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36",
-  "shouye": "1",
-  "fenlei": "动作片$/list/6/page/#剧情片$/list/7/page/#喜剧$/list/8/page/#爱情片$/list/9/page/#惊悚片$/list/10/page/#奇幻片$/list/11/page/#悬疑片$/list/12/page/#动漫片$/list/23/page/#恐怖片$/list/24/page/#历史传记片$/list/25/page/#战争片$/list/26/page/#情色片$/list/27/page/#武侠古装$/list/28/page/#记录片$/list/29/page/#灾难片$/list/30/page/#音乐歌舞$/list/31/page/#美剧$/list/14/page/#动漫$/list/3/page/#日韩剧$/list/15/page/#泰剧$/list/16/page/",
-  "houzhui": "html",
-  "shifouercijiequ": "0",
-  "jiequqian": "空",
-  "jiequhou": "空",
-  "jiequshuzuqian": "class=\"module-item-pic",
-  "jiequshuzuhou": "</div>",
-  "tupianqian": "data-src=\"",
-  "tupianhou": "\"",
-  "biaotiqian": "alt=\"",
-  "biaotihou": "\"",
-  "lianjieqian": "href=\"",
-  "lianjiehou": "\"",
-  "sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
-  "sousuohou": "&limit=150",
-  "sousuohouzhui": "/voddetail/",
-  "ssmoshi": "0",
-  "sousuoshifouercijiequ": "0",
-  "jspic": "pic",
-  "jsname": "name",
-  "jsid": "id",
-  "ssjiequqian": "空",
-  "ssjiequhou": "空",
-  "ssjiequshuzuqian": "空",
-  "ssjiequshuzuhou": "空",
-  "sstupianqian": "空",
-  "sstupianhou": "空",
-  "ssbiaotiqian": "空",
-  "ssbiaotihou": "空",
-  "sslianjieqian": "空",
-  "sslianjiehou": "空",
-    //线路名称显示部分，0不启用，1启用
-"是否启用播放线路名": "1",
-"线路名是否二次截取": "0",
-"线路名截取前": "空",
-"线路名截取后": "空",
-"线路名截取数组前": "data-dropdown-value=",
-"线路名截取数组后": "</div>",
-"线路名标题前": "<span>",
-"线路名标题后": "</span>",
-  "bfshifouercijiequ": "0",
-  "bfjiequqian": "空",
-  "bfjiequhou": "空",
-  "bfjiequshuzuqian": "class=\"scroll-content\"",
-  "bfjiequshuzuhou": "</div>",
-  "zhuangtaiqian": "上映：</span>",
-  "zhuangtaihou": "</div>",
-  "daoyanqian": "导演：</span>",
-  "daoyanhou": "</div>",
-  "zhuyanqian": "主演：</span>",
-  "zhuyanhou": "</div>",
-  "juqingqian": "剧情：</span>",
-  "juqinghou": "</div>",
-  "bfyshifouercijiequ": "0",
-  "bfyjiequqian": "空",
-  "bfyjiequhou": "空",
-  "bfyjiequshuzuqian": "<a",
-  "bfyjiequshuzuhou": "/a>",
-  "bfbiaotiqian": "<span>",
-  "bfbiaotihou": "</span>",
-  "bflianjieqian": "href=\"",
-  "bflianjiehou": "\""
-},
+{"网站名字": "子子影视",
+"网站地址": "https://www.ziziys.com",
+"访问请求ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
+"访问请求cookie": "空",
+"访问请求referer": "空",
+"播放请求头": "User-Agent$123",
+"图片请求头": "空",
+"网页编码": "utf-8",
+ 
+//0：不禁用，1：禁用
+"禁用搜索": "0",
+ 
+//0：不启用，1：启用
+"是否启用解析模式": "0",
+ 
+//需要点击播放的网站可以自己找网页的点击js字符
+"自动点击字符": "空",
+ 
+//0：不启用，1：启用
+"启用js加载源码":"0",
+"js加载源码时间":"5",
+ 
+"嗅探词": "m3u8?#.m3u8#.mp4#.flv#.mp3#.m4a",
+"过滤词": "51.la#cnzz.com#baidu.com#bilibili.com",
+ 
+//0：记录，1：不记录
+"是否记录历史": "0",
+ 
+//0：否，1：是
+"直接播放": "0",
+"列表显示": "0",
+"横图显示": "0",
+"列表起始页": "1",
+"列表分类": "动作片$/list/6/page/#剧情片$/list/7/page/#喜剧$/list/8/page/#爱情片$/list/9/page/#惊悚片$/list/10/page/#奇幻片$/list/11/page/#悬疑片$/list/12/page/#动漫片$/list/23/page/#恐怖片$/list/24/page/#历史传记片$/list/25/page/#战争片$/list/26/page/#情色片$/list/27/page/#武侠古装$/list/28/page/#记录片$/list/29/page/#灾难片$/list/30/page/#音乐歌舞$/list/31/page/#美剧$/list/14/page/#动漫$/list/3/page/#日韩剧$/list/15/page/#泰剧$/list/16/page/",
+"列表后缀": ".html",
+"列表二次截取": "空",
+"列表截取数组": "class=\"module-item-pic\"$$</div>",
+"列表图片前缀": "空",
+"列表图片": "data-src=\"$$\"",
+"列表标题": "title=\"$$\"",
+"列表副标题": "class=\"module-item-text\">$$</div>",
+"列表链接": "href=\"$$\"",
+"列表链接前缀": "空",
+"列表链接后缀": "空",
+ 
+//0：get方式，1：post方式，注意：如果用post方式，【搜索模式】要填：1
+"搜索请求方式": "0",
+"搜索模式": "0",
+"搜索前": "/index.php/ajax/suggest?mid=1&wd=",
+"搜索后": "&limit=150",
+"搜索连接后缀": "/vdetail/",
+"搜索二次截取": "空",
+"搜索截取数组": "前$$后",
+"搜索图片前缀": "空",
+"搜索图片": "original=\"$$\"",
+"搜索标题": "title=\"$$\"",
+"搜索副标题": "class=\"pic-text text-right\">$$</span>",
+"搜索链接": "href=\"$$\"",
+"搜索链接前缀": "空",
+"搜索链接后缀": "空",
+ 
+//0：不启用，1：启用
+"启用线路名": "1",
+"线路名二次截取": "空",
+"线路名截取数组": "data-dropdown-value=$$</div>",
+"线路名标题": "<span>$$</span>",
+ 
+"播放页状态": "上映：$$</div>",
+"播放页导演": "导演：$$</div>",
+"播放页演员": "主演：$$</div>",
+"播放页剧情": "剧情：$$</div>",
+ 
+"播放页二次截取": "空",
+"播放页截取数组": "class=\"scroll-content$$</div>",
+"播放剧集二次截取": "空",
+"播放剧集截取数组": "<a$$/a>",
+"播放剧集标题": "<span>$$</span>",
+"播放剧集链接": "href=\"$$\"",
+"播放剧集链接前缀": "空",
+"播放剧集链接后缀": "空",
+//0：不跳转，1：跳转
+"播放页跳转看图": "0"},
 
  {"name": "348",
 "url": "https://www.348z.com/",
@@ -1684,25 +1463,24 @@
 "列表显示": "0",
 "横图显示": "0",
 "列表起始页": "1",
-"列表分类": "电视剧$/ms/2-----------/page/#电影$/ms/1-----------/page/#综艺$/ms/3-----------/page/#动漫$/ms/4-----------/page/#伦理$/ms/1---伦理--------/page/",
+"列表分类": "电视剧$/vt/2-#电影$/vt/1-#综艺$/vt/3-#动漫$/vt/4-#伦理$/ms/1---伦理--------/page/",
 "列表后缀": ".html",
 "列表二次截取": "空",
 "列表截取数组": "class=\"li-img\"$$</li>",
 "列表图片前缀": "空",
 "列表图片": "src=\"$$\"",
 "列表标题": "title=\"$$\"",
-"列表副标题": "class=\"bottom2\">$$</span>",
+"列表副标题": "class=\"pic-text text-right\">$$</span>",
 "列表链接": "href=\"$$\"",
 "列表链接前缀": "空",
 "列表链接后缀": "空",
- 
  
 //0：get方式，1：post方式，注意：如果用post方式，【搜索模式】要填：1
 "搜索请求方式": "0",
 "搜索模式": "0",
 "搜索前": "/index.php/ajax/suggest?mid=1&wd=",
 "搜索后": "&limit=150",
-"搜索连接后缀": "/vod/",
+"搜索连接后缀": "/mv/",
 "搜索二次截取": "空",
 "搜索截取数组": "前$$后",
 "搜索图片前缀": "空",
@@ -1714,15 +1492,16 @@
 "搜索链接后缀": "空",
  
 //0：不启用，1：启用
-"启用线路名": "0",
-"线路名二次截取": "空",
-"线路名截取数组": "class=\"more$$</div>",
-"线路名标题": "/>$$</h3>",
+"启用线路名": "1",
+"线路名二次截取": "class=\"py-tabs$$</ul>",
+"线路名截取数组": "<li class=\"$$/li>",
+"线路名标题": "\">$$<",
  
 "播放页状态": "类型：$$</div>",
 "播放页导演": "导演：$$</div>",
 "播放页演员": "主演：$$</div>",
 "播放页剧情": "class=\"movie-introduce\">$$</div>",
+ 
  
 "播放页二次截取": "空",
 "播放页截取数组": "class=\"player ckp gdt bf-w$$</ul>",
