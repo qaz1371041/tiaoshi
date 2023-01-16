@@ -2459,11 +2459,11 @@
 
  {"name": "艾菲影视",
 "url": "https://www.ifimv.com/",
-"ua": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36",
+"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
 "User": "空",
-"fenlei": "电影$/vodshow/1-----------/page/#连续剧$/vodshow/2-----------/page/#情色片$/vodshow/27-----------/page/#动漫$/vodshow/3-----------/page/",
+"fenlei": "电影$电影$/vodshow/1-----------/page/#连续剧$/vodshow/2-----------/page/#情色片$/vodshow/27-----------/page/#动漫$/vodshow/3-----------/page/",
  
-"houzhui": "---.html",
+"houzhui": ".html",
 "shifouercijiequ": "0",
 "jiequqian": "空 ",
 "jiequhou": "空",
@@ -2477,7 +2477,7 @@
 "lianjiehou": "\"",
 "sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
 "sousuohou": "&limit=500",
-"sousuohouzhui": "/voddetail/",
+"sousuohouzhui": "/video/",
 "ssmoshi": "0",
 "sousuoshifouercijiequ": "0",
 "jspic": "pic",
@@ -2515,7 +2515,7 @@
 "bfbiaotihou": "</span>",
 "bflianjieqian": "href=\"",
 "bflianjiehou": "\""},
-
+ 
  {"name": "LIBVIO影视",
 "url": "https://libvio.me/",
 //访问请求头
