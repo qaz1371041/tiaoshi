@@ -111,7 +111,7 @@
  {"name":"懒懒1","url":"http://lanlan.ckflv.cn/?url="},
  
 {"name":"1号线","url":"https://it.cntnn.com/API.php?appkey=404164cdd1472561b4c61f1845e0bff8&url="},
-
+{"name":"05号线","type":1,"url":"http://45.248.10.163:12345/tvjson.php?url="},
  {"name":"00号线","type":1,"url":"https://jiexi.hnslg.com.cn/home/api?type=ys&uid=14483756&key=cdfimnowyCEIKQZ345&url="},
 {"name":"011号线","type":1,"url":"http://42.157.129.128:99/api/?key=adK6frXXYNiu2Ocx84&url="},
 {"name":"022号线","type":1,"url":"http://103.222.189.167:7788/home/api?type=ys&uid=3496830&key=fjpuyGIKLMNOPUXY12&url="},
