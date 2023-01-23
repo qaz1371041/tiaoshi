@@ -809,8 +809,6 @@
 "列表链接前缀": "空",
 "列表链接后缀": "空"},
  
-
-
 {"网站名字": "白虎色",
 "网站地址": "https://paipancon.com/",
 "访问请求ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
@@ -825,7 +823,7 @@
  
 //0：不启用，1：启用
 "启用js加载源码":"0",
-"js加载源码时间":"5",
+"js加载源码时间":"1",
  
 "嗅探词": "m3u8?#.m3u8#.mp4#.flv#.mp3#.m4a",
 "过滤词": "51.la#cnzz.com#baidu.com#bilibili.com",
@@ -838,7 +836,7 @@
 "列表显示": "0",
 "横图显示": "0",
 "列表起始页": "1",
-"列表分类": "推荐$/recommend/page-#最热门$/page-#萝莉$/search/ロ/page-#FC2$/series/FC2/page-#cos$/search/cos/page-#流出$/series/Leak/page-#無毛宣言$/search/無毛宣言/page-#3P$/search/3P/page-#潮吹き$/search/潮吹き/page-#制服$/search/制服/page-#少女$/search/少女/page-#美乳$/search/美乳/page-#微乳$/search/微乳/page-#ソープ$/search/ソープ/page-#アナル$/search/アナル/page-#巨乳$/search/巨乳/page-#爆乳$/search/爆乳/page-#素人$/search/素人/page-#按摩$/search/マッサージ/page-#マンコ図鑑$/search/マンコ図鑑/page-#放尿$/search/放尿/page-#泳装$/search/水着/page-#仆人$/search/メイド/page-#野外$/search/野外/page-#美貌$/search/美マン/page-#白人$/search/白人/page-#女同$/search/レズ/page-#騎乗位$/search/騎乗位/page-",
+"列表分类": "推荐$/recommend/page-#最热门$/page-#萝莉$/search/ロ/page-#FC2$/series/FC2/page-#cos$/search/cos/page-#流出$/series/Leak/page#G-Queen$/series/G-Queen/page-#無毛宣言$/search/無毛宣言/page-#3P$/search/3P/page-#潮吹き$/search/潮吹き/page-#制服$/search/制服/page-#少女$/search/少女/page-#美乳$/search/美乳/page-#微乳$/search/微乳/page-#ソープ$/search/ソープ/page-#アナル$/search/アナル/page-#巨乳$/search/巨乳/page-#爆乳$/search/爆乳/page-#素人$/search/素人/page-#按摩$/search/マッサージ/page-#マンコ図鑑$/search/マンコ図鑑/page-#放尿$/search/放尿/page-#泳装$/search/水着/page-#仆人$/search/メイド/page-#野外$/search/野外/page-#美貌$/search/美マン/page-#白人$/search/白人/page-#女同$/search/レズ/page-#騎乗位$/search/騎乗位/page-",
 "列表后缀": ".html",
 "列表二次截取": "空",
 "列表截取数组": "class=\"card h-100\"$$class=\"card h-100",
@@ -848,7 +846,25 @@
 "列表副标题": "class=\"card-text\">$$</p>",
 "列表链接": "href=\"$$\"",
 "列表链接前缀": "空",
-"列表链接后缀": "空"},
+"列表链接后缀": "空",
+ 
+//0：get方式，1：post方式，注意：如果用post方式，【搜索模式】要填：1
+"搜索请求方式": "0",
+"搜索模式": "1",
+"搜索前": "/search/",
+"搜索后": ".html",
+"搜索连接后缀": "/vod/",
+"搜索二次截取": "空",
+"搜索截取数组": "class=\"card h-100\"$$class=\"card h-100",
+"搜索图片前缀": "空",
+"搜索图片": "src=\"$$\"",
+"搜索标题": "class=\"card-body\">$$</a>",
+"搜索副标题": "class=\"pic-text text-right\">$$</span>",
+"搜索链接": "href=\"$$\"",
+"搜索链接前缀": "空",
+"搜索链接后缀": "空"},
+
+
 
 {"网站名字": "小米视频",
 "网站地址": "https://lcq.xmsp.beauty/",
