@@ -99,7 +99,7 @@
 {"name":"1080资源库","url":"https://api.1080zyku.com/inc/api_mac10.php"},
 {"name":"TOM资源","url":"https://api.tomcaiji.com/api.php"},
 
-{"name":"天空TV","url":"http://tv.tkys.tv/api.php/iptv/vod/"},
+
 {"name":"三级2号〔Z〕","url":"http://phoebe.cf/api.php/iptv/vod/"},
 {"name":"诺讯资源","url":"http://caiji.nxflv.com/api.php"}, 
 {"name":"忆梦","url":"http://anltv.cn/api.php"},
@@ -110,8 +110,8 @@
 
 //主解析是JSON直链格式的解析
 "zhujiexi":[
+ {"name": "解析02","type": 1,"url": "https://vip.yyzyd.com/API.php?appkey=404164cdd1472561b4c61f1845e0bff8&url="},
  {"name":"懒懒1","url":"http://lanlan.ckflv.cn/?url="},
- 
 {"name":"1号线","url":"https://it.cntnn.com/API.php?appkey=404164cdd1472561b4c61f1845e0bff8&url="},
 {"name":"05号线","type":1,"url":"http://45.248.10.163:12345/tvjson.php?url="},
  {"name":"00号线","type":1,"url":"https://jiexi.hnslg.com.cn/home/api?type=ys&uid=14483756&key=cdfimnowyCEIKQZ345&url="},
