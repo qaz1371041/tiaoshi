@@ -35,7 +35,8 @@
 {"name":"布蕾蓝光影城","url":"https://www.bulei.cc/api.php/app/"},
 {"name":"我爱影视","url":"http://aliys.cn:92/api.php/v1.vod"}, 
 {"name":"旧梦影视","url":"http://43.139.139.17:4433/api.php/app/"},
- {"name":"123视频","url":"https://123aktv.com/api.php/v1.vod"},
+{"name":"freeok","url":"https://www.freeok.vip/api.php/app/"},
+{"name":"123视频","url":"https://123aktv.com/api.php/v1.vod"},
 {"name":"啊玲影视","url":"http://520dml.xyz/api.php/v1.vod"},
 {"name":"萌蛋蛋","url":"http://app.mengdandan.com/xgapp.php/v1/"}, 
 {"name":"上云影视","url":"http://www.shagyn.mom/mogai_api.php/v1.vod"},
@@ -134,6 +135,7 @@
 "beiyongjiexi":[
  {"name":"1","url":"https://jx.777jiexi.com/player/?url="},
  {"name":"3号线","url":"https://iptv.tkmovice.com/?url="},
+ {"name": "freeok","url": "https://play.freeok.vip/?url="},
  {"name":"8K影视","url":"http://play.dy4.top:888/api7_cc/?url="},
  {"name": "解析7","type": 0,"url": "https://api.okjx.cc:3389/jx.php?url="},
  {"name":"综合/B站","url":"https://jx.jsonplayer.com/player/?url="},		
