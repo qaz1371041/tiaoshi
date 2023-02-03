@@ -27,7 +27,7 @@
 //{"name":"填接口名称","url":"http://xxx/mogai_api.php/v1.vod"},
 //填写APP接口，支持以下5种接口格式。
 "zhuyejiekou": [
-{"name":"影视之家","url":"https://yszjmv.com/xgapp.php/v1/"},
+{"name":"影视之家","url":"http://yszj1.com/xgapp.php/v1/"},
 {"name":"天空影视","url":"http://tkznp.com/xgapp.php/v1/"}, 
 {"name":"555","url":"https://www.xawqxh.net/api.php/app/"},
 {"name":"鸭奈飞影视","url":"https://yanetflix.tv/api.php/app/"},
