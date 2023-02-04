@@ -3898,7 +3898,7 @@
 "ssmoshi": "0",
 "sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
 "sousuohou": "&limit=150",
-"sousuohouzhui": "/index.php/vod/detail/id/",
+"sousuohouzhui": "/voddetail/",
 "jspic": "pic",
 "jsname": "name",
 "jsid": "id",
