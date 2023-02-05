@@ -3240,9 +3240,9 @@
  
  
  {"网站名字": "LIBVIO影视",
-"网站地址": "https://www.libvio.com/",
+"网站地址": "https://tv.libvio.cc/",
 "访问请求ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
-"访问请求cookie": "空",
+"访问请求cookie": "_funcdn_token=948d2d8b3da9e28b2ee8dd8af576d67ab6549e8719dd1a4bec53c76bd90424ba",
 "访问请求referer": "空",
 "播放请求头": "User-Agent$123",
 "图片请求头": "空",
@@ -3278,7 +3278,7 @@
 "列表分类": "电视剧$/type/2-#电影$/type/1-#综艺$/type/3-#动漫$/type/4-",
 "列表后缀": ".html",
 "列表二次截取": "空",
-"列表截取数组": "class=\"stui-vodlist__box\"$$</a>",
+"列表截取数组": "<li> <div class=\"stui-vodlist__box\"$$</li>",
 "列表图片前缀": "空",
 "列表图片": "original=\"$$\"",
 "列表标题": "title=\"$$\"",
