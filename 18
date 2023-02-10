@@ -2442,99 +2442,81 @@
 
 
  
- {"name": "爱爱影视",
-"url": "https://www.aiaiys1.top/",
-"ua": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36",
+ {"网站名字": "爱爱影视",
+"网站地址": "http://wo.aij8.cn/",//(本站最新地址aays.shaoze.cc)
+"访问请求ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
+"访问请求cookie": "空",
+"访问请求referer": "空",
+"播放请求头": "User-Agent$123",
+"图片请求头": "空",
+"网页编码": "utf-8",
 
-//访问请求cookie
-"cookie":"",
-
-//播放请求头
-"User": "User-Agent$123",
-
-//0：不添加，1：添加
-"添加手动点击图标": "0",
+//0：不禁用，1：禁用
+"禁用搜索": "0",
 
 //0：不启用，1：启用
 "启用js加载源码":"0",
+"js加载源码时间":"5",
 
-//根据网站响应速度自行调整加载需要的时间，时间太短可能导致获取数据失败。
-"js加载源码时间":"3",
-
-//填写播放地址寻找的地址标识词，中间用#号分割，不填写的话就使用全局的嗅探词
-"嗅探词": "m3u8?#.m3u8#mp4#.flv#.mp3#.m4a",
-
-//填写播放地址过滤规则，中间用#号分割，不填写的话就使用全局的过滤词
-"过滤词": "?url=#.css#51.la#cnzz.com#baidu.com",
+"嗅探词": "m3u8?#.m3u8#.mp4#.flv#.mp3#.m4a",
+"过滤词": "51.la#cnzz.com#baidu.com#bilibili.com",
 
 //0：记录，1：不记录
 "是否记录历史": "0",
 
-//直接播放截取的播放页链接网址，0表示：否，1表示：是
+//0：否，1：是
 "直接播放": "0",
-
-//分类页是否使用列表方式显示，0表示：否，1表示：是
 "列表显示": "0",
-
-//列表图片是否横图显示，0表示：否，1表示：是
 "横图显示": "0",
+"列表起始页": "1",
+"列表分类": "无码系$/vodtype/6-#人妻无码$/vodtype/18-#巨乳无码$/vodtype/17-#乱伦无码$/vodtype/20-#强奸无码$/vodtype/21-#制服无码$/vodtype/22-#综合系$/vodtype/25-#国产系$/vodtype/7-#主播系$/vodtype/8-#中字系$/vodtype/9-#有码系$/vodtype/10-#欧美系$/vodtype/11-#素人妻$/vodtype/13-#强奸乱伦$/vodtype/14-#口爆颜射$/vodtype/15-#美颜巨乳$/vodtype/16-#AI换脸$/vodtype/26-#重口调教$/vodtype/27-#同性恋$/vodtype/28-#萝莉少女$/vodtype/36-#丝袜美腿$/vodtype/37-#制服诱惑$/vodtype/38-#港台系$/vodtype/39-#多人运动$/vodtype/40-#其他系$/vodtype/41-传媒原创$/vodtype/29-#麻豆国产$/vodtype/30-#果冻传媒$/vodtype/31-#蜜桃传媒$/vodtype/32-#杏吧视频$/vodtype/33-#水果派解说$/vodtype/34-#91大神$/vodtype/35-#三级伦理$/vodtype/23-#卡通动漫$/vodtype/12-
+",
+"列表后缀": ".html",
+"列表二次截取": "空",
+"列表截取数组": "class=\"mo-paxs-5px mo-pamd-10px mo-cols-info mo-cols-xs4 mo-cols-sm3 mo-cols-lg2\"$$</li>",
+"列表图片前缀": "空",
+"列表图片": "original=\"$$\"",
+"列表标题": ".html\">$$</a>",
+"列表副标题": "mo-text-white mo-coxs-center\">$$</span>",
+"列表链接": "href=\"$$\"",
+"列表链接前缀": "空",
+"列表链接后缀": "空",
 
-//可以自定义列表翻页起始页的页数
-"qishiye": "1",
-"fenlei": "综合系$/vodshow/25-----------/page/#人妻无码$/vodshow/18-----------/page/#巨乳无码$/vodshow/17-----------/page/#乱伦无码$/vodshow/20-----------/page/#强奸无码$/vodshow/21-----------/page/#制服无码$/vodshow/22-----------/page/#伦理系列$/vodtype/23/page/#无码系$/vodshow/6-----------/page/#国产系$/vodshow/7-----------/page/#主播系$/vodshow/9-----------/page/#中字系$/vodshow/10-----------/page/#有码系$/vodshow/11-----------/page/#欧美系$/vodshow/24-----------/page/#卡通动漫$/vodshow/12-----------/page/#欧美系$/vodshow/24-----------/page/#素人妻$//vodshow/13-----------/page/#强奸乱伦$/vodshow/14-----------/page/#口爆颜射$/vodshow/15-----------/page/#美颜巨乳$/vodshow/16-----------/page/#AI换脸$/vodshow/26-----------/page/#重口调教$/vodshow/27-----------/page/#同性恋$/vodshow/28-----------/page/#传媒原创$/vodshow/29-----------/page/#麻豆国产$/vodshow/30-----------/page/#果冻传媒$/vodshow/31-----------/page/#蜜桃传媒$/vodshow/32-----------/page/#杏吧视频$/vodshow/33-----------/page/#水果派解说$/vodshow/34-----------/page/#91大神$/vodshow/35-----------/page/#萝莉少女$/vodshow/36-----------/page/#丝袜美腿$/vodshow/37-----------/page/#制服诱惑$/vodshow/38-----------/page/#港台系$/vodshow/39-----------/page/#多人运动$/vodshow/40-----------/page/#其他系$/vodshow/41-----------/page/",
-"houzhui": ".html",
-"shifouercijiequ": "0",
-"jiequqian": "空",
-"jiequhou": "空",
-"jiequshuzuqian": "class=\"mo-paxs-5px mo-pamd-10px mo-cols-info mo-cols-xs4 mo-cols-sm3 mo-cols-lg2",
-"jiequshuzuhou": "</li>",
-"tupianqian": "data-original=\"",
-"tupianhou": "\"",
-"biaotiqian": ".html\">",
-"biaotihou": "</a>",
-"lianjieqian": "href=\"",
-"lianjiehou": "\"",
-"sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
-"sousuohou": "&limit=500",
-"sousuohouzhui": "/voddetail/",
-"ssmoshi": "0",
-"sousuoshifouercijiequ": "0",
-"jspic": "pic",
-"jsname": "name",
-"jsid": "id",
-"ssjiequqian": "空",
-"ssjiequhou": "空",
-"ssjiequshuzuqian": "空",
-"ssjiequshuzuhou": "空",
-"sstupianqian": "空",
-"sstupianhou": "空",
-"ssbiaotiqian": "空",
-"ssbiaotihou": "空",
-"sslianjieqian": "空",
-"sslianjiehou": "空",
-"bfshifouercijiequ": "0",
-"bfjiequqian": "空",
-"bfjiequhou": "空",
-"bfjiequshuzuqian": "class=\"mo-movs-item",
-"bfjiequshuzuhou": "</ul>",
-"zhuangtaiqian": "分类:&nbsp;</span>",
-"zhuangtaihou": "</li>",
-"daoyanqian": "导演:&nbsp;</span>",
-"daoyanhou": "</li>",
-"zhuyanqian": "主演:&nbsp;</span>",
-"zhuyanhou": "</li>",
-"juqingqian": "短评:&nbsp;",
-"juqinghou": "</li>",
-"bfyshifouercijiequ": "0",
-"bfyjiequqian": "空",
-"bfyjiequhou": "空",
-"bfyjiequshuzuqian": "<a",
-"bfyjiequshuzuhou": "/a>",
-"bfbiaotiqian": ">",
-"bfbiaotihou": "<",
-"bflianjieqian": "href=\"",
-"bflianjiehou": "\""},
+//0：get方式，1：post方式，注意：如果用post方式，【搜索模式】要填：1
+"搜索请求方式": "0",
+"搜索模式": "0",
+"搜索前": "/index.php/ajax/suggest?mid=1&wd=",
+"搜索后": "&limit=150",
+"搜索连接后缀": "/voddetail/",
+"搜索二次截取": "空",
+"搜索截取数组": "前$$后",
+"搜索图片前缀": "空",
+"搜索图片": "data-original=\"$$\"",
+"搜索标题": "title=\"$$\"",
+"搜索副标题": "class=\"pic-text text-right\">$$</span>",
+"搜索链接": "href=\"$$\"",
+"搜索链接前缀": "空",
+"搜索链接后缀": "空",
 
+//0：不启用，1：启用
+"启用线路名": "0",
+"线路名二次截取": "空",
+"线路名截取数组": "mo-icon-ytm3u8$$/a>",
+"线路名标题": "</i>$$<",
+
+"播放页状态": "分类:$$</li>",
+"播放页导演": "导演：$$</li>",
+"播放页演员": "主演：$$</li>",
+"播放页剧情": "短评:$$</li>",
+
+"播放页二次截取": "空",
+"播放页截取数组": "class=\"mo-movs-item$$</ul>",
+"播放剧集二次截取": "空",
+"播放剧集截取数组": "<a$$/a>",
+"播放剧集标题": ">$$<",
+"播放剧集链接": "href=\"$$\"",
+"播放剧集链接前缀": "空",
+"播放剧集链接后缀": "空"},
  {"name": "麻豆视频",
 "url": "https://9924.cf/",
 //访问请求头
