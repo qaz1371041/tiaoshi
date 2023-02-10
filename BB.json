@@ -32,7 +32,7 @@
 {"name":"555","url":"https://www.xawqxh.net/api.php/app/"},
 {"name":"鸭奈飞影视","url":"https://yanetflix.tv/api.php/app/"},
 {"name":"霹雳影视","url":"https://plyingshi.com/api.php/v1.vod"},
-{"name":"188影视","url":"https://188kan.com/api.php/v1.vod"},
+
 {"name":"UM影院","url":"https://www.umkan.cc/mogai_api.php/v1.vod"},
 {"name":"可米影视","url":"http://www.kmysw.vip/api.php/app/"}, 
 {"name":"布蕾蓝光影城","url":"https://www.bulei.cc/api.php/app/"},
@@ -42,35 +42,36 @@
 {"name":"Netflix影视","url":"https://netflix.mom/api.php/app/"},
 {"name":"汪了个汪影视","url":"http://wlgwys.com/mogai_api.php/v1.vod"},
 {"name":"123视频","url":"https://123aktv.com/api.php/v1.vod"},
+{"name":"大米星球","url":"https://dmdy2.vip/api.php/app/"},
+{"name":"HG影视","url":"http://bbq.1006.tk/api.php/v1.vod"},
+
 {"name":"啊玲影视","url":"http://520dml.xyz/api.php/v1.vod"},
 {"name":"萌蛋蛋","url":"http://app.mengdandan.com/xgapp.php/v1/"}, 
 {"name":"上云影视","url":"http://www.shagyn.mom/mogai_api.php/v1.vod"},
 {"name":"豆芽视频","url":"http://bdintv.cn/lvdou_api.php/v1.vod"},
-{"name":"追影猫","url":"https://zhuiyingmao.com/api.php/app/"},
-{"name":"神马影院","url":"https://www.smdyy.cc/api.php/app/"},
-{"name":"无限影视网","url":"https://www.wxtv.net/api.php/app/"}, 
- {"name":"映迷","url":"https://www.inmi.app/xgapp.php/v1/"},
-{"name":"鑫悦影院","url":"http://www.shagyn.mom/api.php/v1.vod"},
-{"name":"天天视频","url":"http://app.qianju.cc/api.php/v1.vod"},
-{"name":"爱电影","url":"https://www.idianying.com.cn/mogai_api.php/v1.vod"},
-{"name":"大米星球","url":"https://dmdy2.vip/api.php/app/"},
-{"name":"HG影视","url":"http://bbq.1006.tk/api.php/v1.vod"},
-
-{"name":"万能影院","url":"http://app.wnvod.net/lvdou_api.php/v1.vod"},
-{"name":"雨笙影视","url":"http://xkmovies.cn/mogai_api.php/v1.vod"},
-{"name":"小柒影视","url":"http://www.xiaoqi0.cn/api.php/v1.vod"},
 {"name":"IMAX影视","url":"https://imaxw.com/api.php/app/"},
 {"name":"嗯哩嗯哩","url":"https://enlienli.com/api.php/app/"},
 {"name":"创艺","url":"http://www.30dian.cn/api.php/v1.vod"},
 {"name":"极速影视","url":"http://ysappcms.hwzczx.cn/api.php/v1.vod"},
 {"name":"青年影视","url":"https://qny4.top/api.php/app/"},
+{"name":"神马影院","url":"https://www.smdyy.cc/api.php/app/"},
+{"name":"无限影视网","url":"https://www.wxtv.net/api.php/app/"}, 
+ {"name":"映迷","url":"https://www.inmi.app/xgapp.php/v1/"},
+{"name":"鑫悦影院","url":"http://www.shagyn.mom/api.php/v1.vod"},
+{"name":"天天视频","url":"http://app.qianju.cc/api.php/v1.vod"},
+
+
+
+{"name":"雨笙影视","url":"http://xkmovies.cn/mogai_api.php/v1.vod"},
+
+
 
 {"name":"雨笙影视","url":"http://xkmovies.cn/mc_api.php/v1.vod"},
-{"name":"月儿影视","url":"https://yue52.xyz/api.php/v1.vod"},
-{"name":"明帝影视","url":"http://v.i7yc.cn/api.php/v1.vod"},
-{"name":"玖卿乐播","url":"https://vod.nqcode.cn/api.php/v1.vod"},
-{"name":"悟空影院","url":"http://dapi.pntao.com/api.php/v1.vod"},
 
+
+
+{"name":"悟空影院","url":"http://dapi.pntao.com/api.php/v1.vod"},
+{"name":"188影视","url":"https://188kan.com/api.php/v1.vod"},
 {"name":"玖卿乐播","url":"https://vod.nqcode.cn/api.php/v1.vod"}],
 
 
@@ -84,7 +85,7 @@
 {"name":"七七采集","url":"http://api.kunyu77.com/api.php"},
  {"name":"趣享星视","url":"https://www.quxw.net/api.php/"},
  {"name":"小猫咪","url":"http://zy.xiaomaomi.cc/api.php/"},
-{"name":"考拉资源","url":"https://ikaola.tv/api.php/"}, 
+
 {"name":"量子资源","url":"https://cj.lziapi.com/api.php/"}, 
 {"name":"卧龙资源{有广告}","url":"https://collect.wolongzyw.com/api.php/"},
 {"name":"乐活影视","url":"https://lehootv.com/api.php/"},
@@ -95,23 +96,23 @@
 {"name":"快播资源{有广告}","url":"http://www.kuaibozy.com/api.php/"},
 {"name":"南国影源","url":"http://api.nguonphim.tv/api.php/"}, 
 {"name":"TVB云播","url":"http://www.tvyb03.com/api.php/"},
-{"name":"考拉TV","url":"https://ikaola.tv/api.php/"},
-{"name":"天堂资源","url":"http://vipmv.cc/api.php"}, 
+
+{"name":"天堂资源","url":"http://vipmv.cc/api.php/"}, 
 {"name":"追剧达人","url":"http://zjdr.tv/api.php/"},
-{"name":"千橙资源","url":"http://124.223.10.96:8090/api.php"}, 
-{"name":"醉璃笙TV","url":"http://web.xhdj.vip/api.php"}, 
+{"name":"千橙资源","url":"http://124.223.10.96:8090/api.php/"}, 
+{"name":"醉璃笙TV","url":"http://web.xhdj.vip/api.php/"}, 
 {"name":"最大资源","url":"http://zuidazy.me/api.php/"},
 {"name":"非凡资源","url":"http://cj.ffzyapi.com/api.php/"},
-{"name":"星海资源","url":"https://www.xhzy01.com/api.php"},
-{"name":"U酷资源","url":"https://api.ukuapi.com/api.php"},
-{"name":"1080资源库","url":"https://api.1080zyku.com/inc/api_mac10.php"},
-{"name":"TOM资源","url":"https://api.tomcaiji.com/api.php"},
+{"name":"星海资源","url":"https://www.xhzy01.com/api.php/"},
+{"name":"U酷资源","url":"https://api.ukuapi.com/api.php/"},
+{"name":"1080资源库","url":"https://api.1080zyku.com/inc/api_mac10.php/"},
+{"name":"TOM资源","url":"https://api.tomcaiji.com/api.php/"},
 
 
 {"name":"三级2号〔Z〕","url":"http://phoebe.cf/api.php/iptv/vod/"},
-{"name":"诺讯资源","url":"http://caiji.nxflv.com/api.php"}, 
-{"name":"忆梦","url":"http://anltv.cn/api.php"},
-{"name":"酷点","url":"http://kudianzy.com/api.php"}],
+{"name":"诺讯资源","url":"http://caiji.nxflv.com/api.php/"}, 
+{"name":"忆梦","url":"http://anltv.cn/api.php/"},
+{"name":"酷点","url":"http://kudianzy.com/api.php/"}],
 
 
 
