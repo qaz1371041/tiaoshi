@@ -96,6 +96,7 @@
 
 //主解析是JSON直链格式的解析
 "zhujiexi":[
+ {"name":"星辰云解析","url": "https://json.xn--9kq078cdn3a.cc/api/?key=694138485bf1110c147f85d92e86edc3&url="},
  {"name": "解析02","type": 1,"url": "https://vip.yyzyd.com/API.php?appkey=404164cdd1472561b4c61f1845e0bff8&url="},
  {"name": "解析02","type": 1,"url": "https://vip.yyzyd.com/API.php?appkey=404164cdd1472561b4c61f1845e0bff8&url="},
  {"name":"懒懒1","url":"http://lanlan.ckflv.cn/?url="},
