@@ -2639,6 +2639,54 @@
 "播放剧集链接前缀": "空",
 "播放剧集链接后缀": "空"},
  
+ {"网站名字": "幺妹好色",
+"网站地址": "https://ymhse.xyz/",
+"访问请求ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
+"访问请求cookie": "空",
+"访问请求referer": "空",
+"播放请求头": "User-Agent$123",
+"图片请求头": "空",
+"网页编码": "utf-8",
+
+//0：不禁用，1：禁用
+"禁用搜索": "0",
+
+//0：不启用，1：启用
+"搜索手动验证": "0",
+
+//0：不启用，1：启用
+"是否启用解析模式": "0",
+
+//需要点击播放的网站可以自己找网页的点击js字符
+"自动点击字符": "空",
+
+//0：不启用，1：启用
+"启用js加载源码":"0",
+"js加载源码时间":"5",
+
+"嗅探词": "m3u8?#.m3u8#.mp4#.flv#.mp3#.m4a",
+"过滤词": "?url=#?v=#.css#51.la#cnzz.com#baidu.com#bilibili.com",
+
+//0：记录，1：不记录
+"是否记录历史": "0",
+
+//0：否，1：是
+"直接播放": "1",
+"列表显示": "0",
+"横图显示": "0",
+"列表起始页": "1",
+"列表分类": "骑兵有码$/b/av.php?id=1&page=#步兵无码$/b/av.php?id=2&page=#金发幼齿$/b/av.php?id=3&page=#三级剧情$/b/av.php?id=4&page=#名优中字$/b/av.php?id=12&page=#无码破解$/b/av.php?id=13&page=#名优写真$/b/av.php?id=10&page=#名优综艺$/b/av.php?id=11&page=#美眉主播$/b/av.php?id=5&page=#美眉伦理$/b/av.php?id=6&page=#VR有码$/b/av.php?id=8&page=#VR无码$/b/av.php?id=9&page=",
+"列表后缀": "",
+"列表二次截取": "空",
+"列表截取数组": "class=\"obxobxpd_md\"$$</a>",
+"列表图片前缀": "空",
+"列表图片": "src=\"$$\"",
+"列表标题": "<p>$$</p>",
+"列表副标题": "class=\"pic-text text-right\">$$</span>",
+"列表链接": "href=\"$$\"",
+"列表链接前缀": "空",
+"列表链接后缀": "空"},
+ 
  {"网站名字": "香蕉视频",
 "网站地址": "https://xx8888.cc/",
 "访问请求ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
