@@ -97,8 +97,8 @@
 
 //主解析是JSON直链格式的解析
 "zhujiexi":[
- {"name":"星辰云解析","url": "https://json.xn--9kq078cdn3a.cc/api/?key=694138485bf1110c147f85d92e86edc3&url="},
- {"name": "解析02","type": 1,"url": "https://vip.yyzyd.com/API.php?appkey=404164cdd1472561b4c61f1845e0bff8&url="},
+{"name":"影视之家","url":"https://vip.ckllk.com/API.php?appkey=404164cdd1472561b4c61f1845e0bff8&url="},
+{"name":"低端","url":"https://json.codepays.net/api/?key=c3cbb4db965860712e2a5bdb283b2e28&url="},
  {"name": "解析02","type": 1,"url": "https://vip.yyzyd.com/API.php?appkey=404164cdd1472561b4c61f1845e0bff8&url="},
  {"name":"懒懒1","url":"http://lanlan.ckflv.cn/?url="},
  {"name":"001","url":"https://k.json.icu/home/api?type=ys&uid=10683762&key=ghjlmuvwLNSUVW3578&url="},
@@ -132,6 +132,7 @@
  {"name": "freeok","url": "https://play.freeok.vip/?url="},
  {"name":"8K影视","url":"http://play.dy4.top:888/api7_cc/?url="},
  {"name": "解析7","type": 0,"url": "https://api.okjx.cc:3389/jx.php?url="},
+ {"name":"00","url":"https://jx.qqqjx.com/?url="},
  {"name":"综合/B站","url":"https://jx.jsonplayer.com/player/?url="},		
 {"name":"虾米","url":"https://jx.xmflv.com/?url="},
 {"name":"爱豆","url":"https://jx.aidouer.net/?url="},	
