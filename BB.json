@@ -46,6 +46,7 @@
 {"name":"茶猫影视","url":"https://www.chamao.co/api.php/app/"}, 
 {"name":"大米星球","url":"https://dmdy2.vip/api.php/app/"},
 {"name":"HG影视","url":"http://bbq.1006.tk/api.php/v1.vod"},
+ {"name":"鹿缘影视","url":"https://iuio.xyz/api.php/app/"},
 {"name":"雨笙影视","url":"http://xkmovies.cn/lvdou_api.php/v1.vod"},
 {"name":"啊玲影视","url":"http://520dml.xyz/api.php/v1.vod"},
 {"name":"萌蛋蛋","url":"http://app.mengdandan.com/xgapp.php/v1/"}, 
@@ -124,7 +125,8 @@
 "beiyongjiexi":[
   {"name":"3号线","url":"https://iptv.tkmovice.com/?url="},
  {"name":"1","url":"https://jx.777jiexi.com/player/?url="},
- {"name": "1","url":"https://jxdp.codermart.net/?url="},
+ {"name":"001","url":"https://lziplayer.com/?url="},
+ {"name": "002","url":"https://jxdp.codermart.net/?url="},
 {"name":"AG","url":"https://www.codjx.com/?url="},
  {"name": "freeok","url": "https://play.freeok.vip/?url="},
  {"name":"8K影视","url":"http://play.dy4.top:888/api7_cc/?url="},
