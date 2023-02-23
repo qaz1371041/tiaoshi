@@ -101,6 +101,7 @@
 "zhujiexi":[
 {"name":"影视之家","url":"https://vip.ckllk.com/API.php?appkey=404164cdd1472561b4c61f1845e0bff8&url="},
 {"name":"低端","url":"https://json.codepays.net/api/?key=c3cbb4db965860712e2a5bdb283b2e28&url="},
+ {"name": "主解","url":"https://play.airfun.fun/API.php?appkey=DJALklaldAALDKDNMLAKDHld&url="},
  {"name": "解析02","type": 1,"url": "https://vip.yyzyd.com/API.php?appkey=404164cdd1472561b4c61f1845e0bff8&url="},
  {"name":"懒懒1","url":"http://lanlan.ckflv.cn/?url="},
  {"name":"极客","url": "https://ceshi.8skr.com/100ipb.php?url="},
@@ -117,7 +118,7 @@
 {"name":"022号线","type":1,"url":"http://103.222.189.167:7788/home/api?type=ys&uid=3496830&key=fjpuyGIKLMNOPUXY12&url="},
 {"name":"033号线","type":1,"url":"http://110.42.2.115:880/analysis/json/?uid=2361&my=acfhjoqBOPQSXY1679&url="},
 {"name": "解析01","url": "http://202.189.9.237:520/jsonmax/dnmb2.php?url="}, 
-{"name":"融兴解析","url":"https://rx.bt5v.com/json/jsonindex.php/?url="},
+
 {"name": "解析10","type": 1,"url": "https://www.1920lgzy.top/json.php?url="},
 
 
