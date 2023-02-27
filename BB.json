@@ -3171,7 +3171,61 @@
 "播放剧集链接前缀": "空",
 "播放剧集链接后缀": "空"},
  
-
+{"网站名字": "banan.tv",
+"网站地址": "https://768pv.top/",//域名:768pv.top didi501.top 767pv.top
+"访问请求ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
+"访问请求cookie": "kt_tcookie=1; PHPSESSID=5d0rjt7clsge9lbrio4tdb31d1",
+"访问请求referer": "空",
+"播放请求头": "User-Agent$123",
+"图片请求头": "空",
+"网页编码": "utf-8",
+ 
+//0：不禁用，1：禁用
+"禁用搜索": "0",
+ 
+//0：不启用，1：启用
+"启用js加载源码":"0",
+"js加载源码时间":"5",
+ 
+"嗅探词": "m3u8?#.m3u8#.mp4#.flv#.mp3#.m4a",
+"过滤词": "51.la#cnzz.com#baidu.com#bilibili.com",
+ 
+//0：记录，1：不记录
+"是否记录历史": "0",
+ 
+//0：否，1：是
+"直接播放": "1",
+"列表显示": "0",
+"横图显示": "0",
+"列表起始页": "1",
+"列表分类": "探花AV$/vodtype/57-#91porn$/vodtype/23-#素人$/vodtype/63-#国产AV$/vodtype/25-#日本AV$/vodtype/22-#FC2PPV$/vodtype/28-#無修正$/topicdetail-80/page/#中文字幕$/vodtype/77-#無碼A片在線$/vodtype/66-#hongkongdoll玩偶姐姐$/vodtype/65-#自拍偷拍$/vodtype/68-#番号FSDSS$/topicdetail-8/page/#番号ABW$/topicdetail-28/page/#番号SSNI$/topicdetail-29/page/#番号IPX$/topicdetail-30/page/#番号JUL$/topicdetail-31/page/#番号STARS$/topicdetail-32/page/#番号MIDE$/topicdetail-35/page/#番号259luxu$/topicdetail-52/page/#番号SSIS$/topicdetail-27/page/#番号300MIUM$/topicdetail-79/page/",
+ 
+"列表后缀": ".html",
+"列表二次截取": "空",
+"列表截取数组": "class=\"img-box cover-md\"$$</a>",
+"列表图片前缀": "空",
+"列表图片": "data-src=\"$$\"",
+"列表标题": "alt=\"$$\"",
+"列表副标题": "class=\"label\">$$</span>",
+"列表链接": "href=\"$$\"",
+"列表链接前缀": "空",
+"列表链接后缀": "空",
+ 
+//0：get方式，1：post方式，注意：如果用post方式，【搜索模式】要填：1
+"搜索请求方式": "0",
+"搜索模式": "1",
+"搜索前": "/vodsearch/-------------.html?wd=",
+"搜索后": "",
+"搜索连接后缀": "/vodplay/",
+"搜索二次截取": "空",
+"搜索截取数组": "class=\"img-box cover-md$$</a>",
+"搜索图片前缀": "空",
+"搜索图片": "data-src=\"$$\"",
+"搜索标题": "alt=\"$$\"",
+"搜索副标题": "class=\"pic-text text-right\">$$</span>",
+"搜索链接": "href=\"$$\"",
+"搜索链接前缀": "空",
+"搜索链接后缀": "空"},
 
 
  
