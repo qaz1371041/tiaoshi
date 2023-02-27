@@ -3096,8 +3096,8 @@
 "播放剧集链接后缀": "空"},
  
  
- {"网站名字": "白虎色",
-"网站地址": "https://shavedjav.com/",//https://paipancon.com/
+ {"网站名字": "甩哥-成人影视",
+"网站地址": "https://yaopam.com/",
 "访问请求ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
 "访问请求cookie": "空",
 "访问请求referer": "空",
@@ -3108,169 +3108,39 @@
 //0：不禁用，1：禁用
 "禁用搜索": "0",
  
-//0：不启用，1：启用
-"启用js加载源码":"0",
-"js加载源码时间":"1",
- 
-"嗅探词": "m3u8?#.m3u8#.mp4#.flv#.mp3#.m4a",
-"过滤词": "51.la#cnzz.com#baidu.com#bilibili.com",
- 
-//0：记录，1：不记录
-"是否记录历史": "0",
- 
-//0：否，1：是
-"直接播放": "1",
-"列表显示": "0",
-"横图显示": "0",
-"列表起始页": "1",
-"列表分类": "推荐$/recommend/page-#最热门$/page-#萝莉$/search/ロ/page-#FC2$/series/FC2/page-#cos$/search/cos/page-#流出$/series/Leak/page#G-Queen$/series/G-Queen/page-#無毛宣言$/search/無毛宣言/page-#3P$/search/3P/page-#潮吹き$/search/潮吹き/page-#制服$/search/制服/page-#少女$/search/少女/page-#美乳$/search/美乳/page-#微乳$/search/微乳/page-#ソープ$/search/ソープ/page-#アナル$/search/アナル/page-#巨乳$/search/巨乳/page-#爆乳$/search/爆乳/page-#素人$/search/素人/page-#按摩$/search/マッサージ/page-#マンコ図鑑$/search/マンコ図鑑/page-#放尿$/search/放尿/page-#泳装$/search/水着/page-#仆人$/search/メイド/page-#野外$/search/野外/page-#美貌$/search/美マン/page-#白人$/search/白人/page-#女同$/search/レズ/page-#騎乗位$/search/騎乗位/page-",
-"列表后缀": ".html",
-"列表二次截取": "空",
-"列表截取数组": "class=\"card h-100\"$$class=\"card h-100",
-"列表图片前缀": "空",
-"列表图片": "<img src=\"$$\"",
-"列表标题": "class=\"card-body\">$$</div>",
-"列表副标题": "class=\"card-text\">$$</p>",
-"列表链接": "href=\"$$\"",
-"列表链接前缀": "空",
-"列表链接后缀": "空",
- 
-//0：get方式，1：post方式，注意：如果用post方式，【搜索模式】要填：1
-"搜索请求方式": "0",
-"搜索模式": "1",
-"搜索前": "/search/",
-"搜索后": ".html",
-"搜索连接后缀": "/vod/",
-"搜索二次截取": "空",
-"搜索截取数组": "class=\"card h-100\"$$class=\"card h-100",
-"搜索图片前缀": "空",
-"搜索图片": "src=\"$$\"",
-"搜索标题": "class=\"card-body\">$$</a>",
-"搜索副标题": "class=\"pic-text text-right\">$$</span>",
-"搜索链接": "href=\"$$\"",
-"搜索链接前缀": "空",
-"搜索链接后缀": "空"},
- 
-{"网站名字": "爱看影院",
-"网站地址": "https://www.readav.com",
-"访问请求ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
-"访问请求cookie": "空",
-"访问请求referer": "空",
-"播放请求头": "User-Agent$123",
-"图片请求头": "空",
-"网页编码": "utf-8",
-
-//0：不禁用，1：禁用
-"禁用搜索": "0",
-
 //0：不启用，1：启用
 "启用js加载源码":"0",
 "js加载源码时间":"5",
-
+ 
 "嗅探词": "m3u8?#.m3u8#.mp4#.flv#.mp3#.m4a",
 "过滤词": "51.la#cnzz.com#baidu.com#bilibili.com",
-
+ 
 //0：记录，1：不记录
 "是否记录历史": "0",
-
+ 
 //0：否，1：是
 "直接播放": "0",
 "列表显示": "0",
 "横图显示": "0",
 "列表起始页": "1",
-"列表分类": "国产视频$/index.php/vod/type/id/1/page/#日本视频$/index.php/vod/type/id/2/page/#VR视频$/index.php/vod/type/id/3/page/#韩国视频$/index.php/vod/type/id/4/page/#欧美视频$/index.php/vod/type/id/5/page/#动画视频$/index.php/vod/type/id/6/page/6#中文字幕$/index.php/vod/type/id/9/page/#国产精品$/index.php/vod/show/id/10/page/#精品三级$/index.php/vod/show/id/11/page/#主播大秀$/index.php/vod/show/id/12/page/#抖阴视频$/index.php/vod/show/id/13/page/#国模私拍$/index.php/vod/show/id/14/page/#颜射瞬间$/index.php/vod/show/id/15/page/#女神学生$/index.php/vod/show/id/16/page/#美熟少妇$/index.php/vod/show/id/17/page/#娇妻素人$/index.php/vod/show/id/18/page/#空姐模特$/index.php/vod/show/id/19/page/#国产乱伦$/index.php/vod/show/id/20/page/#骑兵有码$/index.php/vod/show/id/27/page/#步兵无码$/index.php/vod/show/id/28/page/#制服师生$/index.php/vod/show/id/50/page/#强奸乱伦$/index.php/vod/show/id/51/page/#人妻熟女$/index.php/vod/show/id/53/page/#三级剧情$/index.php/vod/show/id/55/page/#丝袜美腿$/index.php/vod/show/id/56/page/#亚洲情色$/index.php/vod/show/id/58/page/#VR有码$/index.php/vod/show/id/7/page/#VR无码$/index.php/vod/show/id/8/page/#韩国精品$/index.php/vod/show/id/42/page/#韩国制服主播$/index.php/vod/show/id/43/page/#韩国萝莉主播$/index.php/vod/show/id/44/page/#韩国大秀主播$/index.php/vod/show/id/45/page/#韩国自慰主播$/index.php/vod/show/id/46/page/#韩国唯美三级$/index.php/vod/show/id/47/page/#韩国明星学生$/index.php/vod/show/id/48/page/#无码中文$/index.php/vod/show/id/34/page/#强奸中文$/index.php/vod/show/id/35/page/#巨乳中文$/index.php/vod/show/id/36/page/#乱伦中文$/index.php/vod/show/id/37/page/#制服中文$/index.php/vod/show/id/38/page/#人妻中文$/index.php/vod/show/id/39/page/#调教中文$/index.php/vod/show/id/40/page/#出轨中文$/index.php/vod/show/id/41/page/#中文字幕$/index.php/vod/show/id/59/page/#卡通动漫$/index.php/vod/show/id/49/page/#欧美性爱$/index.php/vod/show/id/29/page/#欧美人兽$/index.php/vod/show/id30/page/#欧美人妖$/index.php/vod/show/id/31/page/#欧美男同$/index.php/vod/show/id/32/page/#欧美女同$/index.php/vod/show/id/33/page/",
+"列表分类": "国产传媒$/index.php/vod/type/id/6/page/#国产自拍$/index.php/vod/type/id/7/page/#网红主播$/index.php/vod/type/id/8/page/#中文伦理$/index.php/vod/type/id/9/page/#有码/无码$/index.php/vod/type/id/13/page/#人妻制服$/index.php/vod/type/id/14/page/#女优萝莉$/index.php/vod/type/id/15/page/#巨乳高潮$/index.php/vod/type/id/16/page/#亚洲伦理$/index.php/vod/type/id/20/page/#欧美肉番$/index.php/vod/type/id/21/page/#色情动漫$/index.php/vod/type/id/22/page/#角色扮演$/index.php/vod/type/id/23/page/#AV解说$/index.php/vod/type/id/24/page/#中文字幕$/index.php/vod/type/id/25/page/#SM调教$/index.php/vod/type/id/26/page/#强奸乱伦$/index.php/vod/type/id/27/page/#变态捆绑$/index.php/vod/type/id/28/page/#男同女同$/index.php/vod/type/id/29/page/#其他重口$/index.php/vod/type/id/30/page/",
 "列表后缀": ".html",
 "列表二次截取": "空",
-"列表截取数组": "class=\"stui-vodlist__item\"$$</li>",
+"列表截取数组": "class=\"vodlist_item\"$$</a>",
 "列表图片前缀": "空",
-"列表图片": "original=\"$$\"",
+"列表图片": "data-original=\"$$\"",
 "列表标题": "title=\"$$\"",
-"列表副标题": "class=\"pic-text text-right\">$$</span>",
+"列表副标题": "class=\"pic_text text_right\">$$</span>",
 "列表链接": "href=\"$$\"",
 "列表链接前缀": "空",
 "列表链接后缀": "空",
-
-//0：get方式，1：post方式，注意：如果用post方式，【搜索模式】要填：1
-"搜索请求方式": "0",
-"搜索模式": "1",
-"搜索前": "/index.php/vod/search/page/2/wd/",
-"搜索后": ".html",
-"搜索连接后缀": "",
-"搜索二次截取": "空",
-"搜索截取数组": "class=\"stui-vodlist__item\"$$</li>",
-"搜索图片前缀": "空",
-"搜索图片": "original=\"$$\"",
-"搜索标题": "title=\"$$\"",
-"搜索副标题": "class=\"pic-text text-right\">$$</span>",
-"搜索链接": "href=\"$$\"",
-"搜索链接前缀": "空",
-"搜索链接后缀": "空",
-
-//0：不启用，1：启用
-"启用线路名": "0",
-"线路名二次截取": "空",
-"线路名截取数组": "class=\"more$$</div>",
-"线路名标题": "/>$$</h3>",
-
-"播放页状态": "class=\"pic-text text-right\">$$</span>",
-"播放页导演": "导演：$$</p>",
-"播放页演员": "主演：$$</p>",
-"播放页剧情": "<p class=\"col-pd\">$$</p>",
-
-"播放页二次截取": "空",
-"播放页截取数组": "class=\"stui-content__playlist$$</ul>",
-"播放剧集二次截取": "空",
-"播放剧集截取数组": "<a$$/a>",
-"播放剧集标题": ">$$<",
-"播放剧集链接": "href=\"$$\"",
-"播放剧集链接前缀": "空",
-"播放剧集链接后缀": "空"},
  
-{"网站名字": "破色吧",
-"网站地址": "http://sspp.yb213.buzz/",//http://wangzhi.mom/
-"访问请求ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
-"访问请求cookie": "空",
-"访问请求referer": "空",
-"播放请求头": "User-Agent$123",
-"图片请求头": "空",
-"网页编码": "utf-8",
-
-//0：不禁用，1：禁用
-"禁用搜索": "0",
-
-//0：不启用，1：启用
-"启用js加载源码":"0",
-"js加载源码时间":"5",
-
-"嗅探词": "m3u8?#.m3u8#.mp4#.flv#.mp3#.m4a",
-"过滤词": "51.la#cnzz.com#baidu.com#bilibili.com",
-
-//0：记录，1：不记录
-"是否记录历史": "0",
-
-//0：否，1：是
-"直接播放": "0",
-"列表显示": "0",
-"横图显示": "0",
-"列表起始页": "1",
-"列表分类": "线路一$/vod/type/id/15/page/#线路二$/vod/type/id/16/page/#线路三$/vod/type/id/20/page/#线路四$/vod/type/id/21/page/",
-"列表后缀": ".html",
-"列表二次截取": "空",
-"列表截取数组": "class=\"stui-vodlist__item\"$$</li>",
-"列表图片前缀": "空",
-"列表图片": "original=\"$$\"",
-"列表标题": "title=\"$$\"",
-"列表副标题": "class=\"pic-text text-right\">$$</span>",
-"列表链接": "href=\"$$\"",
-"列表链接前缀": "空",
-"列表链接后缀": "空",
-
 //0：get方式，1：post方式，注意：如果用post方式，【搜索模式】要填：1
 "搜索请求方式": "0",
 "搜索模式": "0",
 "搜索前": "/index.php/ajax/suggest?mid=1&wd=",
 "搜索后": "&limit=150",
-"搜索连接后缀": "/vod/detail/id/",
+"搜索连接后缀": "/index.php/vod/detail/id/",
 "搜索二次截取": "空",
 "搜索截取数组": "前$$后",
 "搜索图片前缀": "空",
@@ -3280,28 +3150,27 @@
 "搜索链接": "href=\"$$\"",
 "搜索链接前缀": "空",
 "搜索链接后缀": "空",
-
+ 
 //0：不启用，1：启用
 "启用线路名": "0",
 "线路名二次截取": "空",
-"线路名截取数组": "class=\"more$$</div>",
+"线路名截取数组": "class=\"content$$</div>",
 "线路名标题": "/>$$</h3>",
-
-"播放页状态": "class=\"pic-text text-right\">$$</span>",
-"播放页导演": "地区：$$</p>",
-"播放页演员": "主演：$$</p>",
-"播放页剧情": "<p class=\"col-pd\">$$</p>",
-
+ 
+"播放页状态": "类型：$$</li>",
+"播放页导演": "导演：$$</li>",
+"播放页演员": "主演：$$</li>",
+"播放页剧情": "简介：$$</li>",
+ 
 "播放页二次截取": "空",
-"播放页截取数组": "class=\"stui-content__playlist$$</ul>",
+"播放页截取数组": "class=\"playbtn$$class=\"playbtn o_bg",
 "播放剧集二次截取": "空",
 "播放剧集截取数组": "<a$$/a>",
-"播放剧集标题": ">$$<",
+"播放剧集标题": "</i>$$<",
 "播放剧集链接": "href=\"$$\"",
 "播放剧集链接前缀": "空",
 "播放剧集链接后缀": "空"},
  
-
 
 
 
