@@ -750,6 +750,156 @@
 "播放剧集链接前缀": "空",
 "播放剧集链接后缀": "空"},
 
+{"网站名字": "吻别视频",
+"网站地址": "https://agwb.top/",
+"访问请求ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
+"访问请求cookie": "空",
+"访问请求referer": "空",
+"播放请求头": "User-Agent$123",
+"图片请求头": "空",
+"网页编码": "utf-8",
+ 
+//0：不禁用，1：禁用
+"禁用搜索": "0",
+ 
+//0：不启用，1：启用
+"启用js加载源码":"0",
+"js加载源码时间":"5",
+ 
+"嗅探词": "m3u8?#.m3u8#.mp4#.flv#.mp3#.m4a",
+"过滤词": "51.la#cnzz.com#baidu.com#bilibili.com",
+ 
+//0：记录，1：不记录
+"是否记录历史": "0",
+ 
+//0：否，1：是
+"直接播放": "0",
+"列表显示": "0",
+"横图显示": "0",
+"列表起始页": "1",
+"列表分类": "亚洲无码$/index.php/vod/type/id/1/page/#亚洲有码$/index.php/vod/type/id/2/page/#欧美情色$/index.php/vod/type/id/3/page/#中文字幕$/index.php/vod/type/id/4/page/#动漫卡通$/index.php/vod/type/id/5/page/#美女主播$/index.php/vod/type/id/20/page/#人妻熟女$/index.php/vod/type/id/21/page/#强奸乱伦$/index.php/vod/type/id/22/page/#日韩伦理$/index.php/vod/type/id/23/page/#国产自拍$/index.php/vod/type/id/24/page/#同性同志$/index.php/vod/type/id/29/page/",
+"列表后缀": ".html",
+"列表二次截取": "空",
+"列表截取数组": "class=\"stui-vodlist__box\"$$</a>",
+"列表图片前缀": "空",
+"列表图片": "data-original=\"$$\"",
+"列表标题": "title=\"$$\"",
+"列表副标题": "class=\"pic-text1 text-right\">$$</span>",
+"列表链接": "href=\"$$\"",
+"列表链接前缀": "空",
+"列表链接后缀": "空",
+ 
+//0：get方式，1：post方式，注意：如果用post方式，【搜索模式】要填：1
+"搜索请求方式": "0",
+"搜索模式": "0",
+"搜索前": "/index.php/ajax/suggest?mid=1&wd=",
+"搜索后": "&limit=150",
+"搜索连接后缀": "/index.php/vod/detail/id/",
+"搜索二次截取": "空",
+"搜索截取数组": "前$$后",
+"搜索图片前缀": "空",
+"搜索图片": "original=\"$$\"",
+"搜索标题": "title=\"$$\"",
+"搜索副标题": "class=\"pic-text text-right\">$$</span>",
+"搜索链接": "href=\"$$\"",
+"搜索链接前缀": "空",
+"搜索链接后缀": "空",
+ 
+//0：不启用，1：启用
+"启用线路名": "0",
+"线路名二次截取": "空",
+"线路名截取数组": "class=\"more$$</div>",
+"线路名标题": "/>$$</h3>",
+ 
+"播放页状态": "class=\"left\">类型：$$</p>",
+"播放页导演": "class=\"left\">更新：$$</p>",
+"播放页演员": " class=\"left\">永久域名：$$</p>",
+"播放页剧情": "style=\"display: none;\">$$</span>",
+ 
+"播放页二次截取": "空",
+"播放页截取数组": "class=\"stui-content__playlist$$</ul>",
+"播放剧集二次截取": "空",
+"播放剧集截取数组": "<a$$/a>",
+"播放剧集标题": ">$$<",
+"播放剧集链接": "href=\"$$\"",
+"播放剧集链接前缀": "空",
+"播放剧集链接后缀": "空"},
+
+{"网站名字": "魅色仓库",
+"网站地址": "https://www.msck.cfd/",//发布地址:https://xbd.abczi.com/258/
+"访问请求ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
+"访问请求cookie": "空",
+"访问请求referer": "空",
+"播放请求头": "User-Agent$123",
+"图片请求头": "空",
+"网页编码": "utf-8",
+
+//0：不禁用，1：禁用
+"禁用搜索": "0",
+
+//0：不启用，1：启用
+"启用js加载源码":"0",
+"js加载源码时间":"5",
+
+"嗅探词": "m3u8?#.m3u8#.mp4#.flv#.mp3#.m4a",
+"过滤词": "51.la#cnzz.com#baidu.com#bilibili.com",
+
+//0：记录，1：不记录
+"是否记录历史": "0",
+
+//0：否，1：是
+"直接播放": "0",
+"列表显示": "0",
+"横图显示": "0",
+"列表起始页": "1",
+"列表分类": "女神学生$/vodtype/21-#美女直播$/vodtype/22-#人妻系列$/vodtype/23-#强奸乱伦$/vodtype/24-#自拍偷拍$/vodtype/25-#制服诱惑$/vodtype/26-#巨乳系列$/vodtype/27-#自慰系列$/vodtype/28-#国产视频$/vodtype/29-#无码视频$/vodtype/30-#有码视频$/vodtype/31-#中文字幕$/vodtype/32-#日韩精品$/vodtype/33-#欧美精品$/vodtype/34-#动漫精品$/vodtype/35-#三级伦理$/vodtype/36-",
+"列表后缀": ".html",
+"列表二次截取": "空",
+"列表截取数组": "class=\"st--post--img\"$$</a>",
+"列表图片前缀": "空",
+"列表图片": "src=\"$$\"",
+"列表标题": "alt=\"$$\"",
+"列表副标题": "class=\"pic-text text-right\">$$</span>",
+"列表链接": "href=\"$$\"",
+"列表链接前缀": "空",
+"列表链接后缀": "空",
+
+//0：get方式，1：post方式，注意：如果用post方式，【搜索模式】要填：1
+"搜索请求方式": "0",
+"搜索模式": "1",
+"搜索前": "/s/index.html?wd=",
+"搜索后": "&limit=150",
+"搜索连接后缀": "/vod/",
+"搜索二次截取": "空",
+"搜索截取数组": "class=\"st--post--img\"$$</a>",
+"搜索图片前缀": "空",
+"搜索图片": "src=\"$$\"",
+"搜索标题": "alt=\"$$\"",
+"搜索副标题": "class=\"pic-text text-right\">$$</span>",
+"搜索链接": "href=\"$$\"",
+"搜索链接前缀": "空",
+"搜索链接后缀": "空",
+
+//0：不启用，1：启用
+"启用线路名": "0",
+"线路名二次截取": "空",
+"线路名截取数组": "class=\"more$$</div>",
+"线路名标题": "/>$$</h3>",
+
+"播放页状态": "class=\"pic-text text-right\">$$</span>",
+"播放页导演": "导演：$$</p>",
+"播放页演员": "主演：$$</p>",
+"播放页剧情": "<p class=\"col-pd\">$$</p>",
+
+"播放页二次截取": "空",
+"播放页截取数组": "<h2>$$</h2>",
+"播放剧集二次截取": "空",
+"播放剧集截取数组": "<a$$/a>",
+"播放剧集标题": ">$$<",
+"播放剧集链接": "href=\"$$\"",
+"播放剧集链接前缀": "空",
+"播放剧集链接后缀": "空"},
+
 {"网站名字": "小姨子",
 "网站地址": "https://www.xyz33.buzz/",
 "访问请求ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
@@ -911,6 +1061,81 @@
 "播放剧集链接后缀": "空",
 //0：不跳转，1：跳转
 "播放页跳转看图": "0"},
+
+{"网站名字": "优创AV",
+"网站地址": "https://www.youcav1.cc/",
+"访问请求ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
+"访问请求cookie": "空",
+"访问请求referer": "空",
+"播放请求头": "User-Agent$123",
+"图片请求头": "空",
+"网页编码": "utf-8",
+ 
+//0：不禁用，1：禁用
+"禁用搜索": "0",
+ 
+//0：不启用，1：启用
+"启用js加载源码":"0",
+"js加载源码时间":"10",
+ 
+"嗅探词": "m3u8?#.m3u8#.mp4#.flv#.mp3#.m4a",
+"过滤词": "51.la#cnzz.com#baidu.com#bilibili.com",
+ 
+//0：记录，1：不记录
+"是否记录历史": "0",
+ 
+//0：否，1：是
+"直接播放": "0",
+"列表显示": "0",
+"横图显示": "0",
+"列表起始页": "1",
+"列表分类": "颜值女神$/vodtype/21-#风骚御姐$/vodtype/20-#国产推荐$/vodtype/22-#粉色白虎$/vodtype/23-#人妻素人$/vodtype/38-#丝袜诱惑$/vodtype/62-#户外运动$/vodtype/63-#制服欲望$/vodtype/64-#明星AI$/vodtype/66-#三级剧情$/vodtype/34-#日系人妻$/vodtype/24-#日系无码$/vodtype/25-#日系有码$/vodtype/26-#日系中文$/vodtype/27-#日系强奸$/vodtype/29-#巨乳美乳$/vodtype/33-#日系制服$/vodtype/61-#极品素人$/vodtype/68-#麻豆传媒$/vodtype/40-#果冻传媒$/vodtype/41-#天美传媒$/vodtype/43-#星空传媒$/vodtype/44-#蜜桃传媒$/vodtype/50-#精东影视$/vodtype/45-#国产AV$/vodtype/72-#JVID传媒$/vodtype/46-#性世界$/vodtype/47-#兔子先生$/vodtype/48-#果冻传媒$/vodtype/49-#台湾swag$/vodtype/69-#SA传媒$/vodtype/70-#女优明星$/vodtype/75-#高清优选$/vodtype/77-#角色扮演$/vodtype/76-#偷拍自拍$/vodtype/79-#乱伦专场$/vodtype/78-#国产主播$/vodtype/80-#优质动漫$/vodtype/74-#激情欧美$/vodtype/73-",
+"列表后缀": ".html",
+"列表二次截取": "空",
+"列表截取数组": "class=\"module-item-pic\"$$class=\"module-item-titlebox",
+"列表图片前缀": "空",
+"列表图片": "src=\"$$\"",
+"列表标题": "title=\"$$\"",
+"列表副标题": "class=\"module-item-caption\">$$</div>",
+"列表链接": "href=\"$$\"",
+"列表链接前缀": "空",
+"列表链接后缀": "空",
+ 
+//0：get方式，1：post方式，注意：如果用post方式，【搜索模式】要填：1
+"搜索请求方式": "0",
+"搜索模式": "0",
+"搜索前": "/index.php/ajax/suggest?mid=1&wd=",
+"搜索后": "&limit=150",
+"搜索连接后缀": "/voddetail/",
+"搜索二次截取": "空",
+"搜索截取数组": "前$$后",
+"搜索图片前缀": "空",
+"搜索图片": "original=\"$$\"",
+"搜索标题": "title=\"$$\"",
+"搜索副标题": "class=\"pic-text text-right\">$$</span>",
+"搜索链接": "href=\"$$\"",
+"搜索链接前缀": "空",
+"搜索链接后缀": "空",
+ 
+//0：不启用，1：启用
+"启用线路名": "1",
+"线路名二次截取": "空",
+"线路名截取数组": "data-dropdown-value=$$</div>",
+"线路名标题": "<span>$$</span>",
+ 
+"播放页状态": "class=\"video-info-item\">$$</div>",
+"播放页导演": "导演：$$</div>",
+"播放页演员": "主演：$$</div>",
+"播放页剧情": "style=\"display: none;\">$$</div>",
+ 
+"播放页二次截取": "空",
+"播放页截取数组": "class=\"scroll-content$$class=\"content",
+"播放剧集二次截取": "空",
+"播放剧集截取数组": "<a$$</a>",
+"播放剧集标题": "<span>$$</span>",
+"播放剧集链接": "href=\"$$\"",
+"播放剧集链接前缀": "空",
+"播放剧集链接后缀": "空"},
 
 {"网站名字": "AV传送门",
 "网站地址": "https://www.avcsm1.ink/", //https://bmt.saaak.com/npr/n.php?pa=66_avcsm传送门
