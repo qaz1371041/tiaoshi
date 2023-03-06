@@ -102,7 +102,7 @@
 //主解析是JSON直链格式的解析
 "zhujiexi":[
 {"name":"影视之家","url":"https://vip.ckllk.com/API.php?appkey=404164cdd1472561b4c61f1845e0bff8&url="},
-{"name":"低端","url":"https://json.codepays.net/api/?key=c3cbb4db965860712e2a5bdb283b2e28&url="},
+{"name":"低端","url":"https://alijx.ddml.xyz/api.php?url="},
  {"name":"23影视","url":"http://103.222.189.167:7788/home/api?type=ys&uid=3774870&key=behijprxzDGRTW2467&url="},
  {"name": "主解","url":"https://play.airfun.fun/API.php?appkey=DJALklaldAALDKDNMLAKDHld&url="},
  {"name": "解析02","type": 1,"url": "https://vip.yyzyd.com/API.php?appkey=404164cdd1472561b4c61f1845e0bff8&url="},
@@ -112,8 +112,7 @@
 {"name":"1号线","url":"https://it.cntnn.com/API.php?appkey=404164cdd1472561b4c61f1845e0bff8&url="},
  {"name":"aiku","url": "https://api.json.icu/api/?key=1664d1f723a481130596d3c93078bfeb&url="},
  {"name":"001","url":"https://k.json.icu/home/api?type=ys&uid=10683762&key=ghjlmuvwLNSUVW3578&url="},
- {"name":"jj","type":1,"url":"https://json.8skr.com/api/jiketv/SVIP/daozousiquanjia/byg.php?url="},
- {"name":"j3","type":1,"url":"https://json.8skr.com/api/jiketv/SVIP/daozousiquanjia/xiaomaomi.php?url="},
+
  {"name": "主解2","url":"https://vip.xiaomaomi.tv/api/?key=69wVS0nSVdERACrkmm&url="},
 {"name":"05号线","type":1,"url":"http://45.248.10.163:12345/tvjson.php?url="},
  {"name":"00号线","type":1,"url":"https://jiexi.hnslg.com.cn/home/api?type=ys&uid=14483756&key=cdfimnowyCEIKQZ345&url="},
@@ -133,6 +132,7 @@
 //备用解析是常规格式的解析
 "beiyongjiexi":[
  {"name":"喵影视","url":"http://www.miaoys.cc/vip/?url="},
+ {"name":"UM","url":"https://b.umkan.cc/?url="},
   {"name":"3号线","url":"https://iptv.tkmovice.com/?url="},
  {"name":"1","url":"https://jx.777jiexi.com/player/?url="},
  {"name":"001","url":"https://lziplayer.com/?url="},
