@@ -101,7 +101,7 @@
 
 //主解析是JSON直链格式的解析
 "zhujiexi":[
-{"name":"影视之家","url":"https://vip.ckllk.com/API.php?appkey=404164cdd1472561b4c61f1845e0bff8&url="},
+
 {"name":"低端","url":"https://alijx.ddml.xyz/api.php?url="},
  {"name":"23影视","url":"http://103.222.189.167:7788/home/api?type=ys&uid=3774870&key=behijprxzDGRTW2467&url="},
  {"name": "主解","url":"https://play.airfun.fun/API.php?appkey=DJALklaldAALDKDNMLAKDHld&url="},
@@ -133,33 +133,25 @@
 "beiyongjiexi":[
  {"name":"喵影视","url":"http://www.miaoys.cc/vip/?url="},
  {"name":"UM","url":"https://b.umkan.cc/?url="},
-  {"name":"3号线","url":"https://iptv.tkmovice.com/?url="},
+  
  {"name":"1","url":"https://jx.777jiexi.com/player/?url="},
- {"name":"001","url":"https://lziplayer.com/?url="},
+ 
  {"name": "002","url":"https://jxdp.codermart.net/?url="},
-{"name":"AG","url":"https://www.codjx.com/?url="},
- {"name": "freeok","url": "https://play.freeok.vip/?url="},
+
+ 
  {"name":"8K影视","url":"http://play.dy4.top:888/api7_cc/?url="},
  {"name": "解析7","type": 0,"url": "https://api.okjx.cc:3389/jx.php?url="},
- {"name":"00","url":"https://jx.qqqjx.com/?url="},
+ 
  {"name":"综合/B站","url":"https://jx.jsonplayer.com/player/?url="},		
-{"name":"虾米","url":"https://jx.xmflv.com/?url="},
-{"name":"爱豆","url":"https://jx.aidouer.net/?url="},	
+
+
 {"name":"诺讯","url":"https://www.nxflv.com/?url="},
 {"name":"夜幕","url":"https://www.yemu.xyz/?url="},
-{"name":"人人迷","url":"https://jx.blbo.cc:4433/?url="},
+
 {"name":"全民","url":"https://jx.blbo.cc:4433/?url="},
-{"name":"CK","url":"https://www.ckplayer.vip/jiexi/?url="},
-{"name":"ckmov","url":"https://www.ckmov.vip/api.php?url="},
-{"name":"ccyjjd","url":"https://ckmov.ccyjjd.com/ckmov/?url="},
-{"name":"BL","url":"https://vip.bljiex.com/?v="},		
-{"name":"MUTV","url":"https://jiexi.janan.net/jiexi/?url="},		
-{"name":"老板","url":"https://vip.laobandq.com/jiexi.php?url="},
-{"name":"盘古","url":"https://www.pangujiexi.cc/jiexi.php?url="},		
-{"name":"0523","url":"https://go.yh0523.cn/y.cy?url="},
-{"name":"17云","url":"https://www.1717yun.com/jx/ty.php?url="},		
-{"name":"8090","url":"https://www.8090g.cn/?url="},
-{"name":"听乐","url":"https://jx.dj6u.com/?url="},
+
+
+
 
 
 
