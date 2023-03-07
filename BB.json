@@ -47,7 +47,9 @@
 {"name":"Fun4k","url":"https://www.fun4k.com/api.php/app/"},
 {"name":"低端影视","url":"https://www.dddy.me/api.php/v1.vod"}, 
 {"name":"星空影视","url":"https://xkys.tv/api.php/app/"}, 
-{"name":"雨笙影视","url":"http://xkmovies.cn/lvdou_api.php/v1.vod"},
+{"name":"彩虹影视","url":"http://101.33.211.112:3602/api.php/app/"},
+{"name":"HOHO TV","url":"https://hoho.tv/api.php/app/"},
+
 {"name":"空气屋","url":"https://www.airfun.fun/xgapp.php/v2/"},
 {"name":"星辰视频","url":"https://xc4k.cc/lvdou_api.php/v1.vod"}, 
 {"name":"落攻阁影视网","url":"https://www.lggys.cn/api.php/app/"}, 
@@ -111,18 +113,7 @@
  {"name": "主解","url":"https://play.airfun.fun/API.php?appkey=DJALklaldAALDKDNMLAKDHld&url="},
  {"name": "解析02","type": 1,"url": "https://vip.yyzyd.com/API.php?appkey=404164cdd1472561b4c61f1845e0bff8&url="},
  {"name":"懒懒1","url":"http://lanlan.ckflv.cn/?url="},
- {"name":"极客","url": "https://ceshi.8skr.com/100ipb.php?url="},
- {"name":"001","url":"https://k.json.icu/home/api?type=ys&uid=10683762&key=ghjlmuvwLNSUVW3578&url="},
-{"name":"1号线","url":"https://it.cntnn.com/API.php?appkey=404164cdd1472561b4c61f1845e0bff8&url="},
- {"name":"aiku","url": "https://api.json.icu/api/?key=1664d1f723a481130596d3c93078bfeb&url="},
- {"name":"001","url":"https://k.json.icu/home/api?type=ys&uid=10683762&key=ghjlmuvwLNSUVW3578&url="},
-
- {"name": "主解2","url":"https://vip.xiaomaomi.tv/api/?key=69wVS0nSVdERACrkmm&url="},
-{"name":"05号线","type":1,"url":"http://45.248.10.163:12345/tvjson.php?url="},
- {"name":"00号线","type":1,"url":"https://jiexi.hnslg.com.cn/home/api?type=ys&uid=14483756&key=cdfimnowyCEIKQZ345&url="},
-{"name":"011号线","type":1,"url":"http://42.157.129.128:99/api/?key=adK6frXXYNiu2Ocx84&url="},
-{"name":"022号线","type":1,"url":"http://103.222.189.167:7788/home/api?type=ys&uid=3496830&key=fjpuyGIKLMNOPUXY12&url="},
-{"name":"033号线","type":1,"url":"http://110.42.2.115:880/analysis/json/?uid=2361&my=acfhjoqBOPQSXY1679&url="},
+ 
 {"name": "解析01","url": "http://202.189.9.237:520/jsonmax/dnmb2.php?url="}, 
 
 {"name": "解析10","type": 1,"url": "https://www.1920lgzy.top/json.php?url="},
