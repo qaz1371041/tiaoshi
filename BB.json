@@ -1064,7 +1064,7 @@
  {"网站名字": "巨人影院",
 "网站地址": "https://www.juren.tv/",
 "访问请求ua": "Mozilla/5.0 (Linux; Android 10; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.104 Mobile Safari/537.36",
-"访问请求cookie": "空",
+"访问请求cookie": "PHPSESSID=3pan8rehgcmcm4k1igkj007ng0; _funcdn_token=e78f07fa17d96ec1a6e826f6e82008baad1a7ca5b9288113dcdec4e1f7197f6e",
 "访问请求referer": "空",
 "播放请求头": "User-Agent$123",
 "图片请求头": "空",
