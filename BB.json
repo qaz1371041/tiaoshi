@@ -221,7 +221,7 @@
 "bfqianzhui": ""},
  
 {"网站名字": "影视工厂",
-"网站地址": "https://www.ysgc.vip/",
+"网站地址": "https://www.ysgc.fun",
 "访问请求ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36",
 "访问请求cookie": "PHPSESSID=ii7q0oncu3kal17q0fa630a493; _funcdn_token=651618597f5a25ad9cc58ae0d25d20adbcd28cd2a53b58384b668c37720b1720",
 "访问请求referer": "https://www.ysgc.cc/",
@@ -617,6 +617,18 @@
 "播放剧集链接前缀": "空",
 "播放剧集链接后缀": "空",
 //0：不跳转，1：跳转
+"播放页跳转看图": "0",
+
+//0：否，1：是
+"启用嗅探截取": "1",
+"嗅探请求头": "User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",//User-Agent$123#Referer$123
+"播放地址二次截取": "var player_$$</div>",
+"播放地址截取": "\"url\":\"$$\"",
+"是否base64解码": "0",
+"是否url解码": "0",
+"官源是否走解析": "0",
+
+//0：不跳转，1：跳转
 "播放页跳转看图": "0"},
  
  
@@ -742,8 +754,8 @@
 "列表显示": "0",
 "横图显示": "0",
 "列表起始页": "1",
-"列表分类": "电影$/vod-show-id-1-page-#国产剧$/vod-show-id-13-page-#港台剧$/vod-show-id-14-page-#日韩剧$/vod-show-id-15-page-#欧美剧$/vod-show-id-16-page-#海外剧$/vod-show-id-35-page-#其他剧$/vod-show-id-36-page-#伦理片$/vod-show-id-20-page-#综艺$/vod-show-id-23-page-#动漫$/vod-show-id-4-page-#纪录片$/vod-type-id-5-page-#动画片$/vod-type-id-22-page-#$#$#$#$#$",
-"列表后缀": ".html",
+"列表分类": "电影$/show/movie--------#国产剧$/show/guochan--------#港台剧$/show/gangtai--------#日韩剧$/show/rihan--------#欧美剧$/show/oumei--------#海外剧$/show/haiwaiju--------#其他剧$/show/qitaju--------#伦理片$/show/lunli--------#综艺$/show/zongyi--------#动漫$/show/guochandongman--------#纪录片$/show/documentary--------#B站$/show/Bzhan--------",
+"列表后缀": "---.html",
 "列表二次截取": "空",
 "列表截取数组": "class=\"myui-vodlist__box\"$$</a>",
 "列表图片前缀": "空",
@@ -756,12 +768,12 @@
  
 //0：get方式，1：post方式，注意：如果用post方式，【搜索模式】要填：1
 "搜索请求方式": "0",
-"搜索模式": "0",
-"搜索前": "/index.php/ajax/suggest?mid=1&wd=",
-"搜索后": "&limit=150",
-"搜索连接后缀": "/vod-detail-id-",
+"搜索模式": "1",
+"搜索前": "/search/-------------.html?wd=",
+"搜索后": "&submit=",
+"搜索连接后缀": "/spp/",
 "搜索二次截取": "空",
-"搜索截取数组": "前$$后",
+"搜索截取数组": "class=\"clearfix$$</li>",
 "搜索图片前缀": "空",
 "搜索图片": "original=\"$$\"",
 "搜索标题": "title=\"$$\"",
@@ -772,7 +784,7 @@
  
 //0：不启用，1：启用
 "启用线路名": "1",
-"线路名二次截取": "播放地址$$!-- 播放地址--",
+"线路名二次截取": "class=\"nav$$class=\"nav",
 "线路名截取数组": "data-toggle=\"tab\"$$/a>",
 "线路名标题": ">$$<",
  
@@ -789,6 +801,16 @@
 "播放剧集链接": "href=\"$$\"",
 "播放剧集链接前缀": "空",
 "播放剧集链接后缀": "空",
+ 
+//0：否，1：是
+"启用嗅探截取": "1",
+"嗅探请求头": "User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",//User-Agent$123#Referer$123
+"播放地址二次截取": "var player_$$</div>",
+"播放地址截取": "\"url\":\"$$\"",
+"是否base64解码": "0",
+"是否url解码": "0",
+"官源是否走解析": "0",
+ 
 //0：不跳转，1：跳转
 "播放页跳转看图": "0"},
  
@@ -856,24 +878,27 @@
 //0：不启用，1：启用
 "启用线路名": "1",
 "线路名二次截取": "空",
-"线路名截取数组": "data-dropdown-value=$$</div>",
+"线路名截取数组": "class=\"module-tab-item tab-item\"$$</div>",
 "线路名标题": "<span>$$</span>",
- 
-"播放页状态": "上映：$$</div>",
-"播放页导演": "导演：$$</div>",
-"播放页演员": "主演：$$</div>",
-"播放页剧情": "剧情：$$</div>",
- 
+"播放页状态": "上映：</span>$$</div>",
+"播放页导演": "导演：</span>$$</div>",
+"播放页演员": "主演：</span>$$</div>",
+"播放页剧情": "剧情：</span>$$</div>",
 "播放页二次截取": "空",
-"播放页截取数组": "class=\"scroll-content$$</div>",
+"播放页截取数组": "id=\"sort-item$$</div>",
 "播放剧集二次截取": "空",
 "播放剧集截取数组": "<a$$/a>",
 "播放剧集标题": "<span>$$</span>",
 "播放剧集链接": "href=\"$$\"",
 "播放剧集链接前缀": "空",
 "播放剧集链接后缀": "空",
-//0：不跳转，1：跳转
-"播放页跳转看图": "0"},
+"启用嗅探截取": "1",
+"嗅探请求头": "User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
+"播放地址二次截取": "var player_$$</div>",
+"播放地址截取": "\"url\":\"$$\"",
+"是否base64解码": "0",
+"是否url解码": "0",
+"官源是否走解析": "0"},
  
 {"网站名字": "飘花电影",
 "网站地址": "http://www.phdy666.com/",
@@ -2013,8 +2038,9 @@
 "播放剧集链接": "href=\"$$\"",
 "播放剧集链接前缀": "空",
 "播放剧集链接后缀": "空"},
+
  {"网站名字": "黑狐影院",
-"网站地址": "http://heihu.tv/",
+"网站地址": "http://www.qiyou8.com/",
 "访问请求ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
 "访问请求cookie": "空",
 "访问请求referer": "空",
@@ -2098,6 +2124,7 @@
 "播放剧集链接后缀": "空",
 //0：不跳转，1：跳转
 "播放页跳转看图": "0"},
+ 
  
  {"网站名字": "哔哩兔影视",
 "网站地址": "https://www.bilituys.com/",
