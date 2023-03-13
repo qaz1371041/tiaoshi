@@ -3840,19 +3840,18 @@
 "bflianjiehou": "\""
 },
  
-
 {
 "name": "酷客影院",
-"url": "http://696m.com",
+"url": "http://www.3kuke.com/",// 网址发布页 http://www.ikuke.vip/
 "User": "User-Agent$123",
-"ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
-"fenlei": "电影$/list/1_#电视剧$/list/2_#综艺$/list/4_#动漫$/list/3_",
+"ua": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36",
+"fenlei": "电影$/list/1_#电视剧$/list/2_#综艺$/list/4_#动漫$/list/3_#伦理$/list/6_",
 "houzhui": ".html",
 "shifouercijiequ": "0",
 "jiequqian": "空",
 "jiequhou": "空",
-"jiequshuzuqian": "class=\"stui-vodlist__thumb",
-"jiequshuzuhou": "</a>",
+"jiequshuzuqian": "class=\"stui-vodlist__box",
+"jiequshuzuhou": "</li>",
 "tupianqian": "original=\"",
 "tupianhou": "\"",
 "biaotiqian": "title=\"",
@@ -3863,7 +3862,7 @@
 "lianjiehou": "\"",
 "搜索请求方式": "1",
 "ssmoshi": "1",
-"sousuoqian": "http://696m.com/search.php",
+"sousuoqian": "http://www.3kuke.com/search.php",
 "sousuohou": "searchword",
 "sousuohouzhui": "",
 "sousuoshifouercijiequ": "0",
@@ -3885,7 +3884,7 @@
 "bfshifouercijiequ": "0",
 "bfjiequqian": "空",
 "bfjiequhou": "空",
-"bfjiequshuzuqian": "class=\"stui-content__playlist clearfix\"",
+"bfjiequshuzuqian": "class=\"stui-content__playlist ",
 "bfjiequshuzuhou": "</ul>",
 "zhuangtaiqian": "class=\"pic-text text-right\">",
 "zhuangtaihou": "</span>",
@@ -3905,7 +3904,7 @@
 "bflianjieqian": "href=\"",
 "bflianjiehou": "\""
 },
- 
+
 {"网站名字": "爱看影视",
 "网站地址": "https://ikan6.vip/",
 "访问请求ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
