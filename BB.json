@@ -47,7 +47,7 @@
 {"name":"Fun4k","url":"https://www.fun4k.com/api.php/app/"},
 {"name":"低端影视","url":"https://www.dddy.me/api.php/v1.vod"}, 
 {"name":"星空影视","url":"https://xkys.tv/api.php/app/"}, 
-
+{"name":"小暮影院","url":"http://m.xiaomutv.cn/api.php/v1.vod"},
 {"name":"HOHO TV","url":"https://hoho.tv/api.php/app/"},
 {"name":"落攻阁影视网","url":"https://www.lggys.cn/api.php/app/"},
 {"name":"空气屋","url":"https://www.airfun.fun/xgapp.php/v2/"},
@@ -123,6 +123,7 @@
 
 //备用解析是常规格式的解析
 "beiyongjiexi":[
+ {"name":"少泽影客","url":"https://jx1.idcdr.com/111/555/?url="},
  {"name":"喵影视","url":"http://www.miaoys.cc/vip/?url="},
  {"name":"UM","url":"https://b.umkan.cc/?url="},
  {"name":"blskk","url":"https://www.kuaikanys.net/jiexi/jiexi-gf/?url="},
