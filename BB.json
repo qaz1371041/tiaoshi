@@ -111,9 +111,10 @@
 "zhujiexi":[
 {"name":"小苹果","url":"http://j.grelighting.cn/parser/?url="},
 {"name":"新云","url":"https://json.key521.cn/api/?key=a161dfbdceebcd60c72bc1a87b1f3281&url="},
+ 
 {"name":"解析","url":"http://27.124.4.42:4567/jhjson/ceshi.php?url="},
  {"name": "主解","url":"https://play.airfun.fun/API.php?appkey=DJALklaldAALDKDNMLAKDHld&url="},
- 
+ {"name": "主解析","url":"https://play.airfun.fun/API.php?appkey=DJALklaldAALDKDNMLAKDHld&url="},
  {"name":"懒懒1","url":"http://lanlan.ckflv.cn/?url="},
 
 {"name": "解析10","type": 1,"url": "https://www.1920lgzy.top/json.php?url="},
