@@ -40,6 +40,7 @@
 {"name":"旧梦影视","url":"http://43.139.139.17:4433/api.php/app/"},
 {"name":"青年影视","url":"https://qny4.top/api.php/app/"},
 {"name":"神马影院","url":"https://www.smdyy.cc/api.php/app/"},//https://www.smdyy.vip/
+{"name":"69美剧","url":"https://www.69mj.com/xgapp.php/v1/"}, 
 {"name":"无限影视网","url":"https://www.wxtv.net/api.php/app/"}, 
 {"name":"映迷","url":"https://www.inmi.app/xgapp.php/v1/"},
 {"name":"汪了个汪影视","url":"http://wlgwys.com/mogai_api.php/v1.vod"},
@@ -112,7 +113,7 @@
 "zhujiexi":[
 {"name":"小苹果","url":"http://j.grelighting.cn/parser/?url="},
 {"name":"新云","url":"https://json.key521.cn/api/?key=a161dfbdceebcd60c72bc1a87b1f3281&url="},
- 
+
 {"name":"解析","url":"http://27.124.4.42:4567/jhjson/ceshi.php?url="},
  {"name": "主解","url":"https://play.airfun.fun/API.php?appkey=DJALklaldAALDKDNMLAKDHld&url="},
  {"name": "主解析","url":"https://play.airfun.fun/API.php?appkey=DJALklaldAALDKDNMLAKDHld&url="},
