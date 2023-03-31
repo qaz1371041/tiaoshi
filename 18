@@ -228,6 +228,116 @@
 "搜索链接前缀": "空",
 "搜索链接后缀": "空"},
 
+{"网站名字": "假黄色仓库资源网",
+"网站地址": "https://www.253256.xyz/",
+"访问请求ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
+"访问请求cookie": "空",
+"访问请求referer": "空",
+"播放请求头": "User-Agent$123",
+"图片请求头": "空",
+"网页编码": "utf-8",
+
+//0：不禁用，1：禁用
+"禁用搜索": "0",
+
+//0：不启用，1：启用
+"启用js加载源码":"0",
+"js加载源码时间":"5",
+
+"嗅探词": "m3u8?#.m3u8#.mp4#.flv#.mp3#.m4a",
+"过滤词": "51.la#cnzz.com#baidu.com#bilibili.com#?v=",
+
+//0：记录，1：不记录
+"是否记录历史": "0",
+
+//0：否，1：是
+"直接播放": "1",
+"列表显示": "0",
+"横图显示": "0",
+"列表起始页": "1",
+"列表分类": "国产视频$/index.php/vod/type/id/26/page/#欧美高清$/index.php/vod/type/id/30/page/#中文无码$/index.php/vod/type/id/28/page/#中文字幕$/index.php/vod/type/id/27/page/#日本无码$/index.php/vod/type/id/29/page/#动漫视频$/index.php/vod/type/id/33/page/",
+"列表后缀": ".html",
+"列表二次截取": "空",
+"列表截取数组": "class=\"uzimg\"$$</li>",
+"列表图片前缀": "空",
+"列表图片": "original=\"$$\"",
+"列表标题": "&m=$$\">",
+"列表副标题": "class=\"pic-text text-right\">$$</span>",
+"列表链接": "href=\"$$\"",
+"列表链接前缀": "空",
+"列表链接后缀": "空",
+
+//0：get方式，1：post方式，注意：如果用post方式，【搜索模式】要填：1
+"搜索请求方式": "0",
+"搜索模式": "1",
+"搜索前": "/index.php/vod/type/id/3.html?wd=",
+"搜索后": "&limit=150",
+"搜索连接后缀": "",
+"搜索二次截取": "空",
+"搜索截取数组": "class=\"uzimg\"$$</li>",
+"搜索图片前缀": "空",
+"搜索图片": "original=\"$$\"",
+"搜索标题": "&m=$$\">",
+"搜索副标题": "class=\"pic-text text-right\">$$</span>",
+"搜索链接": "href=\"$$\"",
+"搜索链接前缀": "空",
+"搜索链接后缀": "空"},
+
+{"网站名字": "菠萝蜜APP",
+"网站地址": "https://60539.xyz/",
+"访问请求ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
+"访问请求cookie": "空",
+"访问请求referer": "空",
+"播放请求头": "User-Agent$123",
+"图片请求头": "空",
+"网页编码": "utf-8",
+
+//0：不禁用，1：禁用
+"禁用搜索": "0",
+
+//0：不启用，1：启用
+"启用js加载源码":"0",
+"js加载源码时间":"5",
+
+"嗅探词": "m3u8?#.m3u8#.mp4#.flv#.mp3#.m4a",
+"过滤词": "51.la#cnzz.com#baidu.com#bilibili.com",
+
+//0：记录，1：不记录
+"是否记录历史": "0",
+
+//0：否，1：是
+"直接播放": "1",
+"列表显示": "0",
+"横图显示": "0",
+"列表起始页": "1",
+"列表分类": "最新影片$/index.php/vod/type/id/36/page/#国产AV$/index.php/vod/type/id/37/page/#探花AV$/index.php/vod/type/id/38/page/#91$/index.php/vod/type/id/39/page/#素人$/index.php/vod/type/id/40/page/#日本AV$/index.php/vod/type/id/42/page/#FC2$/index.php/vod/type/id/37/page/#無修正$/index.php/vod/type/id/66/page/#动漫$/index.php/vod/type/id/43/page/",
+"列表后缀": ".html?wd=",
+"列表二次截取": "空",
+"列表截取数组": "class=\"thumbnail\"$$</a>",
+"列表图片前缀": "空",
+"列表图片": "<img data-original=\"$$\"",
+"列表标题": "class=\"title\">$$</span>",
+"列表副标题": "class=\"score\">$$</span>",
+"列表链接": "href=\"$$\"",
+"列表链接前缀": "空",
+"列表链接后缀": "空",
+
+//0：get方式，1：post方式，注意：如果用post方式，【搜索模式】要填：1
+"搜索请求方式": "0",
+"搜索模式": "0",
+"搜索前": "/index.php/ajax/suggest?mid=1&wd=",
+"搜索后": "&limit=150",
+"搜索连接后缀": "/index.php/vod/detail/id/",
+"搜索二次截取": "空",
+"搜索截取数组": "前$$后",
+"搜索图片前缀": "空",
+"搜索图片": "original=\"$$\"",
+"搜索标题": "title=\"$$\"",
+"搜索副标题": "class=\"pic-text text-right\">$$</span>",
+"搜索链接": "href=\"$$\"",
+"搜索链接前缀": "空",
+"搜索链接后缀": "空"},
+
 {"网站名字": "幺妹好色",
 "网站地址": "https://ymhse.xyz/",
 "访问请求ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
