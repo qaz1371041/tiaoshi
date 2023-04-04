@@ -228,6 +228,81 @@
 "搜索链接前缀": "空",
 "搜索链接后缀": "空"},
 
+{"网站名字": "91VV视频",
+"网站地址": "https://91vv.shop/",
+"访问请求ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
+"访问请求cookie": "空",
+"访问请求referer": "空",
+"播放请求头": "User-Agent$123",
+"图片请求头": "空",
+"网页编码": "utf-8",
+
+//0：不禁用，1：禁用
+"禁用搜索": "0",
+
+//0：不启用，1：启用
+"启用js加载源码":"0",
+"js加载源码时间":"5",
+
+"嗅探词": "m3u8?#.m3u8#.mp4#.flv#.mp3#.m4a",
+"过滤词": "51.la#cnzz.com#baidu.com#bilibili.com",
+
+//0：记录，1：不记录
+"是否记录历史": "0",
+
+//0：否，1：是
+"直接播放": "0",
+"列表显示": "0",
+"横图显示": "0",
+"列表起始页": "1",
+"列表分类": "无码中字$/category/wumazhongzi/page/#无码短片$/category/无码短片/page/#日本无码$/category/ribenwuma/page/#日本有码$/category/ribenyouma/page/#日本素人$/category/日本素人/page/#有码中字$/category/youmazhongzi/page/#萝莉少女$/category/萝莉少女/page/#91大神$/category/91大神/page/#SM调教$/category/sm调教/page/#TS人妖$/category/ts人妖/page/#丝袜美腿$/category/丝袜美腿/page/#乱伦剧情$/category/乱伦剧情/page/#人妻少妇$/category/人妻少妇/page/#偷拍视频$/category/偷拍视频/page/#华语传媒$/category/华语传媒/page/#厕拍风光$/category/厕拍风光/page/#口爆颜射$/category/口爆颜射/page/#国产传媒$/category/国产传媒/page/#国产自拍$/category/国产自拍/page/#多人运动$/category/多人运动/page/#嫩逼自慰$/category/嫩逼自慰/page/#成人动漫$/category/chengrendongman/page/#未分类$/category/uncategorized/page/#欧美专区$/category/oumei/page/#私拍模特$/category/私拍模特/page/#网红福利$/category/网红福利/page/#美女裸聊$/category/美女裸聊/page/#韩国视频$/category/韩国视频/page/",
+"列表后缀": "",
+"列表二次截取": "class=\"videos-list$$class=\"pagination",
+"列表截取数组": "data-video-uid=\"$$</a>",
+"列表图片前缀": "空",
+"列表图片": "src=\"$$\"",
+"列表标题": "title=\"$$\"",
+"列表副标题": "<span>$$</span>",
+"列表链接": "href=\"https://91vv.shop/$$/\"",
+"列表链接前缀": "空",
+"列表链接后缀": "空",
+
+//0：get方式，1：post方式，注意：如果用post方式，【搜索模式】要填：1
+"搜索请求方式": "0",
+"搜索模式": "1",
+"搜索前": "https://91vv.shop/?s=",
+"搜索后": "&limit=150",
+"搜索连接后缀": "/vod/",
+"搜索二次截取": "空",
+"搜索截取数组": "data-video-uid=\"$$</a>",
+"搜索图片前缀": "空",
+"搜索图片": "src=\"$$\"",
+"搜索标题": "title=\"$$\"",
+"搜索副标题": "class=\"pic-text text-right\">$$</span>",
+"搜索链接": "href=\"https://91vv.shop/$$/\"",
+"搜索链接前缀": "空",
+"搜索链接后缀": "空",
+
+//0：不启用，1：启用
+"启用线路名": "0",
+"线路名二次截取": "空",
+"线路名截取数组": "class=\"more$$</div>",
+"线路名标题": "/>$$</h3>",
+
+"播放页状态": "class=\"pic-text text-right\">$$</span>",
+"播放页导演": "导演：$$</p>",
+"播放页演员": "主演：$$</p>",
+"播放页剧情": "<p class=\"col-pd\">$$</p>",
+
+"播放页二次截取": "空",
+"播放页截取数组": " class=\"responsive-player$$</div>",
+"播放剧集二次截取": "空",
+"播放剧集截取数组": "<iframe$$</iframe>",
+"播放剧集标题":"\"$$\"",
+"播放剧集链接": "src=\"https://91vv.shop/$$\"",
+"播放剧集链接前缀": "https://91vv.shop/",
+"播放剧集链接后缀": "空"},
+
 {"网站名字": "笔盒",
 "网站地址": "https://bihe2.org/",//最新地址发布页beabox.net，无法访问可发送邮件至beabox@email.com
 "访问请求ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
