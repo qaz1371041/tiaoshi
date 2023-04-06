@@ -4039,7 +4039,94 @@
 
 
  
-
+{"网站名字": "JavTREE",
+"网站地址": "",
+"访问请求ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
+"访问请求cookie": "空",
+"访问请求referer": "空",
+"播放请求头": "User-Agent$123",
+"图片请求头": "空",
+"网页编码": "utf-8",
+ 
+//0：不禁用，1：禁用
+"禁用搜索": "0",
+ 
+//0：不启用，1：启用
+"搜索手动验证": "0",
+ 
+//0：否，1：是
+"集数倒序": "0",
+ 
+//0：不启用，1：启用
+"是否启用解析模式": "0",
+ 
+//需要点击播放的网站可以自己找网页的点击js字符
+"自动点击字符": "空",
+ 
+//0：不启用，1：启用
+"启用js加载源码":"0",
+"js加载源码时间":"5",
+ 
+"嗅探词": "m3u8?#.m3u8#.mp4#.flv#.mp3#.m4a",
+"过滤词": "?url=#?v=#.css#51.la#cnzz.com#baidu.com#bilibili.com",
+ 
+//0：记录，1：不记录
+"是否记录历史": "0",
+ 
+//0：否，1：是
+"直接播放": "0",
+"列表显示": "0",
+"横图显示": "0",
+"列表起始页": "1",
+"列表分类": "高清$https://javtree.com/tag/82b8fe56ba-#單體作品$https://javtree.com/tag/8e98a0e1da-#獨家作品$https://javtree.com/tag/df310a6b46-#數位作品$https://javtree.com/tag/4eda492acb-#出道作品$https://javtree.com/tag/1505d163f6-#薄馬賽克$https://javtree.com/tag/3247cfb0c5-#辦公室女郎$https://javtree.com/tag/37b24110f0-\#女学生$https://javtree.com/tag/8552443c5c-#素人$https://javtree.com/tag/4be71825bb-#人妻$https://javtree.com/tag/7a82d525be-#美少女$https://javtree.com/tag/18816a5d21-#癡女$https://javtree.com/tag/02f436418a-#姐姐$https://javtree.com/tag/ad69ded65f-#陪酒女,妓女$https://javtree.com/tag/c39ce201b2-#辣妹,少女$https://javtree.com/tag/c84325e875-#女同性戀$https://javtree.com/tag/5752d2abef-#女大學生$https://javtree.com/tag/bdae7b95f7-#姐妹$https://javtree.com/tag/00ce572e48-#各種職業$https://javtree.com/tag/4f36c2cb7e-#角色扮演$https://javtree.com/tag/b09bf30961-#年轻妻子$https://javtree.com/tag/9a4c0b6fac-#護士$https://javtree.com/tag/2b8107f8ad-#女僕$https://javtree.com/tag/6dc45d9a7c-#女捜査官$https://javtree.com/tag/d765ce36b7-",
+"列表后缀": ".html",
+"列表二次截取": "空",
+"列表截取数组": "class=\"item\"$$</a>",
+"列表图片前缀": "https:",
+"列表图片": "data-src=\"$$\"",
+"列表标题": "alt=\"$$\"",
+"列表副标题": "class=\"volume\">$$</div>",
+"列表链接": "href=\"$$\"",
+"列表链接前缀": "https://javtree.com",
+"列表链接后缀": "空",
+ 
+//0：get方式，1：post方式，注意：如果用post方式，【搜索模式】要填：1
+"搜索请求方式": "0",
+"搜索模式": "0",
+"搜索前": "/index.php/ajax/suggest?mid=1&wd=",
+"搜索后": "&limit=150",
+"搜索连接后缀": "/vod/",
+"搜索二次截取": "空",
+"搜索截取数组": "前$$后",
+"搜索图片前缀": "空",
+"搜索图片": "original=\"$$\"",
+"搜索标题": "title=\"$$\"",
+"搜索副标题": "class=\"pic-text text-right\">$$</span>",
+"搜索链接": "href=\"$$\"",
+"搜索链接前缀": "空",
+"搜索链接后缀": "空",
+ 
+//0：不启用，1：启用
+"启用线路名": "0",
+"线路名二次截取": "空",
+"线路名截取数组": "class=\"more$$</div>",
+"线路名标题": "/>$$</h3>",
+ 
+"播放页状态": " class=\"gm-d1__l__note\">$$</div>",
+"播放页导演": "导演：$$</p>",
+"播放页演员": "class=\"title\">演員：$$</ul>",
+"播放页剧情": "class=\"gm-d1__l__title\">$$</h1>",
+ 
+"播放页二次截取": "空",
+"播放页截取数组": "[{\"$$],\"i18n\":",
+"播放剧集二次截取": "空",
+"播放剧集截取数组": "\"id\":$$},",
+"播放剧集标题": "\"resLabel\":\"$$\",",
+"播放剧集链接": "\"source\":\"$$\"",
+"播放剧集链接前缀": "空",
+"播放剧集链接后缀": "空",
+//0：不跳转，1：跳转
+"播放页跳转看图": "0"},
  
 
  
