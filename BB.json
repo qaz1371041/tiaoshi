@@ -39,6 +39,7 @@
 {"name":"霹雳影视","url":"https://plyingshi.com/api.php/v1.vod"}, 
 {"name":"明帝影视","url":"https://ys.md214.cn/api.php/app/"}, 
 {"name": "萌蛋蛋","url": "http://app.mengdandan.com/xgapp.php/v1/"},
+ {"name":"布雷","url":"http://36.170.49.206:1818/api.php/app/"},
  {"name":"天天影院","url":"https://www.ttmja.com/api.php/app/"},
 {"name":"UM影院","url":"https://www.umkan.cc/mogai_api.php/v1.vod"},
 {"name":"旧梦影视","url":"http://43.139.139.17:4433/api.php/app/"},
@@ -117,6 +118,7 @@
 
 //主解析是JSON直链格式的解析
 "zhujiexi":[
+ 
 {"name":"小苹果","url":"http://j.grelighting.cn/parser/?url="},
 {"name":"主解1","url":"https://api.json.icu/api/?key=1d3834a00ca4c8680910a543c2968a26&url="}, 
 {"name":"新云","url":"https://json.key521.cn/api/?key=a161dfbdceebcd60c72bc1a87b1f3281&url="},
@@ -1183,6 +1185,93 @@
 "播放剧集链接": "href=\"https://www.subaibaiys.com$$\"",
 "播放剧集链接前缀": "空",
 "播放剧集链接后缀": "空"},
+ 
+ {"网站名字": "子子影视",
+"网站地址": "https://www.ziziys.com",
+"访问请求ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
+"访问请求cookie": "clothes=white; PHPSESSID=v7dbrtuonk9ejkkngk5qveoqka; mac_history_dianying=%5B%7B%22vod_name%22%3A%22%E6%98%9F%E6%B1%89%E7%81%BF%E7%83%82%22%2C%22vod_url%22%3A%22https%3A%2F%2Fwww.ziziys.com%2Fvideo%2F3873-1-1.html%22%2C%22vod_part%22%3A%22%E7%AC%AC1%E9%9B%86%22%7D%2C%7B%22vod_name%22%3A%22%E6%A5%BC%E4%B8%8A%E7%9A%84%E5%A5%B3%E5%AD%A9%22%2C%22vod_url%22%3A%22https%3A%2F%2Fwww.ziziys.com%2Fvideo%2F3676-1-1.html%22%2C%22vod_part%22%3A%22720p%22%7D%2C%7B%22vod_name%22%3A%22%E9%87%91%E6%B1%A4%E5%8C%99%22%2C%22vod_url%22%3A%22https%3A%2F%2Fwww.ziziys.com%2Fvideo%2F4049-1-1.html%22%2C%22vod_part%22%3A%22%E7%AC%AC1%E9%9B%86%22%7D%5D",
+"访问请求referer": "空",
+"播放请求头": "User-Agent$123",
+"图片请求头": "空",
+"网页编码": "utf-8",
+ 
+//0：不禁用，1：禁用
+"禁用搜索": "0",
+ 
+//0：不启用，1：启用
+"是否启用解析模式": "0",
+ 
+//需要点击播放的网站可以自己找网页的点击js字符
+"自动点击字符": "空",
+ 
+//0：不启用，1：启用
+"启用js加载源码":"0",
+"js加载源码时间":"5",
+ 
+"嗅探词": "m3u8?#.m3u8#.mp4#.flv#.mp3#.m4a",
+"过滤词": "51.la#cnzz.com#baidu.com#bilibili.com",
+ 
+//0：记录，1：不记录
+"是否记录历史": "0",
+ 
+//0：否，1：是
+"直接播放": "0",
+"列表显示": "0",
+"横图显示": "0",
+"列表起始页": "1",
+"列表分类": "动作片$/list/6-#剧情片$/list/7-#喜剧$/list/8-#爱情片$/list/9-#惊悚片$/list/10-#奇幻片$/list/11-#悬疑片$/list/12-#动漫片$/list/23-#恐怖片$/list/24-#历史传记片$/list/25-#战争片$/list/26-#情色片$/list/27-#武侠古装$/list/28-#记录片$/list/29-#灾难片$/list/30-#音乐歌舞$/list/31-#动漫$/list/3-#国产剧$/list/13-#美剧$/list/14-#日韩剧$/list/15-#泰剧$/list/16-",
+"列表后缀": ".html",
+"列表二次截取": "空",
+"列表截取数组": "class=\"module-item-pic\"$$</div>",
+"列表图片前缀": "空",
+"列表图片": "data-src=\"$$\"",
+"列表标题": "title=\"$$\"",
+"列表副标题": "class=\"module-item-text\">$$</div>",
+"列表链接": "href=\"$$\"",
+"列表链接前缀": "空",
+"列表链接后缀": "空",
+ 
+//0：get方式，1：post方式，注意：如果用post方式，【搜索模式】要填：1
+"搜索请求方式": "0",
+"搜索模式": "0",
+"搜索前": "/index.php/ajax/suggest?mid=1&wd=",
+"搜索后": "&limit=150",
+"搜索连接后缀": "/vdetail/",
+"搜索二次截取": "空",
+"搜索截取数组": "前$$后",
+"搜索图片前缀": "空",
+"搜索图片": "original=\"$$\"",
+"搜索标题": "title=\"$$\"",
+"搜索副标题": "class=\"pic-text text-right\">$$</span>",
+"搜索链接": "href=\"$$\"",
+"搜索链接前缀": "空",
+"搜索链接后缀": "空",
+ 
+//0：不启用，1：启用
+"启用线路名": "1",
+"线路名二次截取": "空",
+"线路名截取数组": "class=\"module-tab-item tab-item\"$$</div>",
+"线路名标题": "<span>$$</span>",
+"播放页状态": "上映：</span>$$</div>",
+"播放页导演": "导演：</span>$$</div>",
+"播放页演员": "主演：</span>$$</div>",
+"播放页剧情": "剧情：</span>$$</div>",
+"播放页二次截取": "空",
+"播放页截取数组": "id=\"sort-item$$</div>",
+"播放剧集二次截取": "空",
+"播放剧集截取数组": "<a$$/a>",
+"播放剧集标题": "<span>$$</span>",
+"播放剧集链接": "href=\"$$\"",
+"播放剧集链接前缀": "空",
+"播放剧集链接后缀": "空",
+"启用嗅探截取": "1",
+"嗅探请求头": "User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
+"播放地址二次截取": "var player_$$</div>",
+"播放地址截取": "\"url\":\"$$\"",
+"是否base64解码": "0",
+"是否url解码": "0",
+"官源是否走解析": "0"},
+ 
  {"网站名字": "极客TV",
 "网站地址": "https://www.jiketv.com",
 "访问请求ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
@@ -1438,91 +1527,7 @@
 //0：不跳转，1：跳转
 "播放页跳转看图": "0"},
  
- {"网站名字": "子子影视",
-"网站地址": "https://www.ziziys.com",
-"访问请求ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
-"访问请求cookie": "clothes=white; PHPSESSID=v7dbrtuonk9ejkkngk5qveoqka; mac_history_dianying=%5B%7B%22vod_name%22%3A%22%E6%98%9F%E6%B1%89%E7%81%BF%E7%83%82%22%2C%22vod_url%22%3A%22https%3A%2F%2Fwww.ziziys.com%2Fvideo%2F3873-1-1.html%22%2C%22vod_part%22%3A%22%E7%AC%AC1%E9%9B%86%22%7D%2C%7B%22vod_name%22%3A%22%E6%A5%BC%E4%B8%8A%E7%9A%84%E5%A5%B3%E5%AD%A9%22%2C%22vod_url%22%3A%22https%3A%2F%2Fwww.ziziys.com%2Fvideo%2F3676-1-1.html%22%2C%22vod_part%22%3A%22720p%22%7D%2C%7B%22vod_name%22%3A%22%E9%87%91%E6%B1%A4%E5%8C%99%22%2C%22vod_url%22%3A%22https%3A%2F%2Fwww.ziziys.com%2Fvideo%2F4049-1-1.html%22%2C%22vod_part%22%3A%22%E7%AC%AC1%E9%9B%86%22%7D%5D",
-"访问请求referer": "空",
-"播放请求头": "User-Agent$123",
-"图片请求头": "空",
-"网页编码": "utf-8",
  
-//0：不禁用，1：禁用
-"禁用搜索": "0",
- 
-//0：不启用，1：启用
-"是否启用解析模式": "0",
- 
-//需要点击播放的网站可以自己找网页的点击js字符
-"自动点击字符": "空",
- 
-//0：不启用，1：启用
-"启用js加载源码":"0",
-"js加载源码时间":"5",
- 
-"嗅探词": "m3u8?#.m3u8#.mp4#.flv#.mp3#.m4a",
-"过滤词": "51.la#cnzz.com#baidu.com#bilibili.com",
- 
-//0：记录，1：不记录
-"是否记录历史": "0",
- 
-//0：否，1：是
-"直接播放": "0",
-"列表显示": "0",
-"横图显示": "0",
-"列表起始页": "1",
-"列表分类": "动作片$/list/6-#剧情片$/list/7-#喜剧$/list/8-#爱情片$/list/9-#惊悚片$/list/10-#奇幻片$/list/11-#悬疑片$/list/12-#动漫片$/list/23-#恐怖片$/list/24-#历史传记片$/list/25-#战争片$/list/26-#情色片$/list/27-#武侠古装$/list/28-#记录片$/list/29-#灾难片$/list/30-#音乐歌舞$/list/31-#动漫$/list/3-#国产剧$/list/13-#美剧$/list/14-#日韩剧$/list/15-#泰剧$/list/16-",
-"列表后缀": ".html",
-"列表二次截取": "空",
-"列表截取数组": "class=\"module-item-pic\"$$</div>",
-"列表图片前缀": "空",
-"列表图片": "data-src=\"$$\"",
-"列表标题": "title=\"$$\"",
-"列表副标题": "class=\"module-item-text\">$$</div>",
-"列表链接": "href=\"$$\"",
-"列表链接前缀": "空",
-"列表链接后缀": "空",
- 
-//0：get方式，1：post方式，注意：如果用post方式，【搜索模式】要填：1
-"搜索请求方式": "0",
-"搜索模式": "0",
-"搜索前": "/index.php/ajax/suggest?mid=1&wd=",
-"搜索后": "&limit=150",
-"搜索连接后缀": "/vdetail/",
-"搜索二次截取": "空",
-"搜索截取数组": "前$$后",
-"搜索图片前缀": "空",
-"搜索图片": "original=\"$$\"",
-"搜索标题": "title=\"$$\"",
-"搜索副标题": "class=\"pic-text text-right\">$$</span>",
-"搜索链接": "href=\"$$\"",
-"搜索链接前缀": "空",
-"搜索链接后缀": "空",
- 
-//0：不启用，1：启用
-"启用线路名": "1",
-"线路名二次截取": "空",
-"线路名截取数组": "class=\"module-tab-item tab-item\"$$</div>",
-"线路名标题": "<span>$$</span>",
-"播放页状态": "上映：</span>$$</div>",
-"播放页导演": "导演：</span>$$</div>",
-"播放页演员": "主演：</span>$$</div>",
-"播放页剧情": "剧情：</span>$$</div>",
-"播放页二次截取": "空",
-"播放页截取数组": "id=\"sort-item$$</div>",
-"播放剧集二次截取": "空",
-"播放剧集截取数组": "<a$$/a>",
-"播放剧集标题": "<span>$$</span>",
-"播放剧集链接": "href=\"$$\"",
-"播放剧集链接前缀": "空",
-"播放剧集链接后缀": "空",
-"启用嗅探截取": "1",
-"嗅探请求头": "User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
-"播放地址二次截取": "var player_$$</div>",
-"播放地址截取": "\"url\":\"$$\"",
-"是否base64解码": "0",
-"是否url解码": "0",
-"官源是否走解析": "0"},
  
  {"网站名字": "白狐影视",
 "网站地址": "https://www.bhxoxo.com/",
