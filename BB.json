@@ -141,14 +141,15 @@
 
 //备用解析是常规格式的解析
 "beiyongjiexi":[
+ {"name":"1","url":"https://jx.777jiexi.com/player/?url="},
  {"name":"少泽影客","url":"https://jx1.idcdr.com/111/555/?url="},
  {"name":"综合/B站","url":"https://jx.jsonplayer.com/player/?url="},	
  {"name":"臭蛋蛋","url":"https://bfq.cddys.vip/bfq/?url="},
- {"name":"1","url":"https://jx.777jiexi.com/player/?url="},
+ 
  {"name":"8k","url":"http://www.8kvod.com/player/?url="},
  {"name":"喵影视","url":"http://www.miaoys.cc/vip/?url="},
  {"name":" 橙皮","url":"https://www.cplive.icu/mplayer/?url="},
- {"name":"UM","url":"https://b.umkan.cc/?url="},
+ 
  {"name":"blskk","url":"https://www.kuaikanys.net/jiexi/jiexi-gf/?url="},
  {"name":"1","url":"https://jx.777jiexi.com/player/?url="},
  {"name":"爱看","url":"https://jx1.idcdr.com/111/555/?url="},
