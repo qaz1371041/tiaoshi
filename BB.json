@@ -2972,7 +2972,7 @@
 "列表分类": "电视剧$/index.php/vod/show/id/2/page/#电影$/index.php/vod/show/id/1/page/#综艺$/index.php/vod/show/id/3/page/#动漫$/index.php/vod/show/id/3/page/#欧美剧$/index.php/vod/show/id/5/page/#日韩剧$/index.php/vod/show/id/21/page/#哔哩哔哩$/index.php/vod/show/id/22/page/",
  
 "列表后缀": ".html",
-"列表二次截取": "评分排序</a>$$id=\"page",
+"列表二次截取": "class=\"module-items$$id=\"page",
 "列表截取数组": "<a$$</a>",
 "列表图片前缀": "空",
 "列表图片": "original=\"$$\"",
