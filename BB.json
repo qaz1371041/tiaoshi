@@ -55,7 +55,7 @@
 {"name":"HG影视","url":"https://hong.hgyx.vip/api.php/v1.vod"},
 {"name":"鹿缘影视","url":"https://iuio.xyz/api.php/app/"},
 {"name":"Fun4k","url":"https://www.fun4k.com/api.php/app/"},
-{"name":"小暮影院","url":"http://m.xiaomutv.cn/api.php/v1.vod"},
+{"name":"柒月影视","url":"https://www.9day.cc/api.php/app/"},
 {"name":"星空影视","url":"https://xkys.tv/api.php/app/"}, 
 {"name":"看剧吧","url":"http://app.ishen520.com/api.php/v1.vod"},
 {"name":"HOHO TV","url":"https://hoho.tv/api.php/app/"},
@@ -69,6 +69,7 @@
 {"name":"上云影视","url":"http://www.shagyn.mom/mogai_api.php/v1.vod"},
 {"name":"创艺","url":"http://www.30dian.cn/api.php/v1.vod"},
 {"name":"氢视频","url":"https://h1080p.com/xgapp.php/v1/"},
+{"name":"鼎点影库","url":"http://ddys.mengtuwl.cn/mogai_api.php/v1.vod"}, 
 {"name":"光年TV","url":"https://www.gntv.live/api.php/v1.vod"},
 {"name":"鑫悦影院","url":"http://www.shagyn.mom/api.php/v1.vod"},
 {"name":"天天视频","url":"http://app.qianju.cc/api.php/v1.vod"},
@@ -123,13 +124,14 @@
 //主解析是JSON直链格式的解析
 "zhujiexi":[
  
-{"name":"小苹果","url":"http://j.grelighting.cn/parser/?url="},
+
 {"name":"主解1","url":"https://api.json.icu/api/?key=1d3834a00ca4c8680910a543c2968a26&url="}, 
+ {"name":"小苹果","url":"http://j.grelighting.cn/parser/?url="},
 {"name":"新云","url":"https://json.key521.cn/api/?key=a161dfbdceebcd60c72bc1a87b1f3281&url="},
 
 {"name":"解析","url":"http://27.124.4.42:4567/jhjson/ceshi.php?url="},
  {"name": "主解","url":"https://play.airfun.fun/API.php?appkey=DJALklaldAALDKDNMLAKDHld&url="},
- {"name": "主解析","url":"https://play.airfun.fun/API.php?appkey=DJALklaldAALDKDNMLAKDHld&url="},
+ 
  {"name":"懒懒1","url":"http://lanlan.ckflv.cn/?url="},
 
 {"name": "解析10","type": 1,"url": "https://www.1920lgzy.top/json.php?url="},
