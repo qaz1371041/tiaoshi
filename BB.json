@@ -359,6 +359,60 @@
 "排序":"全部$空#按时间排序$time#按人气排序$hits#按评分排序$score"
 }
 ],
+"列表二次截取": "空",
+"列表截取数组": "class=\"module-item-pic\"$$class=\"module-item-pic",
+"列表图片前缀": "空",
+"列表图片": "data-src=\"$$\"",
+"列表标题": "title=\"$$\"",
+"列表副标题": "class=\"module-item-text\">$$</div>",
+"列表链接": "href=\"$$\"",
+"列表链接前缀": "空",
+"列表链接后缀": "空",
+ 
+//0：get方式，1：post方式，注意：如果用post方式，【搜索模式】要填：1
+"搜索请求方式": "0",
+"搜索模式": "0",
+"搜索前": "/index.php/ajax/suggest?mid=1&wd=",
+"搜索后": "&limit=150",
+"搜索连接后缀": "/video/",
+"搜索二次截取": "空",
+"搜索截取数组": "前$$后",
+"搜索图片前缀": "空",
+"搜索图片": "original=\"$$\"",
+"搜索标题": "title=\"$$\"",
+"搜索副标题": "class=\"video-class\">$$</span>",
+"搜索链接": "href=\"$$\"",
+"搜索链接前缀": "空",
+"搜索链接后缀": "空",
+ 
+"启用线路名": "1",
+"线路名二次截取": "空",
+"线路名截取数组": "data-dropdown-value=$$</div>",
+"线路名标题": "<span>$$</span>",
+ 
+"播放页状态": "上映：</span>$$</div>",
+"播放页导演": "导演：</span>$$</div>",
+"播放页演员": "主演：</span>$$</div>",
+"播放页剧情": "class=\"video-info-item video-info-content vod_content\">$$</span>",
+ 
+"播放页二次截取": "空",
+"播放页截取数组": "class=\"scroll-content$$</div>",
+"播放剧集二次截取": "空",
+"播放剧集截取数组": "<a$$/a>",
+"播放剧集标题": "<span>$$</span>",
+"播放剧集链接": "href=\"$$\"",
+"播放剧集链接前缀": "空",
+"播放剧集链接后缀": "空",
+"启用嗅探截取": "1",
+"嗅探请求头": "User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",//User-Agent$123#Referer$123
+"播放地址二次截取": "var player_$$</div>",
+"播放地址截取": "\"url\":\"$$\"",
+"是否base64解码": "0",
+"是否url解码": "0",
+"官源是否走解析": "0",
+ 
+//0：不跳转，1：跳转
+"播放页跳转看图": "0"},
  
  {"网站名字": "子子影视",
 "网站地址": "https://www.ziziys.com",
@@ -445,63 +499,6 @@
 "是否base64解码": "0",
 "是否url解码": "0",
 "官源是否走解析": "0"},
- 
-"列表二次截取": "空",
-"列表截取数组": "class=\"module-item-pic\"$$class=\"module-item-pic",
-"列表图片前缀": "空",
-"列表图片": "data-src=\"$$\"",
-"列表标题": "title=\"$$\"",
-"列表副标题": "class=\"module-item-text\">$$</div>",
-"列表链接": "href=\"$$\"",
-"列表链接前缀": "空",
-"列表链接后缀": "空",
- 
-//0：get方式，1：post方式，注意：如果用post方式，【搜索模式】要填：1
-"搜索请求方式": "0",
-"搜索模式": "0",
-"搜索前": "/index.php/ajax/suggest?mid=1&wd=",
-"搜索后": "&limit=150",
-"搜索连接后缀": "/video/",
-"搜索二次截取": "空",
-"搜索截取数组": "前$$后",
-"搜索图片前缀": "空",
-"搜索图片": "original=\"$$\"",
-"搜索标题": "title=\"$$\"",
-"搜索副标题": "class=\"video-class\">$$</span>",
-"搜索链接": "href=\"$$\"",
-"搜索链接前缀": "空",
-"搜索链接后缀": "空",
- 
-"启用线路名": "1",
-"线路名二次截取": "空",
-"线路名截取数组": "data-dropdown-value=$$</div>",
-"线路名标题": "<span>$$</span>",
- 
-"播放页状态": "上映：</span>$$</div>",
-"播放页导演": "导演：</span>$$</div>",
-"播放页演员": "主演：</span>$$</div>",
-"播放页剧情": "class=\"video-info-item video-info-content vod_content\">$$</span>",
- 
-"播放页二次截取": "空",
-"播放页截取数组": "class=\"scroll-content$$</div>",
-"播放剧集二次截取": "空",
-"播放剧集截取数组": "<a$$/a>",
-"播放剧集标题": "<span>$$</span>",
-"播放剧集链接": "href=\"$$\"",
-"播放剧集链接前缀": "空",
-"播放剧集链接后缀": "空",
-"启用嗅探截取": "1",
-"嗅探请求头": "User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",//User-Agent$123#Referer$123
-"播放地址二次截取": "var player_$$</div>",
-"播放地址截取": "\"url\":\"$$\"",
-"是否base64解码": "0",
-"是否url解码": "0",
-"官源是否走解析": "0",
- 
-//0：不跳转，1：跳转
-"播放页跳转看图": "0"},
- 
- 
  
 {"name": "乐猪影视",
 "url": "http://www.lezhutv.com",
