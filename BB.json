@@ -300,7 +300,7 @@
 "播放剧集链接后缀": "空"}, 
  
  
- {"网站名字": "新视觉影院",
+{"网站名字": "新视觉影院",
 "网站地址": "https://www.6080dy3.com/",
 "访问请求ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
 "访问请求cookie": "空",
@@ -359,6 +359,7 @@
 "排序":"全部$空#按时间排序$time#按人气排序$hits#按评分排序$score"
 }
 ],
+
 "列表二次截取": "空",
 "列表截取数组": "class=\"module-item-pic\"$$class=\"module-item-pic",
 "列表图片前缀": "空",
