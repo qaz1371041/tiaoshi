@@ -51,7 +51,7 @@
 {"name":"映迷","url":"https://www.inmi.app/xgapp.php/v1/"},
 {"name":"汪了个汪影视","url":"http://wlgwys.com/mogai_api.php/v1.vod"},
 {"name":"123视频","url":"https://123aktv.com/api.php/v1.vod"},
-{"name":"茶猫影视","url":"https://www.chamao.co/api.php/app/"}, 
+{"name":"布蕾蓝光影城","url":"http://movie.bulei.cc/api.php/app/"}, 
 {"name":"大米星球","url":"https://dmdy2.vip/api.php/app/"},
 {"name":"HG影视","url":"https://hong.hgyx.vip/api.php/v1.vod"},
 {"name":"鹿缘影视","url":"https://iuio.xyz/api.php/app/"},
@@ -64,16 +64,16 @@
 {"name":"落攻阁影视网","url":"https://www.lggys.cn/api.php/app/"},
 {"name":"空气屋","url":"https://www.airfun.fun/xgapp.php/v2/"},
 {"name":"星辰视频","url":"https://xc4k.cc/lvdou_api.php/v1.vod"}, 
-{"name":"少泽影客","url":"https://yk.shaozeyy.com/api.php/app/"},
+
 {"name":"布衣影院","url":"https://byyy5.com/api.php/app/"},
 {"name":"萌蛋蛋","url":"http://app.mengdandan.com/xgapp.php/v1/"}, 
 {"name":"真爱影视","url":"https://www.chiguafilm.com/api.php/v1.vod"}, 
-{"name":"上云影视","url":"http://www.shagyn.mom/mogai_api.php/v1.vod"},
+
 {"name":"创艺","url":"http://www.30dian.cn/api.php/v1.vod"},
 {"name":"氢视频","url":"https://h1080p.com/xgapp.php/v1/"},
 {"name":"鼎点影库","url":"http://ddys.mengtuwl.cn/mogai_api.php/v1.vod"}, 
 {"name":"光年TV","url":"https://www.gntv.live/api.php/v1.vod"},
-{"name":"鑫悦影院","url":"http://www.shagyn.mom/api.php/v1.vod"},
+
 {"name":"天天视频","url":"http://app.qianju.cc/api.php/v1.vod"},
 {"name":"悟空影院","url":"http://dapi.pntao.com/api.php/v1.vod"},
 {"name":"188影视","url":"https://188kan.com/api.php/v1.vod"},
@@ -2984,103 +2984,7 @@
 //0：不跳转，1：跳转
 "播放页跳转看图": "0"},
  
-{"网站名字": "布蕾蓝光影城",
-"网站地址": "http://movie.bulei.cc/",
-"访问请求ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
-"访问请求cookie": "mx_style=white; showBtn=true",
-"访问请求referer": "空",
-"播放请求头": "User-Agent$123",
-"图片请求头": "空",
-"网页编码": "utf-8",
- 
-//0：不禁用，1：禁用
-"禁用搜索": "0",
- 
-//0：不启用，1：启用
-"搜索手动验证": "1",
- 
-//0：不启用，1：启用
-"是否启用解析模式": "0",
- 
-//需要点击播放的网站可以自己找网页的点击js字符
-"自动点击字符": "空",
- 
-//0：不启用，1：启用
-"启用js加载源码":"1",
-"js加载源码时间":"15",
- 
-"嗅探词": "m3u8?#.m3u8#.mp4#.flv#.mp3#.m4a",
-"过滤词": "51.la#cnzz.com#baidu.com#bilibili.com",
- 
-//0：记录，1：不记录
-"是否记录历史": "0",
- 
-//0：否，1：是
-"直接播放": "0",
-"列表显示": "0",
-"横图显示": "0",
-"列表起始页": "1",
-"列表分类": "电视剧$/index.php/vod/show/id/2/page/#电影$/index.php/vod/show/id/1/page/#综艺$/index.php/vod/show/id/3/page/#动漫$/index.php/vod/show/id/3/page/#欧美剧$/index.php/vod/show/id/5/page/#日韩剧$/index.php/vod/show/id/21/page/#哔哩哔哩$/index.php/vod/show/id/22/page/",
- 
-"列表后缀": ".html",
-"列表二次截取": "class=\"module-items$$id=\"page",
-"列表截取数组": "<a$$</a>",
-"列表图片前缀": "空",
-"列表图片": "original=\"$$\"",
-"列表标题": "title=\"$$\"",
-"列表副标题": "class=\"module-item-note\">$$</div>",
-"列表链接": "href=\"$$\"",
-"列表链接前缀": "空",
-"列表链接后缀": "空",
- 
-//0：get方式，1：post方式，注意：如果用post方式，【搜索模式】要填：1
-"搜索请求方式": "0",
-"搜索模式": "1",
-"搜索前": "/index.php/vod/search.html?wd=",
-"搜索后": "",
-"搜索连接后缀": "",
-"搜索二次截取": "空",
-"搜索截取数组": "class=\"module-card-item-class$$</a>",
-"搜索图片前缀": "空",
-"搜索图片": "original=\"$$\"",
-"搜索标题": "alt=\"$$\"",
-"搜索副标题": "class=\"module-item-note\">$$</div>",
-"搜索链接": "href=\"$$\"",
-"搜索链接前缀": "空",
-"搜索链接后缀": "空",
- 
-//0：不启用，1：启用
-"启用线路名": "1",
-"线路名二次截取": "空",
-"线路名截取数组": "data-dropdown-value=$$</div>",
-"线路名标题": "<span>$$</span>",
- 
-"播放页状态": "更新：$$</div>",
-"播放页导演": "导演：$$</div>",
-"播放页演员": "主演：$$</div>",
-"播放页剧情": "style=\"line-height: 20px;\">$$</div>",
- 
-"播放页二次截取": "空",
-"播放页截取数组": "class=\"module-play-list$$</div>",
-"播放剧集二次截取": "空",
-"播放剧集截取数组": "<a$$/a>",
-"播放剧集标题": "<span>$$</span>",
-"播放剧集链接": "href=\"$$\"",
-"播放剧集链接前缀": "空",
-"播放剧集链接后缀": "空",
-//0：不跳转，1：跳转
-"播放页跳转看图": "0",
-//0：否，1：是
-"启用嗅探截取": "1",
-"嗅探请求头": "User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",//User-Agent$123#Referer$123
-"播放地址二次截取": "var player_$$</div>",
-"播放地址截取": "\"url\":\"$$\"",
-"是否base64解码": "0",
-"是否url解码": "0",
-"官源是否走解析": "0",
 
-//0：不跳转，1：跳转
-"播放页跳转看图": "0"},
  
  {"网站名字": "348电影网",
 "网站地址": "https://www.348z.com/",
