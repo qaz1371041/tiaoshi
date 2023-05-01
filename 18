@@ -509,7 +509,7 @@
 "播放剧集链接后缀": "空"},
 
 {"网站名字": "笔盒",
-"网站地址": "https://bihe2.org/",//最新地址发布页beabox.net，无法访问可发送邮件至beabox@email.com
+"网站地址": "https://static.beabox.me/",//最新地址发布页beabox.net，无法访问可发送邮件至beabox@email.com
 "访问请求ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
 "访问请求cookie": "空",
 "访问请求referer": "空",
