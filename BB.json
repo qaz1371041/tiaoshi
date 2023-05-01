@@ -125,40 +125,25 @@
 
 //主解析是JSON直链格式的解析
 "zhujiexi":[
- {"name":"1","url":"http://47.119.122.235:5566/json/free.php?url="},
+ {"name":"主1","url":"http://47.119.122.235:5566/json/free.php?url="},
+ {"name":"主2","url":"https://api.json.icu/api/?key=393e1389f085486159f5b1c09a99aedb&url="},
 ],
 
 //备用解析是常规格式的解析
 "beiyongjiexi":[
  {"name":"1","url":"https://jx.777jiexi.com/player/?url="},
  {"name":"影","url":"https://jxjson.cf/?url="},
- {"name":"综合/B站","url":"https://jx.jsonplayer.com/player/?url="},	
+ {"name":"综合/B站","url":"https://jx.jsonplayer.com/player/?url="},
+ {"name":"备3","url":"https://www.pangujiexi.com/pangu/?url="},
  {"name":"臭蛋蛋","url":"https://bfq.cddys.vip/bfq/?url="},
- 
- {"name":"8k","url":"http://www.8kvod.com/player/?url="},
+ {"name":"备1","url":"https://api.okjx.cc:3389/jx.php?url="}, 
+ {"name":"备4","url":"https://yparse.7te.cc/index.php?url="},
  {"name":"喵影视","url":"http://www.miaoys.cc/vip/?url="},
  {"name":" 橙皮","url":"https://www.cplive.icu/mplayer/?url="},
- 
  {"name":"blskk","url":"https://www.kuaikanys.net/jiexi/jiexi-gf/?url="},
  {"name":"1","url":"https://jx.777jiexi.com/player/?url="},
- {"name":"爱看","url":"https://jx1.idcdr.com/111/555/?url="},
  {"name":"夜幕","url":"https://www.yemu.xyz/?url="},
- {"name":"B站1","url":"https://jx.jsonplayer.com/player/?url="},
- {"name":"jsonplayer","url":"https://alijx.ddml.xyz/api.php?url="},
- {"name": "002","url":"https://jxdp.codermart.net/?url="},
-
  {"name": "解析7","type": 0,"url": "https://api.okjx.cc:3389/jx.php?url="},
- 
-{"name":"诺讯","url":"https://www.nxflv.com/?url="},
-
-{"name":"blsmm","url":"http://www.miaoys.cc/vip/?url="}, 
-{"name":"全民","url":"https://jx.blbo.cc:4433/?url="},
-
-
-
-
-
-
 ],
 
 
