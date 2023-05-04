@@ -2262,10 +2262,10 @@
 
 
 {"网站名字": "18AV视频",
-"网站地址": "https://18av69.sbs/",//网址 https://18oaoa.com
+"网站地址": "https://18av70.buzz/",//网址 https://18oaoa.com
 "访问请求ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
 "访问请求cookie": "空",
-"访问请求referer": "空",
+"访问请求referer": "referer$https://18oaoa.com/",
 "播放请求头": "User-Agent$123",
 "图片请求头": "空",
 "网页编码": "utf-8",
@@ -2474,10 +2474,10 @@
 "列表链接后缀": "空"},
 
 {"网站名字": "杏吧视频",
-"网站地址": "https://xb103.top/",// 发布页 https://www.xingbatv.top/
+"网站地址": "https://www.xb105.top/",// 发布页 https://www.xingbatv.top/
 "访问请求ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
 "访问请求cookie": "https://vip1.155bf.com/20230429/pgg4qJED/index.m3u8=1486.336248; ygmcxlastsearchtime=1682857258",
-"访问请求referer": "空",
+"访问请求referer": "referer$https://www.xingbatv.top/",
 "播放请求头": "User-Agent$123",
 "图片请求头": "空",
 "网页编码": "utf-8",
@@ -3248,228 +3248,7 @@
 "播放剧集链接": "href=\"$$\"",
 "播放剧集链接前缀": "空",
 "播放剧集链接后缀": "空"},
- {"网站名字": "撸久久",
-"网站地址": "https://lu9931.xyz/",//发现网站都打不开，请访问   https://lu999.cc/
-"访问请求ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
-"访问请求cookie": "空",
-"访问请求referer": "https://lu999.cc/",
-"播放请求头": "User-Agent$123",
-"图片请求头": "空",
-"网页编码": "utf-8",
  
-//0：不禁用，1：禁用
-"禁用搜索": "0",
- 
-//0：不启用，1：启用
-"启用js加载源码":"0",
-"js加载源码时间":"5",
- 
-"嗅探词": "m3u8?#.m3u8#.mp4#.flv#.mp3#.m4a",
-"过滤词": "51.la#cnzz.com#baidu.com#bilibili.com",
- 
-//0：记录，1：不记录
-"是否记录历史": "0",
- 
-//0：否，1：是
-"直接播放": "0",
-"列表显示": "0",
-"横图显示": "0",
-"列表起始页": "1",
-"列表分类": "亚洲有码$/index.php/vod/type/id/23/page/#亚洲无码$/index.php/vod/type/id/15/page/#制服黑丝$/index.php/vod/type/id/14/page/#变态另类$/index.php/vod/type/id/24/page/#少女萝莉$/index.php/vod/type/id/28/page/#人妻熟女$/index.php/vod/type/id/13/page/#强奸乱伦$/index.php/vod/type/id/27/page/#中文字幕$/index.php/vod/type/id/26/page/#巨乳美乳$/index.php/vod/type/id/16/page/#JVID$/index.php/vod/type/id/33/page/#岛国素人$/index.php/vod/type/id/32/page/#AV解说$/index.php/vod/type/id/34/page/#TS人妖$/index.php/vod/type/id/35/page/#VR精品$/index.php/vod/type/id/30/page/#明星偶像$/index.php/vod/type/id/25/page/#国产专区$/index.php/vod/type/id/1/page/#亚洲专区$/index.php/vod/type/id/2/page/#国产片商$/index.php/vod/type/id/44/page/#兔子先生$/index.php/vod/type/id/42/page/#杏吧传媒$/index.php/vod/type/id/41/page/#淫妻出轨$/index.php/vod/type/id/45/page/#最热网爆门$/index.php/vod/type/id/36/page/",
-"列表后缀": ".html",
-"列表二次截取": "空",
-"列表截取数组": "class=\"stui-vodlist__item\"$$</a>",
-"列表图片前缀": "空",
-"列表图片": "original=\"$$\"",
-"列表标题": "title=\"$$\"",
-"列表副标题": "class=\"pic-text text-right\">$$</span>",
-"列表链接": "href=\"$$\"",
-"列表链接前缀": "空",
-"列表链接后缀": "空",
- 
-//0：get方式，1：post方式，注意：如果用post方式，【搜索模式】要填：1
-"搜索请求方式": "0",
-"搜索模式": "0",
-"搜索前": "/index.php/ajax/suggest?mid=1&wd=",
-"搜索后": "&limit=150",
-"搜索连接后缀": "/index.php/vod/detail/id/",
-"搜索二次截取": "空",
-"搜索截取数组": "前$$后",
-"搜索图片前缀": "空",
-"搜索图片": "original=\"$$\"",
-"搜索标题": "title=\"$$\"",
-"搜索副标题": "class=\"pic-text text-right\">$$</span>",
-"搜索链接": "href=\"$$\"",
-"搜索链接前缀": "空",
-"搜索链接后缀": "空",
- 
-//0：不启用，1：启用
-"启用线路名": "0",
-"线路名二次截取": "空",
-"线路名截取数组": "class=\"more$$</div>",
-"线路名标题": "/>$$</h3>",
- 
-"播放页状态": "视频分类：$$</p>",
-"播放页导演": "更新时间:$$</p>",
-"播放页演员": "当前评分：$$</p>",
-"播放页剧情": "浏览人数：</span>$$</p>",
- 
-"播放页二次截取": "空",
-"播放页截取数组": "class=\"playbtn$$</div>",
-"播放剧集二次截取": "空",
-"播放剧集截取数组": "<a$$/a>",
-"播放剧集标题": ">$$<",
-"播放剧集链接": "href=\"$$\"",
-"播放剧集链接前缀": "空",
-"播放剧集链接后缀": "空"},
 
- {"网站名字": "四虎影院",
-"网站地址": "https://www.e123i.com",
-"访问请求ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
-"访问请求cookie": "空",
-"访问请求referer": "空",
-"播放请求头": "User-Agent$123",
-"图片请求头": "空",
-"网页编码": "utf-8",
 
-//0：不禁用，1：禁用
-"禁用搜索": "0",
-
-//0：不启用，1：启用
-"启用js加载源码":"0",
-"js加载源码时间":"5",
-
-"嗅探词": "m3u8?#.m3u8#.mp4#.flv#.mp3#.m4a",
-"过滤词": "51.la#cnzz.com#baidu.com#bilibili.com",
-
-//0：记录，1：不记录
-"是否记录历史": "0",
-
-//0：否，1：是
-"直接播放": "0",
-"列表显示": "0",
-"横图显示": "0",
-"列表起始页": "2",
-"列表分类": "国产$/video/index_#自拍视频$/video/zipai/index_#淫妻作乐$/video/fuqi/index_#开放青年$/video/kaifang/index_#精品分享$/video/jingpin/index_#台湾辣妹$/video/twmn/index_#韩国主播$/video/krzb/index_#动漫卡通$/video/dongman/index_#经典三级$/video/sanji/index_#女性向纯爱$/av/nxx/index_#GIGA女战士$/av/giga/index_#电影$/movie/index_#无码中字$/movie/wuma/index_#SM系列$/movie/sm/index_#高清无码$/movie/gaoqing/index_#熟女人妻$/movie/shunv/index_#美颜巨乳$/movie/meiyan/index_#丝袜制服$/movie/siwa/index_#中字有码$/movie/youma/index_#欧美系列$/movie/oumei/index_",
-"列表后缀": ".html",
-"列表二次截取": "空",
-"列表截取数组": "class=\"preview-item$$</a>",
-"列表图片前缀": "空",
-"列表图片": "data-original=\"$$\"",
-"列表标题": "title=\"$$\"",
-"列表副标题": "class=\"pic-text text-right\">$$</span>",
-"列表链接": "href=\"$$\"",
-"列表链接前缀": "空",
-"列表链接后缀": "空",
-
-//0：get方式，1：post方式，注意：如果用post方式，【搜索模式】要填：1
-"搜索请求方式": "0",
-"搜索模式": "0",
-"搜索前": "/index.php/ajax/suggest?mid=1&wd=",
-"搜索后": "&limit=150",
-"搜索连接后缀": "/vod/",
-"搜索二次截取": "空",
-"搜索截取数组": "前$$后",
-"搜索图片前缀": "空",
-"搜索图片": "original=\"$$\"",
-"搜索标题": "title=\"$$\"",
-"搜索副标题": "class=\"pic-text text-right\">$$</span>",
-"搜索链接": "href=\"$$\"",
-"搜索链接前缀": "空",
-"搜索链接后缀": "空",
-
-//0：不启用，1：启用
-"启用线路名": "0",
-"线路名二次截取": "空",
-"线路名截取数组": "class=\"more$$</div>",
-"线路名标题": "/>$$</h3>",
-
-"播放页状态": "分类：</span>$$</p>",
-"播放页导演": "导演：$$</p>",
-"播放页演员": "主演：$$</p>",
-"播放页剧情": "时间：$$</p>",
-
-"播放页二次截取": "空",
-"播放页截取数组": "class=\"item$$</div>",
-"播放剧集二次截取": "空",
-"播放剧集截取数组": "<a$$/a>",
-"播放剧集标题": ">$$<",
-"播放剧集链接": "href=\"$$\"",
-"播放剧集链接前缀": "空",
-"播放剧集链接后缀": "空"},
-
-{"网站名字": "色爷爷AV{色窝资源}",
-"网站地址": "https://avsyy1.cc/",
-"访问请求ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
-"访问请求cookie": "空",
-"访问请求referer": "空",
-"播放请求头": "User-Agent$123",
-"图片请求头": "空",
-"网页编码": "utf-8",
- 
-//0：不禁用，1：禁用
-"禁用搜索": "0",
- 
-//0：不启用，1：启用
-"启用js加载源码":"0",
-"js加载源码时间":"5",
- 
-"嗅探词": "m3u8?#.m3u8#.mp4#.flv#.mp3#.m4a",
-"过滤词": "51.la#cnzz.com#baidu.com#bilibili.com",
- 
-//0：记录，1：不记录
-"是否记录历史": "0",
- 
-//0：否，1：是
-"直接播放": "0",
-"列表显示": "0",
-"横图显示": "0",
-"列表起始页": "1",
-"列表分类": "国产情色$/index.php/vod/type/id/49/page/#主播直播$/index.php/vod/type/id/50/page/#动漫里番$/index.php/vod/type/id/51/page/#日韩综合$/index.php/vod/type/id/52/page/#欧美性爱$/index.php/vod/type/id/53/page/#中文字幕$/index.php/vod/type/id/54/page/#强奸乱伦$/index.php/vod/type/id/55/page/#制服黑丝$/index.php/vod/type/id/56/page/#巨乳美乳$/index.php/vod/type/id/57/page/#变态调教$/index.php/vod/type/id/58/page/#自拍偷拍$/index.php/vod/type/id/59/page/#熟女人妻$/index.php/vod/type/id/60/page/#日本无码$/index.php/vod/type/id/61/page/#日本有码$/index.php/vod/type/id/62/page/#少女萝莉$/index.php/vod/type/id/63/page/#三级伦理$/index.php/vod/type/id/64/page/#明星偶像$/index.php/vod/type/id/65/page/#美女模特$/index.php/vod/type/id/66/page/#AI换脸$/index.php/vod/type/id/67/page/",
-"列表后缀": ".html",
-"列表二次截取": "空",
-"列表截取数组": "class=\"myui-vodlist__box\"$$</a>",
-"列表图片前缀": "空",
-"列表图片": "data-original=\"$$\"",
-"列表标题": "title=\"$$\"",
-"列表副标题": "class=\"pic-text text-right\">$$</span>",
-"列表链接": "href=\"$$\"",
-"列表链接前缀": "空",
-"列表链接后缀": "空",
- 
-//0：get方式，1：post方式，注意：如果用post方式，【搜索模式】要填：1
-"搜索请求方式": "0",
-"搜索模式": "0",
-"搜索前": "/index.php/ajax/suggest?mid=1&wd=",
-"搜索后": "&limit=150",
-"搜索连接后缀": "/index.php/vod/detail/id/",
-"搜索二次截取": "空",
-"搜索截取数组": "前$$后",
-"搜索图片前缀": "空",
-"搜索图片": "url($$\"",
-"搜索标题": "title=\"$$\"",
-"搜索副标题": "class=\"pic-text text-right\">$$</span>",
-"搜索链接": "href=\"$$\"",
-"搜索链接前缀": "空",
-"搜索链接后缀": "空",
- 
-//0：不启用，1：启用
-"启用线路名": "1",
-"线路名二次截取": "空",
-"线路名截取数组": "href=\"#playlist1$$/a>",
-"线路名标题": "data-toggle=\"tab\">$$<",
- 
-"播放页状态": "更新：$$</p>",
-"播放页导演": "导演：$$</p>",
-"播放页演员": "主演：$$</p>",
-"播放页剧情": "<p class=\"data hidden-xs\">$$</p>",
- 
-"播放页二次截取": "空",
-"播放页截取数组": "class=\"myui-content__list$$</ul>",
-"播放剧集二次截取": "空",
-"播放剧集截取数组": "<a$$/a>",
-"播放剧集标题": ">$$<",
-"播放剧集链接": "href=\"$$\"",
-"播放剧集链接前缀": "空",
-"播放剧集链接后缀": "空"},
 ]}
