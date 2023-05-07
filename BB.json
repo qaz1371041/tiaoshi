@@ -125,6 +125,7 @@
 
 //主解析是JSON直链格式的解析
 "zhujiexi":[
+ {"name":"肥猫官解","url":"https://vip.ckllk.com/API.php?appkey=404164cdd1472561b4c61f1845e0bff8&url="},
  {"name":"主1","url":"http://47.119.122.235:5566/json/free.php?url="},
  {"name":"主2","url":"https://api.json.icu/api/?key=393e1389f085486159f5b1c09a99aedb&url="},
 ],
