@@ -3322,7 +3322,30 @@
 "播放页跳转看图": "0"},
  
  
- 
+ {"name": "抓饭直播",
+"url": "https://www.justmi.cn",
+"ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"User": "空",
+"是否记录历史": "1",
+"直接播放": "1",
+"列表显示": "0",
+"fenlei": "体育$空",
+"houzhui": "",
+"qishiye": "空",
+"shifouercijiequ": "1",
+"jiequqian": "\"channels\"",
+"jiequhou": "]",
+"jiequshuzuqian": "{",
+"jiequshuzuhou": "}",
+"tupianqian": "\"imageUrl\":\"",
+"tupianhou": "\"",
+"biaotiqian": "\"cname\":\"",
+"biaotihou": "\"",
+"lianjieqian": "\"id\":\"",
+"lianjiehou": "\"",
+"ljqianzhui": "https://www.justmi.cn/v2/live/",
+"fubiaotiqian": "\"categoryName\":\"",
+"fubiaotihou": "\""},
 
  
  
