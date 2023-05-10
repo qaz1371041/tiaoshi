@@ -134,9 +134,11 @@
 //备用解析是常规格式的解析
 "beiyongjiexi":[
  {"name":"1","url":"https://jx.777jiexi.com/player/?url="},
- {"name":"影","url":"https://jxjson.cf/?url="},
- {"name":"66解析","url":"https://www.mdy66.net/mf/analysis.php?v="},
  {"name":"综合/B站","url":"https://jx.jsonplayer.com/player/?url="},
+ {"name":"影","url":"https://jxjson.cf/?url="},
+ {"name":"bl","url":"https://svip.bljiex.cc/?v="},
+ {"name":"66解析","url":"https://www.mdy66.net/mf/analysis.php?v="},
+ {"name":"爱酷解析","url":"https://jx.zhanlangbu.com/?url="},
  {"name":"备3","url":"https://www.pangujiexi.com/pangu/?url="},
  {"name":"臭蛋蛋","url":"https://bfq.cddys.vip/bfq/?url="},
  {"name":"备1","url":"https://api.okjx.cc:3389/jx.php?url="}, 
@@ -148,6 +150,7 @@
  {"name":"1","url":"https://jx.777jiexi.com/player/?url="},
  {"name":"夜幕","url":"https://www.yemu.xyz/?url="},
  {"name":"备解4","url":"https://okjx.cc/?url="},
+ {"name":"解析4","url":"https://7080.wang/jx/index.html?url="},
 ],
 
 
