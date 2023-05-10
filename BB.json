@@ -92,6 +92,8 @@
 {"name":"量子资源","url":"https://cj.lziapi.com/api.php/"}, 
 {"name":"土豪影视","url":"https://www.tuhao.tv/api.php/"},
 {"name":"非凡资源","url":"http://www.ffzy.tv/api.php"}, 
+{"name":"速播资源","url":"https://subocaiji.com/api.php/"},
+{"name":"豌豆资源","url":"https://ks.wandouzy.cc/api.php/"},
 {"name":"蜜蜂影视（采集）","url":"https://www.beeyao.com/api.php"}, 
 {"name":"超多影院","url":"https://www.ifengying.cn/api.php/"},
 {"name":"susong在线影视","url":"http://150.158.102.76/api.php/"},
@@ -100,7 +102,8 @@
 {"name":"白嫖TV","url":"https://www.baipiaotv.com/api.php/"},
 {"name":"天蝎影视","url":"https://www.jipo.tv/api.php/"}, 
 {"name":"艾旦影视","url":"https://lovedan.net/api.php/"},
-
+{"name":"虎牙资源","url":"https://www.huyaapi.com/api.php/"},
+{"name":"阳光资源","url":"https://xxzy.org/api.php/"},
 {"name":"哆咪影视","url":"https://www.vbuyu.cn/api.php/"},
 {"name":"39影视","url":"https://www.39kan.com/api.php/"},
 {"name":"U酷资源","url":"https://api.ukuapi.com/api.php/"},
