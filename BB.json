@@ -299,18 +299,21 @@
 "播放剧集链接前缀": "空",
 "播放剧集链接后缀": "空"},
  
- 
-{"网站名字": "新视觉影院",
+ {"网站名字": "新视觉影院",
 "网站地址": "https://www.6080dy3.com/",//新视觉影院新发布页： www.526080.com
 "访问请求ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
-"访问请求cookie": "cf_clearance=y1D4nAM.4qd3djupQ4ioufafiVL4Ejh8.RESuKn_UHI-1683375880-0-250; clothes=white; closeclick=closeclick",
+"访问请求cookie": "clothes=white; closeclick=closeclick",
 "访问请求referer": "空",
 "播放请求头": "User-Agent$123",
 "图片请求头": "空",
 "网页编码": "utf-8",
 "禁用搜索": "0",
-"启用js加载源码":"0",
-"js加载源码时间":"5",
+"搜索手动验证": "1",
+"集数倒序": "0",
+"是否启用解析模式": "0",
+"自动点击字符": "空",
+"启用js加载源码":"1",
+"js加载源码时间":"15",
 "嗅探词": "m3u8?#.m3u8#.mp4#.flv#.mp3#.m4a",
 "过滤词": "51.la#cnzz.com#baidu.com#bilibili.com#?url=",
 "是否记录历史": "0",
@@ -359,7 +362,6 @@
 "排序": "全部$空#时间排序$time#人气排序$hits#评分排序$score"
 }
 ],
- 
 "列表二次截取": "空",
 "列表截取数组": "class=\"module-item-pic\"$$class=\"module-item-pic",
 "列表图片前缀": "空",
@@ -369,33 +371,29 @@
 "列表链接": "href=\"$$\"",
 "列表链接前缀": "空",
 "列表链接后缀": "空",
- 
 //0：get方式，1：post方式，注意：如果用post方式，【搜索模式】要填：1
 "搜索请求方式": "0",
-"搜索模式": "0",
-"搜索前": "/index.php/ajax/suggest?mid=1&wd=",
-"搜索后": "&limit=150",
-"搜索连接后缀": "/video/",
+"搜索模式": "1",
+"搜索前": "/vodsearch/-------------.html?wd=",
+"搜索后": "",
+"搜索连接后缀": "",
 "搜索二次截取": "空",
-"搜索截取数组": "前$$后",
+"搜索截取数组": "class=\"module-item-pic$$class=\"video-info-aux",
 "搜索图片前缀": "空",
-"搜索图片": "original=\"$$\"",
-"搜索标题": "title=\"$$\"",
-"搜索副标题": "class=\"video-class\">$$</span>",
-"搜索链接": "href=\"$$\"",
+"搜索图片": "data-src=\"$$\"",
+"搜索标题": "alt=\"$$\"",
+"搜索副标题": "<div class=\"video-info\">$$</a>",
+"搜索链接": "class=\"video-serial\" href=\"$$\"",
 "搜索链接前缀": "空",
 "搜索链接后缀": "空",
- 
 "启用线路名": "1",
 "线路名二次截取": "空",
 "线路名截取数组": "data-dropdown-value=$$</div>",
 "线路名标题": "<span>$$</span>",
- 
 "播放页状态": "上映：</span>$$</div>",
 "播放页导演": "导演：</span>$$</div>",
 "播放页演员": "主演：</span>$$</div>",
 "播放页剧情": "class=\"video-info-item video-info-content vod_content\">$$</span>",
- 
 "播放页二次截取": "空",
 "播放页截取数组": "class=\"scroll-content$$</div>",
 "播放剧集二次截取": "空",
@@ -412,6 +410,7 @@
 "是否url解码": "0",
 "官源是否走解析": "0",
 "播放页跳转看图": "0"},
+
  
  {"网站名字": "子子影视",
 "网站地址": "https://www.ziziys.com",
