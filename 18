@@ -258,6 +258,63 @@
 //0：不跳转，1：跳转
 "播放页跳转看图": "0"},
 
+{"网站名字": "香蕉在线视频合集",
+"网站地址": "https://apixj.com/",  //https://660sav.cc/  https://ju54321.vip/
+"访问请求ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
+"访问请求cookie": "空",
+"访问请求referer": "空",
+"播放请求头": "User-Agent$123",
+"图片请求头": "空",
+"网页编码": "utf-8",
+//0：不禁用，1：禁用
+"禁用搜索": "0",
+//0：不启用，1：启用
+"搜索手动验证": "0",
+//0：否，1：是
+"集数倒序": "0",
+//0：不启用，1：启用
+"是否启用解析模式": "0",
+//需要点击播放的网站可以自己找网页的点击js字符
+"自动点击字符": "空",
+//0：不启用，1：启用
+"启用js加载源码":"0",
+"js加载源码时间":"5",
+"嗅探词": "m3u8?#.m3u8#.mp4#.flv#.mp3#.m4a",
+"过滤词": "?url=#?v=#.css#51.la#cnzz.com#baidu.com#bilibili.com",
+//0：记录，1：不记录
+"是否记录历史": "0",
+//0：否，1：是
+"直接播放": "1",
+"列表显示": "0",
+"横图显示": "0",
+"列表起始页": "0",
+"列表分类": "中文无码$?xx=xxj-xxjfl-zwwm-#中文综合$?xx=xxj-xxjfl-zwzh-#中文近亲$?xx=xxj-xxjfl-zwwm-#中文护士$?xx=xxj-xxjfl-zwhs-#中文师生$?xx=xxj-xxjfl-zwss-#中文强奸$?xx=xxj-xxjfl-zwqj-#明星淫梦$?xx=xxj-xxjfl-mxym-#国产自拍$?xx=xxj-xxjfl-gczp-#AV解说$?xx=avjs-avjsfl-avjs-#综合传媒$?xx=gccm-gccmfl-1-#91制片厂$?xx=gccm-gccmfl-2-#杏吧原创$?xx=gccm-gccmfl-11-#糖心Vlgo$?xx=gccm-gccmfl-16-#天美传媒$?xx=gccm-gccmfl-3-#蜜桃传媒$?xx=gccm-gccmfl-4-#星空传媒$?xx=gccm-gccmfl-6-#精东影业$?xx=gccm-gccmfl-7-#兔子先生$?xx=gccm-gccmfl-10-#大象传媒$?xx=gccm-gccmfl-13-#亚洲ＡＶ$?xx=cqzy-cqzyfl-62-#自拍偷拍$?xx=cqzy-cqzyfl-63-#超清传媒$?xx=cqzy-cqzyfl-64-#3D动漫$?xx=cqzy-cqzyfl-66-#欧美ＡＶ$?xx=cqzy-cqzyfl-65-#乱伦人妻$?xx=cqzy-cqzyfl-67-#丝袜制服$?xx=cqzy-cqzyfl-68-#直播录播$?xx=cqzy-cqzyfl-69-#SM另类$?xx=cqzy-cqzyfl-70-#超清三级$?xx=cqzy-cqzyfl-71-#久久无码$?xx=99re-99refl-56-#久久潮吹$?xx=99re-99refl-63-#久久动漫$?xx=99re-99refl-71-#久久国产$?xx=99re-99refl-72-#久久高清$?xx=99re-99refl-60-#久久格式$?xx=99re-99refl-69-#久久韩国$?xx=99re-99refl-74-#久久欧美$?xx=99re-99refl-53-#久久认证$?xx=99re-99refl-64-#久久三级$?xx=99re-99refl-75-#久久SM$?xx=99re-99refl-73-#久久VR$?xx=99re-99refl-76-#久久有码$?xx=99re-99refl-58-#久久颜射$?xx=99re-99refl-66-#久久主播$?xx=99re-99refl-70-#久久制服$?xx=99re-99refl-65-#废柴专区$?xx=fcw-fcwfl-vipzq-#废柴动漫$?xx=fcw-fcwfl-crdm-#废柴韩国$?xx=fcw-fcwfl-hgzh-#废柴欧美$?xx=fcw-fcwfl-omzq-#废柴偷拍$?xx=fcw-fcwfl-tpxl-#废柴V R$?xx=fcw-fcwfl-vrzq-#废柴无码$?xx=fcw-fcwfl-rbwm-#废柴有码$?xx=fcw-fcwfl-rbym-#废柴自拍$?xx=fcw-fcwfl-gczp-",
+"列表后缀": ".html",
+"列表二次截取": "空",
+"列表截取数组": "class=\"item \"$$</a>",
+"列表图片前缀": "空",
+"列表图片": "data-original=\"$$\"",
+"列表标题": "title=\"$$\"",
+"列表副标题": "class=\"duration\">$$</div>",
+"列表链接": "href=\"$$\"",
+"列表链接前缀": "空",
+"列表链接后缀": "空",
+//0：get方式，1：post方式，注意：如果用post方式，【搜索模式】要填：1
+"搜索请求方式": "0",
+"搜索模式": "1",
+"搜索前": "/?xx=search-xxj-so-0.html&TXT=",
+"搜索后": "",
+"搜索连接后缀": "/vod/",
+"搜索二次截取": "空",
+"搜索截取数组": "class=\"item \"$$</a>",
+"搜索图片前缀": "空",
+"搜索图片": "original=\"$$\"",
+"搜索标题": "title=\"$$\"",
+"搜索副标题": "class=\"pic-text text-right\">$$</span>",
+"搜索链接": "href=\"$$\"",
+"搜索链接前缀": "空",
+"搜索链接后缀": "空"},
+
 {"网站名字": "AV",
 "网站地址": "https://www.61534.xyz/",
 "访问请求ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
