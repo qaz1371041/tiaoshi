@@ -33,7 +33,8 @@
 "zhuyejiekou": [
 {"name":"影视之家","url":"http://yszj.cm/xgapp.php/v2/"},
 {"name":"天空影视","url":"http://tkznp.com/xgapp.php/v1/"},
-{"name":"F7好看剧","url":"https://www.f7hkj.cc/api.php/app/"}, 
+{"name":"F7好看剧","url":"https://www.f7hkj.cc/api.php/app/"},
+{"name":"神马影院","url":"https://www.smdyy.cc/api.php/app/"},//https://www.smdyy.vip/ 
 {"name":"555","url":"https://www.xawqxh.net/api.php/app/"},
 {"name":"4k鸭奈飞","url":"https://yanetflix.me/api.php/app/"}, 
 {"name":"霹雳影视","url":"https://plyingshi.com/api.php/v1.vod"}, 
@@ -44,7 +45,6 @@
 {"name":"天天影院","url":"https://www.ttmja.com/api.php/app/"},
 {"name":"旧梦影视","url":"http://43.139.139.17:4433/api.php/app/"},
 {"name":"阿里","url":"http://aliys.cn:91/api.php/v1.vod"},
-{"name":"神马影院","url":"https://www.smdyy.cc/api.php/app/"},//https://www.smdyy.vip/
 {"name":"COKEMV影院","url":"https://cokemv.me/xgapp.php/v2/"}, 
 {"name":"少泽影客","url":"https://yk.shaozeyy.com/api.php/app/"}, 
 {"name":"69美剧","url":"https://www.69mj.com/xgapp.php/v1/"}, 
