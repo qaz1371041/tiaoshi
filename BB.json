@@ -99,7 +99,7 @@
 {"name":"悟空影院","url":"http://dapi.pntao.com/api.php/v1.vod"},
 {"name":"氢视频","url":"https://h1080p.com/xgapp.php/v1/"}, 
 {"name":"玖卿乐播","url":"https://vod.nqcode.cn/api.php/v1.vod"},
-
+{"name":"如意4K","url":"http://cms.maoyingshi.cc/api.php/app/"},
 {"name":"爱迪影视","url":"https://aidi.tv/xgapp.php/v1/"}],
 
 
@@ -148,12 +148,14 @@
 //主解析是JSON直链格式的解析
 "zhujiexi":[
  {"name":"肥猫官解","url":"https://vip.ckllk.com/API.php?appkey=404164cdd1472561b4c61f1845e0bff8&url="},
+ {"name":"主1","url":"http://json.ovvo.pro/json.php?uid=4192979&key=acklmrxyzBHIJUW127&url="},
  {"name":"夜幕","url":"http://43.143.146.199:5208/api/?key=bh5YLTM058iwk3H6mu&url="},
  {"name":"主1","url":"http://47.119.122.235:5566/json/free.php?url="},
 ],
 
 //备用解析是常规格式的解析
 "beiyongjiexi":[
+{"name":"8k","url":"http://mz_llq.8kvod.com/player/?url="},
  {"name":"1","url":"https://jx.777jiexi.com/player/?url="},
  {"name":"综合/B站","url":"https://jx.jsonplayer.com/player/?url="},
  {"name":"备解2", "url": "https://jx.xmflv.com/?url="},
@@ -165,7 +167,7 @@
  {"name":"66解析","url":"https://www.mdy66.net/mf/analysis.php?v="},
  {"name":"爱酷解析","url":"https://jx.zhanlangbu.com/?url="},
  {"name":"8k","url":"http://mz_llq.8kvod.com/player/?url="},
- {"name":"1","url":"https://jx.777jiexi.com/player/?url="},
+
  {"name":"夜幕","url":"https://www.yemu.xyz/?url="},
 ],
 
