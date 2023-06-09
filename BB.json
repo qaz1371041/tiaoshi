@@ -1215,7 +1215,7 @@
 "播放剧集链接前缀": "空",
 "播放剧集链接后缀": "空"},
 
- {"网站名字": "八仟影视",
+// {"网站名字": "八仟影视",
 "网站地址": "http://www.8kvod.com/",//http://www.8kvod.com/
 "访问请求ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
 "访问请求cookie": "clothes=black; closeclick=closeclick; mac_history_dianying=%5B%7B%22vod_name%22%3A%22%E5%A4%A9%E4%BD%BF%E4%B9%8B%E5%9F%8E%202023%22%2C%22vod_url%22%3A%22http%3A%2F%2Fwww.xn--45q.top%2Fp%2F121993-2-1%2F%22%2C%22vod_part%22%3A%22%E7%AC%AC01%E9%9B%86%22%7D%5D",
