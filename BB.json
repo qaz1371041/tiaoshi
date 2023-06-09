@@ -110,7 +110,8 @@
 {"name":"爱迪影视","url":"https://aidi.tv/xgapp.php/v1/"},
 {"name":"牛牛影视","url":"https://www.nnys.top//api.php/app/"},
 {"name":"君离免费影视","url":"http://jlys6.top/mogai_api.php/v1.vod"},
- {"name":"东方视频","url":"https://www.dfspapp.com//api.php/app/"}],
+{"name":"盈联影视","url":"http://tt.uutv.cc/api.php/app/"}, 
+{"name":"东方视频","url":"https://www.dfspapp.com//api.php/app/"}],
 
 
 
@@ -176,7 +177,6 @@
  {"name":"综合/B站","url":"https://jx.jsonplayer.com/player/?url="},
  {"name":"备解2", "url": "https://jx.xmflv.com/?url="},
 {"name":"备解3","url":"https://jx.iztyy.com/svip/?url="},
-{"name":"备解4","url":"https://okjx.cc/?url="},
 {"name":"备解5","url":"https://www.pangujiexi.com/pangu/?url="},
  {"name":"m3u8","url":"https://jx.m3u8.tv/jiexi/?url="},
  {"name":"影","url":"https://jxjson.cf/?url="},
