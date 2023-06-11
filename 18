@@ -1583,10 +1583,10 @@
 "播放页跳转看图": "0"},
 
 {"网站名字": "香蕉中文资源",
-"网站地址": "https://520pp.vip/",  //https://660sav.cc/  https://ju54321.vip/
+"网站地址": "https://hsck01.vip/",  //https://www.660sav.top/  https://www.ju54321.top/
 "访问请求ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
 "访问请求cookie": "空",
-"访问请求referer": "referer$https://660sav.cc/",
+"访问请求referer": "空",
 "播放请求头": "User-Agent$123",
 "图片请求头": "空",
 "网页编码": "utf-8",
@@ -1612,76 +1612,7 @@
 "列表显示": "0",
 "横图显示": "0",
 "列表起始页": "1",
-"列表分类": "中文无码$/xjzy/cn-zhongwenwuma-#中文综合$/xjzy/cn-zhongwenzonghe-#中文近亲$/xjzy/cn-zhongwenjingqing-#中文护士$/xjzy/cn-zhongwenhushi-#中文师生$/xjzy/cn-zhongwenshisheng-#中文强奸$/xjzy/cn-zhongwenqiangjian-#明星淫梦$/xjzy/cn-mingxingyinmeng-#国产自拍$/xjzy/cn-guochanzipai-#三级伦理$/xjzy/cn-sanjizonghe-#解说原片$/xjzy/cn-jieshuoyuanpian-",
-"列表后缀": ".html",
-"列表二次截取": "空",
-"列表截取数组": "class=\"item\"$$</a>",
-"列表图片前缀": "空",
-"列表图片": "data-original=\"$$\"",
-"列表标题": "title=\"$$\"",
-"列表副标题": "class=\"duration\">$$</div>",
-"列表链接": "href=\"$$\"",
-"列表链接前缀": "空",
-"列表链接后缀": "空",
-//0：get方式，1：post方式，注意：如果用post方式，【搜索模式】要填：1
-"搜索请求方式": "0",
-"搜索模式": "1",
-"搜索前": "/vod/search/wd/",
-"搜索后": ".html",
-"搜索连接后缀": "/vod/",
-"搜索二次截取": "空",
-"搜索截取数组": "class=\"item\"$$</a>",
-"搜索图片前缀": "空",
-"搜索图片": "original=\"$$\"",
-"搜索标题": "title=\"$$\"",
-"搜索副标题": "class=\"pic-text text-right\">$$</span>",
-"搜索链接": "href=\"$$\"",
-"搜索链接前缀": "空",
-"搜索链接后缀": "空",
-"播放页状态": "class=\"duration\">$$</div>",
-"播放页导演": "class=\"rating positive\">$$</div>",
-"播放页演员": "主演：$$</p>",
-"播放页剧情": "class=\"title\">$$</strong>",
-"播放页二次截取": "空",
-"播放页截取数组": "player_aaaa={\"$$\"vod_director\":",
-"播放剧集二次截取": "空",
-"播放剧集截取数组": "flag\":$$\"vod_actor",
-"播放剧集标题": "{\"vod_name\":\"$$\"",
-"播放剧集链接": "\"link\":\"$$\"",
-"播放剧集链接前缀": "空",
-"播放剧集链接后缀": "空"},
-
-{"网站名字": "新香蕉久久资源",
-"网站地址": "https://520pp.vip/", //https://660sav.cc/  https://ju54321.vip/
-"访问请求ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
-"访问请求cookie": "空",
-"访问请求referer": "https://660sav.cc/",
-"播放请求头": "User-Agent$123",
-"图片请求头": "空",
-"网页编码": "utf-8",
-//0：不禁用，1：禁用
-"禁用搜索": "0",
-//0：不启用，1：启用
-"搜索手动验证": "0",
-//0：否，1：是
-"集数倒序": "0",
-//0：不启用，1：启用
-"是否启用解析模式": "0",
-//需要点击播放的网站可以自己找网页的点击js字符
-"自动点击字符": "空",
-//0：不启用，1：启用
-"启用js加载源码":"0",
-"js加载源码时间":"5",
-"嗅探词": "m3u8?#.m3u8#.mp4#.flv#.mp3#.m4a",
-"过滤词": "?url=#?v=#.css#51.la#cnzz.com#baidu.com#bilibili.com",
-//0：记录，1：不记录
-"是否记录历史": "0",
-//0：否，1：是
-"直接播放": "0",
-"列表显示": "0",
-"横图显示": "0",
-"列表起始页": "1",
-"列表分类": "国产自拍$/99re/kdw-guochanzipai-#欧美$/99re/kdw-oumei-#中文字幕$/99re/kdw-zhongwenzimu-#李宗瑞全集$/99re/kdw-lizongruiquanji-#日本无码$/99re/kdw-ribenwuma-#加勒比$/99re/kdw-jialebi-#日本有码$/99re/kdw-ribenyouma-#一本道$/99re/kdw-yibendao-#高清$/99re/kdw-gaoqing-#潮吹$/99re/kdw-chaochui-#会员认证作品$/99re/kdw-jiujiurehuiyuanrenzhengzuopin-#制服丝袜$/99re/kdw-zhifusiwa-#口爆颜射$/99re/kdw-koubaoyanshe-#肛交$/99re/kdw-gangjiao-#东京热$/99re/kdw-dongjingre-#小格式综合$/99re/kdw-xiaogeshizonghe-#女主播系列$/99re/kdw-hanguonvzhuboxilie-#成人动漫$/99re/kdw-chengrendongman-#SM性虐$/99re/kdw-SMxingnue-#韩国综合$/99re/kdw-hanguozonghe-",
+"列表分类": "中文无码$/xjzy/uu/zhongwenwuma-#中文综合$/xjzy/uu/zhongwenzonghe-#中文近亲$/xjzy/uu/zhongwenjingqing-#中文护士$/xjzy/uu/zhongwenhushi-#中文师生$/xjzy/uu/zhongwenshisheng-#中文强奸$/xjzy/uu/zhongwenqiangjian-#明星淫梦$/xjzy/uu/mingxingyinmeng-#国产自拍$/xjzy/uu/guochanzipai-#三级伦理$/xjzy/uu/sanjizonghe-#解说原片$/xjzy/uu/jieshuoyuanpian-#3D同人$/xjzy/uu/3Dtongren-",
 "列表后缀": ".html",
 "列表二次截取": "空",
 "列表截取数组": "class=\"item\"$$</a>",
@@ -1721,7 +1652,7 @@
 "播放剧集链接后缀": "空"},
 
 {"网站名字": "新香蕉超清资源",
-"网站地址": "https://520pp.vip",//https://660sav.vip/
+"网站地址": "https://hsck01.vip",//https://660sav.vip/
 "访问请求ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
 "访问请求cookie": "空",
 "访问请求referer": "referer$https://660sav.cc/",
@@ -1750,7 +1681,7 @@
 "列表显示": "0",
 "横图显示": "0",
 "列表起始页": "1",
-"列表分类": "亚洲ＡＶ$/cq/2k-yazhou-#自拍偷拍$/cq/2k-zipaitoupai-#超清传媒$/cq/2k-chaoqingchuanmei-#3D动漫$/cq/2k-3Ddongman-#欧美ＡＶ$/cq/2k-oumei-#乱伦人妻$/cq/2k-luanlunrenqi-#丝袜制服$/cq/2k-siwazhifu-#直播录播$/cq/2k-zhibolubo-#SM另类$/cq/2k-SMlinglei-#超清三级$/cq/2k-chaoqingsanji-",
+"列表分类": "亚洲ＡＶ$/cq/ii/yazhou-#自拍偷拍$/cq/ii/zipaitoupai-#超清传媒$/cq/ii/chaoqingchuanmei-#3D动漫$/cq/ii/3Ddongman-#欧美ＡＶ$/cq/ii/oumei-#乱伦人妻$/cq/ii/luanlunrenqi-#丝袜制服$/cq/ii/siwazhifu-#直播录播$/cq/ii/zhibolubo-#SM另类$/cq/ii/SMlinglei-#超清三级$/cq/ii/chaoqingsanji-",
 "列表后缀": ".html",
 "列表二次截取": "空",
 "列表截取数组": "class=\"item\"$$</a>",
@@ -1790,7 +1721,7 @@
 "播放剧集链接后缀": "空"},
 
 {"网站名字": "新香蕉国产传媒",
-"网站地址": "https://520pp.vip/", //https://660sav.cc/  https://ju54321.vip/
+"网站地址": "https://hsck01.vip/", //https://660sav.cc/  https://ju54321.vip/
 "访问请求ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
 "访问请求cookie": "空",
 "访问请求referer": "https://660sav.cc/",
@@ -1819,7 +1750,7 @@
 "列表显示": "0",
 "横图显示": "0",
 "列表起始页": "1",
-"列表分类": "综合传媒$/gccm/91-madouyuanchuang-#91制片厂$/gccm/91-91zhipianchang-#杏吧原创$/gccm/91-xingbayuanchuang-#糖心Vlgo$/gccm/91-tangxinVlgo-#天美传媒$/gccm/91-tianmeichuanmei-#蜜桃传媒$/gccm/91-mitaochuanmei-#星空传媒$/gccm/91-xingkongchuanmei-#精东影业$/gccm/91-jingdongyingye-#兔子先生$/gccm/91-tuzixiansheng-#大象传媒$/gccm/91-daxiangchuanmei-",
+"列表分类": "综合传媒$/gccm/yy/madouyuanchuang-#91制片厂$/gccm/yy/91zhipianchang-#杏吧原创$/gccm/yy/xingbayuanchuang-#糖心Vlgo$/gccm/yy/tangxinVlgo-#天美传媒$/gccm/yy/tianmeichuanmei-#蜜桃传媒$/gccm/yy/mitaochuanmei-#星空传媒$/gccm/yy/xingkongchuanmei-#精东影业$/gccm/yy/jingdongyingye-#兔子先生$/gccm/yy/tuzixiansheng-#大象传媒$/gccm/yy/daxiangchuanmei-",
 "列表后缀": ".html",
 "列表二次截取": "空",
 "列表截取数组": "class=\"item\"$$</a>",
@@ -1859,8 +1790,79 @@
 "播放剧集链接前缀": "空",
 "播放剧集链接后缀": "空"},
 
+
+{"网站名字": "新香蕉久久资源",
+"网站地址": "https://hsck01.vip/", //https://660sav.cc/  https://ju54321.vip/
+"访问请求ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
+"访问请求cookie": "空",
+"访问请求referer": "https://660sav.cc/",
+"播放请求头": "User-Agent$123",
+"图片请求头": "空",
+"网页编码": "utf-8",
+//0：不禁用，1：禁用
+"禁用搜索": "0",
+//0：不启用，1：启用
+"搜索手动验证": "0",
+//0：否，1：是
+"集数倒序": "0",
+//0：不启用，1：启用
+"是否启用解析模式": "0",
+//需要点击播放的网站可以自己找网页的点击js字符
+"自动点击字符": "空",
+//0：不启用，1：启用
+"启用js加载源码":"0",
+"js加载源码时间":"5",
+"嗅探词": "m3u8?#.m3u8#.mp4#.flv#.mp3#.m4a",
+"过滤词": "?url=#?v=#.css#51.la#cnzz.com#baidu.com#bilibili.com",
+//0：记录，1：不记录
+"是否记录历史": "0",
+//0：否，1：是
+"直接播放": "0",
+"列表显示": "0",
+"横图显示": "0",
+"列表起始页": "1",
+"列表分类": "国产自拍$/99re/ee/guochanzipai-#欧美$/99re/ee/oumei-#中文字幕$/99re/ee/zhongwenzimu-#李宗瑞全集$/99re/ee/lizongruiquanji-#日本无码$/99re/ee/ribenwuma-#加勒比$/99re/ee/jialebi-#日本有码$/99re/ee/ribenyouma-#一本道$/99re/ee/yibendao-#高清$/99re/ee/gaoqing-#潮吹$/99re/ee/chaochui-#会员认证作品$/99re/ee/jiujiurehuiyuanrenzhengzuopin-#制服丝袜$/99re/ee/zhifusiwa-#口爆颜射$/99re/ee/koubaoyanshe-#肛交$/99re/ee/gangjiao-#东京热$/99re/ee/dongjingre-#小格式综合$/99re/ee/xiaogeshizonghe-#女主播系列$/99re/ee/hanguonvzhuboxilie-#成人动漫$/99re/ee/chengrendongman-#SM性虐$/99re/ee/SMxingnue-#韩国综合$/99re/ee/hanguozonghe-",
+"列表后缀": ".html",
+"列表二次截取": "空",
+"列表截取数组": "class=\"item\"$$</a>",
+"列表图片前缀": "空",
+"列表图片": "data-original=\"$$\"",
+"列表标题": "title=\"$$\"",
+"列表副标题": "class=\"duration\">$$</div>",
+"列表链接": "href=\"$$\"",
+"列表链接前缀": "空",
+"列表链接后缀": "空",
+//0：get方式，1：post方式，注意：如果用post方式，【搜索模式】要填：1
+"搜索请求方式": "0",
+"搜索模式": "1",
+"搜索前": "/vod/search/wd/",
+"搜索后": ".html",
+"搜索连接后缀": "/vod/",
+"搜索二次截取": "空",
+"搜索截取数组": "class=\"item\"$$</a>",
+"搜索图片前缀": "空",
+"搜索图片": "original=\"$$\"",
+"搜索标题": "title=\"$$\"",
+"搜索副标题": "class=\"pic-text text-right\">$$</span>",
+"搜索链接": "href=\"$$\"",
+"搜索链接前缀": "空",
+"搜索链接后缀": "空",
+"播放页状态": "class=\"duration\">$$</div>",
+"播放页导演": "class=\"rating positive\">$$</div>",
+"播放页演员": "主演：$$</p>",
+"播放页剧情": "class=\"title\">$$</strong>",
+"播放页二次截取": "空",
+"播放页截取数组": "player_aaaa={\"$$\"vod_director\":",
+"播放剧集二次截取": "空",
+"播放剧集截取数组": "flag\":$$\"vod_actor",
+"播放剧集标题": "{\"vod_name\":\"$$\"",
+"播放剧集链接": "\"link\":\"$$\"",
+"播放剧集链接前缀": "空",
+"播放剧集链接后缀": "空"},
+
+
 {"网站名字": "香蕉废柴资源",
-"网站地址": "https://520pp.vip",  //https://660sav.cc/  https://ju54321.vip/
+"网站地址": "https://hsck01.vip/",  //https://660sav.cc/  https://ju54321.vip/
 "访问请求ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
 "访问请求cookie": "空",
 "访问请求referer": "referer$https://660sav.cc/",
@@ -1889,7 +1891,7 @@
 "列表显示": "0",
 "横图显示": "0",
 "列表起始页": "1",
-"列表分类": "VIP专区$/fcw/ff-VIPzhuanqu-#偷拍系列$/fcw/ff-toupaixilie-#国产自拍$/fcw/ff-guochanzipai-#日本有码$/fcw/ff-ribenyouma-#日本无码$/fcw/ff-ribenwuma-#成人动漫$/fcw/ff-chengrendongman-#韩国综合$/fcw/ff-hanguozonghe-#VR专区$/fcw/ff-VRzhuanqu-#欧美$/fcw/ff-oumei-",
+"列表分类": "VIP专区$/fcw/qq/VIPzhuanqu-#偷拍系列$/fcw/qq/toupaixilie-#国产自拍$/fcw/qq/guochanzipai-#日本有码$/fcw/qq/ribenyouma-#日本无码$/fcw/qq/ribenwuma-#成人动漫$/fcw/qq/chengrendongman-#韩国综合$/fcw/qq/hanguozonghe-#VR专区$/fcw/qq/VRzhuanqu-#欧美$/fcw/qq/oumei-",
 "列表后缀": ".html",
 "列表二次截取": "空",
 "列表截取数组": "class=\"item\"$$</a>",
