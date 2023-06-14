@@ -54,6 +54,7 @@
 {"name":"速看100","url":"https://sk100.tv/api.php/app/"},
 {"name":" 鸭奈飞影视","url":"https://www.netfly.tv/api.php/app/"}, 
 {"name":"聚合影视","url":"http://xn--yeta099v.online:66/api.php/app/"},
+{"name":"力力影视","url":"http://124.222.175.111:89//api.php/app/"}, 
 {"name":"路人甲影视","url":"http://dytt996.com//api.php/app/"}, 
 {"name":"青豆","url":"http://goodluckzy.com/qingdoujiekou.php/v1.vod"},
 {"name": "萌蛋蛋","url": "http://app.mengdandan.com/xgapp.php/v1/"},
@@ -114,6 +115,7 @@
 {"name":"7喜影院(😍)","url":"https://7xi.tv/api.php/"},
 {"name":"七七","url":"http://api.tyun77.cn/api.php"},
 {"name":"量子资源","url":"https://cj.lziapi.com/api.php/"}, 
+{"name":"猫咪官源","url":"http://zy.xiaomaomi.vip/api.php"}, 
 {"name":"龙腾资源","url":"http://175.178.7.35:2020/api.php"},
 {"name":"遇见影视","url":"https://yjtv.top/api.php/"}, 
 {"name":"端木视频","url":"http://dmsvip1.top/api.php/"}, 
@@ -156,6 +158,7 @@
 
 //主解析是JSON直链格式的解析
 "zhujiexi":[
+ {"name":"主解1","url":"https://api.tyun77.cn/api.php/provide/parserUrl?url="},
  {"name":"肥猫官解","url":"https://vip.ckllk.com/API.php?appkey=404164cdd1472561b4c61f1845e0bff8&url="},
  {"name":"主1","url":"http://json.ovvo.pro/json.php?uid=4192979&key=acklmrxyzBHIJUW127&url="},
  {"name":"巧技解析","url":"http://27.124.4.42:4567/jhjson/ceshi.php?url="},
