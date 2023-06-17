@@ -164,6 +164,7 @@
 //主解析是JSON直链格式的解析
 "zhujiexi":[
  {"name":"主解1","url":"https://api.tyun77.cn/api.php/provide/parserUrl?url="},
+ {"name":"8kvod","url":"http://api.8kvod.com:5566/api/?key=nD30Uc4sOUcyyuNpcP&url="},
  {"name":"肥猫官解","url":"https://vip.ckllk.com/API.php?appkey=404164cdd1472561b4c61f1845e0bff8&url="},
  {"name":"主1","url":"http://json.ovvo.pro/json.php?uid=4192979&key=acklmrxyzBHIJUW127&url="},
  {"name":"巧技解析","url":"http://27.124.4.42:4567/jhjson/ceshi.php?url="},
