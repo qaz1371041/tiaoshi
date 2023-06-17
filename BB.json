@@ -1949,6 +1949,41 @@
 "列表起始页": "1",
 "列表分类": "电影$/index.php/vod/show/id/1/page/#电视剧$/index.php/vod/show/id/2/page/#综艺$/index.php/vod/show/id/4/page/#动漫$/index.php/vod/show/id/3/page/#蓝光电影$/index.php/vod/show/id/1/version/4k/page/#蓝光剧集$/index.php/vod/show/id/2/version/4k/page/",
 "列表后缀": ".html",
+"筛选列表模式":"1",
+"筛选列表": [
+{
+"分类名称":"电影",
+"分类链接":"https://www.4kgod.com/index.php/vod/show/地区/剧情/id/1/page/翻页/年代.html",
+"剧情":"全部$空#动作$class/动作#喜剧$class/喜剧#爱情$class/爱情#科幻$class/科幻#恐怖$class/恐怖#战争$class/战争#剧情$class/剧情#惊悚$class/惊悚#悬疑$class/悬疑#魔幻$class/魔幻#言情$class/言情#罪案$class/罪案#冒险$class/冒险#灾难$class/灾难#古装$class/古装#青春$class/青春#歌舞$class/歌舞#励志$class/励志#文艺$class/文艺#生活$class/生活#动画$class/动画#历史$class/历史#谍战$class/谍战#穿越$class/穿越",
+"地区":"全部$空#大陆$area/大陆#香港$area/香港#台湾$area/台湾#美国$area/美国#韩国$area/韩国#日本$area/日本#法国$area/法国#英国$area/英国#德国$area/德国#泰国$area/泰国#印度$area/印度#新加坡$area/新加坡#马来西亚$area/马来西亚#加拿大$area/加拿大#西班牙$area/西班牙#俄罗斯$area/俄罗斯",
+"年代":"全部$空#2023$year/2023#2022$year/2022#2021$year/2021#2020$year/2020#2019$year/2019#2018$year/2018#2017$year/2017#2016$year/2016#2015$year/2015#2014$year/2014#2013$year/2013#2012$year/2012#2011$year/2011#2010$year/2010#2009$year/2009#2008$year/2008#2007$year/2007#2006$year/2006#2005$year/2005#2004$year/2004#2003$year/2003#2002$year/2002#2001$year/2001#2000$year/2000",
+"排序":"空"
+},
+{
+"分类名称":"电视剧",
+"分类链接":"https://www.4kgod.com/index.php/vod/show/地区/剧情/id/2/page/翻页/年代.html",
+"剧情":"全部$空#喜剧$class/喜剧#古装$class/古装#悬疑$class/悬疑#恐怖$class/恐怖#战争$class/战争#年代$class/年代#穿越$class/穿越#青春$class/青春#乡村$class/乡村#偶像$class/偶像#家庭$class/家庭#犯罪$class/犯罪#动作$class/动作#奇幻$class/奇幻#剧情$class/剧情#历史$class/历史#经典$class/经典#情景$class/情景#商战$class/商战",
+"地区":"全部$空#大陆$area/大陆#香港$area/香港#中国台湾$area/中国台湾#美国$area/美国#韩国$area/韩国#日本$area/日本#法国$area/法国#英国$area/英国#德国$area/德国#泰国$area/泰国#印度$area/印度#其他$area/其他",
+"年代":"全部$空#2023$year/2023#2022$year/2022#2021$year/2021#2020$year/2020#2019$year/2019#2018$year/2018#2017$year/2017#2016$year/2016#2015$year/2015#2014$year/2014#2013$year/2013#2012$year/2012#2011$year/2011#2010$year/2010#2009$year/2009#2008$year/2008#2007$year/2007#2006$year/2006#2005$year/2005#2004$year/2004#2003$year/2003#2002$year/2002#2001$year/2001#2000$year/2000",
+"排序":"空"
+},
+{
+"分类名称":"动漫",
+"分类链接":"https://www.4kgod.com/index.php/vod/show/地区/id/3/page/翻页/年代.html",
+"类型":"全部$3",
+"地区":"全部$空#大陆$area/大陆#美国$area/美国#日本$area/日本",
+"年代":"全部$空#2023$year/2023#2022$year/2022#2021$year/2021#2020$year/2020#2019$year/2019#2018$year/2018#2017$year/2017#2016$year/2016#2015$year/2015#2014$year/2014#2013$year/2013#2012$year/2012#2011$year/2011#2010$year/2010#2009$year/2009#2008$year/2008#2007$year/2007#2006$year/2006#2005$year/2005#2004$year/2004#2003$year/2003#2002$year/2002#2001$year/2001#2000$year/2000",
+"排序":"空"
+},
+{
+"分类名称":"综艺",
+"分类链接":"https://www.4kgod.com/index.php/vod/show/剧情/id/4/page/翻页/年代.html",
+"剧情":"全部$空#真人秀$class/真人秀#脱口秀$class/脱口秀#选秀$class/选秀#情感$class/情感#访谈$class/访谈#美食$class/美食#旅游$class/旅游#财经$class/财经#军事$class/军事#小品$class/小品#记录$class/记录",
+"地区":"空",
+"年代":"全部$空#2023$year/2023#2022$year/2022#2021$year/2021#2020$year/2020#2019$year/2019#2018$year/2018#2017$year/2017#2016$year/2016#2015$year/2015#2014$year/2014#2013$year/2013#2012$year/2012#2011$year/2011#2010$year/2010#2009$year/2009#2008$year/2008#2007$year/2007#2006$year/2006#2005$year/2005#2004$year/2004#2003$year/2003#2002$year/2002#2001$year/2001#2000$year/2000",
+"排序":"空"
+}
+],
 "列表二次截取": "class=\"module-items$$id=\"page",
 "列表截取数组": "<a$$</a>",
 "列表图片前缀": "空",
