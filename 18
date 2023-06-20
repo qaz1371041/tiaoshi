@@ -1905,8 +1905,8 @@
 "播放剧集链接后缀": "空"},
 
 {"网站名字": "色最色",
-"网站地址": "https://sezuise.co/",// 地址发布页 https://helpfindgoodsite.com/
-"访问请求ua": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Mobile Safari/537.36",
+"网站地址": "https://色最色.com/",// 地址发布页 https://helpfindgoodsite.com/
+"访问请求ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36",
 //"访问请求ua": "User-Agent$Dart/2.14 (dart:io)#Referer$123",
 "访问请求cookie": "空",
 "访问请求referer": "空",
