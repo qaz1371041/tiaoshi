@@ -56,6 +56,7 @@
 {"name":"聚合影视","url":"http://xn--yeta099v.online:66/api.php/app/"},
 {"name":"力力影视","url":"http://124.222.175.111:89//api.php/app/"}, 
 {"name":"看看剧","url":"https://www.kankanju.cc/api.php/app/"},
+{"name":"UM影院","url":"https://www.umkan.cc/mogai_api.php/v1.vod"}, 
 {"name":"路人甲影视","url":"http://dytt996.com//api.php/app/"}, 
 {"name":"青豆","url":"http://goodluckzy.com/qingdoujiekou.php/v1.vod"},
 {"name": "萌蛋蛋","url": "http://app.mengdandan.com/xgapp.php/v1/"},
@@ -97,7 +98,6 @@
 {"name":"COKEMV影院","url":"https://cokemv.me/xgapp.php/v2/"}, 
 {"name":"188影视","url":"https://188kan.com/api.php/v1.vod"}, 
 {"name":"天天视频","url":"http://app.qianju.cc/api.php/v1.vod"},
-{"name":"无心影视网","url":"https://www.57movie.cn/api.php/app/"}, 
 {"name":"悟空影院","url":"http://dapi.pntao.com/api.php/v1.vod"}, 
 {"name":"玖卿乐播","url":"https://vod.nqcode.cn/api.php/v1.vod"},
 {"name":"如意4K","url":"http://cms.maoyingshi.cc/api.php/app/"},
@@ -107,7 +107,7 @@
 {"name":"东方视频","url":"https://www.dfspapp.com//api.php/app/"},
 {"name":"梨子视频","url":"http://lzys9.xyz/api.php/app/"}, 
 {"name":"69美剧","url":"https://www.69mj.com/xgapp.php/v1/"}, 
-{"name":"UM影院","url":"https://www.umkan.cc/mogai_api.php/v1.vod"}, 
+{"name":"无心影视网","url":"https://www.57movie.cn/mogai_api.php/v1.vod"}, 
 {"name":"4k鸭奈飞","url":"https://yanetflix.me/api.php/app/"}], 
 
 
