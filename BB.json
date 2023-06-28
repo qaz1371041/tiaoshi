@@ -174,6 +174,9 @@
 //主解析是JSON直链格式的解析
 "zhujiexi":[
  {"name":"主解1","url":"https://api.tyun77.cn/api.php/provide/parserUrl?url="},
+ {"name":"星辰云解析","url":"https://json.key521.cn/api/?key=df27d9ca9ec97e22c47f8565a50aa6f5&url="},
+{"name":"但行好事","type":1,"url":"http://jx.fuqizhishi.com:63/接口地址www.肥猫.love/肥猫专用.php?url="},
+{"name":"莫问前程","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url="},
  {"name":"8kvod","url":"http://api.8kvod.com:5566/api/?key=nD30Uc4sOUcyyuNpcP&url="},
  {"name":"肥猫官解","url":"https://vip.ckllk.com/API.php?appkey=404164cdd1472561b4c61f1845e0bff8&url="},
  {"name":"主1","url":"http://json.ovvo.pro/json.php?uid=4192979&key=acklmrxyzBHIJUW127&url="},
