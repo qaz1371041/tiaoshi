@@ -57,6 +57,7 @@
 {"name":"聚焦影视","url":"https://www.mjlnl.cn/api.php/v1.vod"},
 {"name":"532影院","url":"https://532kan.com/api.php/app/"}, 
 {"name":"大豆高清","url":"https://www.dadou.cm/api.php/app/"},//永久网址  https://www.rebo.cm/ 
+{"name":"宝片视频","url":"https://zpsps.com/api.php/app/"}, 
 {"name":" 鸭奈飞影视","url":"https://www.netfly.tv/api.php/app/"}, 
 {"name":"聚合影视","url":"http://xn--yeta099v.online:66/api.php/app/"},
 {"name":"力力影视","url":"http://124.222.175.111:89//api.php/app/"}, 
@@ -197,6 +198,7 @@
 {"name":"8k","url":"http://mz_llq.8kvod.com/player/?url="},
 {"name":"1","url":"https://jx.777jiexi.com/player/?url="},
 {"name":"虾米解析","url":"https://jx.xmflv.com/?url="}, 
+{"name":"宝片","url":"https://zpsps.com/yema/?url="}, 
 {"name":"综合/B站","url":"https://jx.jsonplayer.com/player/?url="},
 {"name":"备解2", "url": "https://jx.xmflv.com/?url="},
 {"name":"备解3","url":"https://jx.iztyy.com/svip/?url="},
