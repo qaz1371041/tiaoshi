@@ -74,6 +74,7 @@
 {"name":"楚水影视","url":"http://www.zg2088.cn//mogai_api.php/v1.vod"}, 
 {"name":"旧梦影视","url":"http://43.139.139.17:4433/api.php/app/"},
 {"name":"大野猫影视","url":"https://yunduan.77fk.icu/api.php/v1.vod"},
+{"name":"全民影视","url":"https://www.qmystv.com/api.php/v1.vod"}, 
 {"name":"小九影视","url":"https://xiaojiu.ink/api.php/v1.vod"}, 
 {"name":"布衣影院","url":"https://byyy5.com/api.php/app/"}, 
 {"name":"兔兔","url":"http://m.tutuys.tv/api.php/app/"}, 
@@ -108,7 +109,7 @@
 {"name":"真爱影视","url":"https://www.chiguafilm.com/api.php/v1.vod"}, 
 {"name":"创艺","url":"http://www.30dian.cn/api.php/v1.vod"},
 {"name":"鼎点影库","url":"http://ddys.mengtuwl.cn/mogai_api.php/v1.vod"}, 
-{"name":"光年TV","url":"https://www.gntv.live/api.php/v1.vod"},
+{"name":"小小米","url":"http://xn--yeta099v.online:66/api.php/app/"},
 {"name":"COKEMV影院","url":"https://cokemv.me/xgapp.php/v2/"}, 
 {"name":"188影视","url":"https://188kan.com/api.php/v1.vod"}, 
 {"name":"天天视频","url":"http://app.qianju.cc/api.php/v1.vod"},
@@ -185,6 +186,8 @@
  {"name":"星辰云解析","url":"https://json.key521.cn/api/?key=df27d9ca9ec97e22c47f8565a50aa6f5&url="},
 {"name":"但行好事","type":1,"url":"http://jx.fuqizhishi.com:63/接口地址www.肥猫.love/肥猫专用.php?url="},
 {"name":"莫问前程","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url="},
+ {"name":"1","url":"https://jx.255tv.tk/api/?key=S6kQHaE1gVEY5KAv8L&url="},//
+{"name":"2","url":"https://vip.mosangkeji.com/api/?key=rRNvXAnOghBBLnC35c&url="},//
  {"name":"8kvod","url":"http://api.8kvod.com:5566/api/?key=nD30Uc4sOUcyyuNpcP&url="},
  {"name":"肥猫官解","url":"https://vip.ckllk.com/API.php?appkey=404164cdd1472561b4c61f1845e0bff8&url="},
  {"name":"主1","url":"http://json.ovvo.pro/json.php?uid=4192979&key=acklmrxyzBHIJUW127&url="},
@@ -208,7 +211,7 @@
 {"name":"66解析","url":"https://www.mdy66.net/mf/analysis.php?v="},
 {"name":"爱酷解析","url":"https://jx.zhanlangbu.com/?url="},
 {"name":"8k","url":"http://mz_llq.8kvod.com/player/?url="},
-
+{"name":"无心","url":"https://jx.57movie.cn/player/analysis.php?v="},
  {"name":"夜幕","url":"https://www.yemu.xyz/?url="},
 ],
 
@@ -5720,8 +5723,31 @@
 "列表显示": "0",
 "横图显示": "0",
 "列表起始页": "1",
-"列表分类": "全部$/av.php?id=-1&page#国产$/av.php?id=8&page#主播$/av.php?id=10&page#日韩$/av.php?id=13&page#动漫$/av.php?id=14&page#明星$/av.php?id=9&page#欧美$/av.php?id=7&page#素人$/av.php?id=6&page#伦理$/av.php?id=5&page#日韩$/av.php?id=13&page#主播$/av.php?id=10&page#国产$/av.php?id=8&page#巨乳美乳$/3.php?id=30&page#日本有码$/3.php?id=22&page#中文字幕$/3.php?id=23&page#国产情色$/3.php?id=20&page#欧美极品$/3.php?id=24&page#动漫精品$/3.php?id=26&page#国产主播$/3.php?id=29&page#日本无码$/3.php?id=21&page#精品推荐$/3.php?id=37&page#制服诱惑$/3.php?id=31&page#熟女人妻$/3.php?id=33&page#三级伦理$/3.php?id=34&page#精品推荐$/66.php?id=1&page#欧美精品$/66.php?id=10&page#主播直播$/66.php?id=3&page#国产视频$/66.php?id=2&page#日本有码$/66.php?id=5&page#熟女人妻$/66.php?id=8&page#中文字幕$/66.php?id=6&page#日本无码$/66.php?id=4&page#巨乳美乳$/66.php?id=7&page#剧情NTR$/66.php?id=9&page#美少女$/66.php?id=11&page#成人动漫$/66.php?id=13&page",
+"列表分类": "全部$/3.php?id=30&wd=#国产$/3.php?id=23&wd=&page=#主播$/av.php?id=10&page#",
 "列表后缀": "",
+"筛选列表模式": "1",
+"筛选列表": [
+{
+"分类名称": "二区",
+"第一页分类链接": "空",
+"分类链接": "https://60510.xyz/3.php?id=类型&wd=&page=翻页",
+"类型": "全部$空#巨乳美乳$30#日本有码$22#中文字幕$23#国产情色$20#欧美极品$24#动漫精品$26#国产主播$29#日本无码$21#精品推荐$37#制服诱惑$31#熟女人妻$33#三级伦理$34",
+"剧情": "空",
+"地区": "空",
+"年代": "空",
+"排序": "空"
+},
+{
+"分类名称": "三区",
+"第一页分类链接": "空",
+"分类链接": "https://60510.xyz/66.php?id=类型&page=翻页",
+"类型": "全部$空#精品推荐$1#欧美精品$10#主播直播$3#国产视频$2#日本有码$5#熟女人妻$8#中文字幕$6#日本无码$4#巨乳美乳$7#剧情NTR$9#美少女$11#成人动漫$13",
+"剧情": "空",
+"地区": "空",
+"年代": "空",
+"排序": "空"
+}
+],
 "列表二次截取": "空",
 "列表截取数组": "class=\"obxobxpd_md\"$$</a>",
 "列表图片前缀": "空",
