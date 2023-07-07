@@ -8466,6 +8466,80 @@
 "是否url解码": "0",
 "官源是否走解析": "0",
 "播放页跳转看图": "0"},
- 
+
+ {"网站名字": "武享吧",
+"网站地址": "https://www.hula8.net",
+"访问请求ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
+"访问请求cookie": "空",
+"访问请求referer": "Referer$https://www.hula8.net/",
+"播放请求头": "User-Agent$123",
+"图片请求头": "空",
+"网页编码": "utf-8",
+"集数倒序": "0",
+"禁用搜索": "0",
+"搜索手动验证": "0",
+"是否启用解析模式": "0",
+"自动点击字符": "空",
+"启用js加载源码":"0",
+"js加载源码时间":"5",
+"嗅探词": "m3u8?#.m3u8#.mp4#.flv#.mp3#.m4a",
+"过滤词": "51.la#cnzz.com#baidu.com#bilibili.com",
+"是否记录历史": "0",
+"直接播放": "1",
+"列表显示": "0",
+"横图显示": "0",
+"列表起始页": "1",
+"列表分类": "电影$/ufc-fighting-championship.html/page/#电视剧$/boji/page/#综艺$/vodshow/id/zongyi/page/#动漫$/vodshow/id/dongman/page/",
+"列表后缀": "",
+"筛选列表模式": "1",
+"筛选列表": [
+{
+"分类名称": "MMA赛事",
+"第一页分类链接": "空",
+"分类链接": "https://www.hula8.net/类型.html/page/翻页/",
+"类型": "UFC终极格斗赛$ufc-fighting-championship#UFC格斗之夜$ufc-fight-night#Bellator格斗赛$bellator-fighting-championship#PFL格斗赛$professional-fighters-league#LFA格斗赛$legacy-fighting-alliancelfa#KSW波兰格斗赛$konfrontacja-sztuk-walki#Eagle小鹰赛事$eagle-fighting-championship#俄罗斯ACA赛事$absolute-championship-akhmat",
+"剧情": "空",
+"地区": "空",
+"年代": "空",
+"排序": "空"
+},
+{
+"分类名称": "亚洲格斗赛",
+"第一页分类链接": "空",
+"分类链接": "https://www.hula8.net/类型/page/翻页/",
+"类型": "ONE冠军赛$one-fc#JCK战觉城$jck.html#武林笼中对$wllzd",
+"排序": "空"
+},
+{
+"分类名称": "站立搏击",
+"第一页分类链接": "空",
+"分类链接": "https://www.hula8.net/类型/page/翻页/",
+"类型": "K-1 JAPAN GROUP$k-1.html#K-1旗下Krush赛事$krush.html#RISE踢拳赛$rise.html#武林风 -WLF$wlf2004.html#昆仑决 -KLJ$kunlunjue#荣耀格斗赛$glory.html#泰之战$thai-fight-king-of-muay-thai.html",
+"排序": "空"
+},
+{
+"分类名称": "拳击",
+"第一页分类链接": "空",
+"分类链接": "https://www.hula8.net/类型.html/page/翻页/",
+"类型": "DAZN Boxing$dazn-boxing#PBC Boxing$pbc-boxing#Top Rank Boxing$top-rank-boxing#Matchroom Boxing$dazn-matchroom-boxing",
+"排序": "空"
+},
+{
+"分类名称": "裸拳赛",
+"第一页分类链接": "空",
+"分类链接": "https://www.hula8.net/类型.html/page/翻页/",
+"类型": "裸拳格斗赛BKFC$bare-knuckle-fighting-championship#裸拳Hardcore FC$hardcore-fighting-championship#裸拳TOP DOG FC$top-dog-fighting-championship#",
+"排序": "空"
+}
+],
+"列表二次截取": "空",
+"列表截取数组": "class=\"load$$</span>",
+"列表图片前缀": "空",
+"列表图片": "data-original=\"$$\"",
+"列表标题": "alt=\"$$\"",
+"列表副标题": "class=\"pic-text text-right\">$$</span>",
+"列表链接": "href=\"$$\"",
+"列表链接前缀": "空",
+"列表链接后缀": "空"},
 ]
 }
