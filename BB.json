@@ -178,6 +178,7 @@
 //主解析是JSON直链格式的解析
 "zhujiexi":[
  {"name":"主解1","url":"https://api.tyun77.cn/api.php/provide/parserUrl?url="},
+ {"name":"飞云","url":"http://htp.behds.cn/json/20233234567/fy4k2.php?url="},
  {"name":"巧技解析","url":"http://pandown.pro/app/kkdy.php?url="},
 {"name":"但行好事","type":1,"url":"http://jx.fuqizhishi.com:63/接口地址www.肥猫.love/肥猫专用.php?url="},
 {"name":"莫问前程","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url="},
