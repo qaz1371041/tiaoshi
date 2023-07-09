@@ -38,7 +38,6 @@
 "pic": "https://www.2008php.com/2014_Website_appreciate/2014-09-25/201409250021297MPq87MPq8.jpg",
 "custom": "eyJuYW1lIjogIkRK6Z+z5LmQIiwKInVybCI6ICJodHRwOi8vd3d3LmRqdXUuY29tIiwKIlVzZXIiOiAi56m6IiwKIuebtOaOpeaSreaUviI6ICIxIiwKIuWIl+ihqOaYvuekuiI6ICIwIiwKImZlbmxlaSI6ICLng63mkq0kL3NlYXJjaD9tdXNpY25hbWU954Ot5pKtJmxpc3Q9MiZjaWQ9MCZwYWdlPSPmipbpn7Png63pl6gkL3NlYXJjaD9tdXNpY25hbWU9JUU2JThBJTk2JUU5JTlGJUIzJmxpc3Q9MiZjaWQ9MCZwYWdlPSPnu4/lhbjml4vlvoskL3NlYXJjaD9tdXNpY25hbWU957uP5YW45peL5b6LJmxpc3Q9MiZjaWQ9MCZwYWdlPSPov6rpq5jkuLLng6ckL2RqbGlzdC8xXyPllorpuqbkuLLng6ckL2RqbGlzdC8xMl8j5Lit5paH5Liy54OnJC9kamxpc3QvMTNfI+WkluivreS4sueDpyQvZGpsaXN0LzE0XyPkuK3oi7HkuLLng6ckL2RqbGlzdC85Nl8j5oWi5pGH5Liy54OnJC9kamxpc3QvMl8j5ZaK6bqm5Liy54OnJC9kamxpc3QvMTVfI0VsZWN0cm8kL2RqbGlzdC8yMl8jUHJvZ0hvdXNlJC9kamxpc3QvMjZfI0Z1bmt5SG91c2UkL2RqbGlzdC85OV8j5ZaK6bqm5pu05aSaJC9kamxpc3QvMjdfI+aFouaRh+S4reaWh+S4sueDpyQvZGpsaXN0LzE2XyPmhaLmrYzkuLLng6ckL2RqbGlzdC8zXyPkuK3mlodSZW1peCQvZGpsaXN0LzRfI+WkluaWh1JlbWl4JC9kamxpc3QvNV8j6LaK5Y2X6byTJC9kamxpc3QvNl8j6YWS5ZCn6aOO5qC8JC9kamxpc3QvN18jTWFzaHVwJC9kamxpc3QvOF8j5Lit5paHRElTQ08kL2RqbGlzdC85XyPlpJbmlodESVNDTyQvZGpsaXN0LzEwXyPkuqTosIroiJ7mm7IkL2RqbGlzdC8xMV8iLAoiaG91emh1aSI6ICIuaHRtbCIsCiJxaXNoaXllIjogIjEiLAoic2hpZm91ZXJjaWppZXF1IjogIjAiLAoiamllcXVxaWFuIjogIuepuiIsCiJqaWVxdWhvdSI6ICLnqboiLAoiamllcXVzaHV6dXFpYW4iOiAiY2xhc3M9XCJpc2dvb2RfbGlzdFwiPiIsCiJqaWVxdXNodXp1aG91IjogIjwvdGQ+IiwKInR1cGlhbnFpYW4iOiAiaW1nIHNyYz1cIiIsCiJ0dXBpYW5ob3UiOiAiXCIiLAoidHVwaWFucWlhbnpodWkiOiAiaHR0cDoiLAoiZnViaWFvdGlxaWFuIjogImNsYXNzPVwic2NfMVwiPlRJTUUiLAoiZnViaWFvdGlob3UiOiAiPC9zcGFuPiIsCiJsaWFuamllcWlhbiI6ICJocmVmPVwiIiwKImxpYW5qaWVob3UiOiAiXCIiLAoibGpxaWFuemh1aSI6ICLnqboiLAoiYmlhb3RpcWlhbiI6ICJ0aXRsZT1cIiIsCiJiaWFvdGlob3UiOiAiXCIifQ=="} 
 ],
-
 "去广告规则":[
 {"名字":"LZ",
 "寻找词":"vip.lz#hd.lz",
@@ -52,7 +51,6 @@
 "正则规则":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY"]
 }
 ],
- 
 //{"name":"填接口名称","url":"http://xxx/api.php/v1.vod"},
 //{"name":"填接口名称","url":"https://xxx/xgapp.php/v1/"},
 //{"name":"填接口名称","url":"http://xxx/api.php/app/"},
@@ -78,6 +76,7 @@
 {"name":"大豆高清","url":"https://www.dadou.cm/api.php/app/"},//永久网址  https://www.rebo.cm/ 
 {"name":"宝片视频","url":"https://zpsps.com/api.php/app/"}, 
 {"name":"EMO蓝光","url":"http://154.31.2.112:8868/mogai_api.php/v1.vod"}, 
+{"name":"蘑菇影视","url":"https://www.movie4k.pro/api.php/app/"},//https://www.movie4k.pro/label/web.html 
 {"name":" 鸭奈飞影视","url":"https://www.netfly.tv/api.php/app/"}, 
 {"name":"聚合影视","url":"http://xn--yeta099v.online:66/api.php/app/"},
 {"name":"力力影视","url":"http://124.222.175.111:89//api.php/app/"}, 
@@ -129,7 +128,7 @@
 {"name":"天天视频","url":"http://app.qianju.cc/api.php/v1.vod"},
 {"name":"悟空影院","url":"http://dapi.pntao.com/api.php/v1.vod"}, 
 {"name":"如意4K","url":"http://cms.maoyingshi.cc/api.php/app/"},
-{"name":"爱迪影视","url":"https://aidi.tv/xgapp.php/v1/"},
+{"name":"爱迪影视","url":"https://api123.adys.app/xgapp.php/v2/"},
 {"name":"君离免费影视","url":"http://jlys6.top/mogai_api.php/v1.vod"},
 {"name":"盈联影视","url":"http://tt.uutv.cc/api.php/app/"}, 
 {"name":"梨子视频","url":"http://lzys9.xyz/api.php/app/"}, 
@@ -195,6 +194,8 @@
 
 //主解析是JSON直链格式的解析
 "zhujiexi":[
+ {"name":"主解1","url":"https://api.tyun77.cn/api.php/provide/parserUrl?url="},
+ {"name":"车哥","url":"https://xjx.tvcms.top/api/?key=ca6ca13c1e6e866f350f4b744441541d&url="},
  {"name":"主解1","url":"https://api.tyun77.cn/api.php/provide/parserUrl?url="},
  {"name":"车哥","url":"https://xjx.tvcms.top/api/?key=ca6ca13c1e6e866f350f4b744441541d&url="},
  {"name":"飞云","url":"http://htp.behds.cn/json/20233234567/fy4k2.php?url="},
