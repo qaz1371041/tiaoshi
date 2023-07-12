@@ -1825,7 +1825,44 @@
 "播放页跳转看图": "0"},
 
 {"网站名字": "天天综合直播",
-"网站地址": "https://sezb.top/", //660sav.com
+"网站地址": "https://apixj.com", //660sav.com
+"访问请求ua": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Mobile Safari/537.36",
+"访问请求cookie": "空",
+"访问请求referer": "referer$https://4kkxx.vip/",
+"播放请求头": "User-Agent$123",
+"图片请求头": "空",
+"网页编码": "utf-8",
+"集数倒序": "0",
+"禁用搜索": "0",
+"搜索手动验证": "0",
+"是否启用解析模式": "0",
+"自动点击字符": "空",
+"启用js加载源码":"0",
+"js加载源码时间":"15",
+"嗅探词": "m3u8?#.m3u8#.mp4#.flv#.mp3#.m4a",
+"过滤词": "51.la#cnzz.com#baidu.com#bilibili.com",
+"是否记录历史": "0",
+"直接播放": "1",
+"列表显示": "0",
+"横图显示": "0",
+"列表起始页": "1",
+"列表分类": "亚洲直播$/?xx=yzzb-so-gwzb.html#欧美直播$/?xx=yzzb-so-omzb.html#卡哇伊直播$/?xx=jyav-so-kwy.html#蜜桃直播$/?xx=jyav-so-mt.html#小妲己直播$/?xx=jyav-so-xdj.html#LOVE直播$/?xx=jyav-so-love.html#77直播$/?xx=jyav-so-qq.html#依依直播$/?xx=jyav-so-yy.html#久久直播$/?xx=jyav-so-ym.html#亚米直播$/?xx=jyav-so-ym.html#蝶恋直播$/?xx=jyav-so-ld.html#夜妖姬直播$/?xx=jyav-so-yyj.html#套路直播$/?xx=jyav-so-yh.html#樱花直播$/?xx=jyav-so-yh.html#享色直播$/?xx=jyav-so-xs.html#红浪漫直播$/?xx=jyav-so-hlm.html#金鱼直播$/?xx=jyav-so-jy.html#桃花直播$/?xx=jyav-so-th.html#花房直播$/?xx=jyav-so-hf.html#视觉秀直播$/?xx=jyav-so-sjx.html#小天使直播$/?xx=jyav-so-xts.html#咪咪直播$/?xx=jyav-so-mm.html#黄瓜直播$/?xx=jyav-so-hg.html#色趣直播$/?xx=jyav-so-sq.html#糯米直播$/?xx=jyav-so-nm.html#小蜜蜂直播$/?xx=jyav-so-xmf.html#桃花运直播$/?xx=jyav-so-thy.html#苦瓜直播$/?xx=jyav-so-kg.html#樱花雨直播$/?xx=jyav-so-yh.html#盘他直播$/?xx=jyav-so-pt.html#夜色直播$/?xx=jyav-so-ys.html#小天仙直播$/?xx=jyav-so-xtx.html#杏趣直播$/?xx=jyav-so-xq.html#小坏蛋直播$/?xx=jyav-so-xhd.html#飘雪直播$/?xx=jyav-so-px.html#樱桃直播$/?xx=jyav-so-yt.html#奥斯卡直播$/?xx=jyav-so-ask.html#花仙子直播$/?xx=jyav-so-hxz.html#小X感直播$/?xx=jyav-so-xxg.html",
+"列表后缀": "",
+//提示：类型剧情地区年代排序可以自由选择是否显示，注意和分类链接要联动，不显示的分类链接就去掉那个分类的动态词
+//0:否，1：是
+"列表二次截取": "空",
+"列表截取数组": "class=\"item \"><a$$</a>",
+"列表图片前缀": "空",
+"列表图片": "original=\"$$\"",
+"列表标题": "title=\"$$\"",
+"列表副标题": "class=\"duration\">$$</div>",
+"列表链接": "href=\"$$\"",
+"列表链接前缀": "空",
+"列表链接后缀": "空"},
+
+
+{"网站名字": "天天综合直播",
+"网站地址": "https://sezb.xyz/", //660sav.com
 "访问请求ua": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Mobile Safari/537.36",
 "访问请求cookie": "空",
 "访问请求referer": "空",
