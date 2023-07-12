@@ -58,6 +58,7 @@
 //{"name":"填接口名称","url":"http://xxx/mogai_api.php/v1.vod"},
 //填写APP接口，支持以下5种接口格式。
 "zhuyejiekou": [
+{"name":"飞速影视","url":"http://ytcms.lfytyl.com/api.php/app/"},
 {"name":"酷影4K","url":"http://ys.realdou.cn/api.php/app/"},  
 {"name":"影探4k","url":"http://big.lfytyl.com/api.php/app/"},
 {"name":"优世界4K","url":"https://dpg.laoxie.icu/api.php/app/"},
@@ -196,11 +197,12 @@
 //主解析是JSON直链格式的解析
 "zhujiexi":[
  {"name":"主解1","url":"https://api.tyun77.cn/api.php/provide/parserUrl?url="},
+ {"name":"巧技解析","url":"http://pandown.pro/app/kkdy.php?url="},
  {"name":"车哥","url":"https://xjx.tvcms.top/api/?key=ca6ca13c1e6e866f350f4b744441541d&url="},
  {"name":"主解1","url":"https://api.tyun77.cn/api.php/provide/parserUrl?url="},
  {"name":"车哥","url":"https://xjx.tvcms.top/api/?key=ca6ca13c1e6e866f350f4b744441541d&url="},
  {"name":"飞云","url":"http://htp.behds.cn/json/20233234567/fy4k2.php?url="},
- {"name":"巧技解析","url":"http://pandown.pro/app/kkdy.php?url="},
+ 
 {"name":"但行好事","type":1,"url":"http://jx.fuqizhishi.com:63/接口地址www.肥猫.love/肥猫专用.php?url="},
 {"name":"莫问前程","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url="},
  {"name":"1","url":"https://jx.255tv.tk/api/?key=S6kQHaE1gVEY5KAv8L&url="},//
