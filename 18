@@ -1146,10 +1146,10 @@
 "搜索链接后缀": "空"},
 
 {"网站名字": "p资源",
-"网站地址": "https://60253.xyz/",
-"访问请求ua": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Mobile Safari/537.36",
+"网站地址": "https://612351.xyz/",
+"访问请求ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36",
 "访问请求cookie": "空",
-"访问请求referer": "空",
+"访问请求referer": "referer$https://612351.xyz/",
 "播放请求头": "User-Agent$123",
 "图片请求头": "空",
 "网页编码": "utf-8",
