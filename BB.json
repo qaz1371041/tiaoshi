@@ -215,8 +215,8 @@
  {"name":"1","url":"https://jx.255tv.tk/api/?key=S6kQHaE1gVEY5KAv8L&url="},//
  {"name":"主1","url":"http://json.ovvo.pro/json.php?uid=4192979&key=acklmrxyzBHIJUW127&url="},
  {"name":"巧技解析","url":"http://27.124.4.42:4567/jhjson/ceshi.php?url="},
- {"name":"主1","url":"http://47.119.122.235:5566/json/free.php?url="},
-],
+ {"name":"主1","url":"http://47.119.122.235:5566/json/free.php?url="}],
+
 
 //备用解析是常规格式的解析
 "beiyongjiexi":[
@@ -242,8 +242,8 @@
 {"name":"爱酷解析","url":"https://jx.zhanlangbu.com/?url="},
 {"name":"8k","url":"http://mz_llq.8kvod.com/player/?url="},
 {"name":"无心","url":"https://jx.57movie.cn/player/analysis.php?v="},
- {"name":"夜幕","url":"https://www.yemu.xyz/?url="},
-],
+ {"name":"夜幕","url":"https://www.yemu.xyz/?url="}],
+
 
 
 //填写电视直播的接口链接
