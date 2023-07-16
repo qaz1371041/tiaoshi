@@ -198,9 +198,9 @@
 
 //主解析是JSON直链格式的解析
 "zhujiexi":[
- {
-"name":"小艺",
-"url":"https://xjx.tvcms.top/api/?key=86e9e99ae4e23391b0531a2489f57273&url=",
+{
+"name":"解析1",
+"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url=",
 "ua":"空"//User-Agent$okhttp/3.12.0#referer$123
 },
  {"name":"主解1","url":"http://27.124.4.42:4567/jhjson/ceshi.php?url="},
