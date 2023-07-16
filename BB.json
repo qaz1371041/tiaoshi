@@ -198,6 +198,7 @@
 
 //主解析是JSON直链格式的解析
 "zhujiexi":[
+ {"name":"主解1","url":"http://27.124.4.42:4567/jhjson/ceshi.php?url="},
  {"name":"主解1","url":"https://api.tyun77.cn/api.php/provide/parserUrl?url="},
  {"name":"巧技解析","url":"http://pandown.pro/app/kkdy.php?url="},
  {"name":"车哥","url":"https://xjx.tvcms.top/api/?key=ca6ca13c1e6e866f350f4b744441541d&url="},
