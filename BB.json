@@ -205,7 +205,11 @@
  {"name":"主解1","url":"https://api.tyun77.cn/api.php/provide/parserUrl?url="},
  {"name":"车哥","url":"https://xjx.tvcms.top/api/?key=ca6ca13c1e6e866f350f4b744441541d&url="},
  {"name":"飞云","url":"http://htp.behds.cn/json/20233234567/fy4k2.php?url="},
- 
+ {
+"name":"小艺",
+"url":"https://xjx.tvcms.top/api/?key=86e9e99ae4e23391b0531a2489f57273&url=",
+"ua":"空"//User-Agent$okhttp/3.12.0#referer$123
+},
 {"name":"但行好事","type":1,"url":"http://jx.fuqizhishi.com:63/接口地址www.肥猫.love/肥猫专用.php?url="},
 {"name":"莫问前程","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url="},
  {"name":"1","url":"https://jx.255tv.tk/api/?key=S6kQHaE1gVEY5KAv8L&url="},//
@@ -216,6 +220,11 @@
 
 //备用解析是常规格式的解析
 "beiyongjiexi":[
+ {
+"name":"解析1",
+"url":"https://jx.jsonplayer.com/player/?url=",
+"ua":"空"//User-Agent$okhttp/3.12.0#referer$123
+},
 {"name":"8k","url":"http://mz_llq.8kvod.com/player/?url="},
 {"name":"1","url":"https://jx.777jiexi.com/player/?url="},
 {"name":"虾米解析","url":"https://jx.xmflv.com/?url="}, 
