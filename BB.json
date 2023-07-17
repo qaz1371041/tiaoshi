@@ -46,6 +46,14 @@
                 "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
             ]
 },
+
+{"名字":"星星",
+"寻找词":"aws.ulivetv.net",
+"正则规则": [
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:9,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+            ]
+}, 
 {"名字":"FF",
 "寻找词":"vip.ffzy#hd.ffzy",
 "正则规则":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY"]
