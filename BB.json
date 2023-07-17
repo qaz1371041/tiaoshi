@@ -76,6 +76,7 @@
 {"name":"4k鸭奈飞","url":"https://yanaifei.tv/api.php/app/"},
 {"name":"COKEMV影院","url":"https://cokemv.co/xgapp.php/v1/"}, //地址发布页http://cokemv.net/ 
 {"name":"曲奇影视","url":"https://1234567.weixiaolove.cn/api.php/app/"},
+{"name":"光影猫","url":"http://gymcms.xn--654a.cc/api.php/app/"}, 
 {"name":"往往影视","url":"https://www.oftens.top/api.php/app/"},
 {"name":"慢大浪","url":"https://www.mdlys.vip/api.php/v1.vod"}, //https://www.mdlys.vip/mogai_api.php/v1.vod
 {"name":"小乐影院","url":"http://www.kuloo.xyz/mogai_api.php/v1.vod"}, 
@@ -212,7 +213,7 @@
 "url":"https://jx.jsonplayer.com/player/?url=",
 "ua":"空"//User-Agent$okhttp/3.12.0#referer$123
 },
-{"name":"8k","url":"http://mz_llq.8kvod.com/player/?url="},
+{"name":"光影猫","url":"https://tihuan.xn--654a.cc/2/?url="},
 {"name":"1","url":"https://jx.777jiexi.com/player/?url="},
 {"name":"虾米解析","url":"https://jx.xmflv.com/?url="}, 
 {"name":"宝片","url":"https://zpsps.com/yema/?url="}, 
