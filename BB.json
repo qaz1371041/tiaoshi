@@ -67,7 +67,8 @@
 {"name":"霹雳影视","url":"https://plyy.cc/api.php/v1.vod"},//https://plyingshi.com/
 {"name":"4k鸭奈飞","url":"https://yanaifei.tv/api.php/app/"},
 {"name":"曲奇影视","url":"https://1234567.weixiaolove.cn/api.php/app/"},
-{"name":"往往影视","url":"https://www.oftens.top/api.php/app/"}, 
+{"name":"往往影视","url":"https://www.oftens.top/api.php/app/"},
+{"name":"慢大浪","url":"https://www.mdlys.vip/api.php/v1.vod"}, //https://www.mdlys.vip/mogai_api.php/v1.vod
 {"name":"小乐影院","url":"http://www.kuloo.xyz/mogai_api.php/v1.vod"}, 
 {"name":"优视界","url":"https://lg.tvcms.top/api.php/app/"}, 
 {"name":"明帝影视","url":"https://ys.md214.cn/api.php/app/"}, 
@@ -101,7 +102,7 @@
 {"name":"木白影视","url":"https://www.chiguafilm.com/api.php/v1.vod"}, 
 {"name":"阿里","url":"http://aliys.cn:91/api.php/v1.vod"},
 {"name":"看剧吧","url":"http://app.ishen520.com/api.php/v1.vod"}, 
-{"name":"COKEMV影院","url":"https://cokemv.me/xgapp.php/v2/"}, 
+{"name":"COKEMV影院","url":"https://cokemv.co/xgapp.php/v1/"}, 
 {"name":"宝仙HD","url":"https://webdillo.com/api.php/app/"}, 
 {"name":"何以影视","url":"http://www.heyik.cn/api.php/app/"},//https://www.heyiys.cn/index.html
 {"name":"零刻影院","url":"https://ys.51bro.cn/mogai_api.php/v1.vod"}, 
