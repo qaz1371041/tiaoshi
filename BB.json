@@ -142,8 +142,9 @@
 
 //填写采集接口
 "caijizhan": [
-{"name":"七七","url":"http://api.tyun77.cn/api.php"},
 {"name":"7喜影院(😍)","url":"https://7xi.tv/api.php/"},
+{"name":"七七","url":"http://api.tyun77.cn/api.php"},
+{"name":"官源","url":"https://www.zycaiji.net:7788/api.php"}, 
 {"name":"时光TV","url":"https://ys.timebk.cn/api.php/"}, 
 {"name":"哔嘀电影","url":"https://www.bddyy.cn/api.php/"}, 
 {"name":"量子资源","url":"https://cj.lziapi.com/api.php/"}, 
