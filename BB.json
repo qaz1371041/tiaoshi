@@ -59,9 +59,7 @@
 //填写APP接口，支持以下5种接口格式。
 "zhuyejiekou": [
 {"name":"飞速影视","url":"http://ytcms.lfytyl.com/api.php/app/"},
-{"name":"酷影4K","url":"http://ys.realdou.cn/api.php/app/"},  
 {"name":"影探4k","url":"http://big.lfytyl.com/api.php/app/"},
-{"name":"车姐4K","url":"http://ys.realdou.cn/api.php/app/"},  
 {"name":"影视之家","url":"http://yszj.cm/xgapp.php/v2/"}, 
 {"name":"F7好看剧","url":"https://www.f7hkj.com/api.php/app/"}, 
 {"name":"555","url":"https://www.xawqxh.net/api.php/app/"},
@@ -105,12 +103,11 @@
 {"name":"何以影视","url":"http://www.heyik.cn/api.php/app/"},//https://www.heyiys.cn/index.html
 {"name":"零刻影院","url":"https://ys.51bro.cn/mogai_api.php/v1.vod"}, 
 {"name":"酷乐影视","url":"http://www.cotv.cc/api.php/v1.vod"}, 
-{"name":"鑫影视","url":"http://124.70.105.197/api.php/app/"}, 
 {"name":"无限影视网","url":"https://www.wxtv.net/api.php/app/"}, 
 {"name":"TV酷影视","url":"https://www.tvkuys.xyz/api.php/app/"},
 {"name":"映迷","url":"https://www.inmi.app/xgapp.php/v1/"},
 {"name":"天天美剧网","url":"https://www.ttmja.com/api.php/app/"},
-{"name":"大米星球","url":"http://web.hosts-dami.com/api.php/app/"},//地址发布 https://dmxq.net/
+{"name":"大米星球","url":"https://dmxq5x.com/api.php/app/"},//地址发布 https://dmxq.net/
 {"name":"迷你库","url":"http://www.miniku.cc/xgapp.php/v1/"},
 {"name":"HG影视","url":"https://hong.hgyx.vip/api.php/v1.vod"},//永久域名发布页：www.hgyx.vip
 {"name":"先知影视","url":"http://www.pingtouge.top/mogai_api.php/v1.vod"},
@@ -145,21 +142,16 @@
 {"name":"7喜影院(😍)","url":"https://7xi.tv/api.php/"},
 {"name":"七七","url":"http://api.tyun77.cn/api.php"},
 {"name":"官源","url":"https://www.zycaiji.net:7788/api.php"}, 
-{"name":"时光TV","url":"https://ys.timebk.cn/api.php/"}, 
-{"name":"哔嘀电影","url":"https://www.bddyy.cn/api.php/"}, 
+{"name":"时光TV","url":"https://ys.timebk.cn/api.php/"},  
 {"name":"量子资源","url":"https://cj.lziapi.com/api.php/"}, 
-{"name":"猫咪官源","url":"http://zy.xiaomaomi.vip/api.php"}, 
-{"name":"暴风资源","url":"https://bfzyapi.com/api.php/"},
 {"name":"星空追剧","url":"https://www.wuxianyou2.top/api.php/"},
 {"name":"8090影视","url":"http://47.97.248.238:8090/api.php/"}, 
 {"name":"龙腾资源","url":"http://175.178.7.35:2020/api.php"},
 {"name":"遇见影视","url":"https://yjtv.top/api.php/"}, 
 {"name":"端木视频","url":"http://dmsvip1.top/api.php/"}, 
 {"name":"速映影院","url":"https://www.suying.lol//api.php/"}, 
-{"name":"小猫咪","url":"http://zy.xiaomaomi.vip/api.php/"},
 {"name":"快看","url":"https://kuaikan-api.com/api.php/"}, 
 {"name":"大漠资源","url":"https://www.damozy.com/api.php/"}, 
-{"name":"西瓜影视","url":"https://www.xiguazx.com/api.php/"},
 {"name":"苹果CMS","url":"https://lnktable.org/api.php/"}, 
 {"name":"985影视","url":"https://985pc.com/api.php/"}, 
 {"name":"星空追剧","url":"https://www.wuxianyou2.top/api.php/"}, 
@@ -167,43 +159,28 @@
 {"name":"土豪影视","url":"https://www.tuhao.tv/api.php/"},
 {"name":"非凡资源","url":"http://www.ffzy.tv/api.php"}, 
 {"name":"2号币(神马)","url":"http://phoebe.cf/api.php/iptv/vod/"},
-{"name":"大白影视","url":"https://www.554346.com/api.php/"},
 {"name":"斑马影视","url":"http://www.banmays.com/api.php/"}, 
-{"name":"官方资源","url":"https://www.zycaiji.net:7788/api.php"},
 {"name":"TVB云播","url":"http://www.tvyb03.com/api.php/"},
 {"name":"开乐TV","url":"http://server.sztuotai.com/api.php/Chengcheng/vod/"},
-{"name":"速播资源","url":"https://subocaiji.com/api.php/"},
-{"name":"豌豆资源","url":"https://ks.wandouzy.cc/api.php/"},
 {"name":"KK影视-快看影视","url":"https://www.kplay.top/api.php/"},
 {"name":"蜜蜂影视（采集）","url":"https://www.beeyao.com/api.php"}, 
-{"name":"超多影院","url":"https://www.ifengying.cn/api.php/"},
 {"name":"susong在线影视","url":"http://150.158.102.76/api.php/"},
 {"name":"狮子影视","url":"https://www.vuituoi.com/api.php/"},
 {"name":"243影视网","url":"https://knyu.net/api.php/"},
-{"name":"白嫖TV","url":"https://www.baipiaotv.com/api.php/"},
 {"name":"天蝎影视","url":"https://www.jipo.tv/api.php/"}, 
 {"name":"艾旦影视","url":"https://lovedan.net/api.php/"},
-{"name":"虎牙资源","url":"https://www.huyaapi.com/api.php/"},
-{"name":"阳光资源","url":"https://xxzy.org/api.php/"},
 {"name":"哆咪影视","url":"https://www.vbuyu.cn/api.php/"},
-{"name":"39影视","url":"https://www.39kan.com/api.php/"},
 {"name":"U酷资源","url":"https://api.ukuapi.com/api.php/"},
 {"name":"1080资源库","url":"https://api.1080zyku.com/inc/api_mac10.php/"}, 
-{"name":"乐活影视","url":"https://lehootv.com/api.php/"},
 {"name":"最大资源","url":"http://zuidazy.me/api.php/"}, 
 {"name":"鸡婆影视","url":"https://www.jipo.tv/api.php/"}, 
-{"name":"大白影视","url":"https://www.554346.com/api.php/"},
 {"name":"卧龙资源{有广告}","url":"https://collect.wolongzyw.com/api.php/"}],
 
 
 
 //主解析是JSON直链格式的解析
 "zhujiexi":[
-{
-"name":"解析1",
-"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url=",
-"ua":"空"//User-Agent$okhttp/3.12.0#referer$123
-},
+
  {"name":"主解1","url":"http://27.124.4.42:4567/jhjson/ceshi.php?url="},
  {"name":"巧技解析","url":"http://pandown.pro/app/kkdy.php?url="},
  {"name":"车哥","url":"https://xjx.tvcms.top/api/?key=ca6ca13c1e6e866f350f4b744441541d&url="},
