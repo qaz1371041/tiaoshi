@@ -66,7 +66,6 @@
 //{"name":"填接口名称","url":"http://xxx/mogai_api.php/v1.vod"},
 //填写APP接口，支持以下5种接口格式。
 "zhuyejiekou": [
-{"name":"飞速影视","url":"http://ytcms.lfytyl.com/api.php/app/"},
 {"name":"影探4k","url":"http://big.lfytyl.com/api.php/app/"},
 {"name":"影视之家","url":"http://yszj.cm/xgapp.php/v2/"}, 
 {"name":"F7好看剧","url":"https://www.f7hkj.com/api.php/app/"}, 
@@ -76,6 +75,7 @@
 {"name":"4k鸭奈飞","url":"https://yanaifei.tv/api.php/app/"},
 {"name":"COKEMV影院","url":"https://cokemv.co/xgapp.php/v1/"}, //地址发布页http://cokemv.net/ 
 {"name":"曲奇影视","url":"https://1234567.weixiaolove.cn/api.php/app/"},
+ {"name":"吃瓜影视","url":"https://www.chiguafilm.com//api.php/v1.vod"},
 {"name":"光影猫","url":"http://gymcms.xn--654a.cc/api.php/app/"}, 
 {"name":"往往影视","url":"https://www.oftens.top/api.php/app/"},
 {"name":"慢大浪","url":"https://www.mdlys.vip/api.php/v1.vod"}, //https://www.mdlys.vip/mogai_api.php/v1.vod
