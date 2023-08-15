@@ -66,7 +66,7 @@
 //{"name":"填接口名称","url":"http://xxx/mogai_api.php/v1.vod"},
 //填写APP接口，支持以下5种接口格式。
 "zhuyejiekou": [
-{"name":"影探4k","url":"http://big.lfytyl.com/api.php/app/"},
+
 {"name":"影视之家","url":"http://yszj.cm/xgapp.php/v2/"}, 
 {"name":"F7好看剧","url":"https://www.f7hkj.com/api.php/app/"}, 
 {"name":"555","url":"https://www.xawqxh.net/api.php/app/"},
