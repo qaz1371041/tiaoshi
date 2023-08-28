@@ -68,7 +68,7 @@
 "zhuyejiekou": [
 
 {"name":"影视之家","url":"http://yszj.cm/xgapp.php/v2/"}, 
-{"name":"F7好看剧","url":"https://www.f7hkj.com/api.php/app/"}, 
+//{"name":"F7好看剧","url":"https://www.f7hkj.com/api.php/app/"}, 
 {"name":"555","url":"https://www.xawqxh.net/api.php/app/"},
 {"name":"HOHO TV","url":"https://hoho.tv/api.php/app/"}, 
 {"name":"霹雳影视","url":"https://plyy.cc/api.php/v1.vod"},//https://plyingshi.com/
@@ -98,7 +98,7 @@
 {"name":"UM影院","url":"https://www.umkan.cc/mogai_api.php/v1.vod"}, 
 {"name":"路人甲影视","url":"http://dytt996.com//api.php/app/"}, 
 {"name":"小艺影视","url":"https://lg.tvcms.top/api.php/app/"},
-{"name":"布蕾蓝光影城","url":"http://117.175.212.198:8088/api.php/app/"},
+//{"name":"布蕾蓝光影城","url":"http://117.175.212.198:8088/api.php/app/"},
 {"name":"枇杷影院","url":"https://www.pipamovie.com//mogai_api.php/v1.vod"},
 {"name":"柏林影视","url":"https://bolin.tv/mogai_api.php/v1.vod"}, 
 {"name":"旧梦影视","url":"http://43.139.139.17:4433/api.php/app/"},
