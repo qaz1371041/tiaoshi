@@ -188,11 +188,8 @@
 
 //主解析是JSON直链格式的解析
 "zhujiexi":[
-{"name":"刚佬","url":"http://json.g9.pub:66/?url="},
-{"name":"肥猫","url":"http://jx.fuqizhishi.com:63/接口地址www.肥猫.love/肥猫专用.php?url="},
-{"name":"主解1","url":"http://27.124.4.42:4567/jhjson/ceshi.php?url="},
-{"name":"4k专用","url":"https://jx.tvcms.top/api/?key=0e6ba5eac2b38a9f02c3ebea29ab96eb&url="},
-{"name":"小鱼解析","url":"http://json.84jia.com/home/api?type=ys&uid=335253&key=fjklpqsyCDGMNQRWX8&url="}, 
+{"name":"解析","url":"http://27.124.4.42:4567/jhjson/ceshi.php?url="},
+
  {"name":"主1","url":"http://47.119.122.235:5566/json/free.php?url="}],
 
 
