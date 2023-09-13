@@ -73,7 +73,8 @@
 {"name":"HOHO TV","url":"https://hoho.tv/api.php/app/"}, 
 {"name":"霹雳影视","url":"https://plyy.cc/api.php/v1.vod"},//https://plyingshi.com/
 {"name":"4k鸭奈飞","url":"https://yanaifei.tv/api.php/app/"},
-//{"name":"九禹云影视","url":"https://v.jiuyuyun.xyz/api.php/v1.vod"}, 
+{"name":"陌陌影院","url":"https://www.kuin.one/api.php/app/"},
+{"name":"奇奇影视","url":"http://mp4.ghlyys.com/api.php/app/"},
 {"name":"COKEMV影院","url":"https://cokemv.co/xgapp.php/v1/"}, //地址发布页http://cokemv.net/ 
 {"name":"曲奇影视","url":"https://1234567.weixiaolove.cn/api.php/app/"},
  {"name":"吃瓜影院","url":"https://www.chiguafilm.com//api.php/v1.vod"},
