@@ -67,7 +67,7 @@
 //填写APP接口，支持以下5种接口格式。
 "zhuyejiekou": [
 
-{"name":"影视之家","url":"http://yszj.cm/xgapp.php/v2/"}, 
+//{"name":"影视之家","url":"http://yszj.cm/xgapp.php/v2/"}, 
 {"name":"影探4K","url":"http://vipcms.lyyytv.cn/api.php/app/"},
 {"name":"555","url":"https://www.xawqxh.net/api.php/app/"},
 {"name":"HOHO TV","url":"https://hoho.tv/api.php/app/"}, 
