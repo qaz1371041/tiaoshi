@@ -172,7 +172,7 @@
 "zhujiexi":[
 {"name":"主解1","url":"http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="},
  {"name":"主解2","url":"http://27.124.4.42:4567/jhjson/ceshi.php?url="},
-{"name":"小鱼解析","url":"http://json.84jia.com/home/api?type=ys&uid=335253&key=fjklpqsyCDGMNQRWX8&url="},
+
  {"name":"解析2","url":"http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="},
  {"name":"主1","url":"http://47.119.122.235:5566/json/free.php?url="}],
 
@@ -189,7 +189,7 @@
 
 
 //填写电视直播的接口链接
-"dianshizhibo": "https://agit.ai/ddx/TVBox/raw/branch/master/js/zb.txt",
+"dianshizhibo": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt",
 
 //填写播放地址寻找的地址标识词，中间用#号分割
 "嗅探词": "m3u8?#ixigua#.czspp#.m3u8#.mp4#.flv#.mp3#.m4a",
