@@ -135,7 +135,7 @@
 
 //填写采集接口
 "caijizhan": [
-{"name":"7喜影院(😍)","url":"https://7xi.tv/api.php/"}, 
+ 
 {"name":"时光TV","url":"https://ys.timebk.cn/api.php/"},  
 {"name":"索尼资源","url":"https://suoniapi.com/api.php/"},
 {"name":"光速资源","url":"https://api.guangsuapi.com/api.php/"},
@@ -152,6 +152,7 @@
 {"name":"KK影视-快看影视","url":"https://www.kplay.top/api.php/"},
 {"name":"susong在线影视","url":"http://150.158.102.76/api.php/"},
 {"name":"哆咪影视","url":"https://www.vbuyu.cn/api.php/"},
+{"name":"7喜影院(😍)","url":"https://7xi.tv/api.php/"},
 {"name":"卧龙资源{有广告}","url":"https://collect.wolongzyw.com/api.php/"}],
 
 
