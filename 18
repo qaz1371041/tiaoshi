@@ -580,6 +580,7 @@
 "搜索前": "/index.php/vod/type/id/1.html?wd=",
 "搜索后": "",
 "搜索连接后缀": "/vod/",
+"搜索带翻页模式": "https://60523.xyz/index.php/vod/type/id/3/page/翻页.html?wd=搜索词",
 "搜索二次截取": "空",
 "搜索截取数组": "class=\"uzimg\"$$</li>",
 "搜索图片前缀": "空",
