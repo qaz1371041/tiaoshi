@@ -160,6 +160,8 @@
 
 //主解析是JSON直链格式的解析
 "zhujiexi":[
+ 
+{"name":"主解0","url":"https://dx.maclsj.com/blue/json.php?url="},
 {"name":"主解1","url":"https://xinz.xn--654a.cc/jiexixi/guanjie/9944.php?url="},
 {"name":"主解2","url":"http://json.84jia.com/home/api?type=ys&uid=335253&key=acefhmqsxEMPRVYZ26&url="},
 {"name":"主解3","url":"http://175.178.183.192:86/api/?key=b832096861839f56066bf4ae7a0d7be0&url="},
