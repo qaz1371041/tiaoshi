@@ -1895,6 +1895,7 @@
 "是否url解码": "0",
 "官源是否走解析": "0",
 "播放页跳转看图": "0"},
+ 
 {"网站名字": "臭蛋蛋影视",
 "网站地址": "https://cddys.me/",
 "访问请求ua": "User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
@@ -2834,7 +2835,7 @@
 "启用js加载源码":"0",
 "js加载源码时间":"5",
 
-"嗅探词": "m3u8?#ixigua#.czspp#.m3u8#mp4#.flv#.mp3#.m4a#?video_id=",
+"嗅探词": ".m3u8#m3u8?#.mp4#mp4?#ixigua#.czspp#.flv#.mp3#.m4a#?item/video#is_play_url=1#play/?#qianpailive",
 "guolvdizhi": ".html#51.la#?url=#cnzz.com#baidu.com#tootw.com#auete.com#bilibili.com#m3u8.pw",
 "是否记录历史": "0",
 "直接播放": "0",
