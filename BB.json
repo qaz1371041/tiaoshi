@@ -48,6 +48,23 @@
                 "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
             ]
         },
+
+           { "名字": "索尼",
+            "寻找词": "suonizy",
+            "正则规则": [
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:25.0666,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+                "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
+            ]
+        },
+ { "名字": "暴风",
+            "寻找词": "bfzy#s5.bfzycdn",
+            "正则规则": [
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+                "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
+            ]
+        },
+ 
 {"名字":"星星",
 "寻找词":"aws.ulivetv.net",
 "正则规则": [
