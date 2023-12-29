@@ -41,11 +41,14 @@
 "去广告规则":[
 {"名字":"LZ",
 "寻找词":"vip.lz#hd.lz",
-"正则规则": [
+{
+            "名字": "LZ",
+            "寻找词": "vip.lz#hd.lz",
+            "正则规则": [
                 "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY",
                 "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
             ]
-},
+        },
 
 {"名字":"星星",
 "寻找词":"aws.ulivetv.net",
