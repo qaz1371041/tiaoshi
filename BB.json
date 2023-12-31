@@ -142,7 +142,7 @@
 {"name":"小彬影院","url":"http://k.337317477.cn//api.php/app/"}, 
 {"name":"奇乐影视","url":"http://qlkjy.cn/api.php/v1.vod"},
 
-{"name":"落攻阁影视网","url":"https://www.lggys.com/api.php/app/"},
+
 {"name":"天天视频","url":"http://app.qianju.cc/api.php/v1.vod"},
 {"name":"如意4K","url":"http://cms.maoyingshi.cc/api.php/app/"},
 {"name":"爱迪影视","url":"https://api123.adys.app/xgapp.php/v2/"},
@@ -162,6 +162,7 @@
 {"name":"时光TV","url":"https://ys.timebk.cn/api.php/"},  
 {"name":"HG影视","url":"https://hong.hgyx.vip/api.php/"}, 
 {"name":"索尼资源","url":"https://suoniapi.com/api.php/"},
+{"name":"落攻阁影视网","url":"http://www.lggys.com/api.php"},
 {"name":"光速资源","url":"https://api.guangsuapi.com/api.php/"},
 {"name":"最大资源","url":"https://api.zuidapi.com/api.php/"},
 {"name":"极光资源","url":"https://jiguang.la/api.php/"},
