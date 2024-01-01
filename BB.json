@@ -162,7 +162,7 @@
 
 //填写采集接口
 "caijizhan": [
- 
+ {"name":"量子资源","url":"https://cj.lziapi.com/api.php/"},
 {"name":"时光TV","url":"https://ys.timebk.cn/api.php/"},  
 {"name":"HG影视","url":"https://hong.hgyx.vip/api.php/"}, 
 {"name":"索尼资源","url":"https://suoniapi.com/api.php/"},
@@ -174,7 +174,6 @@
 {"name":"极速资源","url":"https://jszyapi.com/api.php/"},
 {"name":"非凡资源","url":"http://cj.ffzyapi.com/api.php/"},
 {"name":"高清资源库","url":"https://api.1080zyku.com/inc/apijson.php"},
-{"name":"星空追剧","url":"https://www.wuxianyou2.top/api.php/"},
 {"name":"遇见影视","url":"https://yjtv.top/api.php/"}, 
 {"name":"TVB云播","url":"http://www.tvyb03.com/api.php/"},
 {"name":"开乐TV","url":"http://server.sztuotai.com/api.php/Chengcheng/vod/"},
