@@ -96,8 +96,7 @@
 {"name":"188影视","url":"https://www.7k789.com/mogai_api.php/v1.vod"},//https://xn--p3t503bggc.com/ 
 {"name":"HOHO TV","url":"https://www.hohovod.com/api.php/app/"}, //https://www.hoho.tv/
 {"name":"零刻影院","url":"https://ys.51bro.cn/mogai_api.php/v1.vod"},
-
-{"name":"玩偶姐姐","url":"https://dytt996.com/api.php/app/"},
+{"name":"腐宅影视","url":"http://app.zhaifutvapp.com/api.php/v1.vod"},
 {"name":"大豆高清","url":"https://www.dadou.cm/api.php/app/"},
 {"name":"AucFox","url":"https://www.aucfox.top/mogai_api.php/v1.vod"},
 {"name":"美益达影剧","url":"https://www.myd666.tv/api.php/v1.vod"}, 
@@ -188,7 +187,7 @@
 //主解析是JSON直链格式的解析
 "zhujiexi":[
  {"name":"主解1","url":"https://jx.gsjtlxy.top/daily/json.php?url="},
-{"name":"主解0","url":"https://dx.maclsj.com/blue/json.php?url="},
+{"name":"主解0","url":"https://www.qiaoji8.com/tvbox/neibu.php?url="},
 {"name":"主解1","url":"https://xinz.xn--654a.cc/jiexixi/guanjie/9944.php?url="},
 {"name":"主解2","url":"http://json.84jia.com/home/api?type=ys&uid=335253&key=acefhmqsxEMPRVYZ26&url="},
 {"name":"主解3","url":"http://175.178.183.192:86/api/?key=b832096861839f56066bf4ae7a0d7be0&url="},
@@ -199,10 +198,10 @@
 
 //备用解析是常规格式的解析
 "beiyongjiexi":[
-{"name":"备用解析1","url":"https://jx.m3u8.tv/jiexi/?url="},
+{"name":"备用解析1","url":"https://jx.jsonplayer.com/player/?url="},
 {"name":"备用解析2","url":"https://jx.xmflv.com/?url="},
-{"name":"备用解析3","url":"https://jx.jsonplayer.com/player/?url="},
-{"name":"备用解析4","url":"https://www.yemu.xyz/?url="},
+{"name":"备用解析3","url":"https://jx.777jiexi.com/player/?url="},
+{"name":"备用解析4","url":"http://mz_llq.8kvod.com/player/?url="},
 {"name":"备用解析5","url":"https://www.8090g.cn/?url="},
 {"name":"备用解析6","url":"https://jx.m3u8.tv/jx/jx.php?url="}, 
 {"name":"备解3","url":"https://jx.iztyy.com/svip/?url="},
