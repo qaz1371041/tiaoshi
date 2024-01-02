@@ -4001,7 +4001,7 @@
 
 
  {"网站名字": "剧白白",
-"网站地址": "https://www.jubaibaic.com/",
+"网站地址": "https://www.jubaibaid.com/",
 "访问请求ua": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Mobile Safari/537.36",
 "访问请求cookie": "空",
 "访问请求referer": "空",
@@ -4026,7 +4026,7 @@
 "筛选列表": [
 {
 "分类名称":"电影",
-"分类链接":"https://www.jubaibaic.com/s/dianying/剧情/地区/page/翻页/year/年代.html",
+"分类链接":"https://www.jubaibaid.com/s/dianying/剧情/地区/page/翻页/year/年代.html",
 "剧情":"全部$空#动作$class/动作#喜剧$class/喜剧#爱情$class/爱情#恐怖$class/恐怖#科幻$class/科幻#剧情$class/剧情#战争$class/战争#警匪$class/警匪#犯罪$class/犯罪#动画$class/动画#奇幻$class/奇幻#武侠$class/武侠#冒险$class/冒险#枪战$class/枪战#悬疑$class/悬疑#惊悚$class/惊悚#古装$class/古装#历史$class/历史#灾难$class/灾难#伦理$class/伦理",
 "地区":"全部$空#大陆$area/大陆#香港$area/香港#台湾$area/台湾#美国$area/美国#法国$area/法国#英国$area/英国#日本$area/日本#韩国$area/韩国#德国$area/德国#泰国$area/泰国#印度$area/印度#其它$area/其它",
 "年代":"全部$空#2023$2023#2022$2022#2021$2021#2020$2020#2019$2019#2018$2018#2017$2017#2016$2016#2015$2015#2014$2014#2013$2013#2012$2012#2011$2011#2010$2010#2009$2009#2008$2008#2007$2007#2006$2006#2005$2005#2004$2004#2003$2003#2002$2002#2001$2001#2000$2000",
@@ -4034,7 +4034,7 @@
 },
 {
 "分类名称":"电视剧",
-"分类链接":"https://www.jubaibaic.com/s/类型/地区/page/翻页/year/年代.html",
+"分类链接":"https://www.jubaibaid.com/s/类型/地区/page/翻页/year/年代.html",
 "类型":"全部$lianxuju",
 //"剧情":"全部$剧情#古装$古装#战争$战争#家庭$家庭#犯罪$犯罪#奇幻$奇幻#剧情$剧情#历史$历史#商战$商战#网剧$网剧#喜剧$喜剧",
 "地区":"全部$空#大陆$area/大陆#香港$area/香港#台湾$area/台湾#美国$area/美国#法国$area/法国#英国$area/英国#日本$area/日本#韩国$area/韩国#德国$area/德国#泰国$area/泰国#印度$area/印度#其它$area/其它",
@@ -4043,7 +4043,7 @@
 },
 {
 "分类名称":"动漫",
-"分类链接":"https://www.jubaibaic.com/s/类型/地区/page/翻页/year/年代.html",
+"分类链接":"https://www.jubaibaid.com/s/类型/地区/page/翻页/year/年代.html",
 "类型":"全部$dongman",
 //"剧情":"全部$空#情感$情感#科幻$科幻#热血$热血#推理$推理#搞笑$搞笑#冒险$冒险#萝莉$萝莉#校园$校园#动作$动作#机战$机战#运动$运动#战争$战争#少年$少年#少女$少女#社会$社会#原创$原创#亲子$亲子#益智$益智#励志$励志#其它$其他",
 "地区":"全部$空#大陆$area/大陆#香港$area/香港#台湾$area/台湾#美国$area/美国#法国$area/法国#英国$area/英国#日本$area/日本#韩国$area/韩国#德国$area/德国#泰国$area/泰国#印度$area/印度#其它$area/其它",
@@ -4052,7 +4052,7 @@
 },
 {
 "分类名称":"综艺",
-"分类链接":"https://www.jubaibaic.com/s/类型/地区/page/翻页/year/年代.html",
+"分类链接":"https://www.jubaibaid.com/s/类型/地区/page/翻页/year/年代.html",
 "类型":"全部$zongyi",
 //"剧情":"全部$空#选秀$选秀#情感$情感#访谈$访谈#播报$播报#旅游$旅游#音乐$音乐#美食$美食#纪实$纪实#曲艺$曲艺#生活$生活#游戏互动$游戏互动#财经$财经#求职$求职",
 "地区":"全部$空#大陆$area/大陆#香港$area/香港#台湾$area/台湾#美国$area/美国#法国$area/法国#英国$area/英国#日本$area/日本#韩国$area/韩国#德国$area/德国#泰国$area/泰国#印度$area/印度#其它$area/其它",
