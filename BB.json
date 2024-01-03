@@ -194,7 +194,7 @@
 //填写网页接口内容，格式是 {网页接口1},{网页接口2},{网页接口3} 一个花括号里面就是一个自定义接口内容  用，号分割  最后一个不加，号
 "zidingyi": [
 {"网站名字": "996影院",
-"网站地址": "https://www.cs1369.com/",
+"网站地址": "https://www.cs1369.com",
 "访问请求ua": "User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
 "播放请求头": "User-Agent$123",
 "图片请求头": "空",
