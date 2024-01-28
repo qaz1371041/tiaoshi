@@ -76,11 +76,9 @@
 "寻找词":"vip.ffzy#hd.ffzy",
 "正则规则":[
         "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:25.0666,[\\s\\S]*?#EXT-X-DISCONTINUITY", 
-         "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+",
-        "20.52","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:7\\.400000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-        "#EXTINF.*?\\s+.*?1170(20|32).*?\\.ts\\s+",
-        "#EXTINF.*?\\s+.*?116977.*?\\.ts\\s+" 
+        "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+",
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:25.0666,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+        
 ]
 }
 ],
@@ -780,7 +778,7 @@
 "自动点击字符": "空",
 "启用js加载源码":"0",
 "js加载源码时间":"5",
-"嗅探词": "m3u8?#.m3u8#.mp4#.flv#.mp3#.m4a#?video_id=#/video/",
+"嗅探词": "m3u8?#.m3u8#.mp4#.flv#.mp3#.m4a#?video_id=#/video/#video/tos/cn",
 "过滤词": "?url=#?v=#.css#51.la#cnzz.com#baidu.com#bilibili.com",
 "是否记录历史": "0",
 "直接播放": "0",
