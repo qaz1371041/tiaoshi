@@ -78,7 +78,7 @@
             ]
 }, 
 {"名字":"非凡",
-"寻找词":"vip.ffzy","hd.ffzy",
+"寻找词":"vip.ffzy#hd.ffzy",
 "正则规则":[
         "#EXTINF.*?\\s+.*?1170(20|32).*?\\.ts\\s+",
         "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:7\\.400000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
