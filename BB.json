@@ -104,8 +104,11 @@
 {"name":"零刻影院","url":"https://ys.51bro.cn/mogai_api.php/v1.vod"},
 {"name":"腐宅影视","url":"http://app.zhaifutvapp.com/api.php/v1.vod"},
 {"name":"美益达影剧","url":"https://meiyida01.com/api.php/v1.vod"}, 
+{"name":"墨鸦影视","url":"https://wyys.wuyays.top/api.php/v1.vod"},
+{"name":"69美剧","url":"https://www.69mj.com/xgapp.php/v1/"},	
 {"name":"梦梦影视","url":"http://iosa.xn--654a.cc/api.php/app/"},
 {"name":"追剧影视","url":"https://vip.ystv.lol/api.php/v1.vod"},
+{"name":"天天影院","url":"https://www.ttmja.com/api.php/app/"},	
 {"name":"北川影视","url":"http://www.bcys1.com/api.php/v1.vod"},//https://www.bcyingshi.ink/fb/
 {"name":"a8影视","url":"https://www.9day.cc/api.php/app/"},
 {"name":"陌陌影院","url":"https://www.kuin.one/api.php/app/"},
@@ -114,14 +117,15 @@
 {"name":"小乐影院","url":"http://www.kuloo.xyz/mogai_api.php/v1.vod"}, 
 {"name":"可可","url":"http://4k.953365.cn:8090/xgapp.php/v1/"}, 
 {"name":"刺桐影视","url":"http://cms.cttv.vip/api.php/app/"},
+{"name":"K影院","url":"http://iosa.xn--654a.cc/api.php/app/"},	
 {"name":"飞鸽影视","url":"http://www.jiageys.top/api.php/app/"}, 
 {"name":"骑骑影院","url":"https://www.gsjtlxy.top/xgapp.php/v1/"}, 
 {"name":"奈飞狗","url":"https://netflixdog.club/api.php/app/"},
 {"name":"聚焦影视","url":"https://www.mjlnl.cn/api.php/v1.vod"},
+{"name":"思古影视","url":"https://siguyy.cc/api.php/app/"},	
 {"name":"看美剧","url":"https://www.kmeiju.com/api.php/app/"},
 {"name":"UM电影","url":"https://www.umkan.cc/mogai_api.php/v1.vod"}, 
 {"name":"兰花影视","url":"https://www.lanhuatv.com/api.php/v1.vod"}, 
-{"name":"北极🦊影视","url":"https://www.kuin.one/api.php/app/"},
 {"name":"何以影视","url":"http://www.heyik.cn/mogai_api.php/v1.vod"},//http://www.heyik.cn/index.php/label/web.html
 {"name":"零刻影院","url":"https://ys.51bro.cn/mogai_api.php/v1.vod"}, 
 {"name":"无限影视网","url":"https://www.wxtv.net/api.php/app/"}, 
@@ -130,8 +134,8 @@
 {"name":"HG影视","url":"http://max.1006.tk/api.php/v1.vod"},//永久域名发布页：http://cs.hgyx.vip/
 {"name":"海兔影视","url":"https://www.haituu.tv/api.php/v1.vod"},
 {"name":"奇乐影视","url":"http://qlkjy.cn/api.php/v1.vod"},
-{"name":"爱迪影视","url":"https://adys.tv/xgapp.php/v1/"},
-{"name":"无心影视网","url":"https://i.57net.top/api.php/v1.vod"}],
+{"name":"爱迪影视","url":"https://adys.tv/xgapp.php/v1/"}],
+
  
 
 
@@ -171,6 +175,7 @@
 "beiyongjiexi":[
 {"name":"备用解析1","url":"https://jx.jsonplayer.com/player/?url="},
 {"name":"备用解析3","url":"https://jx.777jiexi.com/player/?url="},
+{"name":"何以影视解析","url":"https://www.heyik.cn/player/?url="},	
 {"name":"备用解析4","url":"http://mz_llq.8kvod.com/player/?url="},
 {"name":"备用解析5","url":"https://jx.m3u8.tv/jiexi/?url="},
 {"name":"备用解析6","url":"https://www.pangujiexi.com/jiexi/?url="}, 
