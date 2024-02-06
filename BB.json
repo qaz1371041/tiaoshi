@@ -586,7 +586,7 @@
 //0：不启用，1：启用
 "启用js加载源码":"0",
 "js加载源码时间":"5",
-"嗅探词": "m3u8?#.m3u8#.mp4#.flv#.mp3#.m4a#mkv",
+"嗅探词": "m3u8?#.m3u8#.mp4#.flv#.mp3#.m4a#mkv#&auth_key=",
 "过滤词": "51.la#cnzz.com#baidu.com#bilibili.com#url=#v=",
 "是否记录历史": "0",
 "直接播放": "0",
