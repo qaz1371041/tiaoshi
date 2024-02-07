@@ -1581,7 +1581,7 @@
 "列表起始页": "1",
 "列表分类": "JVID$/5.php?id=38&page=#麻豆$/5.php?id=21&page=#SWAG$/5.php?id=14&page=#国产三级片$/5.php?id=40&page=#原创VIP剧情$/5.php?id=35&page=#91TV短视频$/5.php?id=59&page=#推特福利姬$/5.php?id=41&page=#软萌伪娘$/5.php?id=53&page=#ASMR$/5.php?id=65&page=#女性向AV$/5.php?id=79&page=#人妖$/5.php?id=35&page=#恋足$/5.php?id=48&page=#高清动漫$/5.php?id=50&page=#Play Boy$/5.php?id=52&page=#刘玥$/5.php?id=56&page=#Xiao e$/5.php?id=58&page=#91TV探花$/5.php?id=63&page=#Elise兔兔$/5.php?id=66&page=#性爱娃娃$/5.php?id=67&page=#香港玩偶姐姐$/5.php?id=68&page=#国产直播$/5.php?id=69&page=#海外直播$/5.php?id=70&page=#日韩三级片$/5.php?id=71&page=#推特大神 DOM$/5.php?id=72&page=#国产原创AV$/5.php?id=73&page=#原创VIP非剧情$/5.php?id=74&page=#明星AI$/5.php?id=77&page=#Vivian姐$/5.php?id=78&page=#日本AV$/5.php?id=80&page=#原创免费中文字幕$/5.php?id=54&page=#门事件$/5.php?id=76&page=",
 "列表后缀": "",
-"筛选列表模式": "1",
+"筛选列表模式": "0",
 "筛选列表": [
 {
 "分类名称": "一区",
@@ -1603,13 +1603,13 @@
 "列表链接": "href=\"$$\"",
 "列表链接前缀": "空",
 "列表链接后缀": "空",
-"播放页截取数组": "var player =$$</script>",
+"播放页截取数组": "new Aliplayer$$</script>",
 "播放剧集自动分割模式": "0",
 "播放剧集数组分割字符": "空",//json数据播放链接都集合在一起时才用到，不用时填空或者不填或者删除这个字段
 "播放剧集二次截取": "空",
-"播放剧集截取数组": "({$$}], ",
+"播放剧集截取数组": "({$$}],",
 "播放剧集标题": "name: \'$$\'",
-"播放剧集链接": "source\": \"$$\"",
+"播放剧集链接": "\"source\": \"$$\"",
 "播放剧集链接前缀": "空",
 "播放剧集链接后缀": "空"},
 
