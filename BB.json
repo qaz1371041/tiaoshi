@@ -97,14 +97,20 @@
 "zhuyejiekou": [
 {"name":"555","url":"https://555fm.club/api.php/app/"},
 {"name":"影视之家","url":"http://yingszj.xn--654a.cc/api.php/app/"},
+{"name":"1080影视","url":"https://www.1080dyw.xyz/api.php/v1.vod"},
+{"name":" 鸭奈飞影视","url":"https://www.netfly.tv/api.php/app/"}, 	
 {"name":"188影视","url":"https://www.7k789.com/api.php/v1.vod"},//https://xn--p3t503bggc.com/ 
-
-{"name":"海兔影院","url":"https://www.haituu.tv/api.php/v1.vod/"},	
+{"name":"海兔影院","url":"https://www.haituu.tv/api.php/v1.vod/"},
+{"name":"何以影视","url":"http://www.heyik.cn/api.php/app/"},	
+{"name":"奇乐影视网","url":"http://qlkjy.cn/api.php/v1.vod"},	
+{"name":"曲奇影视","url":"https://1234567.weixiaolove.cn/api.php/app/"},	
 {"name":"车妹2K","url":"https://www.gsjtlxy.top/xgapp.php/v1/"}, 
 {"name":"零刻影院","url":"https://ys.51bro.cn/mogai_api.php/v1.vod"},
 {"name":"腐宅影视","url":"http://app.zhaifutvapp.com/api.php/v1.vod"},
-
+{"name":"4k_1影视","url":"https://tx.xihauche.cn/api.php/app/"},
+{"name":"4k_2影视","url":"http://ysjtv.yy365.vip/api.php/app/"},	
 {"name":"69美剧","url":"https://www.69mj.com/xgapp.php/v1/"},	
+{"name":"七月影视","url":"https://www.9day.cc/api.php/app/"},	
 {"name":"梦梦影视","url":"http://iosa.xn--654a.cc/api.php/app/"},
 {"name":"橙汁影视","url":"https://www.orangek.cn/api.php/v1.vod"},	
 {"name":"追剧影视","url":"https://vip.ystv.lol/api.php/v1.vod"},
@@ -123,10 +129,10 @@
 {"name":"兰花影视","url":"https://www.lanhuatv.com/api.php/v1.vod"}, 
 {"name":"何以影视","url":"http://www.heyik.cn/mogai_api.php/v1.vod"},//http://www.heyik.cn/index.php/label/web.html
 {"name":"零刻影院","url":"https://ys.51bro.cn/mogai_api.php/v1.vod"}, 
-
+{"name":"K影院","url":"http://iosa.xn--654a.cc/api.php/app/"},
 {"name":"TV酷影视","url":"https://www.tvkuys.xyz/api.php/app/"},
 {"name":"天天美剧网","url":"https://www.ttmja.com/api.php/app/"},
-
+{"name":"1080影视","url":"https://www.1080dyw.xyz/api.php/v1.vod"},
 {"name":"海兔影视","url":"https://www.haituu.tv/api.php/v1.vod"},
 {"name":"奇乐影视","url":"http://qlkjy.cn/api.php/v1.vod"},
 {"name":"爱迪影视","url":"https://adys.tv/xgapp.php/v1/"}],
