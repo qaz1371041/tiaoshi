@@ -97,8 +97,8 @@
 "zhuyejiekou": [
 {"name":"555","url":"https://555fm.club/api.php/app/"},
 {"name":"影视之家","url":"http://yingszj.xn--654a.cc/api.php/app/"},
-{"name":"188影视","url":"https://www.7k789.com/mogai_api.php/v1.vod"},//https://xn--p3t503bggc.com/ 
-{"name":"HOHO TV","url":"https://www.hohovod.com/api.php/app/"}, //https://www.hoho.tv/
+{"name":"188影视","url":"https://www.7k789.com/api.php/v1.vod"},//https://xn--p3t503bggc.com/ 
+
 {"name":"海兔影院","url":"https://www.haituu.tv/api.php/v1.vod/"},	
 {"name":"车妹2K","url":"https://www.gsjtlxy.top/xgapp.php/v1/"}, 
 {"name":"零刻影院","url":"https://ys.51bro.cn/mogai_api.php/v1.vod"},
@@ -106,6 +106,7 @@
 {"name":"墨鸦影视","url":"https://wyys.wuyays.top/api.php/v1.vod"},
 {"name":"69美剧","url":"https://www.69mj.com/xgapp.php/v1/"},	
 {"name":"梦梦影视","url":"http://iosa.xn--654a.cc/api.php/app/"},
+{"name":"橙汁影视","url":"https://www.orangek.cn/api.php/v1.vod"},	
 {"name":"追剧影视","url":"https://vip.ystv.lol/api.php/v1.vod"},
 {"name":"天天影院","url":"https://www.ttmja.com/api.php/app/"},	
 {"name":"北川影视","url":"http://www.bcys1.com/api.php/v1.vod"},//https://www.bcyingshi.ink/fb/
