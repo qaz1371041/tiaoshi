@@ -50,7 +50,7 @@
             ]
         },
 
-           { "名字": "索尼",
+{ "名字": "索尼",
             "寻找词": "suonizy",
             "正则规则": [
                 "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:1\\.000000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
@@ -103,8 +103,10 @@
 {"名字":"非凡",
 "寻找词":"vip.ffzy#hd.ffzy",
 "正则规则":[
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:7\\.400000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
         "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-	 "#EXTINF.*?\\s+.*?11697777.*?\\.ts\\s+",  
+	"#EXTINF.*?\\s+.*?1170(20|32).*?\\.ts\\s+",
+	"#EXTINF.*?\\s+.*?11697777.*?\\.ts\\s+",  
         "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"    
 ]
 }
