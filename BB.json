@@ -76,11 +76,11 @@
             ]
         },	
 
-{"name":"量子廣告","hosts":["vip.lz","hd.lz","v.cdnlz1","v.cdnlz"],"regex":["18.5333"]},
-{"name":"非凡廣告","hosts":["vip.ffzy","hd.ffzy"],"regex":["25.0666","25.08"]},
-{"name":"火山嗅探","hosts":["huoshan.com"],"regex":["item_id="]},
-{"name":"抖音嗅探","hosts":["douyin.com"],"regex":["is_play_url="]},
-{"name":"農民嗅探","hosts":["toutiaovod.com"],"regex":["video/tos/cn"]},
+{"name":"量子廣告","寻找词":["vip.lz","hd.lz","v.cdnlz1","v.cdnlz"],"regex":["18.5333"]},
+{"name":"非凡廣告","寻找词":["vip.ffzy","hd.ffzy"],"regex":["25.0666","25.08"]},
+{"name":"火山嗅探","寻找词":["huoshan.com"],"regex":["item_id="]},
+{"name":"抖音嗅探","寻找词":["douyin.com"],"regex":["is_play_url="]},
+{"name":"農民嗅探","寻找词":["toutiaovod.com"],"regex":["video/tos/cn"]},
 	
 { "名字": "YQK",
             "寻找词": "yqk88",
