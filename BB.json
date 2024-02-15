@@ -195,7 +195,7 @@
 
 //主解析是JSON直链格式的解析
 "zhujiexi":[
- {"name":"主解1","url":"https://jx.gsjtlxy.top/daily/json.php?url="},
+{"name":"主解1","url":"http://119.91.123.253:2345/Api/yun.php?url="},
 {"name":"主解0","url":"https://www.qiaoji8.com/tvbox/neibu.php?url="},
  {"name":"主1","url":"http://47.119.122.235:5566/json/free.php?url="}],
 
