@@ -75,7 +75,16 @@
                 "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY"
             ]
         },	
-		
+
+{ "名字": "蜗牛",
+            "寻找词": "vip.123pan.cn#rescdn.wuxivlog.cn",
+            "正则规则": [
+                "EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:10.840000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+		"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:10.120000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+		"#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"    
+            ]
+        },	
+	
 { "名字": "YQK",
             "寻找词": "yqk88",
             "正则规则": [
