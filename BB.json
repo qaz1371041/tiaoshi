@@ -69,10 +69,10 @@
             ]
         },
 
-{ "名字": "yqk",
-            "寻找词": "yqk88",
+{ "名字": "xx",
+            "寻找词": "aws.ulivetv.net",
             "正则规则": [
-                "18.4","15.1666",
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY",
                 "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+",
                 "#EXTINF.*?\\s+.*?adjump.*?\\.ts\\s+" 
             ]
