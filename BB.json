@@ -69,15 +69,20 @@
             ]
         },
 
-{ "名字": "xx",
-            "寻找词": "aws.ulivetv.net",
+{ "名字": "蚂蚁",
+            "寻找词": "v.cdnlz1.com",
             "正则规则": [
-                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-                "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+",
-                "#EXTINF.*?\\s+.*?adjump.*?\\.ts\\s+" 
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY"
             ]
         },	
- 
+
+{ "名字": "YQK",
+            "寻找词": "yqk88",
+            "正则规则": [
+                "#EXT-X-DISCONTINUITY\\r*\\n*[\\s\\S]*?#EXT-X-CUE-IN"
+            ]
+        },	
+	
 {"名字":"星星",
 "寻找词":"aws.ulivetv.net",
 "正则规则": [
