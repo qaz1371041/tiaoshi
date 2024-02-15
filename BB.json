@@ -43,6 +43,7 @@
             "寻找词": "vip.lz#hd.lz#v.cdnlz1#v.cdnlz",
             "正则规则": [
                 "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6\\.666667,[\\s\\S]*?#EXT-X-DISCONTINU",
+		 "#EXTINF.*?\\s+.*?11697777.*?\\.ts\\s+",  
                 "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY",
                 "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:18.5333,[\\s\\S]*?#EXT-X-DISCONTINUITY",
                 "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
@@ -55,7 +56,7 @@
                 "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:1\\.000000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
                 "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
                 "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:25.0666,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-                "#EXTINF.*?\\s+.*?p1ayer.*?\\.ts\\s+",
+                "#EXTINF.*?\\s+.*?p1ayer.*?\\.ts\\s+", 
                 "#EXTINF.*?\\s+.*?\\/video\\/original.*?\\.ts\\s+",
                 "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
             ]
@@ -103,6 +104,7 @@
 "寻找词":"vip.ffzy#hd.ffzy",
 "正则规则":[
         "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+	 "#EXTINF.*?\\s+.*?11697777.*?\\.ts\\s+",  
         "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"    
 ]
 }
