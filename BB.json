@@ -45,6 +45,7 @@
 		"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6\\.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",    
                 "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY",
 		"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:18.5333,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+		 "19.52",   
 		"#EXTINF.*?\\s+.*?11697777.*?\\.ts\\s+",   
                 "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
             ]
@@ -122,6 +123,7 @@
 {"name":"TV酷影视","url":"https://www.tvkuys.xyz//api.php/app/"},
 {"name":"微笑TV","url":"http://app.vipwxys.cn/mogai_api.php/v1.vod"},	
 {"name":"影视之家","url":"http://yingszj.xn--654a.cc/api.php/app/"},
+{"name":"鑫鑫影视","url":"http://yingszj.xn--654a.cc/api.php/app/"},	
 {"name":"追剧影视","url":"https://vip.ystv.lol/api.php/v1.vod"},
 {"name":" 鸭奈飞影视","url":"https://www.netfly.fun//api.php/app/"}, 	
 {"name":"188影视","url":"https://www.7k789.com/api.php/v1.vod"},//https://xn--p3t503bggc.com/ 
