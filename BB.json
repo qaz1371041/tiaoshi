@@ -91,6 +91,13 @@
                 "#EXT-X-DISCONTINUITY\\r*\\n*[\\s\\S]*?#EXT-X-CUE-IN"
             ]
         },	
+
+{ "名字": "磁力广告",
+            "寻找词": "magnet",
+            "正则规则": [
+                "更多","请访问","example","社 區","x u u","直 播","更 新","社 区","有趣","有 趣","英皇体育","全中文AV在线","澳门皇冠赌场","哥哥快来","美女荷官","裸聊","新片首发","UUE29"
+            ]
+        },	
 	
 {"名字":"星星",
 "寻找词":"aws.ulivetv.net",
@@ -150,7 +157,7 @@
 {"name":"可可","url":"http://4k.953365.cn:8090/xgapp.php/v1/"}, 
 {"name":"刺桐影视","url":"http://cms.cttv.vip/api.php/app/"},
 {"name":"少泽影客","url":"https://yk.shaozeyy.com/api.php/app/"},
-
+{"name":"黎明影视","url":"http://m.hhssyyss.icu/mogai_api.php/v1.vod"},
 {"name":"K影院","url":"http://iosa.xn--654a.cc/api.php/app/"},	
 {"name":"飞鸽影视","url":"http://www.jiageys.top/api.php/app/"}, 
 {"name":"骑骑影院","url":"https://www.gsjtlxy.top/xgapp.php/v1/"}, 
