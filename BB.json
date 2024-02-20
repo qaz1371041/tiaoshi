@@ -125,7 +125,8 @@
 //{"name":"填接口名称","url":"http://xxx/mogai_api.php/v1.vod"},
 //填写APP接口，支持以下5种接口格式。
 "zhuyejiekou": [
-{"name":"555","url":"https://555fm.club/api.php/app/"},
+{"name":"分享者自用","url":"http://106.52.244.241/api.php/app/"},	
+{"name":"555","url":"https://555fm.club/api.php/app/"},	
 {"name":"TV酷影视","url":"https://www.tvkuys.xyz//api.php/app/"},
 {"name":"微笑TV","url":"http://app.vipwxys.cn/mogai_api.php/v1.vod"},	
 {"name":"影视之家","url":"http://yingszj.xn--654a.cc/api.php/app/"},
@@ -204,6 +205,7 @@
 
 //主解析是JSON直链格式的解析
 "zhujiexi":[
+{"name":"分享者自用","url":"https://json.oorl.cn/api/?key=xdLCoyFT4zZGVlI4vj&url="},	
 {"name":"主解1","url":"http://119.91.123.253:2345/Api/yun.php?url="},
 {"name":"主解0","url":"https://www.qiaoji8.com/tvbox/neibu.php?url="},
  {"name":"主1","url":"http://47.119.122.235:5566/json/free.php?url="}],
