@@ -5368,7 +5368,70 @@
 "播放剧集链接前缀": "空",
 "播放剧集链接后缀": "空"},
 
-	
+{"网站名字": "91视频在线影院",
+"网站地址": "https://612360.xyz/",
+"访问请求ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
+"访问请求cookie": "空",
+"访问请求referer": "空",
+"播放请求头": "User-Agent$123",
+"图片请求头": "空",
+"网页编码": "utf-8",
+
+//0：不禁用，1：禁用
+"禁用搜索": "0",
+
+//0：不启用，1：启用
+"启用js加载源码":"1",
+"js加载源码时间":"13",
+
+"嗅探词": "m3u8?#.m3u8#.mp4#.flv#.mp3#.m4a",
+"过滤词": "51.la#cnzz.com#baidu.com#bilibili.com",
+
+//0：记录，1：不记录
+"是否记录历史": "0",
+
+//0：否，1：是
+"直接播放": "1",
+"列表显示": "0",
+"横图显示": "0",
+"列表起始页": "1",
+"列表分类": "短视频$/index.php/vod/type/id/13/page/#中文$/index.php/vod/type/id/14/page/#素人$/index.php/vod/type/id/56/page/#经典三级$/index.php/vod/type/id/54/page/#欧美$/index.php/vod/type/id/15/page/#AV解说$/index.php/vod/type/id/16/page/#动漫$/index.php/vod/type/id/55/page/",
+"列表后缀": ".html?wd=",
+"列表二次截取": "空",
+"列表截取数组": "class=\"module-item-pic\"$$class=\"module-item-cover",
+"列表图片前缀": "空",
+"列表图片": "https://mmjs.1vkx.cn/ms/sym/0b48e7702200465d2ef3ed60f4__72793/0b48e7702200465d2ef3ed60f4__72793.jpg$$\"",
+"列表标题": "class=\"module-item-title\">$$</a>",
+"列表副标题": "<span>$$</span>",
+"列表链接": "href=\"$$\"",
+"列表链接前缀": "空",
+"列表链接后缀": "空",
+
+//0：get方式，1：post方式，注意：如果用post方式，【搜索模式】要填：1
+"搜索请求方式": "0",
+"搜索模式": "1",
+"搜索前": "/index.php/vod/type/id/2.html?wd=",
+"搜索后": "",
+"搜索连接后缀": "/index.php/vod/detail/id/",
+"搜索带翻页模式": "https://612341.xyz/index.php/vod/type/id/2//page/翻页.html?wd=搜索词",
+"搜索二次截取": "空",
+"搜索截取数组": "class=\"module-item-pic\"$$class=\"module-item-cover",
+"搜索图片前缀": "空",
+"搜索图片": "data-original=\"$$\"",
+"搜索标题": "class=\"module-item-title\">$$</a>",
+"搜索副标题": "class=\"pic-text text-right\">$$</span>",
+"搜索链接": "href=\"$$\"",
+"搜索链接前缀": "空",
+"搜索链接后缀": "空",
+"播放页截取数组": "new window.Player$$</script>",
+"播放剧集自动分割模式": "0",
+"播放剧集数组分割字符": "空",//json数据播放链接都集合在一起时才用到，不用时填空或者不填或者删除这个字段
+"播放剧集二次截取": "空",
+"播放剧集截取数组": "({$$})",
+"播放剧集标题": "id: \"$$\"",
+"播放剧集链接": "url: \"$$\"",
+"播放剧集链接前缀": "空",
+"播放剧集链接后缀": "空"}, 	
 
 
 {"网站名字": "爽片",//Z片
