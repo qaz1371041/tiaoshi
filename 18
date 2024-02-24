@@ -7,7 +7,7 @@
 
 {"网站名字": "AvGood",
 "网站地址": "https://avgood.com",
-"访问请求ua": "Mozilla/5.0 (X11; Linux i686; rv:1.7.5) Gecko/20041108 Firefox/1.0",
+"访问请求ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57",
 "访问请求cookie": "空",
 "访问请求referer": "Referer$https://avgood.com",
 "播放请求头": "User-Agent$123",
@@ -95,7 +95,7 @@
 }
 ],
 "列表二次截取": "空",
-"列表截取数组": "class=\"movie-box$$</a>",
+"列表截取数组": "class=\"item$$</a>",
 "列表图片前缀": "空",
 "列表图片": "original=\"$$\"",
 "列表标题": "title=\"$$\"",
