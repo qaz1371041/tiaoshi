@@ -7,7 +7,7 @@
 
 {"网站名字": "AvGood",
 "网站地址": "https://avgood.com",
-"访问请求ua": "Android HarveyHarmonyOS/1.0.0",
+"访问请求ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0",
 "访问请求cookie": "空",
 "访问请求referer": "Referer$https://avgood.com",
 "播放请求头": "User-Agent$123",
