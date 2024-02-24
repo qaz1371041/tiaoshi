@@ -6,7 +6,7 @@
 "zidingyi": [
 
 {"网站名字": "AvGood",
-"网站地址": "https://avgood.com/c/",
+"网站地址": "https://avgood.com",
 "访问请求ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
 "访问请求cookie": "zh_choose=s; UCQr_2132_saltkey=KJk8VaVV; UCQr_2132_lastvisit=1708714313; UCQr_2132_lastact=1708717913%09is_login.php%09",
 "访问请求referer": "Referer$https://avgood.com",
@@ -26,8 +26,8 @@
 "直接播放": "0",
 "列表显示": "0",
 "横图显示": "0",
-"列表起始页": "1",
-"列表分类": "电影$/529/#电视剧$/512/#综艺$/vodshow/id/zongyi/page/#动漫$/vodshow/id/dongman/page/",
+"列表起始页": "2",
+"列表分类": "电影$/c/529/#电视剧$/c/512/#综艺$/vodshow/id/zongyi/page/#动漫$/vodshow/id/dongman/page/",
 "列表后缀": "/",
 //提示：类型剧情地区年代排序可以自由选择是否显示，注意和分类链接要联动，不显示的分类链接就去掉那个分类的动态词
 //0:否，1：是
