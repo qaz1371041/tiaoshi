@@ -214,8 +214,8 @@
 
 //主解析是JSON直链格式的解析
 "zhujiexi":[
-//{"name":"分享者自用","url":"https://json.oorl.cn/api/?key=xdLCoyFT4zZGVlI4vj&url="},	
 {"name":"主解1","url":"http://119.91.123.253:2345/Api/yun.php?url="},
+{"name":"巧记","url":"http://pan.qiaoji8.com/tvbox/neibu.php?url="},
 {"name":"主解0","url":"https://www.qiaoji8.com/tvbox/neibu.php?url="},
 {"name":"分享者蓝光","url":"http://json.xn--654a.cc/home/api?type=ys&uid=1323246&key=dfiopqzEHJKNOPSTY5&url="},	
 {"name":"主1","url":"http://175.178.27.186:75/aikuwudiwenjianjia/LXJSON/?key=5&url="}],
