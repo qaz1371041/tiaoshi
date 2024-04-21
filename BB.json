@@ -133,6 +133,7 @@
 {"name":"TV酷影视","url":"https://www.tvkuys.xyz//api.php/app/"},
 {"name":"微笑TV","url":"http://app.vipwxys.cn/mogai_api.php/v1.vod"},	
 {"name":"影视之家","url":"http://yingszj.xn--654a.cc/api.php/app/"},
+{"name":"柠檬影视","url":"http://mf.songshu.cyou/api.php/app/"},//http://mf.songshu.cyou/xz/	
 {"name":"爱看剧","url":"https://www.ikanju.cc/mogai_api.php/v1.vod"},
 {"name":"1080","url":"http://xc1080.xn--654a.cc/api.php/app/"},	
 {"name":"柒月影视","url":"https://www.9day.cc/api.php/app/"},	
@@ -219,6 +220,7 @@
 {"name":"备用解析1","url":"https://jx.jsonplayer.com/player/?url="},
 {"name":"备用解析3","url":"https://jx.777jiexi.com/player/?url="},
 {"name":"何以影视解析","url":"https://www.heyik.cn/player/?url="},
+{"name":"柠檬解析","url":"http://mfbfq.songshu.cyou//player/?url="},	
 {"name":"备用解析4","url":"https://110.42.2.247:9090/muiplayer/?url="},
 {"name":"觅知解析","url":"http://103.233.255.142:1133/?url="},	
 {"name":"柒月解析","url":"https://bfq.imayday.cn/player/analysis.php?v="},
