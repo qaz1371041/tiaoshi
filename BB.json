@@ -136,10 +136,9 @@
 {"name":"爱看剧","url":"https://www.ikanju.cc/mogai_api.php/v1.vod"},
 {"name":"1080","url":"http://xc1080.xn--654a.cc/api.php/app/"},	
 {"name":"柒月影视","url":"https://www.9day.cc/api.php/app/"},	
-{"name":" 鸭奈飞影视","url":"https://yanetflix.me/api.php/app/"},	
-{"name":"地瓜影院","url":"https://www.qiqiguai.cn/api.php/app/"},	
-{"name":"188影视","url":"https://www.7k789.com/api.php/v1.vod"},//https://xn--p3t503bggc.com/ 
-{"name":"海兔影院","url":"https://www.haituu.tv/api.php/v1.vod/"},
+{"name":" 鸭奈飞影视","url":"https://yanetflix.me/api.php/app/"},		
+//{"name":"188影视","url":"https://www.7k789.com/api.php/v1.vod"},//https://xn--p3t503bggc.com/ 
+{"name":"海兔影院","url":"http://www.haitu.xyz/api.php/v1.vod/"},
 {"name":"蚂蚁资源","url":"http://122.228.84.103:5822/api.php/app/"},	
 {"name":"我爱电影","url":"https://www.52dianying.top//api.php/app/"},
 {"name":"可可","url":"http://4k.953365.cn:8090/xgapp.php/v1/"},
