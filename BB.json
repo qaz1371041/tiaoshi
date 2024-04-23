@@ -6728,10 +6728,10 @@
 //0：get方式，1：post方式，注意：如果用post方式，【搜索模式】要填：1
 "搜索请求方式": "0",
 "搜索模式": "1",
-"搜索前": "https://hsds99.lat/index.php/vod/search.html?wd=",
+"搜索前": "https://hsds3.buzz/index.php/vod/search.html?wd=",
 "搜索后": "",
 "搜索连接后缀": "/vodplay/",
-"搜索带翻页模式": "https://hsds99.lat/index.php/vod/search/page/翻页/wd/搜索词.html",
+"搜索带翻页模式": "https://hsds3.buzz/index.php/vod/search/page/翻页/wd/搜索词.html",
 "搜索二次截取": "class=\"block-post$$class=\"pagination",
 "搜索截取数组": "class=\"item$$</a>",
 "搜索图片前缀": "空",
