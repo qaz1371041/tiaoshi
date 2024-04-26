@@ -1905,7 +1905,7 @@
 "播放页跳转看图": "0"},
  	
 {"网站名字": "厂长影视[搜索验证]",
-"网站地址": "https://www.czzy88.com/",
+"网站地址": "https://www.czys.top/",
 "访问请求ua": "Mozilla/5.0 (Linux; Android 9; HUAWEI CLT-AL00 Build/MVT3.128574.70; wv) Version/4.0 Chrome/100.0.4896.58 Quark/6.2.9.251 Mobile Safari/537.36",
 "访问请求cookie": "空",
 "访问请求referer": "空",
@@ -1934,7 +1934,7 @@
 "列表图片": "original=\"$$\"",
 "列表标题": "alt=\"$$\"",
 "列表副标题": "class=\"qb\">$$</span>",
-"列表链接": "href=\"https://www.czzy88.com/$$\"",
+"列表链接": "href=\"https://www.czys.top/$$\"",
 "列表链接前缀": "空",
 "列表链接后缀": "空",
 //0：get方式，1：post方式，注意：如果用post方式，【搜索模式】要填：1
@@ -1943,7 +1943,7 @@
 "搜索前": "/xsseanmch?q=",//https://www.haokongbu.top/e/search/index.php
 "搜索后": "",//keyboard=搜索词&submit=搜索&show=title,zhuyan&tempid=1
 "搜索连接后缀": "/vod/",
-"搜索带翻页模式": "https://www.czzy88.com/xsseanmch?q=搜索词&f=_all&p=翻页",
+"搜索带翻页模式": "https://www.czys.top/xsseanmch?q=搜索词&f=_all&p=翻页",
 "搜索二次截取": "class=\"bt_img$$</ul>",
 "搜索截取数组": "<li>$$</li>",
 "搜索图片前缀": "空",
@@ -1969,7 +1969,7 @@
 "播放剧集二次截取": "空",
 "播放剧集截取数组": "<a$$/a>",
 "播放剧集标题": ">$$<",
-"播放剧集链接": "href=\"https://www.czzy88.com/$$\"",
+"播放剧集链接": "href=\"https://www.czys.top/$$\"",
 "播放剧集链接前缀": "空",
 "播放剧集链接后缀": "空"},
 	
