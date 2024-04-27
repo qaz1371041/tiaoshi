@@ -138,7 +138,8 @@
 {"name":"影视之家","url":"http://yingszj.xn--654a.cc/api.php/app/"},
 {"name":"柠檬影视","url":"http://mf.songshu.cyou/api.php/app/"},//http://mf.songshu.cyou/xz/	
 {"name":"爱看剧","url":"https://www.ikanju.cc/mogai_api.php/v1.vod"},
-{"name":"1080","url":"http://xc1080.xn--654a.cc/api.php/app/"},	
+{"name":"1080","url":"http://xc1080.xn--654a.cc/api.php/app/"},
+{"name":"91影视","url":"https://www.91o.cc/api.php/v1.vod"},	
 {"name":"柒月影视","url":"https://www.9day.cc/api.php/app/"},	
 {"name":" 鸭奈飞影视","url":"https://yanetflix.me/api.php/app/"},		
 {"name":"um电影","url":"https://www.umkan.app/mogai_api.php/v1.vod"},
@@ -207,7 +208,7 @@
 //主解析是JSON直链格式的解析
 "zhujiexi":[
 {"name":"主解1","url":"http://119.91.123.253:2345/Api/yun.php?url="},
-{"name":"巧记","url":"http://pan.qiaoji8.com/tvbox/neibu.php?url="},
+{"name":"肥解析","url":"http://json.84jia.com/home/api?type=ys&uid=335253&key=demprsyzBMQRVY0234&url="},
 {"name":"TV酷影视","url":"https://jxxcc-cc1.dianshia.top/api/?key=RxSlfyMCzxKoFWMdv4&url="},
 {"name":"TV酷影视","url":"http://json.xn--654a.cc/home/api?type=ys&uid=1351539&key=ekoqtxzBFGIKMNOPZ5&url="},	
 {"name":"何以影视解析","url":"http://103.215.76.150:8090/lunxun/json.php?url="},	
@@ -225,6 +226,7 @@
 {"name":"备用解析3","url":"https://jx.777jiexi.com/player/?url="},
 {"name":"何以影视解析","url":"https://www.heyik.cn/player/?url="},
 {"name":"柠檬解析","url":"http://mfbfq.songshu.cyou//player/?url="},
+{"name":"蚂蚁","url":"https://p.orangek.org/player/ec.php?code=qw&if=1&url="},	
 {"name":"um","url":"https://b.umkan.app/?url="},
 {"name":"映迷","url":"https://jx.inmi.app/?url="},	
 {"name":"备用解析4","url":"https://110.42.2.247:9090/muiplayer/?url="},
