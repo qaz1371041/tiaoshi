@@ -4696,8 +4696,8 @@
 "播放剧集链接前缀": "",
 "播放剧集链接后缀": ""},
 
-{"网站名字": "哔嘀影视{搜索验证}",
-"网站地址": "https://www.bdys10.com/",
+{"网站名字": "缘觉影视{搜索验证}",
+"网站地址": "https://www.yjys.me/",
 "访问请求ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
 "访问请求cookie": "_ga=GA1.1.1559740887.1707799444; JSESSIONID=z7HG6WbPLYqb7Xfb9dkam8tt7qgqWVj0t0Tz4efz; read=true; _ga_X18Z64JLZR=GS1.1.1707799443.1.1.1707799465.0.0.0",
 "访问请求referer": "空",
@@ -4731,9 +4731,9 @@
 "列表链接后缀": "空",
 "搜索请求方式": "0",
 "搜索模式": "1",
-"搜索前": "https://www.bdys10.com/search/",//https://www.haokongbu.top/e/search/index.php
+"搜索前": "https://www.yjys.me/search/",//https://www.haokongbu.top/e/search/index.php
 "搜索后": "",//keyboard=搜索词&submit=搜索&show=title,zhuyan&tempid=1
-"搜索带翻页模式": "https://www.bdys10.com/search/搜索词/翻页",
+"搜索带翻页模式": "https://www.yjys.me/search/搜索词/翻页",
 "搜索连接后缀": "空",
 "搜索二次截取": "空",
 "搜索截取数组": "col-4 col-md-2$$<p",
