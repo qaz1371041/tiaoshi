@@ -4390,7 +4390,7 @@
 
 {"网站名字": "荐片",
 "网站地址": "",
-"访问请求ua": "User-Agent$jianpian-android/350#Referer$http://api2.rinhome.com#JPAUTH$y261ow7kF2dtzlxh1GS9EB8nbTxNmaK/QQIAjctlKiEv#Host$api2.rinhome.com",
+"访问请求ua": "User-Agent$jianpian-android/350#Referer$http://oiuzy.haitu33.com#JPAUTH$y261ow7kF2dtzlxh1GS9EB8nbTxNmaK/QQIAjctlKiEv#Host$api2.rinhome.com",
 "播放请求头": "空",
 "图片请求头": "User-Agent$jianpian-version353#Referer$www.jianpianapp.com#Host$images.nbddy.com",
 "嗅探词": ".m3u8#.mp4#.mkv",
@@ -4401,7 +4401,7 @@
 {
 "分类名称": "全部",
 "第一页分类链接": "空",
-"分类链接": "http://api2.rinhome.com/api/crumb/list?area=0&category_id=类型&page=翻页&type=0&limit=24&sort=hot&year=0",
+"分类链接": "http://oiuzy.haitu33.com/api/crumb/list?area=0&category_id=类型&page=翻页&type=0&limit=24&sort=hot&year=0",
 "类型": "全部$0#电视剧$2#首推$14#国产剧$15#电影$1#动漫$3#综艺$4#港台剧$16#日韩剧$17#海外剧$18",
 "剧情": "",
 "地区": "",
@@ -4415,7 +4415,7 @@
 "列表标题": "\"title\":\"$$\"",
 "列表副标题": "playlist\":{\"title\":\"$$\"},",
 "列表链接": "\"id\":$$,",
-"列表链接前缀": "http://api2.rinhome.com/api/node/detail?channel=wandoujia&token=&id=",
+"列表链接前缀": "http://oiuzy.haitu33.com/api/node/detail?channel=wandoujia&token=&id=",
 "列表链接后缀": "",
 "搜索请求方式": "0",
 "搜索模式": "1",
