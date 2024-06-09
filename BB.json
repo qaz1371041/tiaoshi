@@ -133,7 +133,7 @@
 //填写APP接口，支持以下5种接口格式。
 "zhuyejiekou": [
 {"name":"分享者自用","url":"http://106.52.244.241/api.php/app/"},	
-{"name":"555","url":"https://555fm.club/api.php/app/"},	
+{"name":"555","url":"https://fivezn.com/api.php/app/"},	//https://555ld.vip/
 {"name":"TV酷影视","url":"https://www.tvkuys.xyz//api.php/app/"},
 {"name":"微笑TV","url":"http://app.vipwxys.cn/mogai_api.php/v1.vod"},	
 {"name":"影视之家","url":"http://yingszj.xn--654a.cc/api.php/app/"},
