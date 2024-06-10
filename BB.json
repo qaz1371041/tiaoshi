@@ -47,7 +47,9 @@
             "名字": "LZ",
             "寻找词": "vip.lz#hd.lz#v.cdnlz#v.cdnlz1",
             "正则规则": [
-		"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:18.5333,[\\s\\S]*?#EXT-X-DISCONTINUITY",   
+		"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:18.5333,[\\s\\S]*?#EXT-X-DISCONTINUITY", 
+		"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:19.52,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+		"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:18.6666,[\\s\\S]*?#EXT-X-DISCONTINUITY",    
 		"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:7\\.166667,[\\s\\S]*?#EXT-X-DISCONTINUITY",   
 		"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6\\.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",    
                 "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY",
@@ -60,7 +62,10 @@
             "寻找词": "suonizy",
             "正则规则": [
                 "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:1\\.000000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-		 "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:1\\.15.2666,[\\s\\S]*?#EXT-X-DISCONTINUITY",   
+		"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:1\\.15.2666,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+		"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:1\\.15.1666,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+		"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:1\\.16.3333,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+		"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:1\\.15.266667,[\\s\\S]*?#EXT-X-DISCONTINUITY",    
                 "#EXTINF.*?\\s+.*?p1ayer.*?\\.ts\\s+",
                 "#EXTINF.*?\\s+.*?\\/video\\/original.*?\\.ts\\s+"
                 
@@ -118,6 +123,10 @@
         "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:7\\.400000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
 	"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6\\.400000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
         "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+	"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:25.08,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:20.52,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+	"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:25.1,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:25.1999,[\\s\\S]*?#EXT-X-DISCONTINUITY",
 	"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:25.0666,[\\s\\S]*?#EXT-X-DISCONTINUITY",
 	"#EXTINF.*?\\s+.*?1170(20|32).*?\\.ts\\s+",
 	"#EXTINF.*?\\s+.*?116977.*?\\.ts\\s+",  
