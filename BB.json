@@ -63,7 +63,7 @@
 { "名字": "索尼",
             "寻找词": "suonizy",
             "正则规则": [
-                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:1\\.000000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:1\\.000000,[\\s\\S]*?#EXT-X-DISCONTINUITY",    
 		"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:1\\.15.2666,[\\s\\S]*?#EXT-X-DISCONTINUITY",
 		"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:1\\.15.1666,[\\s\\S]*?#EXT-X-DISCONTINUITY",
 		"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:1\\.16.3333,[\\s\\S]*?#EXT-X-DISCONTINUITY",
@@ -76,7 +76,7 @@
  { "名字": "暴风",
             "寻找词": "bfzy#s5.bfzycdn#bfbfvip",
             "正则规则": [
-                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY",   
                 "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+",    
                 "#EXTINF.*?\\s+.*?adjump.*?\\.ts\\s+" 
             ]
