@@ -3341,7 +3341,7 @@
 {"网站名字": "缘觉影视{搜索验证}",
 "网站地址": "https://www.yjys02.com/",  //永久域名发布页：bdys.me
 "访问请求ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
-"访问请求cookie": "JSESSIONID=tAj7lg-6VfAg4mNL9WN9HgFwG5Dxar2nl5pz_lpo; read=true",
+"访问请求cookie": "空",
 "访问请求referer": "空",
 "播放请求头": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
 "图片请求头": "空",
@@ -3360,7 +3360,7 @@
 "列表显示": "0",
 "横图显示": "0",
 "列表起始页": "1",
-"列表分类": "原创压制$s/yuanchuang/#动作片$/s/dongzuo/#爱情片$/s/aiqing/#战争片$/s/zhanzheng/#喜剧片$/s/xiju/#科幻片$/s/kehuan/#恐怖片$/s/kongbu/#3D片$/s/3D/#剧情片$/s/juqing/#警匪片$/s/jingfei/#纪录片$/s/jilu/#历史$/s/lishi/#国产电视剧$/s/guoju/#美剧$/s/meiju/#韩剧$/s/hanju/#日剧$/s/riju/#港台剧$/s/gangtaiju/#泰剧$/s/taiju/#综艺$/s/zongyi/",
+"列表分类": "动作片$/s/dongzuo/#爱情片$/s/aiqing/#战争片$/s/zhanzheng/#喜剧片$/s/xiju/#科幻片$/s/kehuan/#恐怖片$/s/kongbu/#3D片$/s/3D/#剧情片$/s/juqing/#警匪片$/s/jingfei/#纪录片$/s/jilu/#历史$/s/lishi/#国产电视剧$/s/guoju/#美剧$/s/meiju/#韩剧$/s/hanju/#日剧$/s/riju/#港台剧$/s/gangtaiju/#泰剧$/s/taiju/#综艺$/s/zongyi/",
 "列表后缀": "",
 "列表二次截取": "空",
 "列表截取数组": "class=\"card card-sm$$class=\"mb-0 text-muted",
