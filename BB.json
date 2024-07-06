@@ -4807,7 +4807,7 @@
 "播放剧集链接后缀": ""},	
 
 {"网站名字": "千媚宫AV",
-"网站地址": "https://qmg16.cc/",//最新地址 https://qmg72.cc(16-72)  --> 点击进入
+"网站地址": "https://qmg75.cc/",//最新地址 https://qmg75.cc(18-75)  --> 点击进入
 "访问请求ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
 "访问请求cookie": "空",
 "访问请求referer": "Referer$https://qmg72.cc/",
@@ -4845,7 +4845,7 @@
 "搜索前": "/vod/search.html?wd=",
 "搜索后": "",
 "搜索连接后缀": "/vodplay/",
-"搜索带翻页模式": "https://qmg16.cc/vod/search/page/翻页/wd/搜索词.html",
+"搜索带翻页模式": "https://qmg75.cc/vod/search/page/翻页/wd/搜索词.html",
 "搜索二次截取": "空",
 "搜索截取数组": "class=\"img-box$$</a>",
 "搜索图片前缀": "空",
@@ -5047,7 +5047,7 @@
 	
 {"网站名字": "香蕉视频",
 "网站地址": "https://www.61615a.com/",
-"访问请求ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
+"访问请求ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.95 Safari/537.36",
 "访问请求cookie": "空",
 "访问请求referer": "空",
 "播放请求头": "User-Agent$123",
