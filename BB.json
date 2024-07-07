@@ -274,7 +274,8 @@
 
 //填写电视直播的接口链接
 //"dianshizhibo": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/live.txt",
-"dianshizhibo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715581924111/live1.txt",
+//"dianshizhibo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715581924111/live1.txt",
+"dianshizhibo": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/qaz1371041/tiaoshi/main/tv",
 //填写播放地址寻找的地址标识词，中间用#号分割
 "嗅探词": "m3u8?#ixigua#.czspp#.m3u8#mp4#.flv#.mp3#.m4a#?video_id=#.mkv#rtmp://",
 
