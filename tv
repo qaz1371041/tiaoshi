@@ -562,7 +562,7 @@ CHC家庭影院,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807
 湖北影视,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380728abccd2/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKU1xiiKGJYFBZK9RpEkaggogtHJZW6nJQqLppbEYE%2BqJ9kJW%2FMvKldfS2dCii9VSI
 湖北综合,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072216f7da/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNLx3R3LdIBdA5q61lut1LwZcw4SC2tJubc%2Bq5t%2F61jvWCtjrJL0x%2BHncPgdmcbBW9I
 十堰新闻,http://p8.vzan.com/slowlive/034028687228317362/live.m3u8
-
+十堰公共,http://p8.vzan.com/slowlive/626006478246051465/live.m3u8
 
 湖北卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8
 湖北综合,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072216f7da/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNLx3R3LdIBdA5q61lut1LwZcw4SC2tJubc%2Bq5t%2F61jvWCtjrJL0x%2BHncPgdmcbBW9I
@@ -579,6 +579,68 @@ CHC家庭影院,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807
 凤凰资讯频道,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
 香港凤凰频道,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+
+凤凰中文,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226317/index.m3u8
+凤凰中文,http://597ca2.netsite.cc/proxy/1846789161/1846789161.m3u8
+凤凰中文,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226308/index.m3u8
+凤凰中文,http://58.216.99.148:80/live2.rxip.sc96655.com/live/test1_4000.m3u8
+凤凰中文,http://180.143.82.217:8181/tsfile/live/1014_1.m3u8
+凤凰中文,http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel52003/index.m3u8
+凤凰中文,http://php.17186.eu.org/phtv/fhzw.m3u8
+凤凰中文,http://125.210.152.18:9090/live/FHZW_1200.m3u8
+凤凰中文,http://223.110.245.139/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
+凤凰中文台,http://223.110.245.139/PLTV/3/224/3221226922/index.m3u8
+凤凰中文高清,http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
+凤凰中文 (720p),http://120.84.121.199:808/hls/29/index.m3u8
+凤凰中文 (576p),http://1b6467f415.iok.la:9931/tsfile/live/1037_1.m3u8
+凤凰中文 (720p),http://210.210.155.37/uq2663/h/h157/index2.m3u8
+凤凰中文 (720p),http://210.210.155.37/uq2663/h/h157/index2.m3u8
+凤凰中文 (720p),http://210.210.155.37/uq2663/h/h157/index2.m3u8
+凤凰中文,http://117.27.190.42:9998/tsfile/live/23280_1.m3u8
+
+凤凰资讯,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226320/index.m3u8
+鳳凰資訊,https://z02.ubtvfans.com/live/rx3/2292/45ceb0f863d4b877269f3c784ff16f30/index.m3u8
+鳳凰資訊,https://pull-f5-spe.ixigua.com/yeslivetv.com/303328069-581799927/index.m3u8
+鳳凰資訊,http://61.221.215.25:8800/hls/47/index.m3u8
+凤凰资讯,http://58.216.99.148:80/live2.rxip.sc96655.com/live/test2_4000.m3u8
+凤凰资讯,http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel52002/index.m3u8
+凤凰资讯,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
+凤凰资讯HD,http://113.64.147.19:8081/hls/36/index.m3u8
+凤凰资讯台,http://125.210.152.18:9090/live/FHZX_1200.m3u8
+凤凰资讯高清,http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
+凤凰资讯 (720p),http://120.84.121.199:808/hls/28/index.m3u8
+凤凰资讯 (576p),http://171.108.239.54:8181/tsfile/live/1024_1.m3u8
+凤凰资讯 (720p),http://198.204.244.250:8080/live/107/hls.m3u8
+凤凰资讯,http://125.210.150.58:9090/live/hszx-fhzx-h264.m3u8
+凤凰资讯,http://222.217.243.135:8181/tsfile/live/1015_1.m3u8
+凤凰资讯,http://183.204.13.237/cee7354084e908e7d71a99f88ecd0c61.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
+凤凰资讯,https://edge2.laotv.la/live/PhoenixNews/index.m3u8
+鳳凰資訊,https://z02.ubtvfans.com/live/rx1/2811/33a7203bc62f06ac6919c464a7749544/index.m3u8
+凤凰资讯,https://play-flive.ifeng.com/live/06OLEEWQKN4.flv
+凤凰资讯,https://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
+凤凰资讯,http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
+
+香港凤凰频道,http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.flv
+
+
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+香港卫视HD,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+外网香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
+香港卫视,https://piccpndali.v.myalicdn.com/audio/xianggangweishi_2.m3u8
+香港卫视,http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
+香港卫视,http://hw-play.lezhibo.com/live/bd2d26fd492b403d8ec69de1859bdb31.m3u8
+香港卫视,https://piccpndks.v.kcdnvip.com/audio/xianggangweishi_2.m3u8
+香港卫视,https://epg.pw/stream/99980f8e82d6d4111c77f2fe961013e7d1ee153a55c7a9be69cfa17143933fd1.m3u8
+香港卫视,http://110.72.64.135:808/hls/333/index.m3u8
+香港卫视,http://110.72.79.92:808/hls/333/index.m3u8
+香港卫视-2,http://110.72.83.165:808/hls/333/index.m3u8
+香港卫视HD,http://110.72.82.75:808/hls/333/index.m3u8
+香港卫视HD,http://hw-play.lezhibo.com/live/bd2d26fd492b403d8ec69de1859bdb31.m3u8
+香港卫视HD,https://myun-hw-s3.myun.tv/melj80jz/lxx27bol/1551285536499984128.m3u8
+香港卫视HD,http://ali-play.lezhibo.com/lezhibo/d803719995ab40df83fca5e638cac7f4.m3u8
+香港卫视HKS,http://hw-play.lezhibo.com/live/1fb871bac32a4c96b206a85aa573a161.m3u8
+香港卫视高清,http://39.135.138.58:18890/PLTV/88888888/224/3221226251/index.m3u8
+
 
 
 纪录片频道,#genre#
