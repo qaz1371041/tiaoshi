@@ -152,6 +152,13 @@
 {"name":"51追剧网","url":"http://www.51zhuiju.cc//api.php/app/"},
 {"name":"柠檬影视","url":"http://mf.songshu.cyou/api.php/app/"},//http://mf.songshu.cyou/xz/	
 {"name":"爱看剧","url":"https://www.ikanju.cc/mogai_api.php/v1.vod"},
+	
+{"name":"分享空白","url":"http://43.136.176.188:92/api.php/app/"},
+{"name":"冷家影视","url":"http://liangge.link//mogai_api.php/v1.vod"},
+{"name":"沐沐影视","url":"https://nnystv.cn/api.php/app/"},
+{"name":"春华影院","url":"https://chuavod.com/api.php/app/"},
+{"name":"天天美剧","url":"https://www.ttmja.com//api.php/app/"},	
+	
 {"name":"91影视","url":"https://www.91o.cc/api.php/v1.vod"},	
 {"name":"柒月影视","url":"https://www.9day.cc/api.php/app/"},	
 {"name":" 鸭奈飞影视","url":"https://yanetflix.me/api.php/app/"},	
@@ -205,7 +212,10 @@
 //填写采集接口
 "caijizhan": [
 {"name":"量子资源","url":"https://cj.lziapi.com/api.php/"},
-{"name":"映迷","url":"https://www.inmi.app/api.php/"},	
+{"name":"映迷","url":"https://www.inmi.app/api.php/"},
+{"name":"光年TV","url":"https://www.gntv.cc//api.php/"},
+{"name":"彩虹影视","url":"http://www.blueboy.cc//api.php/"},
+{"name":"TVFox-免费追剧","url":"https://www.tvfox.net//api.php/"},	
 {"name":"黑木耳资源","url":"https://xml.heimuer.tv/api.php/"},	
 {"name":"时光TV","url":"https://ys.timebk.cn/api.php/"},  
 {"name":"北极狐🦊影视","url":"https://www.kuin.one/api.php/"},
