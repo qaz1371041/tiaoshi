@@ -152,7 +152,8 @@
 {"name":"51追剧网","url":"http://www.51zhuiju.cc//api.php/app/"},
 {"name":"柠檬影视","url":"http://mf.songshu.cyou/api.php/app/"},//http://mf.songshu.cyou/xz/	
 {"name":"爱看剧","url":"https://www.ikanju.cc/mogai_api.php/v1.vod"},
-	
+{"name":"霏雪影视","url":"https://www.fxys.fun//api.php/v1.vod"},
+{"name":"皮皮虾影视","url":"http://www.ppxys.vip//api.php/app/"},	
 {"name":"分享空白","url":"http://43.136.176.188:92/api.php/app/"},
 {"name":"冷家影视","url":"http://liangge.link//mogai_api.php/v1.vod"},
 {"name":"沐沐影视","url":"https://nnystv.cn/api.php/app/"},
@@ -254,6 +255,7 @@
 {"name":"备用解析3","url":"https://free.haokantv.cyou/player/?url="},
 {"name":"全民解析","url":"https://jx.2s0.cn/player/?url="},
 {"name":"夜幕","url":"https://www.yemu.xyz/?url="},
+{"name":"皮皮虾","url":"http://play.shijie.chat/player/ec.php?code=qq&if=1&url="},	
 {"name":"2","url":"https://jx.xmflv.com/?url="},
 {"name":"圣城","url":"https://jx.sc1080.top/?url="},	
 {"name":"优酷解不了","url":"https://bfq.lggys.com/player/analysis.php?v="},	
