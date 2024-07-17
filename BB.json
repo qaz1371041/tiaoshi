@@ -5953,7 +5953,7 @@
 
 
 {"网站名字": "MossAV",
-"网站地址": "https://titimo-r3-ss.mossav5.cc/",//https://a.mossav.lol/阿里巴巴
+"网站地址": "https://titimo-r2-ss.mossav5.cc/",//https://a.mossav.lol/阿里巴巴
 "访问请求ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.95 Safari/537.36",
 "访问请求cookie": "空",
 "访问请求referer": "空",
@@ -5993,7 +5993,7 @@
 "搜索前": "/vodsearch/wd/",
 "搜索后": ".html",
 "搜索连接后缀": "/index.php/vod/detail/id/",
-"搜索带翻页模式": "https://titimo-r3-ss.mossav5.cc/vodsearch/page/翻页/wd/搜索词.html",
+"搜索带翻页模式": "https://titimo-r2-ss.mossav5.cc/vodsearch/page/翻页/wd/搜索词.html",
 "搜索二次截取": "空",
 "搜索截取数组": "class=\"relative aspect-w-16$$</div>",
 "搜索图片前缀": "空",
