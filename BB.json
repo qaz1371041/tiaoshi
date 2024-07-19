@@ -48,7 +48,8 @@
             "寻找词": "vip.lz#hd.lz#v.cdnlz#v.cdnlz1#.cdnlz*",
             "正则规则": [
 		"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:18.5333,[\\s\\S]*?#EXT-X-DISCONTINUITY", 
-		"#EXTINF.*?\\s+[a-z0-9]{18}\\.ts","[a-z0-9]{18}\\.ts\\s+",    
+		"#EXTINF.*?\\s+[a-z0-9]{18}\\.ts","[a-z0-9]{18}\\.ts\\s+", 
+		"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:4\\.066667,[\\s\\S]*?#EXT-X-DISCONTINUITY",   
 		"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF.*?\\s+[a-z0-9]{18}\\.ts[\\s\\S]*?#EXT-X-DISCONTINUITY",    
 		"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:19.52,[\\s\\S]*?#EXT-X-DISCONTINUITY",
 		"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:18.6666,[\\s\\S]*?#EXT-X-DISCONTINUITY",    
@@ -74,7 +75,7 @@
             ]
         },
  { "名字": "暴风",
-            "寻找词": "bfzy#s5.bfzycdn#bfbfvip",
+            "寻找词": "bfzy#s5.bfzycdn#bfbfvip#bfengbf",
             "正则规则": [
                 "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY",   
                 "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+",    
@@ -120,7 +121,7 @@
             ]
 }, 
 {"名字":"非凡",
-"寻找词":"vip.ffzy#hd.ffzy#.ffzy*",
+"寻找词":"vip.ffzy#hd.ffzy#.ffzy*#super.ffzy",
 "正则规则":[
         "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:7\\.400000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
 	"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6\\.400000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
@@ -132,6 +133,9 @@
 	"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:25.1,[\\s\\S]*?#EXT-X-DISCONTINUITY",
         "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:25.1999,[\\s\\S]*?#EXT-X-DISCONTINUITY",
 	"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:25.0666,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+	"#EXTINF.*?\\s+.*?1171(057).*?\\.ts",
+        "#EXTINF.*?\\s+.*?6d7b(077).*?\\.ts",
+        "#EXTINF.*?\\s+.*?6718a(403).*?\\.ts",
 	"#EXTINF.*?\\s+.*?1170(20|32).*?\\.ts\\s+",
 	"#EXTINF.*?\\s+.*?116977.*?\\.ts\\s+",  
         "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"    
@@ -158,6 +162,8 @@
 {"name":"爱看剧","url":"https://www.ikanju.cc/mogai_api.php/v1.vod"},
 {"name":"霏雪影视","url":"https://www.fxys.fun//api.php/v1.vod"},
 {"name":"皮皮虾影视","url":"http://www.ppxys.vip//api.php/app/"},	
+{"name":"路人甲","url":"http://122.228.84.103:5825/api.php/app/"},
+{"name":"追忆影视","url":"http://110.42.7.101:1122/api.php/app/"},	
 {"name":"分享空白","url":"http://43.136.176.188:92/api.php/app/"},
 {"name":"冷家影视","url":"http://liangge.link//mogai_api.php/v1.vod"},
 {"name":"沐沐影视","url":"https://nnystv.cn/api.php/app/"},
@@ -250,7 +256,7 @@
 //主解析是JSON直链格式的解析
 "zhujiexi":[
 {"name":"解析1","url":"http://pan.qiaoji8.com/tvbox/gouzi.php?url=","ua":"User-Agent$okhttp/3.12.0#referer$123"},	
-{"name":"主1","url":"https://ceshi.xiajiangzj.top/?url="}],
+{"name":"解析2","url":"http://115.231.220.36:8801/jx/tvbox/zyy.php?url="}],
 
 
 //备用解析是常规格式的解析
