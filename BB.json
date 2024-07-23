@@ -5634,7 +5634,7 @@
 "播放页跳转看图": "0"},
 
 {"网站名字": "高清仓库",
-"网站地址": "https://gqck29.cc/",//最新地址发布页：gqck.tv  https://www.gqck.cc/  https://www.gqck.net/
+"网站地址": "https://gqck25.cc/",//最新地址发布页：gqck.tv  https://www.gqck.cc/  https://www.gqck.net/
 "访问请求ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
 "访问请求cookie": "空",
 "访问请求referer": "空",
@@ -5672,7 +5672,7 @@
 "搜索前": "/vodsearch/-------------/?wd=",
 "搜索后": "&submit=",
 "搜索连接后缀": "/vodplay/",
-"搜索带翻页模式": "https://www.gqck29.cc/vodsearch/搜索词----------翻页---/",
+"搜索带翻页模式": "https://www.gqck25.cc/vodsearch/搜索词----------翻页---/",
 "搜索二次截取": "空",
 "搜索截取数组": "class=\"stui-vodlist__box\"$$</a>",
 "搜索图片前缀": "空",
@@ -5715,7 +5715,7 @@
 
  
 {"网站名字": "🅰️黄色都市",
-"网站地址": "https://hsds6.buzz/",//https://hsds88.com  https://hsds88vip.sbs/hsds88vip
+"网站地址": "https://hsds2.sbs/",//hsds8.cc  https://hsds88vip.sbs/hsds88vip  https://hsds6.buzz/
 "访问请求ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
 "访问请求cookie": "空",
 "访问请求referer": "空",
@@ -5753,7 +5753,7 @@
 "搜索前": "https://hsds6.buzz/index.php/vod/search.html?wd=",
 "搜索后": "",
 "搜索连接后缀": "/vodplay/",
-"搜索带翻页模式": "https://hsds6.buzz/index.php/vod/search/page/翻页/wd/搜索词.html",
+"搜索带翻页模式": "https://hsds2.sbs/index.php/vod/search/page/翻页/wd/搜索词.html",
 "搜索二次截取": "class=\"block-post$$class=\"pagination",
 "搜索截取数组": "class=\"item$$</a>",
 "搜索图片前缀": "空",
