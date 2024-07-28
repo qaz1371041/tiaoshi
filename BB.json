@@ -249,6 +249,7 @@
 
 //备用解析是常规格式的解析
 "beiyongjiexi":[
+{"name":"何以解析","url":"http://103.215.76.150:8090/lunxun/json.php?url="},	
 {"name":"小蜜蜂","url":"https://jx.xmflv.cc/?url=","ua":"User-Agent$okhttp/3.12.0#referer$123"},	
 {"name":"冰豆","url":"https://bd.jx.cn/?url=","ua":"User-Agent$okhttp/3.12.0#referer$123"},	
 {"name":"1","url":"https://www.cgdyw.net/jiexi/jiekou-2/?url="},
