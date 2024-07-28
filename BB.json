@@ -187,19 +187,15 @@
 {"name":"奈飞中文影视","url":"https://www.netfly.tv//api.php/app/"},
 {"name":"4k_1影视","url":"https://tx.xihauche.cn/api.php/app/"},
 {"name":"4k_2影视","url":"http://ysjtv.yy365.vip/api.php/app/"},	
-{"name":"69美剧","url":"https://www.69mj.com/xgapp.php/v1/"},
-{"name":"飞速播影视","url":"https://www.feisubo.top/api.php/v1.vod"},
 {"name":"天天影院","url":"https://www.ttmja.com/api.php/app/"},	
 {"name":"北川影视","url":"https://www.bczhuiju.com/api.php/v1.vod"},//https://www.bcyingshi.ink/fb/
 {"name":"a8影视","url":"https://www.9day.cc/api.php/app/"},
 {"name":"可可","url":"http://4k.953365.cn:8090/xgapp.php/v1/"}, 
 {"name":"少泽影客","url":"https://yk.shaozeyy.com/api.php/app/"},
-{"name":"聚焦影视","url":"http://tipu.xjqxz.top//api.php/v2.vod"},
 {"name":"思古影视","url":"https://siguyy.tv/api.php/app/"},// https://sigu.app/m.html	
 {"name":"分享遇见","url":"http://4k.953365.cn:8090/xgapp.php/v2/"}, 
 {"name":"零刻影院","url":"https://ys.51bro.cn/mogai_api.php/v1.vod"}, 
-{"name":"海兔影视","url":"https://www.haituu.tv/api.php/v1.vod"},
-{"name":"爱迪影视","url":"https://adys.tv/xgapp.php/v1/"}],
+{"name":"海兔影视","url":"https://www.haituu.tv/api.php/v1.vod"}],
 
  
 
@@ -249,7 +245,6 @@
 
 //备用解析是常规格式的解析
 "beiyongjiexi":[
-{"name":"何以","url":"http://103.215.76.150:8090/lunxun/json.php?url="},	
 {"name":"小蜜蜂","url":"https://jx.xmflv.cc/?url=","ua":"User-Agent$okhttp/3.12.0#referer$123"},	
 {"name":"冰豆","url":"https://bd.jx.cn/?url=","ua":"User-Agent$okhttp/3.12.0#referer$123"},	
 {"name":"1","url":"https://www.cgdyw.net/jiexi/jiekou-2/?url="},
