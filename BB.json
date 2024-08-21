@@ -209,7 +209,7 @@
 //填写采集接口
 "caijizhan": [
 {"name":"量子资源","url":"https://cj.lziapi.com/api.php/"},
-{"name":"映迷","url":"https://www.inmi.app/api.php/"},
+{"name":"360资源","url":"https://360zy.com/api.php/"},
 {"name":"光年TV","url":"https://www.gntv.cc//api.php/"},
 {"name":"彩虹影视","url":"http://www.blueboy.cc//api.php/"},
 {"name":"何以影视","url":"https://www.heyik.cn//api.php/"},	
@@ -246,6 +246,7 @@
 {"name":"小米无敌","type":1,"url":"http://117.50.183.202:8036/?ip=111.55.12.236&url="},
 {"name":"腾4K","url":"http://www.mpanso.com/woaini.php?url="},	
 {"name":"解析","url":"http://43.248.119.153:9991/jx/?url="},
+{"name":"360解析","url":"http://110.42.3.99:880/rmm.php/?url="},	
 {"name":"XGJ专线","url":"http://43.248.100.147:1122/XGJ/60jxzy.php?url="},	
 {"name":"何以解析","url":"http://103.215.76.150:8090/lunxun/json.php?url=","ua":"User-Agent$okhttp/3.12.0#referer$123"}],
 
