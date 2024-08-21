@@ -252,6 +252,7 @@
 
 //备用解析是常规格式的解析
 "beiyongjiexi":[
+{"name":"0","url":"https://m.centos.chat/dplayer/?url="},	
 {"name":"小蜜蜂","url":"https://jx.xmflv.cc/?url=","ua":"User-Agent$okhttp/3.12.0#referer$123"},	
 {"name":"冰豆","url":"https://bd.jx.cn/?url=","ua":"User-Agent$okhttp/3.12.0#referer$123"},	
 {"name":"1","url":"https://www.cgdyw.net/jiexi/jiekou-2/?url="},
@@ -266,8 +267,7 @@
 {"name":"思古b","url":"https://jx.siguyy9.com/?url="},	
 {"name":"圣城","url":"https://jx.sc1080.top/?url="},	
 {"name":"优酷解不了","url":"https://bfq.lggys.com/player/analysis.php?v="},	
-{"name":"糖豆解析","url":"https://p.guonav.com/play/p1/?url="},	
-{"name":"0","url":"https://m.centos.chat/dplayer/?url="},	
+{"name":"糖豆解析","url":"https://p.guonav.com/play/p1/?url="},		
 {"name":"备用解析1","url":"https://jx.jsonplayer.com/player/?url="},
 {"name":"备用解析2","url":"https://jx.777jiexi.com/player/?url="},
 {"name":"5","url":"https://jx.jiexila.cn/?url="},
