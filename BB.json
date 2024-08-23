@@ -4878,7 +4878,7 @@
 "播放页跳转看图": "0"},
 
 {"网站名字": "秘密公寓",
-"网站地址": "https://hcz.15kakababa.sbs/",//https://mmgy.pw/# https://fulidaohang.gitbook.io/untitled-1
+"网站地址": "https://ltk.14kakababa.sbs/",//https://caotang.xyz/
 "访问请求ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
 "访问请求cookie": "空",
 "访问请求referer": "空",
@@ -4899,7 +4899,7 @@
 "列表显示": "0",
 "横图显示": "0",
 "列表起始页": "1",
-"列表分类": "最近热门$/vodtype/23-#国产片商$/vodtype/27-#无码破解中文字幕$/vodtype/26-#网曝51吃瓜$/vodtype/28-#动漫字幕$/vodtype/29-#星宫一花$/91pron-100/page/#桥本有菜$/91pron-99/page/#石川澪$/91pron-98/page/#明里䌷$/91pron-97/page/#桃乃木香奈$/91pron-96/page/#相泽南$/91pron-95/page/#三上悠亚$/91pron-94/page/#反差婊$/91pron-103/page/#ktv$/91pron-108/page/#七天高端外围$/91pron-64/page/#后入$/91pron-114/page/#探花郎李寻欢$/91pron-52/page/#小宝探花$/91pron-36/page/#利哥探花$/91pron-60/page/#调教$/91pron-113/page/#丝袜$/91pron-112/page/#熟女$/91pron-105/page/#巨乳$/91pron-111/page/#人妻$/91pron-110/page/#3p$/91pron-65/page/#女仆$/91pron-77/page/#自拍偷拍$/91pron-102/page/#空姐$/91pron-33/page/#按摩$/91pron-71/page/#韩国色情$/91pron-104/page/#模特$/91pron-70/page/#萝莉$/91pron-58/page/#双飞$/91pron-66/page/#学生$/91pron-69/page/#乱伦$/91pron-109/page/#Ai换脸$/91pron-107/page/#自慰$/91pron-93/page/#良家$/91pron-68/page/#女神$/91pron-61/page/#探花$/91pron-106/page/#秀人网$/91pron-101/page/#杨晨晨$/91pron-92/page/#91porn原创,91视频探花合集$/91pron-80/page/#91沈先生$/91pron-35/page/#鸭哥探花$/91pron-39/page/#小陈头星选$/91pron-44/page/#小马探花$/91pron-48/page/#文轩探花$/91pron-49/page/#步宾探花$/91pron-74/page/#赵总探花$/91pron-75/page/#专找老阿姨$/91pron-76/page/",
+"列表分类": "热门$/index.php/label/hot/page/#国产自拍$/index.php/vod/type/id/23/page/#海角社区$/index.php/vod/type/id/33/page/#91探花视频$/index.php/vod/type/id/30/page/#国产av$/index.php/vod/type/id/27/page/#黑料吃瓜$/index.php/vod/type/id/28/page/#日本av$/index.php/vod/type/id/26/page/",
 "列表后缀": ".html",
 "列表二次截取": "空",
 "列表截取数组": "class=\"thumb-block full-width$$</a>",
@@ -4913,10 +4913,10 @@
 //0：get方式，1：post方式，注意：如果用post方式，【搜索模式】要填：1
 "搜索请求方式": "0",
 "搜索模式": "1",
-"搜索前": "/vodsearch/-------------.html?wd=",
+"搜索前": "/index.php/vod/search.html?wd=",
 "搜索后": "",
 "搜索连接后缀": "/vod/",
-"搜索带翻页模式": "https://zaf.410mm.buzz/vodsearch/搜索词----------翻页---.html",
+"搜索带翻页模式": "https://ltk.14kakababa.sbs/index.php/vod/search/page/翻页/wd/搜索词.html",
 "搜索二次截取": "空",
 "搜索截取数组": "class=\"thumb-block full-width$$</a>",
 "搜索图片前缀": "空",
@@ -4956,6 +4956,7 @@
 "官源是否走解析": "0",
 "播放页跳转看图": "0"},
 
+	
 {"网站名字": "♦影视部落{VIP}",
 "网站地址": "https://movie.tybl04.com/",
 "访问请求ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
