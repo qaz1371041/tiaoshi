@@ -255,6 +255,7 @@
 
 //备用解析是常规格式的解析
 "beiyongjiexi":[
+{"name":"宝片","url":"https://danmu.ibaopian.com/1636/?url="},	
 {"name":"0","url":"https://m.centos.chat/dplayer/?url="},	
 {"name":"小蜜蜂","url":"https://jx.xmflv.cc/?url=","ua":"User-Agent$okhttp/3.12.0#referer$123"},	
 {"name":"冰豆","url":"https://bd.jx.cn/?url=","ua":"User-Agent$okhttp/3.12.0#referer$123"},	
