@@ -1740,7 +1740,7 @@
 "嗅探请求头": "User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",//User-Agent$123#Referer$123
 "播放地址二次截取": "var player_$$</div>",
 "播放地址截取": "\"url\":\"$$\"",
-"嗅探播放地址前缀": "https://137.220.183.102/jx/player.php?vid=",//加前缀的话，截取的地址就会加上前缀再进行一次嗅探。
+"嗅探播放地址前缀": "https://www.freeok.pro/okplayer/?url=",//加前缀的话，截取的地址就会加上前缀再进行一次嗅探。
 "嗅探播放地址后缀": "空",//3种写法"嗅探播放地址后缀": "&from=加截取\"from\":\"$$\""或者"嗅探播放地址后缀": "&from="或者"嗅探播放地址后缀": "\"from\":\"$$\""
 "是否base64解码": "0",
 "是否url解码": "0",
