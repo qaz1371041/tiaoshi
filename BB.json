@@ -149,7 +149,7 @@
 //{"name":"填接口名称","url":"http://xxx/mogai_api.php/v1.vod"},
 //填写APP接口，支持以下5种接口格式。
 "zhuyejiekou": [	
-{"name":"555","url":"https://5scen.club/api.php/app/"},	//https://555ld.vip/
+{"name":"555","url":"https://55flix.com/api.php/app/"},	//https://555ld.vip/
 {"name":"TV酷影视","url":"https://www.tvkuys.xyz//api.php/app/"},
 {"name":"聚合蓝光","url":"http://kkwk123.top/api.php/app/"},
 {"name":"摸鱼","url":"http://ly4k.llys.online/api.php/app/"},
