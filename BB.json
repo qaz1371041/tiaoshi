@@ -251,7 +251,8 @@
 "zhujiexi":[	
 {"name":"解析1","url":"http://pan.qiaoji8.com/tvbox/gouzi.php?url=","ua":"User-Agent$okhttp/3.12.0#referer$123"},
 {"name":"解析2","url":"http://pan.qiaoji8.com/tvbox/neibu.php?url=","ua":"User-Agent$okhttp/3.12.0#referer$123"},
-{"name":"影探解析a","url":"https://api.8l2.cn/api/?key=64b2348b36cb7945e02f2567ed24bc9a&url="},	
+{"name":"影探解析a","url":"https://api.8l2.cn/api/?key=4c675c1a8b0c8e6de9468923114e425c&url="},
+{"name":"影探解析b","url":"https://api.qljson.xyz/api/?key=6f4eee8c9481b7a4580f2d1af9383c54&url="},
 {"name":"宝解1","url":"http://121.62.61.51:6888/api/?key=9tAJdSyqQhgm8VHK4l&url="},
 {"name":"追觅","url":"http://43.248.129.14:20240/qilin/?url="},
 {"name":"MY专线","url":"http://zy.uiovo.com/api/?key=951b4ca48d0f8c77cd8ebbc2e784c441&ud=105&url="},
@@ -261,7 +262,7 @@
 {"name":"宝解2","url":"http://211.101.234.192:4433/api/?key=edmbeVQhyWbQpqQkM8&url="},	
 {"name":"解析3","type":1,"url":"https://cdn.suxun.site/api/?key=QPWMfPxenJeSBjpVcO&url="},	
 {"name":"小米无敌","type":1,"url":"http://117.50.183.202:8036/?ip=111.55.12.236&url="},
-{"name":"腾4K","url":"http://www.mpanso.com/woaini.php?url="},	
+{"name":"1080解析","url":"https://jf.lemiaoyun.cn/api/?key=bc1e1c72813140c311929a461d167707&url="},
 {"name":"解析","url":"http://43.248.119.153:9991/jx/?url="},
 {"name":"360解析","url":"http://110.42.3.99:880/rmm.php/?url="},	
 {"name":"XGJ专线","url":"http://43.248.100.147:1122/XGJ/60jxzy.php?url="},	
