@@ -77,7 +77,8 @@
  { "名字": "暴风",
             "寻找词": "bfzy#s5.bfzycdn#bfbfvip#bfengbf",
             "正则规则": [
-                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY",   
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+	        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY",
                 "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+",    
                 "#EXTINF.*?\\s+.*?adjump.*?\\.ts\\s+" 
             ]
