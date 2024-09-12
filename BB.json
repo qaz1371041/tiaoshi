@@ -682,7 +682,7 @@
 
 	
 {"网站名字": "03影院(搜索验证)",
-"网站地址": "https://www.03yy.co/",
+"网站地址": "https://www.03yy.icu/",
 "访问请求ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
 "访问请求cookie": "空",
 "访问请求referer": "空",
@@ -705,7 +705,7 @@
 "列表显示": "0",
 "横图显示": "0",
 "列表起始页": "1",
-"列表分类": "网飞专场$topiclist/24-#动作片$type/index5-#喜剧片$type/index10-#爱情片$type/index6-#科幻片$type/index7-#恐怖片$type/index8-#战争片$type/index9-#剧情片$type/index12-#动画片$type/index25-#大陆剧$type/index13-#欧美剧$type/index27-#韩国剧$type/index26-#香港剧$type/index14-#台湾剧$type/index46-#日本剧$type/index16-#泰国剧$type/index47-#海外剧$type/index28-#大陆动漫$type/index33-#日韩动漫$type/index34-#欧美动漫$type/index35-#少儿动画$type/index64-#大陆综艺$type/index29-#港台综艺$type/index30-#日韩综艺$type/index31-#欧美综艺$type/index32-#剧情片2$type/index66-",
+"列表分类": "网飞专场$topiclist/24-#动作片$type/index5-#喜剧片$type/index10-#爱情片$type/index6-#科幻片$type/index7-#恐怖片$type/index8-#战争片$type/index9-#剧情片$type/index12-#动画片$type/index25-#大陆剧$type/index13-#欧美剧$type/index27-#韩国剧$type/index26-#香港剧$type/index14-#台湾剧$type/index46-#日本剧$type/index16-#泰国剧$type/index47-#海外剧$type/index28-#大陆动漫$type/index33-#日韩动漫$type/index34-#欧美动漫$type/index35-#少儿动画$type/index64-#大陆综艺$type/index29-#港台综艺$type/index30-#日韩综艺$type/index31-#欧美综艺$type/index32-",
 "列表后缀": ".html",
 "列表二次截取": "空",
 "列表截取数组": "class=\"pic-content pic-width-$$</div>",
@@ -719,10 +719,10 @@
 //0：get方式，1：post方式，注意：如果用post方式，【搜索模式】要填：1
 "搜索请求方式": "1",
 "搜索模式": "1",
-"搜索前": "https://www.03yy.net/search.php?searchword=",
+"搜索前": "https://www.03yy.icu/search.php?searchword=",
 "搜索后": "",
 "搜索连接后缀": "",
-"搜索带翻页模式": "https://www.03yy.net/search.php?page=翻页&searchword=搜索词&searchtype=",
+"搜索带翻页模式": "https://www.03yy.icu/search.php?page=翻页&searchword=搜索词&searchtype=",
 "搜索二次截取": "空",
 "搜索截取数组": "class=\"m-pic-l pic-height-a$$</div>",
 "搜索图片前缀": "空",
