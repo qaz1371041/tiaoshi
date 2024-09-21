@@ -126,7 +126,7 @@
         "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:7\\.400000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
 	"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6\\.400000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
 	"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF.*?\\s+[0-9]{11}[1-9]{2}.*?\\.ts[\\s\\S]*?#EXT-X-DISCONTINUITY",
-	"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:5.033333,[\\s\\S]*?#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3.960000","#EXTINF.*?\\s+.*?1171.*?\\.ts\\s+",
+	"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:5.033333,[\\s\\S]*?#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3.960000",
         "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
 	"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:25.08,[\\s\\S]*?#EXT-X-DISCONTINUITY",
         "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:20.52,[\\s\\S]*?#EXT-X-DISCONTINUITY",
@@ -137,7 +137,8 @@
         "#EXTINF.*?\\s+.*?6d7b(077).*?\\.ts",
         "#EXTINF.*?\\s+.*?6718a(403).*?\\.ts",
 	"#EXTINF.*?\\s+.*?1170(20|32).*?\\.ts\\s+",
-	"#EXTINF.*?\\s+.*?116977.*?\\.ts\\s+",  
+	"#EXTINF.*?\\s+.*?116977.*?\\.ts\\s+", 
+	"#EXTINF.*?\\s+.*?1171.*?\\.ts\\s+",
         "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"    
 ]
 }
@@ -152,10 +153,11 @@
 {"name":"555","url":"https://wua3b7c9.com/api.php/app/"},	//5playmovies.com  https://jlghjy.com/
 {"name":"TV酷影视","url":"https://www.tvkuys.xyz//api.php/app/"},
 {"name":"聚合蓝光","url":"http://kkwk123.top/api.php/app/"},
-//{"name":"皮皮虾影视","url":"http://www.ppxys.vip//api.php/app/"},	//http://pipixia.vip/	
+{"name":"奈飞星球","url":"https://www.netfly.tv/api.php/app/"},	//http://pipixia.vip/	
 {"name":"小马纯净","url":"https://mas.szyyds.cn/api.php/app/"},
 {"name":"影探","url":"http://cmsyt.lyyytv.cn/api.php/app/"},	
 {"name":"加速","url":"http://43.154.162.194//api.php/v1.vod"},
+{"name":"墨白影视","url":"https://nm.xxxc137.top/api.php/app/"},	
 {"name":"NMTV","url":"https://nm.xxxc137.top//api.php/v1.vod"},
 {"name":"CC影视","url":"http://ys.ccbk.cc:86/mogai_api.php/v1.vod"},
 {"name":"51追剧网","url":"http://www.51zhuiju.cc//api.php/app/"},
@@ -183,8 +185,8 @@
 {"name":"4k_1影视","url":"https://tx.xihauche.cn/api.php/app/"},	
 {"name":"天天影院","url":"https://www.ttmja.com/api.php/app/"},	
 {"name":"北川影视","url":"https://www.bczhuiju.com/api.php/v1.vod"},//https://www.bcyingshi.ink/fb/
-//{"name":"少泽影客","url":"https://yk.shaozeyy.com/api.php/app/"},
-{"name":"思古影视","url":"https://siguyy1.com/api.php/app/"},// https://sigu.app/m.html	
+{"name":"酷咯影视","url":"http://www.kuloo.xyz/mogai_api.php/v1.vod/"},
+{"name":"思古影视","url":"https://siguyy.cn/api.php/app/"},// https://sigu.app/m.html	
 {"name":"海兔影视","url":"https://www.haituu.tv/api.php/v1.vod"}],
 
  
@@ -198,11 +200,16 @@
 {"name":"TVB云播","url":"http://www.tvyb10.com/api.php/"},	
 {"name":"量子资源","url":"https://cj.lziapi.com/api.php/"},
 {"name":"360资源","url":"https://360zy.com/api.php/"},
-{"name":"BILFUN影视","url":"https://c.waijutv.cc/api.php/"},
+{"name":"魔都资源","url":"https://moduzy2.com/api.php/"},	
+{"name":"华为吧资源","url":"https://cjhwba.com/api.php/"},
+{"name":"爱坤采集","url":"https://ikunzyapi.com/api.php/"},
+{"name":"小宝影视","url":"http://www.xiaobao168.com/api.php/"},
+{"name":"BILFUN影视","url":"https://c.waijutv.cc/api.php/"},	
 {"name":"彩虹影视","url":"http://www.blueboy.cc//api.php/"},
 {"name":"黑木耳资源","url":"https://xml.heimuer.tv/api.php/"},	  
 {"name":"鸭鸭资源","url":"https://yayazy2.com/api.php/"},	
 {"name":"索尼资源","url":"https://suoniapi.com/api.php/"},
+{"name":"黑墙影视","url":"https://blackwallvideo.online/api.php/"},	
 {"name":"光速资源","url":"https://api.guangsuapi.com/api.php/"},
 {"name":"最大资源","url":"https://api.zuidapi.com/api.php/"},
 {"name":"豪华资源","url":"https://hhzyapi.com/api.php/"},
@@ -241,7 +248,9 @@
 {"name":"落攻阁","url":"https://jx.2s0.cn/player/?url=","ua":"User-Agent$okhttp/3.12.0#referer$123"},	
 {"name":"宝片","url":"https://danmu.ibaopian.com/1636/?url="},	
 {"name":"0","url":"https://m.centos.chat/dplayer/?url="},
-{"name":"皮皮虾","url":"http://play.shijie.chat/player/ec.php?code=qq&if=1&url="},
+{"name":"魔都","url":"https://jiexi.modujx01.com/?url="},
+{"name":"华为吧资源","url":"https://player.hw8.lol/player?url="},
+{"name":"爱坤采集","url":"https://www.ikdmjx.com/?url="},	
 {"name":"皮皮虾","url":"http://java.shijie.chat/player?url="},	
 {"name":"小蜜蜂","url":"https://jx.xmflv.cc/?url=","ua":"User-Agent$okhttp/3.12.0#referer$123"},	
 {"name":"冰豆","url":"https://bd.jx.cn/?url=","ua":"User-Agent$okhttp/3.12.0#referer$123"},	
