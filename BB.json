@@ -159,10 +159,11 @@
 {"name":"影探","url":"http://cmsyt.lyyytv.cn/api.php/app/"},	
 {"name":"加速","url":"http://43.154.162.194//api.php/v1.vod"},
 {"name":"墨白影视","url":"https://nm.xxxc137.top/api.php/app/"},	
+{"name":"千梦影视","url":"https://www.qmjzys.com/api.php/app/"},
+{"name":"沐沐影视","url":"https://nnystv.cn/api.php/app/"},	
 {"name":"NMTV","url":"https://nm.xxxc137.top//api.php/v1.vod"},
 {"name":"CC影视","url":"http://ys.ccbk.cc:86/mogai_api.php/v1.vod"},
 {"name":"51追剧网","url":"http://www.51zhuiju.cc//api.php/app/"},
-{"name":"甲子影视","url":"http://122.228.85.203:1000/api.php/app/"},	
 {"name":"皮皮虾影视","url":"https://ppxkp.com//api.php/v1.vod"},	
 {"name":"霏雪影视","url":"https://www.fxys.fun//api.php/v1.vod"},
 {"name":"北极狐🦊影视","url":"https://www.kuin.one/api.php/app/"},
@@ -187,8 +188,8 @@
 {"name":"4k_1影视","url":"https://tx.xihauche.cn/api.php/app/"},	
 {"name":"天天影院","url":"https://www.ttmja.com/api.php/app/"},	
 {"name":"北川影视","url":"https://www.bczhuiju.com/api.php/v1.vod"},//https://www.bcyingshi.ink/fb/
-{"name":"酷咯影视","url":"http://www.kuloo.xyz/mogai_api.php/v1.vod/"},
-{"name":"思古影视","url":"https://siguyy.cn/api.php/app/"},// https://sigu.app/m.html	
+{"name":"酷咯影视","url":"http://www.kuloo.xyz/ruifenglb_api.php/v1.vod"},
+{"name":"思古影视","url":"https://axczz.com//api.php/app/"},// https://sigu.app/m.html	
 {"name":"海兔影视","url":"https://www.haituu.tv/api.php/v1.vod"}],
 
  
@@ -247,20 +248,20 @@
 
 //备用解析是常规格式的解析
 "beiyongjiexi":[
-{"name":"落攻阁","url":"https://jx.2s0.cn/player/?url=","ua":"User-Agent$okhttp/3.12.0#referer$123"},	
-{"name":"宝片","url":"https://danmu.ibaopian.com/1636/?url="},	
-{"name":"1","url":"https://jiexi.ibaopian.pro/player/?url="},	
-{"name":"0","url":"https://m.centos.chat/dplayer/?url="},
+{"name":"1","url":"https://jx.2s0.cn/player/?url=","ua":"User-Agent$okhttp/3.12.0#referer$123"},	
+{"name":"2","url":"https://www.playm3u8.cn/jiexi.php?url="},	
+{"name":"3","url":"https://jx.yparse.com/index.php?url="},	
+{"name":"独家","url":"https://www.dujiayy.top/djzy.php?url="},
 {"name":"魔都","url":"https://jiexi.modujx01.com/?url="},
 {"name":"华为吧资源","url":"https://player.hw8.lol/player?url="},
 {"name":"爱坤采集","url":"https://www.ikdmjx.com/?url="},	
 {"name":"皮皮虾","url":"http://java.shijie.chat/player?url="},	
 {"name":"小蜜蜂","url":"https://jx.xmflv.cc/?url=","ua":"User-Agent$okhttp/3.12.0#referer$123"},	
-{"name":"冰豆","url":"https://bd.jx.cn/?url=","ua":"User-Agent$okhttp/3.12.0#referer$123"},	
-{"name":"1","url":"https://www.cgdyw.net/jiexi/jiekou-2/?url="},
-{"name":"落攻阁","url":"https://bfq.lggys.com/player/?url=","ua":"User-Agent$okhttp/3.12.0#referer$123"},	
-{"name":"备用解析3","url":"https://free.haokantv.cyou/player/?url="},
-{"name":"新感觉解析","url":"http://ww.hanliu8.cn:9891/bfq/?url="},	
+{"name":"冰豆","url":"https://www.ckplayer.vip/jiexi/?url=","ua":"User-Agent$okhttp/3.12.0#referer$123"},	
+{"name":"4","url":"https://www.cgdyw.net/jiexi/jiekou-2/?url="},
+{"name":"5","url":"https://www.ckplayer.vip/jiexi/?url=","ua":"User-Agent$okhttp/3.12.0#referer$123"},	
+{"name":"6","url":"https://jx.m3u8.tv/jiexi/?url="},
+{"name":"新感觉解析","url":"https://www.dujiayy.top/djzy.php?url="},	
 {"name":"全民解析","url":"https://jx.2s0.cn/player/?url=","ua":"User-Agent$okhttp/3.12.0#referer$123"},	
 {"name":"夜幕","url":"https://www.yemu.xyz/?url="},
 {"name":"小馒头","url":"https://player.heimuer.tv/index.html?url="},	
