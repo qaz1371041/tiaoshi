@@ -209,7 +209,8 @@
 
 //填写采集接口
 "caijizhan": [
-{"name":"TVB云播","url":"http://www.tvyb10.com/api.php/"},	
+{"name":"TVB云播","url":"http://www.tvyb10.com/api.php/"},
+{"name":"七七看片","url":"https://www.5277kp.com//api.php/"},	
 {"name":"量子资源","url":"https://cj.lziapi.com/api.php/"},
 {"name":"360资源","url":"https://360zy.com/api.php/"},
 {"name":"魔都资源","url":"https://moduzy2.com/api.php/"},	
@@ -1235,7 +1236,7 @@
 "播放页跳转看图": "0"},	
 	
 {"网站名字": "酷云影视",
-"网站地址": "https://www.sc1080.top/",
+"网站地址": "https://www.sc1080.top/",//https://www.sc1080.top/index.php/label/web.html
 "访问请求ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
 "访问请求cookie": "空",
 "访问请求referer": "空",
@@ -1369,7 +1370,7 @@
 "播放剧集链接": "href=\"$$\"",
 "播放剧集链接前缀": "空",
 "播放剧集链接后缀": "空",
-"启用嗅探截取": "1",
+"启用嗅探截取": "0",
 "嗅探请求头": "User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",//User-Agent$123#Referer$123
 "播放地址二次截取": "var player_$$</div>",
 "播放地址截取": "\"url\":\"$$\"",
