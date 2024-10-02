@@ -56,7 +56,8 @@
 		"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6\\.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",    
                 "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY",
 		"#EXTINF.*?\\s+.*?11697777.*?\\.ts\\s+",   
-                "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
+                "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+",
+		 "17.19"   
             ]
         },
 
@@ -82,6 +83,17 @@
                 "#EXTINF.*?\\s+.*?adjump.*?\\.ts\\s+" 
             ]
         },
+
+
+{ "名字": "快看",
+            "寻找词": "kuaikan",
+            "正则规则": [
+            "#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:5,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+            "#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:2\\.4,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+            "#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:1\\.467,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+            ]
+        },
+	
 
 {"名字":"优质",
 "寻找词":"svip.high#playback.com#yzzy",
@@ -143,7 +155,9 @@
 	"#EXTINF.*?\\s+.*?1170(20|32).*?\\.ts\\s+",
 	"#EXTINF.*?\\s+.*?116977.*?\\.ts\\s+", 
 	"#EXTINF.*?\\s+.*?1171.*?\\.ts\\s+",
-        "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"    
+        "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+", 
+	"17.99",
+        "14.45"
 ]
 }
 ],
