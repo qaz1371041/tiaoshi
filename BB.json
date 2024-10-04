@@ -6027,7 +6027,7 @@
 "列表起始页": "1",
 "列表分类": "电影$/index.php/vod/type/id/20/page/#电视剧$/index.php/vod/type/id/23/page/#综艺$/vodshow/id/zongyi/page/#动漫$/vodshow/id/dongman/page/",
 "列表后缀": ".html",
-"筛选列表模式": "0",
+"筛选列表模式": "1",
 "筛选列表": [
 {
 "分类名称": "视频",
