@@ -275,7 +275,7 @@
 {"name":"解析b","url":"https://xcoo.vip/xiaojun/xiaojunjiexi.php?url="},	
 {"name":"宝解2","url":"http://211.101.234.192:4433/api/?key=edmbeVQhyWbQpqQkM8&url="},		
 {"name":"XGJ专线","url":"http://43.248.100.147:1122/XGJ/60jxzy.php?url="},	
-{"name":"何以解析","url":"http://103.215.76.150:8090/lunxun/json.php?url=","ua":"User-Agent$okhttp/3.12.0#referer$123"}],
+{"name":"何以解析","url":"https://xcoo.vip/xiaojun/xiaojunjiexi.php?url=","ua":"User-Agent$okhttp/3.12.0#referer$123"}],
 
 
 //备用解析是常规格式的解析
