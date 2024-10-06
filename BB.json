@@ -170,7 +170,8 @@
 "zhuyejiekou": [	
 {"name":"555","url":"https://wua3b7c9.com/api.php/app/"},	//5playmovies.com  https://jlghjy.com/
 {"name":"TV酷影视","url":"https://www.tvkuys.xyz//api.php/app/"},
-{"name":"看美剧","url":"https://kmeiju.com//api.php/app/"},	
+{"name":"看美剧","url":"https://kmeiju.com//api.php/app/"},
+{"name":"奴娜TV","url":"https://www.nntv.in//mogai_api.php/v1.vod"},	
 {"name":"聚合蓝光","url":"http://kkwk123.top/api.php/app/"},
 {"name":"奈飞星球","url":"https://www.netfly.tv/api.php/app/"},	//http://pipixia.vip/	
 {"name":"小马纯净","url":"https://mas.szyyds.cn/api.php/app/"},
@@ -291,7 +292,10 @@
 {"name":"3","url":"https://jx.yparse.com/index.php?url="},	
 {"name":"独家","url":"https://www.dujiayy.top/djzy.php?url="},
 {"name":"解析","url":"https://jx.77flv.cc/?url="},	
-{"name":"酷8","url":"https://jx.8itv.cn/player/?url="},	
+{"name":"酷8","url":"https://jx.8itv.cn/player/?url="},
+{"name":"宝片","url":"https://jiexi.ibaopian.pro/player/?url="},
+{"name":"宝解1","url":"https://jiexi.ibaopian.pro/1888/?url="},
+{"name":"宝解2","url":"https://jiexi.ibaopian.pro/player/analysis.php?v="},	
 {"name":"魔都","url":"https://jiexi.modujx01.com/?url="},
 {"name":"华为吧资源","url":"https://player.hw8.lol/player?url="},
 {"name":"爱坤采集","url":"https://www.ikdmjx.com/?url="},	
