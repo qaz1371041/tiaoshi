@@ -44,7 +44,7 @@
 "去广告规则": [
         {
             "名字": "LZ",
-            "寻找词": "vip.lz#hd.lz#v.cdnlz#v.cdnlz1#.cdnlz*",
+            "寻找词": "vip.lz#hd.lz#v.cdnlz#v.cdnlz1#.cdnlz*#yzzy1.play",
             "正则规则": [
 		"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:18.5333,[\\s\\S]*?#EXT-X-DISCONTINUITY", 
 		"#EXTINF.*?\\s+[a-z0-9]{18}\\.ts","[a-z0-9]{18}\\.ts\\s+", 
@@ -75,7 +75,7 @@
             ]
         },
  { "名字": "暴风",
-            "寻找词": "bfzy#s5.bfzycdn#bfbfvip#bfengbf#rrcdnbf#bfzy#bfbf#bfengbf ",
+            "寻找词": "bfzy#s5.bfzycdn#bfbfvip#bfengbf#rrcdnbf#bfzy#bfbf",
             "正则规则": [
                 "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY",
 	        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY",   
