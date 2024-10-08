@@ -46,7 +46,7 @@
 "去广告规则": [
         {
             "名字": "LZ",
-            "寻找词": "vip.lz#hd.lz#v.cdnlz#v.cdnlz1#.cdnlz*",
+            "寻找词": "vip.lz#hd.lz#v.cdnlz#v.cdnlz1#.cdnlz*#yzzy1.play",
             "正则规则": [
 		"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:18.5333,[\\s\\S]*?#EXT-X-DISCONTINUITY", 
 		"#EXTINF.*?\\s+[a-z0-9]{18}\\.ts","[a-z0-9]{18}\\.ts\\s+", 
