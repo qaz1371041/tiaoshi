@@ -540,7 +540,7 @@
 "搜索请求方式": "1",
 "搜索模式": "1",
 "搜索前": "https://vip.wwgz.cn:5200/index.php?m=vod-search",
-"搜索后": "",
+"搜索后": "wd",
 "搜索连接后缀": "/vod-detail/",
 "搜索带翻页模式": "https://www.wwgz.cn/vod-search-pg-翻页-wd-搜索词.html",
 "搜索二次截取": "class=\"ulPicTxt$$</ul>",
