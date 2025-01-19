@@ -45,9 +45,10 @@
 "去广告规则": [
         {
             "名字": "LZ",
-            "寻找词": "vip.lz#hd.lz#v.cdnlz#v.cdnlz1#.cdnlz*#yzzy1.play",
+            "寻找词": "vip.lz#hd.lz#v.cdnlz#v.cdnlz1#.cdnlz*#yzzy1.play#lz",
             "正则规则": [
 		"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:18.5333,[\\s\\S]*?#EXT-X-DISCONTINUITY", 
+		"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",   
 		"#EXTINF.*?\\s+[a-z0-9]{18}\\.ts","[a-z0-9]{18}\\.ts\\s+", 
 		"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:4\\.066667,[\\s\\S]*?#EXT-X-DISCONTINUITY",   
 		"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF.*?\\s+[a-z0-9]{18}\\.ts[\\s\\S]*?#EXT-X-DISCONTINUITY",    
@@ -58,7 +59,7 @@
                 "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY",
 		"#EXTINF.*?\\s+.*?11697777.*?\\.ts\\s+",   
                 "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+",
-		 "17.19"   
+		"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.600000,[\\s\\S]*?#EXT-X-DISCONTINUITY"  
             ]
         },
 
@@ -76,10 +77,10 @@
             ]
         },
  { "名字": "暴风",
-            "寻找词": "bfzy#s5.bfzycdn#bfbfvip#bfengbf#rrcdnbf#bfzy#bfbf",
+            "寻找词": "bfzy#s5.bfzycdn#bfbfvip#bfengbf#rrcdnbf#bfzy#bfbf#c1#bfengbf.com",
             "正则规则": [
                 "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-	        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY",   
+	        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY",
                 "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+",    
                 "#EXTINF.*?\\s+.*?adjump.*?\\.ts\\s+" 
             ]
@@ -123,6 +124,14 @@
             ]
         },	
 
+{ "名字": "开源棋牌",
+            "寻找词": "askzycdn#jkunbf#bfikuncdn#bfaskcdn",
+            "正则规则": [
+                 "#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:5,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+		 "#EXT-X-KEY:METHOD=AES-128,URI=\"[^\"]+\"\\r*\\n*#EXTINF:3.333,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+            ]
+        },	
+	
 { "名字": "磁力广告",
             "寻找词": "magnet",
             "正则规则": [
@@ -145,6 +154,7 @@
 	"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF.*?\\s+[0-9]{11}[1-9]{2}.*?\\.ts[\\s\\S]*?#EXT-X-DISCONTINUITY",
 	"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:5.033333,[\\s\\S]*?#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3.960000",
         "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+	"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.600000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
 	"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:25.08,[\\s\\S]*?#EXT-X-DISCONTINUITY",
         "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:20.52,[\\s\\S]*?#EXT-X-DISCONTINUITY",
 	"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:25.1,[\\s\\S]*?#EXT-X-DISCONTINUITY",
