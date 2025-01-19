@@ -312,7 +312,7 @@
 "zidingyi": [
 
 {"网站名字": "厂长影视",
-"网站地址": "https://www.czzy77.com/",//https://www.cz01.vip/
+"网站地址": "https://www.czzyvideo.com/",//https://www.cz01.vip/
 "访问请求ua": "Mozilla/5.0 (Linux; Android 9; HUAWEI CLT-AL00 Build/MVT3.128574.70; wv) Version/4.0 Chrome/100.0.4896.58 Quark/6.2.9.251 Mobile Safari/537.36",
 "访问请求cookie": "空",
 "访问请求referer": "空",
@@ -341,16 +341,16 @@
 "列表图片": "original=\"$$\"",
 "列表标题": "alt=\"$$\"",
 "列表副标题": "class=\"qb\">$$</span>",
-"列表链接": "href=\"https://www.czzy77.com/$$\"",
+"列表链接": "href=\"https://www.czzyvideo.com/$$\"",
 "列表链接前缀": "空",
 "列表链接后缀": "空",
 //0：get方式，1：post方式，注意：如果用post方式，【搜索模式】要填：1
 "搜索请求方式": "0",
 "搜索模式": "1",
-"搜索前": "/daoyongjiek0shibushiyoubing?q=?q=",//https://www.haokongbu.top/e/search/index.php
+"搜索前": "/daoyongjiek0shibushiyoubing?q=",//https://www.haokongbu.top/e/search/index.php
 "搜索后": "",//keyboard=搜索词&submit=搜索&show=title,zhuyan&tempid=1
 "搜索连接后缀": "/vod/",
-"搜索带翻页模式": "https://www.czzy77.com/daoyongjiekoshibushiyoubing?q=搜索词&f=_all&p=翻页",
+"搜索带翻页模式": "https://www.czzyvideo.com/daoyongjiek0shibushiyoubing?q=搜索词&f=_all&p=翻页",
 "搜索二次截取": "空",
 "搜索截取数组": "<img class=\"thumb lazy$$class=\"inzhuy",
 "搜索截取数组": "<a$$</a>",
@@ -358,7 +358,7 @@
 "搜索图片": "original=\"$$\"",
 "搜索标题": "alt=\"$$\"",
 "搜索副标题": "class=\"pic-text text-right\">$$</span>",
-"搜索链接": "href=\"https://www.czzy77.com/$$\"",
+"搜索链接": "href=\"https://www.czzyvideo.com/$$\"",
 "搜索链接前缀": "",
 "搜索链接后缀": "",
 "启用线路名": "1",
@@ -377,13 +377,13 @@
 "播放剧集二次截取": "空",
 "播放剧集截取数组": "<a$$/a>",
 "播放剧集标题": ">$$<",
-"播放剧集链接": "href=\"https://www.czzy77.com/$$\"",
+"播放剧集链接": "href=\"https://www.czzyvideo.com/$$\"",
 "播放剧集链接前缀": "空",
 "播放剧集链接后缀": "空"},
 
 	
 {"网站名字": "素白白影视",
-"网站地址": "https://www.subaibai.com/",//subaibai.vip
+"网站地址": "https://www.subaibaiys.com/",//https://subaibai.vip/
 "访问请求ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
 "访问请求cookie": "空",
 "访问请求referer": "空",
@@ -420,10 +420,10 @@
 //0：get方式，1：post方式，注意：如果用post方式，【搜索模式】要填：1
 "搜索请求方式": "0",
 "搜索模式": "1",
-"搜索前": "https://www.subaibai.com/?s=",
+"搜索前": "https://www.subaibaiys.com/search?q=",
 "搜索后": "",
 "搜索连接后缀": "/vod/",
-"搜索带翻页模式": "https://www.subaibai.com/page/翻页?s=搜索词",
+"搜索带翻页模式": "https://www.subaibaiys.com/grabble?q=搜索词&f=_all&p=翻页",
 "搜索二次截取": "空",
 "搜索截取数组": "<img class=\"thumb lazy$$class=\"inzhuy",
 "搜索图片前缀": "空",
