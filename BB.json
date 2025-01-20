@@ -862,7 +862,7 @@
 
 	
 {"网站名字": "黑狐影院",
-"网站地址": "https://heihu.tv/",//收藏发布页：heihu.info
+"网站地址": "http://fagmn.com",//收藏发布页：http://www.woniu.info/
 "访问请求ua": "User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
 "播放请求头": "User-Agent$123",
 "图片请求头": "空",
@@ -3830,7 +3830,7 @@
 
 
 {"网站名字": "缘觉影视{搜索验证}",
-"网站地址": "https://www.yjys.top/",  //永久域名发布页：bdys.me
+"网站地址": "https://www.xlys01.com/",  //永久域名发布页：bdys.me
 "访问请求ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
 "访问请求cookie": "空",
 "访问请求referer": "空",
@@ -3866,7 +3866,7 @@
 "搜索模式": "1",
 "搜索前": "https://www.yjys.top/search/",//https://www.haokongbu.top/e/search/index.php
 "搜索后": "",//keyboard=搜索词&submit=搜索&show=title,zhuyan&tempid=1
-"搜索带翻页模式": "https://www.yjys.cc.ua/search/搜索词/翻页",
+"搜索带翻页模式": "https://www.xlys01.com/search/搜索词/翻页",
 "搜索连接后缀": "空",
 "搜索二次截取": "空",
 "搜索截取数组": "col-4 col-md-2$$<p",
