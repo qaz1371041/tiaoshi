@@ -193,7 +193,8 @@
 {"name":"NMTV","url":"https://nm.xxxc137.top/api.php/app/"},
 {"name":"皮皮虾影视","url":"https://ppxkp.com//api.php/v1.vod"},	
 {"name":"霏雪影视","url":"https://www.fxys.fun//api.php/v1.vod"},
-{"name":"酷8影视","url":"https://k8.8itv.cn//mogai_api.php/v1.vod"},	
+{"name":"酷8影视","url":"https://k8.8itv.cn//mogai_api.php/v1.vod"},
+{"name":"影探","url":"http://cms147.lyyytv.cn/api.php/app/"},//	http://www.lyyytv.cn/
 {"name":"春华影院","url":"https://chuavod.com/api.php/app/"},
 {"name":"天天美剧","url":"https://www.ttmja.com//api.php/app/"},		
 {"name":"柒月影视","url":"https://ys.9day.cc/api.php/app/"},	//https://www.9day.cc/	
@@ -251,6 +252,8 @@
 {"name":"巧记1","url":"https://zy.qiaoji8.com/neibu.php?url="},
 {"name":"巧记2","url":"https://zy.qiaoji8.com/gouzi.php?url="},	
 {"name":"柒月解析","url":"https://yh.imayday.cn/api/?key=f22bafe11382d2ea90b643dca705b1fe&url="},
+{"name":"影探解析","url":"https://150.138.78.37:4399/api?key=94b07e0b2c0e8244&url="},
+{"name":"影探解析","url":"http://jf.yingshidao.cn/api/?key=oovDE5yLVzOj7bFD2i&url="},	
 {"name":"皮皮虾影视","url":"http://jiexi.52ppx.top/lxjson.php?url="},	
 {"name":"摸鱼解析","url":"http://103.117.123.51:6523/zhuimi666.php?url="},	
 {"name":"何以解析","url":"https://xcoo.vip/xiaojun/xiaojunjiexi.php?url=","ua":"User-Agent$okhttp/3.12.0#referer$123"}],
