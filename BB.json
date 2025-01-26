@@ -266,6 +266,7 @@
 
 //备用解析是常规格式的解析
 "beiyongjiexi":[
+{"name":"思古","url":"https://jx.jjniuniu.com/?url="},	
 {"name":"2","url":"https://pl.a6club.com/player/analysis.php?v="},	
 {"name":"巨人","url":"https://jx.tudo.fun/index.php?url="},	
 {"name":"1","url":"https://jx.2s0.cn/player/?url=","ua":"User-Agent$okhttp/3.12.0#referer$123"},	
@@ -290,10 +291,7 @@
 {"name":"新感觉解析","url":"https://www.dujiayy.top/djzy.php?url="},		
 {"name":"夜幕","url":"https://www.yemu.xyz/?url="},
 {"name":"小馒头","url":"https://player.heimuer.tv/index.html?url="},	
-{"name":"2","url":"https://jx.xmflv.com/?url=","ua":"User-Agent$okhttp/3.12.0#referer$123"},	
-{"name":"思古a","url":"https://jx.siguyy5.com/player/?url="},
-{"name":"思古b","url":"https://jx.siguyy9.com/?url="},	
-{"name":"圣城","url":"https://jx.sc1080.top/?url="},		
+{"name":"2","url":"https://jx.xmflv.com/?url=","ua":"User-Agent$okhttp/3.12.0#referer$123"},		
 {"name":"糖豆解析","url":"https://p.guonav.com/play/p1/?url="},		
 {"name":"备用解析1","url":"https://jx.jsonplayer.com/player/?url="},
 {"name":"备用解析2","url":"https://jx.777jiexi.com/player/?url="},
