@@ -186,7 +186,7 @@
 {"name":"柒月影视","url":"https://www.qyye.net//api.php/app/"},//https://www.9day.cc/
 {"name":"思古影视","url":"https://www.xxmsrj.com/api.php/app/"},//https://sigu.app/
 {"name":"4K电影馆","url":"https://4kdyg.top//api.php/app/"},	
-{"name":"皮皮虾","url":"http://38.55.250.149:1314/api.php/app/"},	
+{"name":"影视工厂","url":"http://137.220.252.33:1223/xgapp.php/v1/"},	
 {"name":"宝片视频","url":"http://172.247.189.145:8989/api.php/app/"},
 {"name":"聚合蓝光","url":"http://kkwk123.top/api.php/app/"},
 {"name":"墨白影视","url":"https://nm.xxxc137.top/api.php/app/"},	
@@ -278,7 +278,7 @@
 
 //填写电视直播的接口链接
 //"dianshizhibo": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/live.txt",
-"dianshizhibo": "https://wget.la/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/ipv4.txt",
+"dianshizhibo": "https://live.iptv365.org/live.txt",
 //"dianshizhibo": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/qaz1371041/tiaoshi/main/tv",
 
 
