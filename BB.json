@@ -184,6 +184,7 @@
 //{"name":"TV酷影视","url":"https://www.tvkuys.xyz//api.php/app/"},
 {"name":"永乐视频","url":"https://www.rrys.lv/api.php/app/"},
 {"name":"柒月影视","url":"https://www.qyye.net//api.php/app/"},//https://www.9day.cc/
+{"name":"宝片影视","url":"http://172.247.189.145:8989/mogai_api.php/v1.vod"},	
 {"name":"思古影视","url":"https://www.xxmsrj.com/api.php/app/"},//https://sigu.app/	
 {"name":"4K电影馆","url":"https://4kdyg.top//api.php/app/"},	
 {"name":"影视工厂","url":"http://137.220.252.33:1223/xgapp.php/v1/"},
@@ -225,6 +226,8 @@
 //填写采集接口
 "caijizhan": [
 {"name":"如意资源","url":"https://cj.rycjapi.com/api.php/"},
+{"name":"舒渡官资源","url":"http://www.69mu.cn/api.php/"},
+{"name":"BILFUN影视","url":"https://giant.us.kg/api.php/"},	
 {"name":"TVB云播","url":"http://www.tvyb10.com/api.php/"},
 {"name":"七七看片","url":"https://www.5277kp.com//api.php/"},	
 {"name":"量子资源","url":"https://cj.lziapi.com/api.php/"},
@@ -259,6 +262,7 @@
 {"name":"巧记1","url":"https://zy.qiaoji8.com/neibu.php?url="},
 {"name":"巧记2","url":"https://zy.qiaoji8.com/gouzi.php?url="},	
 {"name":"柒月解析","url":"https://yh.imayday.cn/api/?key=f22bafe11382d2ea90b643dca705b1fe&url="},
+{"name":"影探解析","url":"https://jx.bhs6.com/api/?key=b0227c1e257c83f68ca14644aebda8c1&url="},	
 {"name":"影探解析","url":"https://150.138.78.37:4399/api?key=94b07e0b2c0e8244&url="},
 {"name":"影探解析","url":"http://jf.yingshidao.cn/api/?key=oovDE5yLVzOj7bFD2i&url="},	
 {"name":"皮皮虾影视","url":"http://jiexi.52ppx.top/lxjson.php?url="},	
@@ -270,7 +274,8 @@
 "beiyongjiexi":[
 {"name":"瓜子解析","url":"https://jx.vodplayer.cn/?url="},	
 {"name":"思古","url":"https://jx.jjniuniu.com/?url="},	
-{"name":"如意解析","url":"https://ryplayer.com?url="},	
+{"name":"如意解析","url":"https://ryplayer.com?url="},
+{"name":"解析","url":"https://sdm3u8.69mu.cn/player/ec.php?code=sdm3u8&if=1&from=sdm3u8&url="},	
 {"name":"2","url":"https://pl.a6club.com/player/analysis.php?v="},	
 {"name":"巨人","url":"https://jx.tudo.fun/index.php?url="},	
 {"name":"1","url":"https://jx.2s0.cn/player/?url=","ua":"User-Agent$okhttp/3.12.0#referer$123"},	
