@@ -182,6 +182,8 @@
 //{"name":"555电影","url":"https://www.8gqbz9wvsz.wiki/api.php/app/"},//https://55rrt.art/
 //{"name":"大米星球","url":"https://www.dmv34.art/api.php/app/"},//https://dmtyz.wiki/
 //{"name":"TV酷影视","url":"https://www.tvkuys.xyz//api.php/app/"},
+{"name":"瓜子影视","url":"http://156.225.30.159:1234//api.php/app/"},	
+{"name":"看美剧","url":"https://cms.kmeiju.cc/api.php/app/"},
 {"name":"永乐视频","url":"https://www.rrys.lv/api.php/app/"},
 {"name":"柒月影视","url":"https://www.qyye.net//api.php/app/"},//https://www.9day.cc/
 {"name":"宝片影视","url":"http://172.247.189.145:8989/mogai_api.php/v1.vod"},	
@@ -252,7 +254,8 @@
 {"name":"瓜子解析","url":"https://jx.vodplayer.cn/?url="},	
 {"name":"思古","url":"https://jx.jjniuniu.com/?url="},	
 {"name":"如意解析","url":"https://ryplayer.com?url="},
-{"name":"解析","url":"https://sdm3u8.69mu.cn/player/ec.php?code=sdm3u8&if=1&from=sdm3u8&url="},	
+{"name":"解析","url":"https://sdm3u8.69mu.cn/player/ec.php?code=sdm3u8&if=1&from=sdm3u8&url="},
+{"name":"看美剧解析","url":"https://pla.kands.cc/player/ec.php?code=WJ&if=1&from=lekanzyw2&url="},	
 {"name":"巨人","url":"https://jx.tudo.fun/index.php?url="},        
 {"name":"1","url":"https://jx.2s0.cn/player/?url=","ua":"User-Agent$okhttp/3.12.0#referer$123"},	
 {"name":"2","url":"https://www.playm3u8.cn/jiexi.php?url="},	
@@ -854,8 +857,8 @@
 
 	
 {"网站名字": "厂长影视",
-"网站地址": "https://www.czzy77.com/",//https://www.cz01.vip/
-"访问请求ua": "Mozilla/5.0 (Linux; Android 9; HUAWEI CLT-AL00 Build/MVT3.128574.70; wv) Version/4.0 Chrome/100.0.4896.58 Quark/6.2.9.251 Mobile Safari/537.36",
+"网站地址": "https://www.czzyvideo.com/",//https://www.czzy.site/
+"访问请求ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Mobile/15E148 Safari/604.1",
 "访问请求cookie": "空",
 "访问请求referer": "空",
 "播放请求头": "User-Agent$123",
@@ -868,8 +871,8 @@
 "自动点击字符": "空",
 "启用js加载源码":"0",
 "js加载源码时间":"5",
-"嗅探词": "m3u8?#.m3u8#.mp4#.flv#.mp3#.m4a#sf-coze-web-cdn.coze.com",
-"过滤词": "51.la#cnzz.com#baidu.com#bilibili.com#&url=",
+"嗅探词": "m3u8?#.m3u8#.mp4#.flv#.mp3#.m4a#?code=cs&if=1&url=",
+"过滤词": "51.la#cnzz.com#baidu.com#bilibili.com#.gif",
 "是否记录历史": "0",
 "直接播放": "0",
 "列表显示": "0",
@@ -883,7 +886,7 @@
 "列表图片": "original=\"$$\"",
 "列表标题": "alt=\"$$\"",
 "列表副标题": "class=\"qb\">$$</span>",
-"列表链接": "href=\"https://www.czzy77.com/$$\"",
+"列表链接": "href=\"https://www.czzyvideo.com/$$\"",
 "列表链接前缀": "空",
 "列表链接后缀": "空",
 //0：get方式，1：post方式，注意：如果用post方式，【搜索模式】要填：1
@@ -892,7 +895,7 @@
 "搜索前": "/daoyongjiek0shibushiyoubing?q=",//https://www.haokongbu.top/e/search/index.php
 "搜索后": "",//keyboard=搜索词&submit=搜索&show=title,zhuyan&tempid=1
 "搜索连接后缀": "/vod/",
-"搜索带翻页模式": "https://www.czzy77.com/daoyongjiek0shibushiyoubing?q=搜索词&f=_all&p=翻页",
+"搜索带翻页模式": "https://www.czzyvideo.com/daoyongjiek0shibushiyoubing?q=搜索词&f=_all&p=翻页",
 "搜索二次截取": "空",
 "搜索截取数组": "<img class=\"thumb lazy$$class=\"inzhuy",
 "搜索截取数组": "<a$$</a>",
@@ -900,7 +903,7 @@
 "搜索图片": "original=\"$$\"",
 "搜索标题": "alt=\"$$\"",
 "搜索副标题": "class=\"pic-text text-right\">$$</span>",
-"搜索链接": "href=\"https://www.czzy77.com/$$\"",
+"搜索链接": "href=\"https://www.czzyvideo.com/$$\"",
 "搜索链接前缀": "",
 "搜索链接后缀": "",
 "启用线路名": "1",
@@ -919,9 +922,10 @@
 "播放剧集二次截取": "空",
 "播放剧集截取数组": "<a$$/a>",
 "播放剧集标题": ">$$<",
-"播放剧集链接": "href=\"https://www.czzy77.com/$$\"",
+"播放剧集链接": "href=\"https://www.czzyvideo.com/$$\"",
 "播放剧集链接前缀": "空",
 "播放剧集链接后缀": "空"},
+
 	
 {"网站名字": "4k影院",
 "网站地址": "https://4k4k.live",
