@@ -258,10 +258,9 @@
 
 //主解析是JSON直链格式的解析
 "zhujiexi":[	
-{"name":"解析1","url":"http://pan.qiaoji8.com/tvbox/gouzi.php?url=","ua":"User-Agent$okhttp/3.12.0#referer$123"},
-{"name":"解析2","url":"http://pan.qiaoji8.com/tvbox/neibu.php?url=","ua":"User-Agent$okhttp/3.12.0#referer$123"},
-{"name":"巧记1","url":"https://zy.qiaoji8.com/neibu.php?url="},
-{"name":"巧记2","url":"https://zy.qiaoji8.com/gouzi.php?url="},	
+{"name":"巧技","url":"https://zy.qiaoji8.com/neibu.php?url="},
+{"name":"巧技二","url":"https://zy.qiaoji8.com/gouzi.php?url="},
+{"name":"1","type":1,"url":"https://api.huohua.live/api/?key=vw7rQBbgOih9jDCMVc&url="},
 {"name":"柒月解析","url":"https://yh.imayday.cn/api/?key=f22bafe11382d2ea90b643dca705b1fe&url="},
 {"name":"影探解析","url":"https://jx.bhs6.com/api/?key=b0227c1e257c83f68ca14644aebda8c1&url="},	
 {"name":"影探解析","url":"https://150.138.78.37:4399/api?key=94b07e0b2c0e8244&url="},
