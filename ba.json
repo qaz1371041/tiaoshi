@@ -241,7 +241,7 @@
 {"name":"影探解析","url":"http://jf.yingshidao.cn/api/?key=oovDE5yLVzOj7bFD2i&url="},
 {"name":"影探解析","url":"https://jx.bhs6.com/api/?key=b0227c1e257c83f68ca14644aebda8c1&url="},	
 {"name":"皮皮虾影视","url":"http://jiexi.52ppx.top/lxjson.php?url="},	
-{"name":"摸鱼解析","url":"http://103.117.123.51:6523/zhuimi666.php?url="},	
+{"name":"摸鱼解析","url":"http://103.117.123.51:6523/zhuimi666.php?url="},
 {"name":"何以解析","url":"https://xcoo.vip/xiaojun/xiaojunjiexi.php?url=","ua":"User-Agent$okhttp/3.12.0#referer$123"}],
 
 //备用解析是常规格式的解析
@@ -920,7 +920,6 @@
 "播放剧集链接": "href=\"https://www.czzyvideo.com/$$\"",
 "播放剧集链接前缀": "空",
 "播放剧集链接后缀": "空"},
-
 
 {"网站名字": "天堂电影",
 "网站地址": "https://tiantangdianyingw.com",
