@@ -179,6 +179,8 @@
 //{"name":"填接口名称","url":"http://xxx/mogai_api.php/v1.vod"},
 //填写APP接口，支持以下5种接口格式。
 "zhuyejiekou": [	
+//{"name":"555电影","url":"https://www.8gqbz9wvsz.wiki/api.php/app/"},//https://55rrt.art/
+//{"name":"大米星球","url":"https://www.dmv34.art/api.php/app/"},//https://dmtyz.wiki/
 {"name":"瓜子影视","url":"http://156.225.30.159:1234//api.php/app/"},	
 {"name":"看美剧","url":"https://cms.kmeiju.cc/api.php/app/"},
 {"name":"永乐视频","url":"https://www.rrys.lv/api.php/app/"},
@@ -214,6 +216,7 @@
 {"name":"天天影院","url":"https://www.ttmja.com/api.php/app/"},	
 {"name":"北川影视","url":"http://www.bcys.xyz/api.php/v1.vod"},//https://www.bcyingshi.ink/fb/
 {"name":"酷咯影视","url":"http://www.kuloo.xyz/ruifenglb_api.php/v1.vod"},
+{"name":"海兔影视","url":"https://www.haituu.tv/api.php/v1.vod"}],
 
 
 
