@@ -179,18 +179,17 @@
 //{"name":"填接口名称","url":"http://xxx/mogai_api.php/v1.vod"},
 //填写APP接口，支持以下5种接口格式。
 "zhuyejiekou": [	
-//{"name":"555电影","url":"https://www.8gqbz9wvsz.wiki/api.php/app/"},//https://55rrt.art/
-//{"name":"大米星球","url":"https://www.dmv34.art/api.php/app/"},//https://dmtyz.wiki/
-//{"name":"TV酷影视","url":"https://www.tvkuys.xyz//api.php/app/"},
 {"name":"瓜子影视","url":"http://156.225.30.159:1234//api.php/app/"},	
 {"name":"看美剧","url":"https://cms.kmeiju.cc/api.php/app/"},
 {"name":"永乐视频","url":"https://www.rrys.lv/api.php/app/"},
 {"name":"柒月影视","url":"https://www.qyye.net//api.php/app/"},//https://www.9day.cc/
 {"name":"宝片影视","url":"http://172.247.189.145:8989/mogai_api.php/v1.vod"},	
-{"name":"思古影视","url":"https://www.xxmsrj.com/api.php/app/"},//https://sigu.app/
-{"name":"4K电影馆","url":"https://4kdyg.vip//api.php/app/"},//https://wangyoung.com  https://4kdyg.vip/  https://4kdyg.top/  https://4kdyg.fun/ https://4kdyg.com/	
+{"name":"思古影视","url":"https://www.xxmsrj.com/api.php/app/"},//https://sigu.app/	
+{"name":"4K电影馆","url":"https://4kdyg.vip//api.php/app/"},//https://wangyoung.com  https://4kdyg.vip/  https://4kdyg.top/  https://4kdyg.fun/ https://4kdyg.com/
 {"name":"影视工厂","url":"http://137.220.252.33:1223/xgapp.php/v1/"},
-{"name":"瓜子影视","url":"http://156.225.30.159:1234//api.php/app/"},	
+{"name":"影探","url":"http://cms147.lyyytv.cn/api.php/app/"},	
+{"name":" 鸭奈飞影视","url":"https://yanetflix.me/api.php/app/"}, 
+{"name":"小蚁追剧","url":"https://www.xiaoyizj.com//mogai_api.php/v1.vod"},	
 {"name":"宝片视频","url":"http://172.247.189.145:8989/api.php/app/"},
 {"name":"聚合蓝光","url":"http://kkwk123.top/api.php/app/"},
 {"name":"墨白影视","url":"https://nm.xxxc137.top/api.php/app/"},	
@@ -198,9 +197,7 @@
 {"name":"千梦影视","url":"https://www.qmjzys.com/api.php/app/"},
 {"name":"沐沐影视","url":"https://nnystv.cn/api.php/app/"},	
 {"name":"CC影视","url":"http://ys.ccbk.cc:86/mogai_api.php/v1.vod"},	
-{"name":"皮皮虾影视","url":"https://ppxkp.com//api.php/v1.vod"},
-{"name":"皮皮虾","url":"http://38.55.250.149:1314/api.php/app/"},	
-{"name":" 鸭奈飞影视","url":"https://yanetflix.me/api.php/app/"}, 	
+{"name":"皮皮虾影视","url":"https://ppxkp.com//api.php/v1.vod"},	
 {"name":"霏雪影视","url":"https://www.fxys.fun//api.php/v1.vod"},
 {"name":"酷8影视","url":"https://k8.8itv.cn//mogai_api.php/v1.vod"},
 {"name":"影探","url":"http://cms147.lyyytv.cn/api.php/app/"},//	http://www.lyyytv.cn/
@@ -217,7 +214,6 @@
 {"name":"天天影院","url":"https://www.ttmja.com/api.php/app/"},	
 {"name":"北川影视","url":"http://www.bcys.xyz/api.php/v1.vod"},//https://www.bcyingshi.ink/fb/
 {"name":"酷咯影视","url":"http://www.kuloo.xyz/ruifenglb_api.php/v1.vod"},
-{"name":"海兔影视","url":"https://www.haituu.tv/api.php/v1.vod"}],
 
 
 
@@ -896,8 +892,7 @@
 "搜索连接后缀": "/vod/",
 "搜索带翻页模式": "https://www.czzyvideo.com/daoyongjiek0shibushiyoubing?q=搜索词&f=_all&p=翻页",
 "搜索二次截取": "空",
-"搜索截取数组": "<img class=\"thumb lazy$$class=\"inzhuy",
-"搜索截取数组": "<a$$</a>",
+"搜索截取数组": "class=\"thumb lazy$$</li>",
 "搜索图片前缀": "空",
 "搜索图片": "original=\"$$\"",
 "搜索标题": "alt=\"$$\"",
