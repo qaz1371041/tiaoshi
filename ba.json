@@ -44,46 +44,30 @@
 "custom": "eyJuYW1lIjogIkRK6Z+z5LmQIiwKInVybCI6ICJodHRwOi8vd3d3LmRqdXUuY29tIiwKIlVzZXIiOiAi56m6IiwKIuebtOaOpeaSreaUviI6ICIxIiwKIuWIl+ihqOaYvuekuiI6ICIwIiwKImZlbmxlaSI6ICLng63mkq0kL3NlYXJjaD9tdXNpY25hbWU954Ot5pKtJmxpc3Q9MiZjaWQ9MCZwYWdlPSPmipbpn7Png63pl6gkL3NlYXJjaD9tdXNpY25hbWU9JUU2JThBJTk2JUU5JTlGJUIzJmxpc3Q9MiZjaWQ9MCZwYWdlPSPnu4/lhbjml4vlvoskL3NlYXJjaD9tdXNpY25hbWU957uP5YW45peL5b6LJmxpc3Q9MiZjaWQ9MCZwYWdlPSPov6rpq5jkuLLng6ckL2RqbGlzdC8xXyPllorpuqbkuLLng6ckL2RqbGlzdC8xMl8j5Lit5paH5Liy54OnJC9kamxpc3QvMTNfI+WkluivreS4sueDpyQvZGpsaXN0LzE0XyPkuK3oi7HkuLLng6ckL2RqbGlzdC85Nl8j5oWi5pGH5Liy54OnJC9kamxpc3QvMl8j5ZaK6bqm5Liy54OnJC9kamxpc3QvMTVfI0VsZWN0cm8kL2RqbGlzdC8yMl8jUHJvZ0hvdXNlJC9kamxpc3QvMjZfI0Z1bmt5SG91c2UkL2RqbGlzdC85OV8j5ZaK6bqm5pu05aSaJC9kamxpc3QvMjdfI+aFouaRh+S4reaWh+S4sueDpyQvZGpsaXN0LzE2XyPmhaLmrYzkuLLng6ckL2RqbGlzdC8zXyPkuK3mlodSZW1peCQvZGpsaXN0LzRfI+WkluaWh1JlbWl4JC9kamxpc3QvNV8j6LaK5Y2X6byTJC9kamxpc3QvNl8j6YWS5ZCn6aOO5qC8JC9kamxpc3QvN18jTWFzaHVwJC9kamxpc3QvOF8j5Lit5paHRElTQ08kL2RqbGlzdC85XyPlpJbmlodESVNDTyQvZGpsaXN0LzEwXyPkuqTosIroiJ7mm7IkL2RqbGlzdC8xMV8iLAoiaG91emh1aSI6ICIuaHRtbCIsCiJxaXNoaXllIjogIjEiLAoic2hpZm91ZXJjaWppZXF1IjogIjAiLAoiamllcXVxaWFuIjogIuepuiIsCiJqaWVxdWhvdSI6ICLnqboiLAoiamllcXVzaHV6dXFpYW4iOiAiY2xhc3M9XCJpc2dvb2RfbGlzdFwiPiIsCiJqaWVxdXNodXp1aG91IjogIjwvdGQ+IiwKInR1cGlhbnFpYW4iOiAiaW1nIHNyYz1cIiIsCiJ0dXBpYW5ob3UiOiAiXCIiLAoidHVwaWFucWlhbnpodWkiOiAiaHR0cDoiLAoiZnViaWFvdGlxaWFuIjogImNsYXNzPVwic2NfMVwiPlRJTUUiLAoiZnViaWFvdGlob3UiOiAiPC9zcGFuPiIsCiJsaWFuamllcWlhbiI6ICJocmVmPVwiIiwKImxpYW5qaWVob3UiOiAiXCIiLAoibGpxaWFuemh1aSI6ICLnqboiLAoiYmlhb3RpcWlhbiI6ICJ0aXRsZT1cIiIsCiJiaWFvdGlob3UiOiAiXCIifQ=="} 
 ],
 "去广告规则": [
-        {
+         {
             "名字": "LZ",
             "寻找词": "vip.lz#hd.lz#v.cdnlz#v.cdnlz1#.cdnlz*#yzzy1.play#lz",
             "正则规则": [
 		"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:18.5333,[\\s\\S]*?#EXT-X-DISCONTINUITY", 
 		"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",   
-		"#EXTINF.*?\\s+[a-z0-9]{18}\\.ts","[a-z0-9]{18}\\.ts\\s+", 
-		"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:4\\.066667,[\\s\\S]*?#EXT-X-DISCONTINUITY",   
-		"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF.*?\\s+[a-z0-9]{18}\\.ts[\\s\\S]*?#EXT-X-DISCONTINUITY",    
-		"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:19.52,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-		"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:18.6666,[\\s\\S]*?#EXT-X-DISCONTINUITY",    
-		"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:7\\.166667,[\\s\\S]*?#EXT-X-DISCONTINUITY",   
-		
-                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-		"#EXTINF.*?\\s+.*?11697777.*?\\.ts\\s+",   
-                "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+",
-		"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.600000,[\\s\\S]*?#EXT-X-DISCONTINUITY"  
+		"#EXTINF.*?\\s+[a-z0-9]{18}\\.ts",
+		"[a-z0-9]{18}\\.ts\\s+",  
+		"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF.*?\\s+[a-z0-9]{18}\\.ts[\\s\\S]*?#EXT-X-DISCONTINUITY"   
             ]
         },
 
 { "名字": "索尼",
             "寻找词": "suonizy",
             "正则规则": [
-                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:1\\.000000,[\\s\\S]*?#EXT-X-DISCONTINUITY", 
-		"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:1\\.15.2666,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-		"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:1\\.15.1666,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-		"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:1\\.16.3333,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-		"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:1\\.15.266667,[\\s\\S]*?#EXT-X-DISCONTINUITY",    
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:1\\.000000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
                 "#EXTINF.*?\\s+.*?p1ayer.*?\\.ts\\s+",
-                "#EXTINF.*?\\s+.*?\\/video\\/original.*?\\.ts\\s+"
-                
+		"#EXTINF.*?\\s+.*?\\/video\\/original.*?\\.ts\\s+"    
             ]
         },
  { "名字": "暴风",
             "寻找词": "bfzy#s5.bfzycdn#bfbfvip#bfengbf#rrcdnbf#bfzy#bfbf#c1#bfengbf.com",
             "正则规则": [
-                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-	        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-                "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+",    
-                "#EXTINF.*?\\s+.*?adjump.*?\\.ts\\s+" 
+                "#EXTINF.*?\\s+.*?adjump.*?\\.ts\\s+"
             ]
         },
 
@@ -92,8 +76,8 @@
             "寻找词": "kuaikan",
             "正则规则": [
             "#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:5,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-            "#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:2\\.4,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-            "#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:1\\.467,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+	    "#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:2\\.4,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+	    "#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:1\\.467,[\\s\\S]*?#EXT-X-DISCONTINUITY"   
             ]
         },
 	
@@ -150,26 +134,9 @@
 {"名字":"非凡",
 "寻找词":"vip.ffzy#hd.ffzy#.ffzy*#super.ffzy",
 "正则规则":[
-        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:7\\.400000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-	"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6\\.400000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-	"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF.*?\\s+[0-9]{11}[1-9]{2}.*?\\.ts[\\s\\S]*?#EXT-X-DISCONTINUITY",
-	"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:5.033333,[\\s\\S]*?#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3.960000",
-        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-	"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.600000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-	"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:25.08,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:20.52,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-	"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:25.1,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:25.1999,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-	"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:25.0666,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-	"#EXTINF.*?\\s+.*?1171(057).*?\\.ts",
-        "#EXTINF.*?\\s+.*?6d7b(077).*?\\.ts",
-        "#EXTINF.*?\\s+.*?6718a(403).*?\\.ts",
-	"#EXTINF.*?\\s+.*?1170(20|32).*?\\.ts\\s+",
-	"#EXTINF.*?\\s+.*?116977.*?\\.ts\\s+", 
-	"#EXTINF.*?\\s+.*?1171.*?\\.ts\\s+",
-        "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+", 
-	"17.99",
-        "14.45"
+            "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF.*?\\s+[0-9]{11}[1-9]{2}.*?\\.ts[\\s\\S]*?#EXT-X-DISCONTINUITY",
+            "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:5.033333,[\\s\\S]*?#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3.960000",
+	    "#EXTINF.*?\\s+.*?1171.*?\\.ts\\s+"	
 ]
 }
 ],
@@ -179,12 +146,10 @@
 //{"name":"填接口名称","url":"http://xxx/mogai_api.php/v1.vod"},
 //填写APP接口，支持以下5种接口格式。
 "zhuyejiekou": [	
-//{"name":"555电影","url":"https://www.8gqbz9wvsz.wiki/api.php/app/"},//https://55rrt.art/
-//{"name":"大米星球","url":"https://www.dmv34.art/api.php/app/"},//https://dmtyz.wiki/
 {"name":"瓜子影视","url":"http://156.225.30.159:1234//api.php/app/"},	
 {"name":"看美剧","url":"https://cms.kmeiju.cc/api.php/app/"},
 {"name":"永乐视频","url":"https://www.rrys.lv/api.php/app/"},
-{"name":"乐看vlog","url":"https://lkvlog.cn//api.php/v1.vod"},	
+{"name":"乐看vlog","url":"https://lkvlog.cn//api.php/v1.vod"},
 {"name":"柒月影视","url":"https://www.qyye.net//api.php/app/"},//https://www.9day.cc/
 {"name":"宝片影视","url":"http://172.247.189.145:8989/mogai_api.php/v1.vod"},	
 {"name":"思古影视","url":"https://www.xxmsrj.com/api.php/app/"},//https://sigu.app/	
@@ -192,31 +157,25 @@
 {"name":"影视工厂","url":"http://137.220.252.33:1223/xgapp.php/v1/"},
 {"name":"影探","url":"http://cms147.lyyytv.cn/api.php/app/"},	
 {"name":" 鸭奈飞影视","url":"https://yanetflix.me/api.php/app/"}, 
-{"name":"小蚁追剧","url":"https://www.xiaoyizj.com//mogai_api.php/v1.vod"},	
-{"name":"宝片视频","url":"http://172.247.189.145:8989/api.php/app/"},
+{"name":"555电影","url":"https://www.axcccu9.wiki/api.php/app/"},//https://55rrt.art/
+{"name":"大米星球","url":"https://www.dami678.shop//api.php/app/"},//https://dmtyz.wiki/
 {"name":"聚合蓝光","url":"http://kkwk123.top/api.php/app/"},
 {"name":"墨白影视","url":"https://nm.xxxc137.top/api.php/app/"},	
 {"name":"私人影院","url":"https://v.catcs.cc//api.php/v1.vod"},	
-{"name":"千梦影视","url":"https://www.qmjzys.com/api.php/app/"},
 {"name":"沐沐影视","url":"https://nnystv.cn/api.php/app/"},	
-{"name":"CC影视","url":"http://ys.ccbk.cc:86/mogai_api.php/v1.vod"},	
 {"name":"皮皮虾影视","url":"https://ppxkp.com//api.php/v1.vod"},	
 {"name":"霏雪影视","url":"https://www.fxys.fun//api.php/v1.vod"},
 {"name":"酷8影视","url":"https://k8.8itv.cn//mogai_api.php/v1.vod"},
 {"name":"影探","url":"http://cms147.lyyytv.cn/api.php/app/"},//	http://www.lyyytv.cn/
 {"name":"春华影院","url":"https://chuavod.com/api.php/app/"},
 {"name":"天天美剧","url":"https://www.ttmja.com//api.php/app/"},		
-{"name":"柒月影视","url":"https://ys.9day.cc/api.php/app/"},	//https://www.9day.cc/	
-//{"name":"大米星球","url":"https://www.dm99t.art/api.php/app/"},//https://dmxq9w2.com/
-{"name":"五一影视","url":"https://ys.51bro.cn/mogai_api.php/v1.vod"},
+{"name":"CC影视","url":"http://ys.ccbk.cc:86/mogai_api.php/v1.vod"},
 {"name":"河狸影视","url":"https://www.heli888.cc/api.php/app/"},
 {"name":"零刻影视","url":"https://ys.51bro.cn/mogai_api.php/v1.vod"},
-{"name":"奴娜TV","url":"https://www.nntv.in/api.php/v1.vod"},
-{"name":"海兔影院","url":"https://www.haituu.tv/api.php/v1.vod"},	
+{"name":"奴娜TV","url":"https://www.nntv.in/api.php/v1.vod"},	
 {"name":"4k_1影视","url":"https://tx.xihauche.cn/api.php/app/"},	
 {"name":"天天影院","url":"https://www.ttmja.com/api.php/app/"},	
 {"name":"北川影视","url":"http://www.bcys.xyz/api.php/v1.vod"},//https://www.bcyingshi.ink/fb/
-{"name":"酷咯影视","url":"http://www.kuloo.xyz/ruifenglb_api.php/v1.vod"},
 {"name":"海兔影视","url":"https://www.haituu.tv/api.php/v1.vod"}],
 
 
@@ -226,7 +185,6 @@
 {"name":"如意资源","url":"https://cj.rycjapi.com/api.php/"},
 {"name":"舒渡官资源","url":"http://www.69mu.cn/api.php/"},
 {"name":"BILFUN影视","url":"https://giant.us.kg/api.php/"},	
-{"name":"TVB云播","url":"http://www.tvyb10.com/api.php/"},
 {"name":"七七看片","url":"https://www.5277kp.com//api.php/"},	
 {"name":"量子资源","url":"https://cj.lziapi.com/api.php/"},
 {"name":"360资源","url":"https://360zy.com/api.php/"},
@@ -239,15 +197,13 @@
 "zhujiexi":[	
 {"name":"巧技","url":"https://zy.qiaoji8.com/neibu.php?url="},
 {"name":"巧技二","url":"https://zy.qiaoji8.com/gouzi.php?url="},
-{"name":"1","url":"https://api.huohua.live/api/?key=vw7rQBbgOih9jDCMVc&url="},
+{"name":"1","type":1,"url":"https://api.huohua.live/api/?key=vw7rQBbgOih9jDCMVc&url="},
 {"name":"柒月解析","url":"https://yh.imayday.cn/api/?key=f22bafe11382d2ea90b643dca705b1fe&url="},
+{"name":"影探解析","url":"https://jx.bhs6.com/api/?key=e9b9c8a21dfeab775de29040e824d415&url="},
 {"name":"花火b","url":"https://api.huohua.live/api/?key=vw7rQBbgOih9jDCMVc&url="},	
-{"name":"影探解析","url":"https://150.138.78.37:4399/api?key=94b07e0b2c0e8244&url="},
-{"name":"影探解析","url":"http://jf.yingshidao.cn/api/?key=oovDE5yLVzOj7bFD2i&url="},
-{"name":"影探解析","url":"https://jx.bhs6.com/api/?key=b0227c1e257c83f68ca14644aebda8c1&url="},	
 {"name":"皮皮虾影视","url":"http://jiexi.52ppx.top/lxjson.php?url="},	
-{"name":"摸鱼解析","url":"http://103.117.123.51:6523/zhuimi666.php?url="},
-{"name":"何以解析","url":"https://xcoo.vip/xiaojun/xiaojunjiexi.php?url=","ua":"User-Agent$okhttp/3.12.0#referer$123"}],
+{"name":"摸鱼解析","url":"http://103.117.123.51:6523/zhuimi666.php?url="},	
+{"name":"影探解析","url":"https://jx.bhs6.com/api/?key=e9b9c8a21dfeab775de29040e824d415&url=","ua":"User-Agent$okhttp/3.12.0#referer$123"}],
 
 //备用解析是常规格式的解析
 "beiyongjiexi":[
