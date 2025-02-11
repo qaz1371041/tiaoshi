@@ -205,7 +205,8 @@
 {"name":"极速资源","url":"https://jszyapi.com/api.php/"},
 {"name":"非凡资源","url":"http://cj.ffzyapi.com/api.php/"},
 {"name":"梦梦影院","url":"https://www.gtrgt.com//api.php/"},	
-{"name":"高清资源库","url":"https://api.1080zyku.com/inc/apijson.php"},	
+{"name":"高清资源库","url":"https://api.1080zyku.com/inc/apijson.php"},
+{"name":"爱片网","url":"https://www.ipian.net//api.php/"},	
 {"name":"卧龙资源{有广告}","url":"https://collect.wolongzyw.com/api.php/"}],
 
 
@@ -233,7 +234,9 @@
 {"name":"看美剧解析","url":"https://pla.kands.cc/player/ec.php?code=WJ&if=1&from=lekanzyw&url="},	
 {"name":"2","url":"https://pl.a6club.com/player/analysis.php?v="},
 {"name":"弹幕","url":"https://bfq.lggys.com/?url="},
-{"name":"巨人","url":"https://jx.tudo.fun/index.php?url="},	
+{"name":"巨人","url":"https://jx.tudo.fun/index.php?url="},
+{"name":"七智","url":"https://jx.2s0.cn//player//?url="},
+{"name":"NMTV","url":"https://nm.xxxc137.top/static/player/artplayer.html?url="},	
 {"name":"1","url":"https://jx.2s0.cn/player/?url=","ua":"User-Agent$okhttp/3.12.0#referer$123"},	
 {"name":"2","url":"https://www.playm3u8.cn/jiexi.php?url="},	
 {"name":"3","url":"https://jx.yparse.com/index.php?url="},	
