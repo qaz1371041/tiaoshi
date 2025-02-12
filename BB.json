@@ -45,20 +45,33 @@
 "去广告规则": [
         {
             "名字": "LZ",
-            "寻找词": "vip.lz#hd.lz#v.cdnlz#v.cdnlz1#.cdnlz*#yzzy1.play#lz",
+            "寻找词": "vip.lz#hd.lz#v.cdnlz#v.cdnlz1#.cdnlz*#yzzy1.play",
             "正则规则": [
+		"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:4\\.066667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+		"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF.*?\\s+[a-z0-9]{18}\\.ts[\\s\\S]*?#EXT-X-DISCONTINUITY",
+		"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:19.52,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+		"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:18.6666,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+		"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:7\\.166667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+		"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+		"#EXTINF.*?\\s+.*?11697777.*?\\.ts\\s+",    
 		"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:18.5333,[\\s\\S]*?#EXT-X-DISCONTINUITY", 
 		"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",   
 		"#EXTINF.*?\\s+[a-z0-9]{18}\\.ts",
+		"#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+",
 		"[a-z0-9]{18}\\.ts\\s+",  
-		"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF.*?\\s+[a-z0-9]{18}\\.ts[\\s\\S]*?#EXT-X-DISCONTINUITY"   
+		"17.19"  
             ]
         },
 
 { "名字": "索尼",
             "寻找词": "suonizy",
             "正则规则": [
-                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:1\\.000000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+
+		"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:1\\.15.2666,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+		"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:1\\.15.1666,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+		"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:1\\.16.3333,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+		"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:1\\.15.266667,[\\s\\S]*?#EXT-X-DISCONTINUITY",   
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:1\\.000000,[\\s\\S]*?#EXT-X-DISCONTINUITY",    
                 "#EXTINF.*?\\s+.*?p1ayer.*?\\.ts\\s+",
 		"#EXTINF.*?\\s+.*?\\/video\\/original.*?\\.ts\\s+"    
             ]
@@ -66,6 +79,9 @@
  { "名字": "暴风",
             "寻找词": "bfzy#s5.bfzycdn#bfbfvip#bfengbf#rrcdnbf#bfzy#bfbf#c1#bfengbf.com",
             "正则规则": [
+		"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+		"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY", 
+		"#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+",    
                 "#EXTINF.*?\\s+.*?adjump.*?\\.ts\\s+"
             ]
         },
@@ -134,7 +150,21 @@
 "寻找词":"vip.ffzy#hd.ffzy#.ffzy*#super.ffzy",
 "正则规则":[
             "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF.*?\\s+[0-9]{11}[1-9]{2}.*?\\.ts[\\s\\S]*?#EXT-X-DISCONTINUITY",
+	    "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:7\\.400000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+	    "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6\\.400000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+	    "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+	    "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:25.08,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+	    "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:20.52,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+	    "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:25.1,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+	    "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:25.1999,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+	    "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:25.0666,[\\s\\S]*?#EXT-X-DISCONTINUITY",
             "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:5.033333,[\\s\\S]*?#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3.960000",
+	    "#EXTINF.*?\\s+.*?1171(057).*?\\.ts",
+	    "#EXTINF.*?\\s+.*?6d7b(077).*?\\.ts",
+	    "#EXTINF.*?\\s+.*?6718a(403).*?\\.ts",
+	    "#EXTINF.*?\\s+.*?1170(20|32).*?\\.ts\\s+",
+	    "#EXTINF.*?\\s+.*?116977.*?\\.ts\\s+", 
+	    "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+",
 	    "#EXTINF.*?\\s+.*?1171.*?\\.ts\\s+"	
 ]
 }
