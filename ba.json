@@ -176,7 +176,8 @@
 //{"name":"填接口名称","url":"http://xxx/mogai_api.php/v1.vod"},
 //填写APP接口，支持以下5种接口格式。
 "zhuyejiekou": [	
-{"name":"瓜子影视","url":"http://156.225.30.159:1234//api.php/app/"},	
+{"name":"瓜子影视","url":"http://156.225.30.159:1234//api.php/app/"},
+{"name":"Zb影视网","url":"https://video.bhs6.com//api.php/app/"},	
 {"name":"看美剧","url":"https://cms.kmeiju.cc/api.php/app/"},
 {"name":"永乐视频","url":"https://www.rrys.lv/api.php/app/"},
 {"name":"乐看vlog","url":"https://lkvlog.cn//api.php/v1.vod"},
