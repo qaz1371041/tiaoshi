@@ -173,7 +173,8 @@
 //填写APP接口，支持以下5种接口格式。
 "zhuyejiekou": [	
 {"name":"瓜子影视","url":"http://156.225.30.159:1234//api.php/app/"},
-{"name":"柒月影视","url":"https://www.ggww.net//api.php/app/"},//https://www.9day.cc/	
+{"name":"柒月影视","url":"https://www.ggww.net//api.php/app/"},//https://www.9day.cc/
+{"name":"小枫影视","url":"https://kekedy.icu/api.php/app/"},	
 {"name":"Zb影视网","url":"https://video.bhs6.com//api.php/app/"},	
 {"name":"天天美剧","url":"https://ttmja.com//api.php/app/"},
 {"name":"777影视","url":"https://kekedy.icu/api.php/app/"},	
