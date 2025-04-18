@@ -175,14 +175,13 @@
 //{"name":"填接口名称","url":"https://xxx/xgapp.php/v2/"},
 //{"name":"填接口名称","url":"http://xxx/mogai_api.php/v1.vod"},
 //填写APP接口，支持以下5种接口格式。
-"zhuyejiekou": [	
+"zhuyejiekou": [
+{"name":"柒月影视","url":"https://cms.ggww.net/api.php/app/"},//https://www.9day.cc/	
 {"name":"瓜子影视","url":"http://156.225.30.159:1234//api.php/app/"},
-{"name":"小枫影视","url":"https://kekedy.icu/api.php/app/"},	
 {"name":"Zb影视网","url":"https://video.bhs6.com//api.php/app/"},	
 {"name":"天天美剧","url":"https://ttmja.com//api.php/app/"},
 {"name":"永乐视频","url":"https://www.rrys.lv/api.php/app/"},
 {"name":"乐看vlog","url":"https://lkvlog.cn//api.php/v1.vod"},
-{"name":"柒月影视","url":"https://www.ggww.net//api.php/app/"},//https://www.9day.cc/
 {"name":"777影视","url":"https://kekedy.icu/api.php/app/"},	
 {"name":"宝片影视","url":"http://172.247.189.145:8989/mogai_api.php/v1.vod"},	
 {"name":"思古影视","url":"https://www.xxmsrj.com/api.php/app/"},//https://sigu.app/	
@@ -232,8 +231,8 @@
 "zhujiexi":[	
 {"name":"巧技","url":"https://zy.qiaoji8.com/neibu.php?url="},
 {"name":"巧技二","url":"https://zy.qiaoji8.com/gouzi.php?url="},
+{"name":"巧技三","url":"https://zy.qiaoji8.com/xiafan.php?url="},
 {"name":"1","type":1,"url":"https://api.huohua.live/api/?key=vw7rQBbgOih9jDCMVc&url="},
-{"name":"柒月解析","url":"https://yh.imayday.cn/api/?key=f22bafe11382d2ea90b643dca705b1fe&url="},
 {"name":"影探解析","url":"https://jx.bhs6.com/api/?key=e9b9c8a21dfeab775de29040e824d415&url="},
 {"name":"777解析","url":"http://jx.xn--xhqq0ymuct0cyu7cdie.com/api/?key=6dde0ab5e74b25271d4a438f12d62f7d&url="},	
 {"name":"花火b","url":"https://api.huohua.live/api/?key=vw7rQBbgOih9jDCMVc&url="},	
@@ -243,6 +242,7 @@
 
 //备用解析是常规格式的解析
 "beiyongjiexi":[
+{"name":"7月解析","url":"https://jx.imayday.cn/player/ec.php?code=qy&if=1&url="},	
 {"name":"瓜子解析","url":"https://jx.xnmvod.cc/player?url="},	
 {"name":"思古","url":"https://jx.jjniuniu.com/?url="},	
 {"name":"如意解析","url":"https://ryplayer.com?url="},
