@@ -588,7 +588,7 @@
 "播放页跳转看图": "0"},
 
 {"网站名字": "厂长影视",
-"网站地址": "https://www.czzy77.com/",//https://www.czzy.site/
+"网站地址": "https://www.czzymovie.com/",//https://www.czzy.site/
 "访问请求ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Mobile/15E148 Safari/604.1",
 "访问请求cookie": "空",
 "访问请求referer": "空",
@@ -602,7 +602,7 @@
 "自动点击字符": "空",
 "启用js加载源码":"0",
 "js加载源码时间":"5",
-"嗅探词": "m3u8?#.m3u8#.mp4#.flv#.mp3#.m4a#?code=cs&if=1&url=",
+"嗅探词": "m3u8?#.m3u8#.mp4#.flv#.mp3#.m4a#&if=1&url=",
 "过滤词": "51.la#cnzz.com#baidu.com#bilibili.com#.gif",
 "是否记录历史": "0",
 "直接播放": "0",
@@ -617,23 +617,23 @@
 "列表图片": "original=\"$$\"",
 "列表标题": "alt=\"$$\"",
 "列表副标题": "class=\"qb\">$$</span>",
-"列表链接": "href=\"https://www.czzy77.com/$$\"",
+"列表链接": "href=\"https://www.czzymovie.com/$$\"",
 "列表链接前缀": "空",
 "列表链接后缀": "空",
 //0：get方式，1：post方式，注意：如果用post方式，【搜索模式】要填：1
 "搜索请求方式": "0",
 "搜索模式": "1",
-"搜索前": "/daoyongjiek0shibushiyoubing?q=",//https://www.haokongbu.top/e/search/index.php
+"搜索前": "daoyongjiekoshibushiy0ubing?q=",//https://www.haokongbu.top/e/search/index.php
 "搜索后": "",//keyboard=搜索词&submit=搜索&show=title,zhuyan&tempid=1
 "搜索连接后缀": "/vod/",
-"搜索带翻页模式": "https://www.czzy77.com/daoyongjiek0shibushiyoubing?q=搜索词&f=_all&p=翻页",
-"搜索二次截取": "空",
-"搜索截取数组": "class=\"thumb lazy$$</li>",
+"搜索带翻页模式": "https://www.czzymovie.com/daoyongjiekoshibushiy0ubing?q=搜索词&f=_all&p=翻页",
+"搜索二次截取": "class=\"bt_img$$</ul>",
+"搜索截取数组": "<li>$$</li>",
 "搜索图片前缀": "空",
-"搜索图片": "original=\"$$\"",
+"搜索图片": "src=\"$$\"",
 "搜索标题": "alt=\"$$\"",
 "搜索副标题": "class=\"pic-text text-right\">$$</span>",
-"搜索链接": "href=\"https://www.czzy77.com/$$\"",
+"搜索链接": "href=\"$$\"",
 "搜索链接前缀": "",
 "搜索链接后缀": "",
 "启用线路名": "1",
@@ -652,10 +652,10 @@
 "播放剧集二次截取": "空",
 "播放剧集截取数组": "<a$$/a>",
 "播放剧集标题": ">$$<",
-"播放剧集链接": "href=\"https://www.czzy77.com/$$\"",
+"播放剧集链接": "href=\"https://www.czzymovie.com/$$\"",
 "播放剧集链接前缀": "空",
 "播放剧集链接后缀": "空"},
-
+ 
 
 
 	
