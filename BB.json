@@ -4022,8 +4022,8 @@
 "播放页跳转看图": "0"},
 
 
-{"网站名字": "🔞123AV(修)",
-"网站地址": "https://123av.com/",//主域名 123av.com，请尝试 123av.ws, 1av.to.
+{"网站名字": "🔞123AV",
+"网站地址": "https://1av.to",//主域名 1av.to.
 "访问请求ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
 "访问请求cookie": "空",
 "访问请求referer": "空",
@@ -4046,7 +4046,7 @@
 "列表显示": "0",
 "横图显示": "0",
 "列表起始页": "1",
-"列表分类": "中字无码$/zh/dm2/censored?page=#步兵无码$/zh/dm2/recent-update?page=#中字有码$/zh/dm2/uncensored-leaked?page=#骑兵有码$/vodshow/7--------#国产传媒$/vodshow/11--------#糖心Vlog$/vodshow/13--------#国产精品$/vodshow/10--------#欧美中字$/vodshow/12--------#中字动漫$/vodshow/14--------",
+"列表分类": "中字无码$/zh/dm4/new-release?page=#步兵无码$/zh/dm5/recent-update?page=#中字有码$/zh/dm2/uncensored-leaked?page=#骑兵有码$/vodshow/7--------#国产传媒$/vodshow/11--------#糖心Vlog$/vodshow/13--------#国产精品$/vodshow/10--------#欧美中字$/vodshow/12--------#中字动漫$/vodshow/14--------",
 "列表后缀": "",
 //提示：类型剧情地区年代排序可以自由选择是否显示，注意和分类链接要联动，不显示的分类链接就去掉那个分类的动态词
 //0:否，1：是
@@ -4055,8 +4055,8 @@
 {
 "分类名称": "观看JAV",
 "第一页分类链接": "空",
-"分类链接": "https://123av.com/zh/dm2/类型?page=翻页",
-"类型": "最近更新$recent-update#热门$trending#新发布$new-release#未审查$uncensored#泄露未审查$uncensored-leaked#VR$vr#热门$trending#本月最多观看$monthly-hot",
+"分类链接": "https://1av.to/zh/类型?page=翻页",
+"类型": "审查$dm3/censored#最近更新$dm5/recent-update#热门$dm4/trending#新发布$dm4/new-release#未审查$dm4/uncensored#泄露未审查$dm5/uncensored-leaked#VR$dm2/vr#热门$dm4/trending#本月最多观看$dm4/monthly-hot",
 "剧情": "空",
 "地区": "空",
 "年代": "空",
@@ -4065,8 +4065,8 @@
 {
 "分类名称": "业余",
 "第一页分类链接": "空",
-"分类链接": "https://123av.com/zh/dm2/类型?page=翻页",
-"类型": "SIRO$tags/siro#LUXU$tags/259luxu#200GANA$tags/200gana#PRESTIGE PREMIUM$tags/prestige-premium#ORECO$tags/230oreco#S-CUTE$tags/s-cute#ARA$tags/261ara#390JAC$tags/390jac#328HMDN$tags/328hmdn",
+"分类链接": "https://1av.to/zh/类型?page=翻页",
+"类型": "SIRO$dm2/tags/siro#LUXU$dm2/tags/259luxu#200GANA$dm2/tags/prestige-premium#ORECO$dm2/tags/230oreco#S-CUTE$dm2/tags/s-cute#ARA$dm2/tags/261ara#390JAC$dm2/tags/390jac#328HMDN$dm2/tags/328hmdn",
 "剧情": "空",
 "地区": "空",
 "年代": "空",
@@ -4075,8 +4075,8 @@
 {
 "分类名称": "未审查",
 "第一页分类链接": "空",
-"分类链接": "https://123av.com/zh/类型?page=翻页",
-"类型": "泄露未审查$dm2/uncensored-leaked#FC2$dm2/tags/fc2#HEYZO$dm17/tags/heyzo#Tokyo-Hot$dm2/tags/tokyo-hot#1pondo$dm26/tags/1pondo#Caribbeancom$dm27/tags/caribbeancom#Caribbeancompr$dm10/tags/caribbeancompr#10musume$dm28/tags/10musume#pacopacomama$dm15/tags/pacopacomama#Gachinco$dm2/tags/gachig#XXX-AV$dm2/tags/xxx-av#C0930$dm2/tags/c0930#H0930$dm2/tags/h0930#H4610$dm2/tags/h4610",
+"分类链接": "https://1av.to/zh/类型?page=翻页",
+"类型": "泄露未审查$dm5/uncensored-leaked#FC2$dm3/tags/fc2#HEYZO$dm50/tags/heyzo#Tokyo-Hot$dm2/tags/tokyo-hot#1pondo$dm45/tags/1pondo#Caribbeancom$dm42/tags/caribbeancom#Caribbeancompr$dm17/tags/caribbeancompr#10musume$dm48/tags/10musume#pacopacomama$dm54/tags/pacopacomama#Gachinco$dm2/tags/gachig#XXX-AV$dm2/tags/xxx-av#C0930$dm2/tags/c0930#H0930$dm2/tags/h0930#H4610$dm2/tags/h4610",
 "剧情": "空",
 "地区": "空",
 "年代": "空",
@@ -4090,15 +4090,15 @@
 "列表标题": "class=\"detail\">$$</div>",
 "列表副标题": "class=\"duration\">$$</div>",
 "列表链接": "href=\"$$\"",
-"列表链接前缀": "https://123av.com/zh/",
+"列表链接前缀": "https://1av.to/zh/",
 "列表链接后缀": "空",
 //0：get方式，1：post方式，注意：如果用post方式，【搜索模式】要填：1
 "搜索请求方式": "0",
 "搜索模式": "1",
-"搜索前": "https://123av.com/zh/search?keyword=",
+"搜索前": "https://1av.to/zh/search?keyword=",
 "搜索后": "",
 "搜索连接后缀": "",
-"搜索带翻页模式": "https://123av.com/zh/search?keyword=搜索词&page=翻页",
+"搜索带翻页模式": "https://1av.to/zh/search?keyword=搜索词&page=翻页",
 "搜索二次截取": "空",
 "搜索截取数组": "class=\"thumb$$box-item",
 "搜索图片前缀": "空",
@@ -4106,9 +4106,8 @@
 "搜索标题": "class=\"detail\">$$</div>",
 "搜索副标题": "class=\"pic-text text-right\">$$</span>",
 "搜索链接": "href=\"$$\"",
-"搜索链接前缀": "https://123av.com/zh/",
+"搜索链接前缀": "https://1av.to/zh/",
 "搜索链接后缀": "空"},
-
 
 
 
