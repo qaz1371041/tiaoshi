@@ -243,10 +243,7 @@
 {"name":"影视","url":"https://jx.bhs6.com/api/?key=229e245e7ec2c53ae1721a3ebbd08da5&url="},	
 {"name":"Ace","url":"http://110.40.137.168:5000/api/jiexi/common?Key=FHIjTw0nsA6JrQ5JDE&url="},
 {"name":"主角APP","url":"https://api.nbyjson.top:7788/api/?key=Z13yJ0dATkutcX1rbf&url="},
-{"name":"主角APP1","url":"http://110.42.66.100:5666/api/?key=2b047a2f2eae37be68617e33759ea070&url="},
-{"name":"主角APP2","url":"http://124.71.160.174:2199/api/?key=b7a4a3e88b6e81c61200313f9b8cfae5&url="},
-{"name":"主角APP3","url":"http://124.71.160.174:2199/api/?key=b7a4a3e88b6e81c61200313f9b8cfae5&url="},
-{"name":"无名解析","url":"https://api.nbyjson.top:7788/api/?key=Z13yJ0dATkutcX1rbf&url="},
+{"name":"无名解析","url":"http://110.42.66.100:5666/api/?key=2034a83949183336911879a0c8092518&url="},
 {"name":"量子、非凡、暴风","url":"http://160.202.226.85:88/tian/?url="},	
 {"name":"影探解析","url":"https://jx.bhs6.com/api/?key=e9b9c8a21dfeab775de29040e824d415&url=","ua":"User-Agent$okhttp/3.12.0#referer$123"}],
 
