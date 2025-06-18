@@ -172,7 +172,7 @@
 //{"name":"填接口名称","url":"http://xxx/mogai_api.php/v1.vod"},
 //填写APP接口，支持以下5种接口格式。
 "zhuyejiekou": [
-{"name":"臻彩世界","url":"http://cmszcsj.lfytv.cn/api.php/app/"},
+{"name":"臻彩世界[要在微信小程序 准考100分注册才可以看]","url":"http://cmszcsj.lfytv.cn/api.php/app/"},
 {"name":"电影天堂","url":"http://cmstt.lfytv.cn/api.php/app/"},
 {"name":"猪猪影视","url":"http://172.83.156.150:1010/api.php/app/"},	
 {"name":"主角APP","url":"http://vod.iodow.top/api.php/app/"},	
