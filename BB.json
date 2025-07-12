@@ -562,6 +562,7 @@
 "官源是否走解析": "0",
 "播放页跳转看图": "0"},
 
+ 
 {"网站名字": "厂长影视",
 "网站地址": "https://www.czzymovie.com/",//https://www.czzy.site/
 "访问请求ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Mobile/15E148 Safari/604.1",
@@ -572,12 +573,12 @@
 "网页编码": "utf-8",
 "集数倒序": "0",
 "禁用搜索": "0",
-"搜索手动验证": "0",
+"搜索手动验证": "1",
 "是否启用解析模式": "0",
 "自动点击字符": "空",
 "启用js加载源码":"0",
 "js加载源码时间":"5",
-"嗅探词": "m3u8?#.m3u8#.mp4#.flv#.mp3#.m4a##?fileccc=1.mp4",
+"嗅探词": "m3u8?#.m3u8#.mp4#.flv#.mp3#.m4a#?fileccc=1.mp4",
 "过滤词": "51.la#cnzz.com#baidu.com#bilibili.com#.gif",
 "是否记录历史": "0",
 "直接播放": "0",
