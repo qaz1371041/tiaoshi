@@ -3521,12 +3521,10 @@
 "播放剧集链接后缀": ""},
 
 
-
-
 {"网站名字": "🔞花都影视",
 "网站地址": "https:/chd1.hdys3.com/",//abc.hdys.top 、 abc.hdys.xyz  abc可以改为任意字母、数字、汉字或其组合
-"访问请求ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36",
-"访问请求cookie": "Hm_tf_frnz8lmqioe=1747904367; Hm_lvt_frnz8lmqioe=1747904367; Hm_lpvt_frnz8lmqioe=1747904367; gg_iscookie=1",
+"访问请求ua": "Mozilla/5.0 (Linux; Android 12; BLK-AL00 Build/HUAWEIBLK-AL00; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.196 Mobile Safari/537.36",
+"访问请求cookie": "空",
 "访问请求referer": "空",
 "播放请求头": "User-Agent$123",
 "图片请求头": "空",
@@ -3551,7 +3549,7 @@
 "列表后缀": "---.html",
 
 "列表二次截取": "空",
-"列表截取数组": "class=\"stui-vodlist__box$$</li>",
+"列表截取数组": "class=\"col-md-5 col-sm-4 col-xs-2$$</li>",
 "列表图片前缀": "空",
 "列表图片": "data-original=\"$$\"",
 "列表标题": "title=\"$$\"",
@@ -3580,23 +3578,23 @@
 "线路名截取数组": "class=\"more$$</div>",
 "线路名标题": "/>$$</h3>",
 "线路名数组分割字符": "空",//json数据才用到，不用时填空或者不填或者删除这个字段
-"播放页状态": "日期：$$</li>",
-"播放页导演": "类别：</strong>$$</li>",
-"播放页演员": "演员：</strong><span alt=\"$$\"><a",
-"播放页剧情": "标题：$$</li>",
+"播放页状态": "日期：</strong>$$</p>",
+"播放页导演": "标题：</strong>$$</span>",
+"播放页演员": "演员：</strong>$$</span>",
+"播放页剧情": "名称：</strong>$$</span>",
 "播放页二次截取": "空",
 "播放页截取数组": "class=\"col-pd clearfix$$</div>",
 "播放剧集自动分割模式": "0",
 "播放剧集数组分割字符": "空",//json数据播放链接都集合在一起时才用到，不用时填空或者不填或者删除这个字段
 "播放剧集二次截取": "空",
-"播放页截取数组": "class=\"btn$$</div>",
+"播放页截取数组": "class=\"btn btn-primary$$</a>",
 "播放剧集二次截取": "空",
-"播放剧集截取数组": "btn-primary\"$$/a>",
+"播放剧集截取数组": "\"$$</center>",
 "播放剧集标题": "<font size=\"3\">$$</font>",
 "播放剧集链接": "href=\"$$\"",
 "播放剧集链接前缀": "空",
 "播放剧集链接后缀": "空",
-"启用嗅探截取": "1",
+"启用嗅探截取": "0",
 "嗅探请求头": "User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",//User-Agent$123#Referer$123
 "播放地址二次截取": "var player_$$</div>",
 "播放地址截取": "\"url\":\"$$\"",
@@ -3606,6 +3604,7 @@
 "是否url解码": "0",
 "官源是否走解析": "0",
 "播放页跳转看图": "0"},
+
 
 
 {"网站名字": "🔞123AV",
