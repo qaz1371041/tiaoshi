@@ -278,8 +278,7 @@
 
 {"网站名字": "旺旺影视",
 "网站地址": "https://vip.wwgz.cn:5200/",//https://www.wwgz.me/
-"访问请求ua": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.95 Mobile Safari/537.36",
-"访问请求cookie": "空",
+"访问请求ua": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36 EdgA/138.0.0.0",
 "访问请求referer": "空",
 "播放请求头": "User-Agent$123",
 "图片请求头": "空",
@@ -510,8 +509,8 @@
 "自动点击字符": "空",
 "启用js加载源码":"0",
 "js加载源码时间":"5",
-"嗅探词": "m3u8?#.m3u8#.mp4#.flv#.mp3#.m4a#?fileccc=1.mp4",
-"过滤词": "51.la#cnzz.com#baidu.com#bilibili.com#.gif",
+"嗅探词": "m3u8?#.m3u8#.mp4#.flv#.mp3#.m4a#/d/m3u8/hls2/#/video/tos/cn/#/d/m3u8/hls3/hls02/",
+"过滤词": "51.la#cnzz.com#baidu.com#bilibili.com#.gif#&url=",
 "是否记录历史": "0",
 "直接播放": "0",
 "列表显示": "0",
