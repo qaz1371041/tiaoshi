@@ -181,6 +181,8 @@
 {"name":"雄鹰影视","url":"http://122.228.193.2:9988//mogai_api.php/v1.vod"},	
 {"name":"柒月影视","url":"https://cms.ggww.net/api.php/app/"},//https://www.9day.cc/
 {"name":"宝片影视","url":"http://172.247.189.145:8989//api.php/app/"},
+{"name":"团夕影视","url":"http://dmmax.kuailezhuiju2.com/api.php/app/"},	
+{"name":"剧下饭影视","url":"http://jxfmax.juxiafan.com/api.php/app/"},//https://gg1080.com	
 {"name":"永乐视频","url":"https://www.rrys.lv/api.php/app/"},
 {"name":"私人影院","url":"https://v.catcs.cc//api.php/v1.vod"},
 {"name":"乐看vlog","url":"https://lkvlog.cn//api.php/v1.vod"},
@@ -189,7 +191,8 @@
 {"name":"思古影视","url":"https://www.xxmsrj.com/api.php/app/"},//https://sigu.app/
 {"name":"春华影院","url":"https://chuavod.com/api.php/app/"},
 {"name":"天天美剧","url":"https://www.ttmja.com//api.php/app/"},
-{"name":"团夕影视","url":"http://jxfmax.juxiafan.com/api.php/app/"},
+{"name":"APP","url":"http://ys.qtw.asia/lvdou_api.php/v1.vod"},
+{"name":"免费影视","url":"http://m.xiaofengtv.com/api.php/app/"},	
 {"name":"米兔影视","url":"http://v.tkbot.fun//api.php/app/"},//
 {"name":"奇迹影视","url":"https://qiji.91by.top/api.php/app/"},
 {"name":"河狸影视","url":"https://www.heli888.cc//api.php/app/"},
@@ -237,10 +240,7 @@
 {"name":"巧技","url":"https://zy.qiaoji8.com/neibu.php?url="},
 {"name":"巧技二","url":"https://zy.qiaoji8.com/gouzi.php?url="},
 {"name":"巧技三","url":"https://zy.qiaoji8.com/xiafan.php?url="},
-{"name":"主角APP","url":"http://124.222.87.206:2188/api/?key=5c14a8b07b1944e863dff63cb24b5de0&url="},
-{"name":"主角APP1","url":"http://110.42.66.100:5666/api/?key=54b70910066492d03387642ace638267&url="},
-{"name":"主角APP2","url":"http://110.42.66.100:5666/api/?key=54b70910066492d03387642ace638267&url="},
-{"name":"主角APP3","url":"http://124.222.87.206:2188/api/?key=ffdb0879e9cc14012e30891c13e3731c&url="},
+{"name":"无名","url":"https://60.204.225.89/api/?key=ecb97ffafc1798cd2f67fcbc37226761&url="},
 {"name":"影探解析","url":"https://jx.bhs6.com/api/?key=e9b9c8a21dfeab775de29040e824d415&url=","ua":"User-Agent$okhttp/3.12.0#referer$123"}],
 
 
