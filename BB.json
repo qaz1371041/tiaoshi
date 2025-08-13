@@ -184,6 +184,7 @@
 {"name":"团夕影视","url":"http://dmmax.kuailezhuiju2.com/api.php/app/"},	
 {"name":"剧下饭影视","url":"http://jxfmax.juxiafan.com/api.php/app/"},//https://gg1080.com	
 {"name":"永乐视频","url":"https://www.rrys.lv/api.php/app/"},
+{"name":"火猫影视","url":"http://103.23.148.70:14988/api.php/app/"},	
 {"name":"私人影院","url":"https://v.catcs.cc//api.php/v1.vod"},
 {"name":"乐看vlog","url":"https://lkvlog.cn//api.php/v1.vod"},
 {"name":"4k_1影视","url":"https://tx.xihauche.cn//api.php/app/"},
@@ -196,7 +197,7 @@
 {"name":"米兔影视","url":"http://v.tkbot.fun//api.php/app/"},//
 {"name":"奇迹影视","url":"https://qiji.91by.top/api.php/app/"},
 {"name":"河狸影视","url":"https://www.heli888.cc//api.php/app/"},
-//{"name":"555电影","url":"https://www.axcccu9.wiki/api.php/app/"},//https://55rrt.art/
+{"name":"555电影","url":"https://www.5v6w4n2u9m8.shop//api.php/app/"},//https://5565282.vip/
 //{"name":"大米星球","url":"https://www.dami678.shop/api.php/app/"},//https://dmtyz.wiki/
 {"name":"奴娜TV","url":"https://nntv.in//api.php/v1.vod"},	
 {"name":"海兔影视","url":"https://www.haituu.tv/api.php/v1.vod"}],
@@ -240,6 +241,8 @@
 {"name":"巧技","url":"https://zy.qiaoji8.com/neibu.php?url="},
 {"name":"巧技二","url":"https://zy.qiaoji8.com/gouzi.php?url="},
 {"name":"巧技三","url":"https://zy.qiaoji8.com/xiafan.php?url="},
+{"name":"主角APP","url":"http://124.222.87.206:2188/api/?key=aadee9d20e3b272159c087c37998089a&url="},
+{"name":"主角APP1","url":"http://110.42.66.100:5666/api/?key=a3239a0fd5e6aff9bc429597a5155910&url="},	
 {"name":"无名","url":"https://60.204.225.89/api/?key=ecb97ffafc1798cd2f67fcbc37226761&url="},
 {"name":"影探解析","url":"https://jx.bhs6.com/api/?key=e9b9c8a21dfeab775de29040e824d415&url=","ua":"User-Agent$okhttp/3.12.0#referer$123"}],
 
