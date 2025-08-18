@@ -182,7 +182,7 @@
 {"name":"柒月影视","url":"https://cms.ggww.net/api.php/app/"},//https://www.9day.cc/
 {"name":"宝片影视","url":"http://172.247.189.145:8989//api.php/app/"},
 {"name":"团夕影视","url":"http://dmmax.kuailezhuiju2.com/api.php/app/"},	
-{"name":"剧下饭影视","url":"http://jxfmax.juxiafan.com/api.php/app/"},//https://gg1080.com	
+{"name":"剧下饭影视","url":"http://dmmax.juxiafan.com/api.php/app/"},//https://gg1080.com	
 {"name":"永乐视频","url":"https://www.rrys.lv/api.php/app/"},
 {"name":"火猫影视","url":"http://103.23.148.70:14988/api.php/app/"},	
 {"name":"私人影院","url":"https://v.catcs.cc//api.php/v1.vod"},
@@ -242,7 +242,14 @@
 {"name":"巧技二","url":"https://zy.qiaoji8.com/gouzi.php?url="},
 {"name":"巧技三","url":"https://zy.qiaoji8.com/xiafan.php?url="},
 {"name":"主角APP","url":"http://124.222.87.206:2188/api/?key=aadee9d20e3b272159c087c37998089a&url="},
-{"name":"主角APP1","url":"http://110.42.66.100:5666/api/?key=a3239a0fd5e6aff9bc429597a5155910&url="},	
+{"name":"主角APP1","url":"http://110.42.66.100:5666/api/?key=a3239a0fd5e6aff9bc429597a5155910&url="},
+{"name":"K","url":"http://210.16.182.194:999/api.php/?key=6e8o1aoz8m&url="},
+{"name":"剧下饭1","url":"http://110.42.100.81:19265/api/?key=3SP1tgMpvBSCYiO3ck&url="},
+{"name":"剧下饭2","url":"http://61.160.247.112:3680/parse?token=baa31e86a93342809d22abc94a3037e0&url="},
+{"name":"剧下饭3","url":"http://110.40.137.168:5000/api/jiexi/common?Key=FHIjTw0nsA6JrQ5JDE&url="},
+{"name":"剧下饭4","url":"https://api.nbyjson.top:7788/api/?key=S9Tr9H9T1wCCUkM7rA&url="},
+{"name":"剧下饭5","url":"http://jx.meilinvps.com/api/?key=b0afddd1d8228d987326bd65f8d6ed02&url="},
+{"name":"剧下饭6","url":"http://194.147.100.155:7891?url="},	
 {"name":"无名","url":"https://60.204.225.89/api/?key=ecb97ffafc1798cd2f67fcbc37226761&url="},
 {"name":"影探解析","url":"https://jx.bhs6.com/api/?key=e9b9c8a21dfeab775de29040e824d415&url=","ua":"User-Agent$okhttp/3.12.0#referer$123"}],
 
