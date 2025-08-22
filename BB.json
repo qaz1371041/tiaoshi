@@ -4011,7 +4011,7 @@
 "列表分类": "最新上市$/comic/av/cate?type=new&page=#正在播放$/comic/index/video?category=play&page=#当前最热$/comic/index/video?category=now_hot&page=#最近更新$/comic/index/video?category=new_update&page=#中文字幕$/comic/av/relvideo?model=5&type=theme&order=week&page=#无码解放$/comic/av/relvideo?model=12&type=theme&order=week&page=#中文字幕$/comic/av/relvideo?model=5&type=theme&order=week&page=#角色剧情$/comic/av/relvideo?model=2&type=theme&order=week&page=#制服诱惑$/comic/av/relvideo?model=6&type=theme&order=week&page=#直接开趴$/comic/av/relvideo?model=9&type=theme&order=week&page=#丝袜美腿$/comic/av/relvideo?model=3&type=theme&order=week&page=#主奴调教$/comic/av/relvideo?model=7&type=theme&order=week&page=#多P群交$/comic/av/relvideo?model=1&type=theme&order=week&page=#男友视觉$/comic/av/relvideo?model=4&type=theme&order=week&page=#女同欢愉$/comic/av/relvideo?model=11&type=theme&order=week&page=#凌辱强暴$/comic/av/relvideo?model=8&type=theme&order=week&page=#盗摄偷拍/comic/av/relvideo?model=10&type=theme&order=week&page=",
 "列表后缀": "",
 "列表二次截取": "空",
-"列表截取数组": "class=\"flex aspect-w-16 aspect-h-9$$</a>",
+"列表截取数组": "class=\"video-item$$</a>",
 "列表图片前缀": "空",
 "列表图片": "data-src=\"$$\"",
 "列表标题": "alt=\"$$\"",
