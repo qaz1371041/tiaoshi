@@ -173,8 +173,6 @@
 //填写APP接口，支持以下5种接口格式。
 "zhuyejiekou": [
 {"name":"臻彩世界[要在微信小程序 准考100分注册才可以看]","url":"http://cms4ksj.lyyytv.cn/api.php/app/"},
-{"name":"电影天堂","url":"http://cmsdytt.lyyytv.cn/api.php/app/"},
-{"name":"毛子影视","url":"http://ys.qtw.asia/lvdou_api.php/v1.vod"},
 {"name":"热剧天堂","url":"https://www.rebovod.com//api.php/app/"},	
 {"name":"主角APP","url":"http://vod.iodow.top/api.php/app/"},	
 {"name":"酷乐资源","url":"http://www.kuloo.xyz/mogai_api.php/v1.vod"},
@@ -183,7 +181,7 @@
 {"name":"宝片影视","url":"http://172.247.189.145:8989//api.php/app/"},
 {"name":"团夕影视","url":"http://dmmax.kuailezhuiju2.com/api.php/app/"},	
 {"name":"剧下饭影视","url":"http://dmmax.juxiafan.com/api.php/app/"},//https://gg1080.com	
-{"name":"永乐视频","url":"https://www.rrys.lv/api.php/app/"},
+{"name":"永乐视频","url":"https://v.59v.net/api.php/app/"},
 {"name":"火猫影视","url":"http://103.23.148.70:14988/api.php/app/"},	
 {"name":"私人影院","url":"https://v.catcs.cc//api.php/v1.vod"},
 {"name":"乐看vlog","url":"https://lkvlog.cn//api.php/v1.vod"},
