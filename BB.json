@@ -1389,10 +1389,9 @@
 "官源是否走解析": "0",
 "播放页跳转看图": "0"},
 
-
-{"网站名字": "麒麟影视",
-"网站地址": "https://70ys.site/",//https://www.hqlyy.cc/
-"访问请求ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
+{"网站名字": "麒麟影视",//www.hqlyy.cc
+"网站地址": "https://www.70ys.site/",
+"访问请求ua": "Mozilla/5.0 (Linux; Android 12; BLK-AL00 Build/HUAWEIBLK-AL00; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.196 Mobile Safari/537.36",
 "访问请求cookie": "空",
 "访问请求referer": "空",
 "播放请求头": "User-Agent$123",
@@ -1414,7 +1413,7 @@
 "列表显示": "0",
 "横图显示": "0",
 "列表起始页": "1",
-"列表分类": "电影$/index.php/vod/show/id/1/page/#电视剧$/index.php/vod/show/id/2/page/#综艺$/vodshow/id/zongyi/page/#动漫$/vodshow/id/dongman/page/",
+"列表分类": "电影$/index.php/vod/type/id/1/page/#电视剧$/index.php/vod/type/id/2/page/#综艺$/vodshow/id/zongyi/page/#动漫$/vodshow/id/dongman/page/",
 "列表后缀": ".html",
 "筛选列表模式": "1",
 "筛选列表": [
@@ -1480,11 +1479,11 @@
 }
 ],
 "列表二次截取": "空",
-"列表截取数组": "class=\"vsub-pic\"$$</li>",
+"列表截取数组": "class=\"li-img\"$$</li>",
 "列表图片前缀": "空",
 "列表图片": "src=\"$$\"",
 "列表标题": "title=\"$$\"",
-"列表副标题": "class=\"epi-name\">$$</div>",
+"列表副标题": "class=\"bottom2 pc\">$$</span>",
 "列表链接": "href=\"$$\"",
 "列表链接前缀": "空",
 "列表链接后缀": "空",
@@ -1494,7 +1493,7 @@
 "搜索前": "/index.php/ajax/suggest?mid=1&wd=",
 "搜索后": "&limit=150",
 "搜索连接后缀": "/index.php/vod/detail/id/",
-"搜索带翻页模式": "http://www.xx.com/vod/search/page/翻页/wd/搜索词.html",
+"搜索带翻页模式": "https://www.70ys.site/index.php/vod/search/page/翻页/wd/搜索词.html",
 "搜索二次截取": "空",
 "搜索截取数组": "前$$后",
 "搜索图片前缀": "空",
@@ -1504,17 +1503,17 @@
 "搜索链接": "href=\"$$\"",
 "搜索链接前缀": "空",
 "搜索链接后缀": "空",
-"启用线路名": "1",
+"启用线路名": "0",
 "线路名二次截取": "空",
-"线路名截取数组": "class=\"bkir-content-eps$$</h2>",
-"线路名标题": "\">播放列表：$$<span",
+"线路名截取数组": "id=\"url$$</ul>",
+"线路名标题": "<option >$$</option>",
 "线路名数组分割字符": "空",//json数据才用到，不用时填空或者不填或者删除这个字段
-"播放页状态": "更新时间</span>$$</li>",
-"播放页导演": "导演</span>$$</li>",
-"播放页演员": "主演</span>$$</li>",
-"播放页剧情": "style=\"font-size: 18px;\">$$</div>",
+"播放页状态": "class=\"otherbox pc\">$$</div>",
+"播放页导演": "导演：$$</div>",
+"播放页演员": "主演：$$</div>",
+"播放页剧情": "style=\"display: none;\"><strong>剧集简介：</strong>$$</span>",
 "播放页二次截取": "空",
-"播放页截取数组": "class=\"ls-data$$</dd>",
+"播放页截取数组": "class=\"player$$</ul>",
 "播放剧集自动分割模式": "0",
 "播放剧集数组分割字符": "空",//json数据播放链接都集合在一起时才用到，不用时填空或者不填或者删除这个字段
 "播放剧集二次截取": "空",
@@ -1533,7 +1532,6 @@
 "是否url解码": "0",
 "官源是否走解析": "0",
 "播放页跳转看图": "0"},
-	
  
 {"网站名字": "八号影视",
 "网站地址": "https://www.bahaotv.com/",
