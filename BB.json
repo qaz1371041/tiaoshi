@@ -182,6 +182,7 @@
 {"name":"团夕影视","url":"http://dmmax.kuailezhuiju2.com/api.php/app/"},	
 {"name":"剧下饭影视","url":"http://dmmax.juxiafan.com/api.php/app/"},//https://gg1080.com	
 {"name":"永乐视频","url":"https://v.59v.net/api.php/app/"},
+{"name":"旗星影视","url":"http://ys.qist.top/api.php/app/"},	
 {"name":"火猫影视","url":"http://103.23.148.70:14988/api.php/app/"},	
 {"name":"私人影院","url":"https://v.catcs.cc//api.php/v1.vod"},
 {"name":"乐看vlog","url":"https://lkvlog.cn//api.php/v1.vod"},
@@ -506,7 +507,7 @@
 
  
 {"网站名字": "厂长影视",
-"网站地址": "https://www.cz0101.com/",//https://www.czzy.site/
+"网站地址": "https://www.czzymovie.com/",//https://www.czzy.site/
 "访问请求ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Mobile/15E148 Safari/604.1",
 "访问请求cookie": "空",
 "访问请求referer": "空",
@@ -518,8 +519,8 @@
 "搜索手动验证": "1",
 "是否启用解析模式": "0",
 "自动点击字符": "空",
-"启用js加载源码":"0",
-"js加载源码时间":"5",
+"启用js加载源码":"1",
+"js加载源码时间":"15",
 "嗅探词": "m3u8?#.m3u8#.mp4#.flv#.mp3#.m4a#/d/m3u8/hls2/#/video/tos/cn/#/d/m3u8/hls3/hls02/",
 "过滤词": "51.la#cnzz.com#baidu.com#bilibili.com#.gif#&url=",
 "是否记录历史": "0",
@@ -535,16 +536,16 @@
 "列表图片": "original=\"$$\"",
 "列表标题": "alt=\"$$\"",
 "列表副标题": "class=\"qb\">$$</span>",
-"列表链接": "href=\"https://www.cz0101.com/$$\"",
+"列表链接": "href=\"https://www.czzymovie.com/$$\"",
 "列表链接前缀": "空",
 "列表链接后缀": "空",
 //0：get方式，1：post方式，注意：如果用post方式，【搜索模式】要填：1
 "搜索请求方式": "0",
 "搜索模式": "1",
-"搜索前": "daoyongjiekoshibushiy0ubing?q=",//https://www.haokongbu.top/e/search/index.php
+"搜索前": "https://www.czzymovie.com/xsss1O1?q=",//https://www.haokongbu.top/e/search/index.php
 "搜索后": "",//keyboard=搜索词&submit=搜索&show=title,zhuyan&tempid=1
 "搜索连接后缀": "/vod/",
-"搜索带翻页模式": "https://www.czzymovie.com/daoyongjiekoshibushiy0ubing?q=搜索词&f=_all&p=翻页",
+"搜索带翻页模式": "https://www.czzymovie.com/xsss1O1?q=搜索词&f=_all&p=翻页",
 "搜索二次截取": "class=\"bt_img$$</ul>",
 "搜索截取数组": "<li>$$</li>",
 "搜索图片前缀": "空",
@@ -570,7 +571,7 @@
 "播放剧集二次截取": "空",
 "播放剧集截取数组": "<a$$/a>",
 "播放剧集标题": ">$$<",
-"播放剧集链接": "href=\"https://www.cz0101.com/$$\"",
+"播放剧集链接": "href=\"https://www.czzymovie.com/$$\"",
 "播放剧集链接前缀": "空",
 "播放剧集链接后缀": "空"},
  
