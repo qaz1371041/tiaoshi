@@ -174,6 +174,8 @@
 "zhuyejiekou": [
 {"name":"臻彩世界[要在微信小程序 准考100分注册才可以看]","url":"http://cms4ksj.lyyytv.cn/api.php/app/"},
 {"name":"热剧天堂","url":"https://www.rebovod.com//api.php/app/"},	
+{"name":"电影天堂","url":"http://cmsdytt.lyyytv.cn/api.php/app/"},
+{"name":"NMTV影视","url":"http://45.207.212.137:1008/api.php/app/"},	
 {"name":"主角APP","url":"http://vod.iodow.top/api.php/app/"},	
 {"name":"酷乐资源","url":"http://www.kuloo.xyz/mogai_api.php/v1.vod"},
 {"name":"雄鹰影视","url":"http://122.228.193.2:9988//mogai_api.php/v1.vod"},	
