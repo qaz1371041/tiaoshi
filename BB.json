@@ -145,7 +145,7 @@
 {"名字":"非凡",
 "寻找词":"vip.ffzy#hd.ffzy#.ffzy*#super.ffzy",
 "正则规则":[
-            "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF.*?\\s+[0-9]{11}[1-9]{2}.*?\\.ts[\\s\\S]*?#EXT-X-DISCONTINUITY",
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF.*?\\s+[0-9]{11}[1-9]{2}.*?\\.ts[\\s\\S]*?#EXT-X-DISCONTINUITY",
 	    "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:7\\.400000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
 	    "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6\\.400000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
 	    "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
@@ -154,7 +154,7 @@
 	    "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:25.1,[\\s\\S]*?#EXT-X-DISCONTINUITY",
 	    "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:25.1999,[\\s\\S]*?#EXT-X-DISCONTINUITY",
 	    "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:25.0666,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-            "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:5.033333,[\\s\\S]*?#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3.960000",
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:5.033333,[\\s\\S]*?#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3.960000",
 	    "#EXTINF.*?\\s+.*?1171(057).*?\\.ts",
 	    "#EXTINF.*?\\s+.*?6d7b(077).*?\\.ts",
 	    "#EXTINF.*?\\s+.*?6718a(403).*?\\.ts",
@@ -172,6 +172,7 @@
 //{"name":"填接口名称","url":"http://xxx/mogai_api.php/v1.vod"},
 //填写APP接口，支持以下5种接口格式。
 "zhuyejiekou": [
+{"name":"天翼4K","url":"http://7.qqqtv.top//api.php/app/"},
 {"name":"臻彩世界[要在微信小程序 准考100分注册才可以看]","url":"http://cms4ksj.lyyytv.cn/api.php/app/"},
 {"name":"热剧天堂","url":"https://www.rebovod.com//api.php/app/"},	
 {"name":"电影天堂","url":"http://cmsdytt.lyyytv.cn/api.php/app/"},
