@@ -173,7 +173,7 @@
 //填写APP接口，支持以下5种接口格式。
 "zhuyejiekou": [
 {"name":"天翼4K","url":"http://7.qqqtv.top//api.php/app/"},
-{"name":"臻彩世界[要在微信小程序 准考100分注册才可以看]","url":"http://cms4ksj.lyyytv.cn/api.php/app/"},
+{"name":"臻彩世界[要在微信小程序 准考100分注册才可以看]","url":"http://pgcms.lyyytv.cn/api.php/app/"},
 {"name":"热剧天堂","url":"https://www.rebovod.com//api.php/app/"},	
 {"name":"电影天堂","url":"http://cmsdytt.lyyytv.cn/api.php/app/"},
 {"name":"NMTV影视","url":"http://45.207.212.137:1008/api.php/app/"},	
@@ -269,6 +269,7 @@
 "beiyongjiexi":[
 {"name":"解析啦","url":"https://jx.jiexila.com/?url="},	
 //{"name":"花火a","url":"https://yingqu.icu/dpplay/?url="},
+{"name":"影视工厂解析","url":"http://p.yingshi.shop/?url="},	
 {"name":"柒月解析","url":"https://jx.imayday.cn/player/ec.php?code=qy&if=1&url="},
 {"name":"7解析","url":"https://jx.imayday.cn/player/ec.php?code=qy&if=1&url="},
 {"name":"解析","url":"https://play.okcdn100.top/analysis/player/?key=flpsDJKLPQTVWZ0269&url="},	
@@ -4031,7 +4032,7 @@
 
 
 {"网站名字": "🔞花都影视",
-"网站地址": "https://hd7.hdzy.net/",//abc.hdys.top 、 abc.hdys.xyz  abc可以改为任意字母、数字、汉字或其组合
+"网站地址": "https://hd8.hdys4.com/",//abc.hdys.top 、 abc.hdys.xyz  abc可以改为任意字母、数字、汉字或其组合
 "访问请求ua": "Mozilla/5.0 (Linux; Android 12; BLK-AL00 Build/HUAWEIBLK-AL00; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.196 Mobile Safari/537.36",
 "访问请求cookie": "空",
 "访问请求referer": "空",
@@ -4072,7 +4073,7 @@
 "搜索前": "/index.php/ajax/suggest?mid=1&wd=",
 "搜索后": "&limit=150",
 "搜索连接后缀": "/voddetail/",
-"搜索带翻页模式": "https://hd7.hdzy.net/vodsearch/搜索词----------翻页---.html",
+"搜索带翻页模式": "https://hd8.hdys4.com/vodsearch/搜索词----------翻页---.html",
 "搜索二次截取": "空",
 "搜索截取数组": "前$$后",
 "搜索图片前缀": "空",
