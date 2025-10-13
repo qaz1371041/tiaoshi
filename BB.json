@@ -172,12 +172,12 @@
 //{"name":"填接口名称","url":"http://xxx/mogai_api.php/v1.vod"},
 //填写APP接口，支持以下5种接口格式。
 "zhuyejiekou": [
+{"name":"小绵羊","url":"https://vs.okcdn100.top/api.php/app/"},		
 {"name":"天翼4K","url":"http://7.qqqtv.top//api.php/app/"},
 {"name":"臻彩世界[要在微信小程序 准考100分注册才可以看]","url":"http://pgcms.lyyytv.cn/api.php/app/"},
 {"name":"热剧天堂","url":"https://www.rebovod.com//api.php/app/"},	
 {"name":"电影天堂","url":"http://cmsdytt.lyyytv.cn/api.php/app/"},
 {"name":"NMTV影视","url":"http://45.207.212.137:1008/api.php/app/"},	
-{"name":"小绵羊","url":"https://vs.okcdn100.top/api.php/app/"},	
 {"name":"主角APP","url":"http://vod.iodow.top/api.php/app/"},	
 {"name":"酷乐资源","url":"http://www.kuloo.xyz/mogai_api.php/v1.vod"},
 {"name":"闪影","url":"http://38.47.213.61:41271/mogai_api.php/v1.vod"},
@@ -4608,7 +4608,7 @@
 
  
  {"网站名字": "黄色库房",
-"网站地址": "https://hskf11.shop/",//发布页地址：https://hskffby.com/ kikimao339@gmail.com
+"网站地址": "https://hskf15.shop/",//发布页地址：https://hskffby.com/ kikimao339@gmail.com
 "访问请求ua": "User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
 "播放请求头": "User-Agent$123",
 "图片请求头": "空",
@@ -4649,7 +4649,7 @@
 "搜索前": "/vodsearch/",
 "搜索后": "----------1---.html",
 "搜索连接后缀": "/vod/",
-"搜索带翻页模式": "https://hskf11.shop/vodsearch/搜索词----------翻页---.html",//示例：http://www.xx.com/vod/search/page/翻页/wd/搜索词.html
+"搜索带翻页模式": "https://hskf15.shop/vodsearch/搜索词----------翻页---.html",//示例：http://www.xx.com/vod/search/page/翻页/wd/搜索词.html
 "搜索二次截取": "空",
 "搜索截取数组": "class=\"video$$</a>",
 "搜索图片前缀": "空",
@@ -4774,7 +4774,7 @@
 	
 
 {"网站名字": "MISSAV",
-"网站地址": "https://m.avmiss7.cc/",//https://avmisss.com/#  https://m.avmiss6.cc/
+"网站地址": "https://m.avmiss8.cc/",//https://avmisss.com/#  https://m.avmiss6.cc/
 "访问请求ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
 "访问请求cookie": "空",
 "访问请求referer": "空",
@@ -4812,7 +4812,7 @@
 "搜索前": "/vod/search.html?wd=",
 "搜索后": "",
 "搜索连接后缀":"/vodplay/",
-"搜索带翻页模式": "https://m.avmiss7.cc/vod/search/page/翻页/wd/搜索词.html",
+"搜索带翻页模式": "https://m.avmiss8.cc/vod/search/page/翻页/wd/搜索词.html",
 "搜索二次截取": "空",
 "搜索截取数组": "class=\"relative aspect-w-16$$</div>",
 "搜索图片前缀": "空",
