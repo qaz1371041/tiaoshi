@@ -4435,7 +4435,7 @@
 
 {"网站名字": "🔞花都影视",
 "网站地址": "https://hd8.hdzy.net/",//abc.hdys.top 、 abc.hdys.xyz  abc可以改为任意字母、数字、汉字或其组合
-"访问请求ua": "Mozilla/5.0 (Linux; Android 12; BLK-AL00 Build/HUAWEIBLK-AL00; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.196 Mobile Safari/537.36",
+"访问请求ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36",
 "访问请求cookie": "空",
 "访问请求referer": "空",
 "播放请求头": "User-Agent$123",
