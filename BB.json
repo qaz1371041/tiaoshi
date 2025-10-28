@@ -185,7 +185,6 @@
 {"name":"宝片影视","url":"http://172.247.189.145:8989//api.php/app/"},
 {"name":"团夕影视","url":"http://dmmax.kuailezhuiju2.com/api.php/app/"},	
 {"name":"剧下饭影视","url":"http://dmmax.juxiafan.com/api.php/app/"},//https://gg1080.com	
-{"name":"永乐视频","url":"https://v.59v.net/api.php/app/"},
 {"name":"旗星影视","url":"http://ys.qist.top/api.php/app/"},	
 {"name":"火猫影视","url":"http://103.23.148.70:14988/api.php/app/"},	
 {"name":"私人影院","url":"https://v.catcs.cc//api.php/v1.vod"},
@@ -264,7 +263,7 @@
 //备用解析是常规格式的解析
 "beiyongjiexi":[
 {"name":"解析啦","url":"https://jx.jiexila.com/?url="},	
-//{"name":"花火a","url":"https://yingqu.icu/dpplay/?url="},
+{"name":"花火a","url":"https://p.807078.xyz/zyz.php?url="},
 {"name":"影视工厂解析","url":"http://p.yingshi.shop/?url="},	
 {"name":"柒月解析","url":"https://jx.imayday.cn/player/ec.php?code=qy&if=1&url="},
 {"name":"7解析","url":"https://jx.imayday.cn/player/ec.php?code=qy&if=1&url="},
