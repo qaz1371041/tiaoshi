@@ -318,7 +318,7 @@
 
 
 {"网站名字": "旺旺影视",
-"网站地址": "https://www.wwgz.cn/",//https://www.wwgz.me/
+"网站地址": "https://vip.wwgz.cn:5200/",//https://www.wwgz.me/
 "访问请求ua": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36 EdgA/138.0.0.0",
 "访问请求referer": "空",
 "播放请求头": "User-Agent$123",
@@ -347,7 +347,7 @@
 {
 "分类名称": "电影",
 "第一页分类链接": "空",
-"分类链接": "https://www.wwgz.cn/vod-list-id-类型-pg-翻页-order--by--class-0-year-年代-letter--area-地区-lang-.html",
+"分类链接": "https://vip.wwgz.cn:5200/vod-list-id-类型-pg-翻页-order--by--class-0-year-年代-letter--area-地区-lang-.html",
 "类型": "全部$1#动作片$5#喜剧片$6#爱情片$7#科幻片$8#恐怖片$9#剧情片$10#战争片$11#惊悚片$16#奇幻片$17",
 "剧情": "空",
 "地区": "全部$空#大陆$大陆#香港$香港#台湾$台湾#美国$美国#日本$日本#韩国$韩国#泰国$泰国#新加坡$新加坡#马来西亚$马来西亚#印度$印度#法国$法国#英国$英国#加拿大$加拿大",
@@ -357,7 +357,7 @@
 {
 "分类名称": "电视剧",
 "第一页分类链接": "空",
-"分类链接": "https://www.wwgz.cn/vod-list-id-类型-pg-翻页-order--by--class-0-year-年代-letter--area-地区-lang-.html",
+"分类链接": "https://vip.wwgz.cn:5200/vod-list-id-类型-pg-翻页-order--by--class-0-year-年代-letter--area-地区-lang-.html",
 "类型": "全部$2#国产剧$12#港台泰$13#日韩剧$14#欧美剧$15",
 //"剧情": "全部$空#古装$古装#战争$战争#青春偶像$青春偶像#喜剧$喜剧#家庭$家庭#犯罪$犯罪#动作$动作#剧情$剧情#奇幻$奇幻#历史$历史#经典$经典#乡村$乡村#情景$情景#悬疑$悬疑#网剧$网剧#其他$其他",
 "地区": "全部$空#大陆$大陆#香港$香港#台湾$台湾#美国$美国#日本$日本#韩国$韩国#泰国$泰国#新加坡$新加坡#马来西亚$马来西亚#印度$印度#法国$法国#英国$英国#加拿大$加拿大",
@@ -367,7 +367,7 @@
 {
 "分类名称": "动漫",
 "第一页分类链接": "空",
-"分类链接": "https://www.wwgz.cn/vod-list-id-类型-pg-翻页-order--by--class-0-year-年代-letter--area-地区-lang-.html",
+"分类链接": "https://vip.wwgz.cn:5200/vod-list-id-类型-pg-翻页-order--by--class-0-year-年代-letter--area-地区-lang-.html",
 "类型": "全部$4#动漫剧$18#动漫片$19",
 "剧情": "空",
 "地区": "全部$空#大陆$大陆#香港$香港#台湾$台湾#美国$美国#日本$日本#韩国$韩国#泰国$泰国#新加坡$新加坡#马来西亚$马来西亚#印度$印度#法国$法国#英国$英国#加拿大$加拿大",
@@ -377,7 +377,7 @@
 {
 "分类名称": "综艺",
 "第一页分类链接": "空",
-"分类链接": "https://www.wwgz.cn/vod-list-id-3-pg-翻页-order--by--class-0-year-年代-letter--area-地区-lang-.html",
+"分类链接": "https://vip.wwgz.cn:5200/vod-list-id-3-pg-翻页-order--by--class-0-year-年代-letter--area-地区-lang-.html",
 "类型": "空",
 "剧情": "空",
 "地区": "全部$空#大陆$大陆#香港$香港#台湾$台湾#美国$美国#日本$日本#韩国$韩国#泰国$泰国#新加坡$新加坡#马来西亚$马来西亚#印度$印度#法国$法国#英国$英国#加拿大$加拿大",
@@ -387,7 +387,7 @@
 {
 "分类名称": "短剧",
 "第一页分类链接": "空",
-"分类链接": "https://www.wwgz.cn/vod-list-id-26-pg-翻页-order--by--class-0-year-年代-letter--area-地区-lang-.html",
+"分类链接": "https://vip.wwgz.cn:5200/vod-list-id-26-pg-翻页-order--by--class-0-year-年代-letter--area-地区-lang-.html",
 "类型": "空",
 "剧情": "空",
 "地区": "全部$空#大陆$大陆#香港$香港#台湾$台湾#美国$美国#日本$日本#韩国$韩国#泰国$泰国#新加坡$新加坡#马来西亚$马来西亚#印度$印度#法国$法国#英国$英国#加拿大$加拿大",
@@ -407,10 +407,10 @@
 //0：get方式，1：post方式，注意：如果用post方式，【搜索模式】要填：1
 "搜索请求方式": "1",
 "搜索模式": "1",
-"搜索前": "https://www.wwgz.cn/index.php?m=vod-search",
+"搜索前": "https://vip.wwgz.cn:5200/index.php?m=vod-search",
 "搜索后": "wd",
 "搜索连接后缀": "/vod-detail/",
-"搜索带翻页模式": "https://www.wwgz.cn/vod-search-pg-翻页-wd-搜索词.html",
+"搜索带翻页模式": "https://vip.wwgz.cn:5200/vod-search-pg-翻页-wd-搜索词.html",
 "搜索二次截取": "class=\"ulPicTxt$$</ul>",
 "搜索截取数组": "<li>$$</li>",
 "搜索图片前缀": "空",
