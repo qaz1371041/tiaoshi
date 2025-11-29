@@ -216,6 +216,8 @@
 
 //填写采集接口
 "caijizhan": [
+{"name":"花旗资源","url":"http://www.seacms.org/api.php/"},
+{"name":"幸资源站","url":"https://xzybb1.com/api.php/"},	
 {"name":"如意资源","url":"https://cj.rycjapi.com/api.php/"},
 {"name":"BILFUN影视","url":"https://giant.us.kg/api.php/"},	
 {"name":"七七看片","url":"https://www.5277kp.com//api.php/"},
@@ -277,6 +279,7 @@
 {"name":"虾米解析","url":"https://jx.xmflv.com/?wap=1&url="},
 {"name":"柒月解析","url":"https://jx.imayday.cn/player/ec.php?code=qy&if=1&url="},
 {"name":"紫金草解析","url":"https://p10.zijincao.cc/?url="},	
+{"name":"花旗解析","url":"https://www.huaqi.live/?url="},	
 {"name":"解析","url":"https://t2.qlplayer.cyou/player/analysis.php?v="},	
 {"name":"py解析","url":"https://py.123456789.qpon/1/playm3u8.php?url="},	
 {"name":"八天影视","url":"https://jx.8ttv.cn/?url="},	
