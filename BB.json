@@ -900,6 +900,181 @@
 "播放剧集链接": "href=\"https://www.czzymovie.com/$$\"",
 "播放剧集链接前缀": "空",
 "播放剧集链接后缀": "空"},
+
+
+{"网站名字": "幸资源站",
+"网站地址": "",
+"访问请求ua": "Dart/3.10 (dart:io)",
+"播放请求头": "User-Agent$123",
+"是否启用解析模式": "1",
+"嗅探词": "m3u8?#.m3u8#.mp4#.flv#stariverpan#.m4a#data.aliyundrive.net",
+"过滤词": "51.la#cnzz.com#baidu.com#bilibili.com",
+"筛选列表模式": "1",
+"筛选列表": [
+{
+"分类名称": "日韩无码",
+"分类链接": "https://xzybb1.com/index.php/ajax/data.html?mid=1&limit=1&page=翻页&tid=54",
+"排序": "空"
+},
+{
+"分类名称": "国产精品",
+"分类链接": "https://xzybb1.com/index.php/ajax/data.html?mid=1&limit=1&page=翻页&tid=55",
+"排序": "空"
+},
+{
+"分类名称": "日韩精品",
+"分类链接": "https://xzybb1.com/index.php/ajax/data.html?mid=1&limit=1&page=翻页&tid=57",
+"排序": "空"
+},
+{
+"分类名称": "自拍偷拍",
+"分类链接": "https://xzybb1.com/index.php/ajax/data.html?mid=1&limit=1&page=翻页&tid=60",
+"排序": "空"
+},
+{
+"分类名称": "中文字幕",
+"分类链接": "https://xzybb1.com/index.php/ajax/data.html?mid=1&limit=1&page=翻页&tid=62",
+"排序": "空"
+},
+{
+"分类名称": "人妻系列",
+"分类链接": "https://xzybb1.com/index.php/ajax/data.html?mid=1&limit=1&page=翻页&tid=63",
+"排序": "空"
+},
+{
+"分类名称": "制服诱惑",
+"分类链接": "https://xzybb1.com/index.php/ajax/data.html?mid=1&limit=1&page=翻页&tid=64",
+"排序": "空"
+},
+{
+"分类名称": "强奸乱伦",
+"分类链接": "https://xzybb1.com/index.php/ajax/data.html?mid=1&limit=1&page=翻页&tid=65",
+"排序": "空"
+},
+{
+"分类名称": "AV明星",
+"分类链接": "https://xzybb1.com/index.php/ajax/data.html?mid=1&limit=1&page=翻页&tid=66",
+"排序": "空"
+},
+{
+"分类名称": "SM重味",
+"分类链接": "https://xzybb1.com/index.php/ajax/data.html?mid=1&limit=1&page=翻页&tid=68",
+"排序": "空"
+},
+{
+"分类名称": "巨乳系列",
+"分类链接": "https://xzybb1.com/index.php/ajax/data.html?mid=1&limit=1&page=翻页&tid=70",
+"排序": "空"
+},
+{
+"分类名称": "颜射系列"",
+"分类链接": "https://xzybb1.com/index.php/ajax/data.html?mid=1&limit=1&page=翻页&tid=71",
+"排序": "空"
+},
+{
+"分类名称": "口交视频",
+"分类链接": "https://xzybb1.com/index.php/ajax/data.html?mid=1&limit=1&page=翻页&tid=72",
+"排序": "空"
+},
+{
+"分类名称": "自慰系列",
+"分类链接": "https://xzybb1.com/index.php/ajax/data.html?mid=1&limit=1&page=翻页&tid=73",
+"排序": "空"
+},
+{
+"分类名称": "教师学生",
+"分类链接": "https://xzybb1.com/index.php/ajax/data.html?mid=1&limit=1&page=翻页&tid=74",
+"排序": "空"
+},
+{
+"分类名称": "大秀视频",
+"分类链接": "https://xzybb1.com/index.php/ajax/data.html?mid=1&limit=1&page=翻页&tid=75",
+"排序": "空"
+},
+{
+"分类名称": "明星换脸",
+"分类链接": "https://xzybb1.com/index.php/ajax/data.html?mid=1&limit=1&page=翻页&tid=76",
+"排序": "空"
+},
+{
+"分类名称": "VR视频",
+"分类链接": "https://xzybb1.com/index.php/ajax/data.html?mid=1&limit=1&page=翻页&tid=82",
+"排序": "空"
+},
+{
+"分类名称": "AV解说",
+"分类链接": "https://xzybb1.com/index.php/ajax/data.html?mid=1&limit=1&page=翻页&tid=78",
+"排序": "空"
+},
+{
+"分类名称": "伦理影片",
+"分类链接": "https://xzybb1.com/index.php/ajax/data.html?mid=1&limit=1&page=翻页&tid=61",
+"排序": "空"
+},
+{
+"分类名称": "动漫精品",
+"分类链接": "https://xzybb1.com/index.php/ajax/data.html?mid=1&limit=1&page=翻页&tid=59",
+"排序": "空"
+},
+{
+"分类名称": "欧美精品",
+"分类链接": "https://xzybb1.com/index.php/ajax/data.html?mid=1&limit=1&page=翻页&tid=58",
+"排序": "空"
+}
+],
+"列表二次截取": "\"list\":[$$]}",
+"列表截取数组": "{$$vod_reurl",
+"列表图片前缀": "空",
+"列表图片": "\"vod_pic\":\"$$\"",
+"列表标题": "\"vod_name\":\"$$\"",
+"列表副标题": "\"vod_pubdate\":\"$$\"",
+"列表链接": "\"vod_id\":$$,",
+"列表链接前缀": "https://xzybb1.com/api.php/provide/vod?ac=detail&ids=",
+"列表链接后缀": "",
+"搜索请求方式": "0",
+"搜索模式": "1",
+"搜索前": "https://xzybb1.com/api.php/provide/vod?ac=videolist&wd=",
+"搜索后": "&pg=1",
+"搜索连接后缀": "",
+"搜索带翻页模式": "https://xzybb1.com/api.php/provide/vod?ac=videolist&wd=搜索词&pg=翻页",
+"搜索二次截取": "\"list\":[$$]}",
+"搜索截取数组": "{$$\"vod_total\":1",
+"搜索图片前缀": "空",
+"搜索图片": "\"vod_pic\":\"$$\"",
+"搜索标题": "\"vod_name\":\"$$\"",
+"搜索副标题": "\"vod_remarks\":\"$$\"",
+"搜索链接": "\"vod_id\":$$,",
+"搜索链接前缀": "https://xzybb1.com/api.php/provide/vod?ac=detail&ids=",
+"搜索链接后缀": "",
+"启用线路名":"1",
+"线路名二次截取":"空",
+"线路名截取数组":"vod_play_from\":\"$$\"",
+"线路名数组分割字符":"$$$",
+"线路名标题":"name:\"$$\"",
+"播放页状态": "\"vod_time\":\"$$\"",
+"播放页导演": "\"vod_director\":\"$$\"",
+"播放页演员": "\"vod_actor\":\"$$\"",
+"播放页剧情": "\"vod_blurb\":\"$$\"",
+"播放页二次截取": "空",
+"播放页截取数组": "\"vod_play_url\":\"$$\"",
+"播放剧集自动分割模式": "1",
+"播放剧集二次截取": "空",
+"播放剧集截取数组": "",
+"播放剧集标题": "",
+"播放剧集链接": "",
+"播放剧集链接前缀": "空",
+"播放剧集链接后缀": "空",
+"启用嗅探截取": "1",
+"嗅探请求头": "User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",//User-Agent$123#Referer$123
+"播放地址二次截取": "var player_$$</div>",
+"播放地址截取": "\"url\":\"$$\"",
+"嗅探播放地址前缀": "https://19xzy.com/?url=",//加前缀的话，截取的地址就会加上前缀再进行一次嗅探。
+"嗅探播放地址后缀": "空",//3种写法"嗅探播放地址后缀": "&from=加截取\"from\":\"$$\""或者"嗅探播放地址后缀": "&from="或者"嗅探播放地址后缀": "\"from\":\"$$\""
+"是否base64解码": "0",
+"是否url解码": "0",
+"官源是否走解析": "0",
+"播放页跳转看图": "0"},
+	
  
 {"网站名字": "两个BT",
 "网站地址": "http://www.bttwo.me/",//bttwo.vip
