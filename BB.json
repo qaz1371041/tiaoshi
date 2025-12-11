@@ -173,7 +173,8 @@
 //{"name":"填接口名称","url":"http://xxx/mogai_api.php/v1.vod"},
 //填写APP接口，支持以下5种接口格式。
 "zhuyejiekou": [
-{"name":"小绵羊","url":"https://vs.okcdn100.top/api.php/app/"},	
+{"name":"小绵羊","url":"https://vs.okcdn100.top/api.php/app/"},
+{"name":"爱优腾","url":"http://114.66.55.28:4816/api.php/app/"},	
 {"name":" 开心影视","url":"http://117.50.204.35:520/api.php/app/"},
 {"name":"紫金草影视","url":"http://www.zjcvod.com/api.php/app/"},	
 {"name":"顾我影视","url":"http://117.50.204.35:520/api.php/app/"},
@@ -257,6 +258,7 @@
 {"name":"巧技","url":"https://zy.qiaoji8.com/neibu.php?url="},
 {"name":"巧技二","url":"https://zy.qiaoji8.com/gouzi.php?url="},
 {"name":"巧技三","url":"https://zy.qiaoji8.com/xiafan.php?url="},
+{"name":"爱优腾解析","url":"http://125.208.22.184:1666/api/?key=Lsthk1A7obu4Lmn4zk&url="},	
 {"name":"解析","url":"https://json.cfysoft.cc/api/?key=58344b4dea9a89cc3248ab477c61f4c3&url="},	
 {"name":"林中解析","url":"http://newjiexi.gotto.xyz/keyu42.php?url="},	
 {"name":"4k","url":"https://www.qljson.xyz/api/?key=7e6abec1476ced719e69225772823d31&url="},
