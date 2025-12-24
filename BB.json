@@ -6570,7 +6570,7 @@
 {"网站名字": "🔞花都影视",
 "网站地址": "https://hd8.hdzy.net/",//abc.hdys.top 、 abc.hdys.xyz  abc可以改为任意字母、数字、汉字或其组合
 "访问请求ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36",
-"访问请求cookie": "server_name_session=dd0987b9bf08e21fffb3c2d4398576d1; Hm_tf_frnz8lmqioe=1765611594; Hm_lvt_frnz8lmqioe=1765611594; Hm_lpvt_frnz8lmqioe=1765611594; gg_iscookie=1; __mxau__c1-BDpoxTLq=927c9db8-5caa-46ce-8f8b-871ead277d29; __mxaf__c1-BDpoxTLq=1765611594; __mxas__c1-BDpoxTLq=%7B%22sid%22%3A%22dd0e6a9d-c36b-4917-be1c-560584c52298%22%2C%22vd%22%3A1%2C%22stt%22%3A0%2C%22dr%22%3A0%2C%22expires%22%3A1765613394%2C%22ct%22%3A1765611594%7D; __mxav__c1-BDpoxTLq=1",
+"访问请求cookie": "空",
 "访问请求referer": "空",
 "播放请求头": "User-Agent$123",
 "图片请求头": "空",
@@ -6654,7 +6654,7 @@
 {"网站名字": "🔞桃花源影视",
 "网站地址": "https://d.thyys.com/",//abc.hxtx.org    abc.hxtx.vip
 "访问请求ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
-"访问请求cookie": "X_CACHE_KEY=a4e8ab93cc6830cfe2dd470adb1b0fa8; server_name_session=cb70d35a445ff540e71805fc068d7952; Hm_tf_frnz8lmqioe=1765612161; Hm_lvt_frnz8lmqioe=1765612161; Hm_lpvt_frnz8lmqioe=1765612161; gg_iscookie=1; __mxau__c1-BDpoxTLq=149e4e0b-3752-4073-b612-5e89b41f9db7; __mxaf__c1-BDpoxTLq=1765612161; __mxas__c1-BDpoxTLq=%7B%22sid%22%3A%22d803f7a1-41a6-410b-9e1a-f3ef7a7d798f%22%2C%22vd%22%3A1%2C%22stt%22%3A0%2C%22dr%22%3A0%2C%22expires%22%3A1765613961%2C%22ct%22%3A1765612161%7D; __mxav__c1-BDpoxTLq=1; __uid=866a842fbd90450b9a54b60ccb8f0181; 866a842fbd90450b9a54b60ccb8f0181=1765612221604; 7dd0ce38d7e0132b1f7615d8ed8a8078=04f79b25a6f7c674f5ec82d4fb0ab310",
+"访问请求cookie": "空",
 "访问请求referer": "空",
 "播放请求头": "User-Agent$123",
 "图片请求头": "空",
