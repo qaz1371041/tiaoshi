@@ -259,7 +259,8 @@
 {"name":"巧技","url":"https://zy.qiaoji8.com/neibu.php?url="},
 {"name":"巧技二","url":"https://zy.qiaoji8.com/gouzi.php?url="},
 {"name":"巧技三","url":"https://zy.qiaoji8.com/xiafan.php?url="},
-{"name":"爱优腾解析","url":"http://125.208.22.184:1666/api/?key=Lsthk1A7obu4Lmn4zk&url="},	
+{"name":"麦田解析2","url":"http://23.225.248.61/jx.php?url="},
+{"name":"麦田解析3","url":"https://api.nbyjson.top:7788/api/?key=ws9Lz1EtqfU09AzZKl&url="},	
 {"name":"解析","url":"https://json.cfysoft.cc/api/?key=58344b4dea9a89cc3248ab477c61f4c3&url="},	
 {"name":"林中解析","url":"http://newjiexi.gotto.xyz/keyu42.php?url="},	
 {"name":"4k","url":"https://www.qljson.xyz/api/?key=7e6abec1476ced719e69225772823d31&url="},
@@ -290,6 +291,7 @@
 {"name":"虾米解析","url":"https://jx.xmflv.com/?wap=1&url="},
 {"name":"柒月解析","url":"https://jx.imayday.cn/player/ec.php?code=qy&if=1&url="},
 {"name":"紫金草解析","url":"https://p10.zijincao.cc/?url="},	
+{"name":"麦田解析1","url":"https://del.mt320.com/lzff.php?url="},	
 {"name":"花旗解析","url":"https://www.huaqi.live/?url="},
 {"name":"播剧解析","type":1,"url":"https://play.91ju.cc/player/ec.php?code=lg&if=1&url="},	
 {"name":"解析","url":"https://t2.qlplayer.cyou/player/analysis.php?v="},	
@@ -6652,7 +6654,7 @@
 "播放页跳转看图": "0"},
 
 {"网站名字": "🔞桃花源影视",
-"网站地址": "https://d.thyys.com/",//abc.hxtx.org    abc.hxtx.vip
+"网站地址": "https://d.thyys.cc/",//abc.hxtx.org    abc.hxtx.vip
 "访问请求ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
 "访问请求cookie": "空",
 "访问请求referer": "空",
@@ -6692,7 +6694,7 @@
 "搜索前": "/vodsearch/-------------.html?wd=",
 "搜索后": "&submit=",
 "搜索连接后缀": "/voddetail/",
-"搜索带翻页模式": "https://d.thyys.com/vodsearch/搜索词----------翻页---.html",
+"搜索带翻页模式": "https://d.thyys.cc/vodsearch/搜索词----------翻页---.html",
 "搜索二次截取": "空",
 "搜索截取数组": "class=\"vodlist_detail$$</li>",
 "搜索图片前缀": "空",
