@@ -7205,7 +7205,7 @@
 "播放页跳转看图": "0"},
 
 {"网站名字": "🔞桃花源影视",
-"网站地址": "https://d.thyys.cc/",//abc.hxtx.org    abc.hxtx.vip
+"网站地址": "https://e.thyys.com/",//abc.hxtx.org    abc.hxtx.vip
 "访问请求ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
 "访问请求cookie": "空",
 "访问请求referer": "空",
@@ -7245,7 +7245,7 @@
 "搜索前": "/vodsearch/-------------.html?wd=",
 "搜索后": "&submit=",
 "搜索连接后缀": "/voddetail/",
-"搜索带翻页模式": "https://d.thyys.cc/vodsearch/搜索词----------翻页---.html",
+"搜索带翻页模式": "https://e.thyys.com/vodsearch/搜索词----------翻页---.html",
 "搜索二次截取": "空",
 "搜索截取数组": "class=\"vodlist_detail$$</li>",
 "搜索图片前缀": "空",
@@ -7368,7 +7368,7 @@
 "播放页跳转看图": "0"},
 
 {"网站名字": "🔞爱上AV",
-"网站地址": "https://www.ovo14.cc/",//https://www.ovoav.org/   https://www.ovoav.net/   https://github.com/ovojav/ovojav-
+"网站地址": "https://ovojav.com/",//https://www.ovoav.org/   https://www.ovoav.net/   https://github.com/ovojav/ovojav-  https://www.ovoav.net/
 "访问请求ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
 "访问请求cookie": "空",
 "访问请求referer": "空",
@@ -7408,7 +7408,7 @@
 "搜索前": "/search/",
 "搜索后": "/",
 "搜索连接后缀": "/vod/",
-"搜索带翻页模式": "https://www.ovo14.cc/search/搜索词/",
+"搜索带翻页模式": "https://ovojav.com/search/搜索词/",
 "搜索二次截取": "空",
 "搜索截取数组": "class=\"item  \"$$</a>",
 "搜索图片前缀": "空",
@@ -7448,8 +7448,8 @@
 "官源是否走解析": "0",
 "播放页跳转看图": "0"},
 
-{"网站名字": "🔞ttJav",
-"网站地址": "https://ttjav.com/",//https://dizhi.bcz.com/
+{"网站名字": "🔞99pron",
+"网站地址": "https://99likes.com/",//https://dizhi.bcz.com/
 "访问请求ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
 "访问请求cookie": "空",
 "访问请求referer": "空",
@@ -7472,10 +7472,10 @@
 "列表显示": "0",
 "横图显示": "0",
 "列表起始页": "1",
-"列表分类": "无码AV$/index.php/vod/type/id/23/page/#中文字幕$/index.php/vod/type/id/21/page/#Fc2ppv$//index.php/vod/type/id/22/page/#成人自拍$/index.php/vod/type/id/6/page/#91视频$/index.php/vod/type/id/8/page/#伦理片$/index.php/vod/type/id/9/page/#麻豆传媒$/index.php/vod/type/id/13/page/#糖心vlong$/index.php/vod/type/id/14/page/#动漫$/index.php/vod/type/id/26/page/",
+"列表分类": "无码AV$/vodtype/23-#中文字幕$/vodtype/21-#Fc2ppv$/vodtype/22-#自拍流出$/vodtype/6-#91视频/vodtype/8-#伦理片$/vodtype/9-#麻豆传媒$/vodtype/13-#糖心vlong$/vodtype/14-",
 "列表后缀": ".html",
 "列表二次截取": "空",
-"列表截取数组": "class=\"relative aspect-w-16$$my-2 text-sm",
+"列表截取数组": "class=\"thumbnail group$$my-2 text-sm",
 "列表图片前缀": "空",
 "列表图片": "\" src=\"$$\"",
 "列表标题": "alt=\"$$\"",
