@@ -8050,7 +8050,7 @@
 "搜索前": "https://91wz.life/finder/videos/?wd=",
 "搜索后": "",
 "搜索连接后缀": "/vod/",
-"搜索带翻页模式": https://91wz.life/finder/videos/page/翻页/wd/搜索词/",
+"搜索带翻页模式": "https://91wz.life/finder/videos/page/翻页/wd/搜索词/",
 "搜索二次截取": "空",
 "搜索截取数组": "class=\"thumb-wrapper \">$$</div>",
 "搜索图片前缀": "空",
