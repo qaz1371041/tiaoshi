@@ -174,15 +174,16 @@
 //{"name":"填接口名称","url":"http://xxx/mogai_api.php/v1.vod"},
 //填写APP接口，支持以下5种接口格式。
 "zhuyejiekou": [
+{"name":"团夕影视","url":"http://yjyi.juyongjiu.com//api.php/app/"},	
 {"name":"小绵羊","url":"https://vs.okcdn100.top/api.php/app/"},
 {"name":"爱优腾","url":"http://114.66.55.28:4816/api.php/app/"},	
 {"name":" 开心影视","url":"http://117.50.204.35:520/api.php/app/"},
-{"name":"紫金草影视","url":"http://www.zjcvod.com/api.php/app/"},	//https://zijincao.cc//?post=42
+{"name":"紫金草影视","url":"http://www.zjcvod.com/api.php/app/"},	//https://zijincao.cc//?post=42	
 {"name":"奇奇影视","url":"http://154.94.233.164:8006/api.php/app/"},//http://qqsp.app/	
 {"name":"顾我影视","url":"http://117.50.204.35:520/api.php/app/"},
 {"name":"林中小屋","url":"http://m51.gotto.top/api.php/v1.vod"},
 {"name":"耗子视频","url":"http://122.228.193.2:9988//mogai_api.php/v1.vod"},	
-{"name":"旗星影视","url":"http://ys.qist.top/api.php/app/"},	http://ys.qist.top/app/index.html
+{"name":"旗星影视","url":"http://ys.qist.top/api.php/app/"},	//http://ys.qist.top/app/index.html
 {"name":"电影天堂","url":"http://cmstt.lyyytv.cn/api.php/app/"},
 {"name":"千梦影视","url":"https://www.qmjzys.com//api.php/app/"},
 {"name":"闪影","url":"http://38.47.213.61:41271/mogai_api.php/v1.vod"},
@@ -244,6 +245,11 @@
 {"name":"巧技","url":"https://zy.qiaoji8.com/neibu.php?url="},
 {"name":"巧技二","url":"https://zy.qiaoji8.com/gouzi.php?url="},
 {"name":"巧技三","url":"https://zy.qiaoji8.com/xiafan.php?url="},
+{"name":"团夕1","url":"https://api.nbyjson.top:7788//api//?key=MxbRUfgjyMy25MGhJQ&url="},
+{"name":"团夕2","url":"https://api.69mu.cn//api//?key=8240521537ecd78c49490daf08296625&url="},
+{"name":"团夕3","url":"https://co4k.1ljx.com:32010//api//?key=d837f49e-8a35-4503-af3f-14846167d656&url="},
+{"name":"团夕4","url":"http://175.24.181.180:5000/api/jiexi/common?Key=lZroNHoEb0Q1M4Gray&url="},
+{"name":"团夕5直播","url":"http://110.42.37.69:6688/live/live.php?token=hVD3vaL1vi&type=json&id="},	
 {"name":"火花解析DM","url":"http://61.164.242.188:10706//get_jinpai.php?url="}, 
 {"name":"火花金牌","url":"http://61.164.242.188:10706//get_jinpai.php?url="},
 {"name":"火花瓜子","url":"http://61.164.242.188:10706//get_guazi.php?url="}, 
