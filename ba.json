@@ -176,31 +176,30 @@
 //{"name":"填接口名称","url":"http://xxx/mogai_api.php/v1.vod"},
 //填写APP接口，支持以下5种接口格式。
 "zhuyejiekou": [
-{"name":"臻彩世界","url":"http://cmszcsj.lfytv.cn/api.php/app/"},
-{"name":"电影天堂","url":"http://cmstt.lfytv.cn/api.php/app/"},
-{"name":"猪猪影视","url":"http://172.83.156.150:1010/api.php/app/"},	
-{"name":"主角APP","url":"http://vod.iodow.top/api.php/app/"},	
-{"name":"酷乐资源","url":"http://www.kuloo.xyz/mogai_api.php/v1.vod"},
-{"name":"巧技影视","url":"http://172.83.156.150:1010/api.php/app/"},
-{"name":"柒月影视","url":"https://cms.ggww.net/api.php/app/"},//https://www.9day.cc/
-{"name":"宝片影视","url":"http://172.247.189.145:8989//api.php/app/"},
-{"name":"永乐视频","url":"https://www.rrys.lv/api.php/app/"},
-//{"name":" 觅影影视","url":"http://110.40.40.242:992/api.php/app/"},//
-{"name":"米兔影视","url":"http://v.tkbot.fun//api.php/app/"},//
-{"name":"奇迹影视","url":"https://qiji.91by.top/api.php/app/"},	
-{"name":"私人影院","url":"https://v.catcs.cc//api.php/v1.vod"},
+{"name":"小绵羊","url":"https://vs.okcdn100.top/api.php/app/"},
+{"name":"爱优腾","url":"http://114.66.55.28:4816/api.php/app/"},	
+{"name":" 开心影视","url":"http://117.50.204.35:520/api.php/app/"},
+{"name":"紫金草影视","url":"http://www.zjcvod.com/api.php/app/"},	//https://zijincao.cc//?post=42
+{"name":"奇奇影视","url":"http://154.94.233.164:8006/api.php/app/"},//http://qqsp.app/	
+{"name":"顾我影视","url":"http://117.50.204.35:520/api.php/app/"},
+{"name":"林中小屋","url":"http://m51.gotto.top/api.php/v1.vod"},
+{"name":"耗子视频","url":"http://122.228.193.2:9988//mogai_api.php/v1.vod"},	
+{"name":"旗星影视","url":"http://ys.qist.top/api.php/app/"},	http://ys.qist.top/app/index.html
+{"name":"电影天堂","url":"http://cmstt.lyyytv.cn/api.php/app/"},
+{"name":"千梦影视","url":"https://www.qmjzys.com//api.php/app/"},
+{"name":"闪影","url":"http://38.47.213.61:41271/mogai_api.php/v1.vod"},
+{"name":"柒月影视","url":"https://cms.ggww.net/api.php/app/"},//https://ys.mk/
+{"name":"团夕影视","url":"http://yjyi.juyongjiu.com//api.php/app/"},
+{"name":"剧下饭影视","url":"http://dmmax.juxiafan.com/api.php/app/"},//https://gg1080.com	
+{"name":"旗星影视","url":"http://ys.qist.top/api.php/app/"},	
 {"name":"乐看vlog","url":"https://lkvlog.cn//api.php/v1.vod"},
 {"name":"4k_1影视","url":"https://tx.xihauche.cn//api.php/app/"},
-{"name":"零刻影院","url":"https://ys.51bro.cn/mogai_api.php/v1.vod"},
-{"name":"思古影视","url":"https://www.xxmsrj.com/api.php/app/"},//https://sigu.app/
-{"name":"春华影院","url":"https://chuavod.com/api.php/app/"},
 {"name":"天天美剧","url":"https://www.ttmja.com//api.php/app/"},
+{"name":"免费影视","url":"http://m.xiaofengtv.com/api.php/app/"},	
 {"name":"河狸影视","url":"https://www.heli888.cc//api.php/app/"},
-{"name":"555电影","url":"https://www.axcccu9.wiki/api.php/app/"},//https://55rrt.art/
-{"name":"大米星球","url":"https://www.dami678.shop//api.php/app/"},//https://dmtyz.wiki/
-{"name":"奴娜TV","url":"https://nntv.in//api.php/v1.vod"},
-{"name":"酷8影视","url":"https://k8.8itv.cn//mogai_api.php/v1.vod"},		
-{"name":"海兔影视","url":"https://www.haituu.tv/api.php/v1.vod"}],
+{"name":"555电影","url":"https://www.5v6w4n2u9m8.shop//api.php/app/"},//https://5565282.vip/
+{"name":"大米星球","url":"https://www.dmq6e9p3x8.shop//api.php/app/"},//https://dm59564.vip/
+{"name":"奴娜TV","url":"https://nntv.in//api.php/v1.vod"}],	
 
 
 
