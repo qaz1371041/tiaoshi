@@ -5086,7 +5086,7 @@
 "列表分类": "动作片$/node/dzp?page=#喜剧片$/node/xjp?page=#爱情片$/node/aqp?page=#科幻片$/node/khp?page=#悬疑片$/node/xyp?page=#恐怖片$/node/kbp?page=#战争片$/node/zzp?page=#剧情片$/node/jqp?page=#奇幻片$/node/qhp?page=#情色$/movie/filter?act=tag&wd=情色&page=#国产剧$/node/gcj?page=#美剧$/node/mj?page=#韩剧$/node/hj?page=#日剧$/node/rj?page=#港剧$/node/tanxian?page=#台剧$/node/sheng?page=#海外剧$/node/hwj?page=#纪录片$/node/49?page=",
 "列表后缀": "",
 "列表二次截取": "空",
-"列表截取数组": "class=\"media-left\"$$</li>",
+"列表截取数组": "class=\"media-left\"$$class=\"author-info",
 "列表图片前缀": "空",
 "列表图片": "src=\"$$\"",
 "列表标题": "alt=\"$$\"",
