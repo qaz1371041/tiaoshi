@@ -46,11 +46,21 @@
 "custom": "eyJuYW1lIjogIkRK6Z+z5LmQIiwKInVybCI6ICJodHRwOi8vd3d3LmRqdXUuY29tIiwKIlVzZXIiOiAi56m6IiwKIuebtOaOpeaSreaUviI6ICIxIiwKIuWIl+ihqOaYvuekuiI6ICIwIiwKImZlbmxlaSI6ICLng63mkq0kL3NlYXJjaD9tdXNpY25hbWU954Ot5pKtJmxpc3Q9MiZjaWQ9MCZwYWdlPSPmipbpn7Png63pl6gkL3NlYXJjaD9tdXNpY25hbWU9JUU2JThBJTk2JUU5JTlGJUIzJmxpc3Q9MiZjaWQ9MCZwYWdlPSPnu4/lhbjml4vlvoskL3NlYXJjaD9tdXNpY25hbWU957uP5YW45peL5b6LJmxpc3Q9MiZjaWQ9MCZwYWdlPSPov6rpq5jkuLLng6ckL2RqbGlzdC8xXyPllorpuqbkuLLng6ckL2RqbGlzdC8xMl8j5Lit5paH5Liy54OnJC9kamxpc3QvMTNfI+WkluivreS4sueDpyQvZGpsaXN0LzE0XyPkuK3oi7HkuLLng6ckL2RqbGlzdC85Nl8j5oWi5pGH5Liy54OnJC9kamxpc3QvMl8j5ZaK6bqm5Liy54OnJC9kamxpc3QvMTVfI0VsZWN0cm8kL2RqbGlzdC8yMl8jUHJvZ0hvdXNlJC9kamxpc3QvMjZfI0Z1bmt5SG91c2UkL2RqbGlzdC85OV8j5ZaK6bqm5pu05aSaJC9kamxpc3QvMjdfI+aFouaRh+S4reaWh+S4sueDpyQvZGpsaXN0LzE2XyPmhaLmrYzkuLLng6ckL2RqbGlzdC8zXyPkuK3mlodSZW1peCQvZGpsaXN0LzRfI+WkluaWh1JlbWl4JC9kamxpc3QvNV8j6LaK5Y2X6byTJC9kamxpc3QvNl8j6YWS5ZCn6aOO5qC8JC9kamxpc3QvN18jTWFzaHVwJC9kamxpc3QvOF8j5Lit5paHRElTQ08kL2RqbGlzdC85XyPlpJbmlodESVNDTyQvZGpsaXN0LzEwXyPkuqTosIroiJ7mm7IkL2RqbGlzdC8xMV8iLAoiaG91emh1aSI6ICIuaHRtbCIsCiJxaXNoaXllIjogIjEiLAoic2hpZm91ZXJjaWppZXF1IjogIjAiLAoiamllcXVxaWFuIjogIuepuiIsCiJqaWVxdWhvdSI6ICLnqboiLAoiamllcXVzaHV6dXFpYW4iOiAiY2xhc3M9XCJpc2dvb2RfbGlzdFwiPiIsCiJqaWVxdXNodXp1aG91IjogIjwvdGQ+IiwKInR1cGlhbnFpYW4iOiAiaW1nIHNyYz1cIiIsCiJ0dXBpYW5ob3UiOiAiXCIiLAoidHVwaWFucWlhbnpodWkiOiAiaHR0cDoiLAoiZnViaWFvdGlxaWFuIjogImNsYXNzPVwic2NfMVwiPlRJTUUiLAoiZnViaWFvdGlob3UiOiAiPC9zcGFuPiIsCiJsaWFuamllcWlhbiI6ICJocmVmPVwiIiwKImxpYW5qaWVob3UiOiAiXCIiLAoibGpxaWFuemh1aSI6ICLnqboiLAoiYmlhb3RpcWlhbiI6ICJ0aXRsZT1cIiIsCiJiaWFvdGlob3UiOiAiXCIifQ=="} 
 ],
 "去广告规则": [
+
+               {
+                 "名字": "天堂_宽松",
+                 "寻找词": "dytt#discontinuity#ad#loose",
+                 "正则规则": [
+                 "#EXT-X-DISCONTINUITY\\r*\\n*(?:#EXTINF:[0-9]\\.[0-9]+,?[^\\r\\n]*\\r*\\n*[0-9a-f]+\\.ts\\r*\\n*){3,6}\\r*\\n*#EXT-X-DISCONTINUITY"
+                    ]
+                  },
+	
         {
             "名字": "LZ",
-            "寻找词": "vip.lz#hd.lz#v.cdnlz#v.cdnlz1#.cdnlz*#yzzy1.play#cdnlz3.com",
+            "寻找词": "vip.lz#hd.lz#v.cdnlz#v.cdnlz1#.cdnlz*#yzzy1.play#cdnlz3.com#38a3ba1efdc041834",
             "正则规则": [
 		"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:4\\.066667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+		"#EXT-X-DISCONTINUITY\r\n(?:#EXTINF:[\d.]+,\r\n38a3ba1efdc041834[3-9]\.ts\r\n)+#EXT-X-DISCONTINUITY",		
 		"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF.*?\\s+[a-z0-9]{18}\\.ts[\\s\\S]*?#EXT-X-DISCONTINUITY",
 		"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:19.52,[\\s\\S]*?#EXT-X-DISCONTINUITY",
 		"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:18.6666,[\\s\\S]*?#EXT-X-DISCONTINUITY",
