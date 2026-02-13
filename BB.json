@@ -230,6 +230,7 @@
 
 //主解析是JSON直链格式的解析
 "zhujiexi":[
+{"name":"林中解析","url":"http://newjiexi.gotto.xyz/keyu42.php?url="},		
 {"name":"团夕5直播","url":"http://110.42.37.69:6688/live/live.php?token=hVD3vaL1vi&type=json&id="},	
 {"name":"巧技","url":"https://zy.qiaoji8.com/neibu.php?url="},
 {"name":"巧技二","url":"https://zy.qiaoji8.com/gouzi.php?url="},
@@ -237,7 +238,7 @@
 {"name":"团夕1","url":"https://api.nbyjson.top:7788//api//?key=MxbRUfgjyMy25MGhJQ&url="},
 {"name":"团夕2","url":"https://api.69mu.cn//api//?key=8240521537ecd78c49490daf08296625&url="},
 {"name":"团夕3","url":"https://co4k.1ljx.com:32010//api//?key=d837f49e-8a35-4503-af3f-14846167d656&url="},
-{"name":"团夕4","url":"http://175.24.181.180:5000/api/jiexi/common?Key=lZroNHoEb0Q1M4Gray&url="},	
+{"name":"团夕4","url":"http://175.24.181.180:5000/api/jiexi/common?Key=lZroNHoEb0Q1M4Gray&url="},
 {"name":"火花解析DM","url":"http://61.164.242.188:10706//get_jinpai.php?url="}, 
 {"name":"火花金牌","url":"http://61.164.242.188:10706//get_jinpai.php?url="},
 {"name":"火花瓜子","url":"http://61.164.242.188:10706//get_guazi.php?url="}, 
