@@ -154,28 +154,15 @@
                 "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:9,[\\s\\S]*?#EXT-X-DISCONTINUITY"
             ]
 }, 
-{"名字":"非凡",
-"寻找词":"vip.ffzy#hd.ffzy#.ffzy*#super.ffzy",
-"正则规则":[
-        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF.*?\\s+[0-9]{11}[1-9]{2}.*?\\.ts[\\s\\S]*?#EXT-X-DISCONTINUITY",
-	    "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:7\\.400000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-	    "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6\\.400000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-	    "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-	    "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:25.08,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-	    "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:20.52,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-	    "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:25.1,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-	    "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:25.1999,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-	    "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:25.0666,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:5.033333,[\\s\\S]*?#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3.960000",
-	    "#EXTINF.*?\\s+.*?1171(057).*?\\.ts",
-	    "#EXTINF.*?\\s+.*?6d7b(077).*?\\.ts",
-	    "#EXTINF.*?\\s+.*?6718a(403).*?\\.ts",
-	    "#EXTINF.*?\\s+.*?1170(20|32).*?\\.ts\\s+",
-	    "#EXTINF.*?\\s+.*?116977.*?\\.ts\\s+", 
-	    "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+",
-	    "#EXTINF.*?\\s+.*?1171.*?\\.ts\\s+"	
-]
+{
+  "名字": "非凡",
+  "寻找词": "vip.ffzy#hd.ffzy#.ffzy*#super.ffzy#vip.ffzy#hd.ffzy#.ffzy*#super.ffzy",
+  "正则规则": [
+    "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:5\\.266667,[^\\n]*\\n[0-9a-f]{32}\\.ts\\r*\\n*#EXTINF:2\\.766667,[^\\n]*\\n[0-9a-f]{32}\\.ts\\r*\\n*#EXTINF:5\\.166667,[^\\n]*\\n[0-9a-f]{32}\\.ts\\r*\\n*#EXTINF:5\\.533333,[^\\n]*\\n[0-9a-f]{32}\\.ts\\r*\\n*#EXTINF:2\\.133333,[^\\n]*\\n[0-9a-f]{32}\\.ts\\r*\\n*#EXT-X-DISCONTINUITY",
+    "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:5\\.800000,[^\\n]*\\n[0-9a-f]{32}\\.ts\\r*\\n*#EXTINF:2\\.500000,[^\\n]*\\n[0-9a-f]{32}\\.ts\\r*\\n*#EXTINF:6\\.666667,[^\\n]*\\n[0-9a-f]{32}\\.ts\\r*\\n*#EXTINF:3\\.333333,[^\\n]*\\n[0-9a-f]{32}\\.ts\\r*\\n*#EXTINF:2\\.000000,[^\\n]*\\n[0-9a-f]{32}\\.ts\\r*\\n*#EXT-X-DISCONTINUITY"
+  ]
 }
+
 ],
 //{"name":"填接口名称","url":"http://xxx/api.php/v1.vod"},
 //{"name":"填接口名称","url":"https://xxx/xgapp.php/v1/"},
