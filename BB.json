@@ -55,26 +55,16 @@
                     ]
                   },
 	
-        {
-            "名字": "LZ",
-            "寻找词": "vip.lz#hd.lz#v.cdnlz#v.cdnlz1#.cdnlz*#yzzy1.play#cdnlz3.com#38a3ba1efdc041834",
-            "正则规则": [
-		"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:4\\.066667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-		"#EXT-X-DISCONTINUITY\r\n(?:#EXTINF:[\d.]+,\r\n38a3ba1efdc041834[3-9]\.ts\r\n)+#EXT-X-DISCONTINUITY",		
-		"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF.*?\\s+[a-z0-9]{18}\\.ts[\\s\\S]*?#EXT-X-DISCONTINUITY",
-		"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:19.52,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-		"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:18.6666,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-		"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:7\\.166667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-		"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-		"#EXTINF.*?\\s+.*?11697777.*?\\.ts\\s+",    
-		"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:18.5333,[\\s\\S]*?#EXT-X-DISCONTINUITY", 
-		"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",   
-		"#EXTINF.*?\\s+[a-z0-9]{18}\\.ts",
-		"#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+",
-		"[a-z0-9]{18}\\.ts\\s+",  
-		"17.19"  
-            ]
-        },
+       {
+    "名字": "LZ",
+    "寻找词": "https://v.",
+    "正则规则": [
+        "#EXT-X-DISCONTINUITY\\r?\\n(?:#EXTINF:[\\d.]+,\\r?\\n970e2bc620895915[0-9]{2}\\.ts\\r?\\n)+#EXT-X-DISCONTINUITY",
+        "#EXT-X-DISCONTINUITY\\r?\\n(?:#EXTINF:[\\d.]+,\\r?\\n[a-z0-9]{18}\\.ts\\r?\\n)+#EXT-X-DISCONTINUITY",
+        "#EXT-X-DISCONTINUITY\\r?\\n#EXTINF.*?\\s+[a-z0-9]{18}\\.ts[\\s\\S]*?#EXT-X-DISCONTINUITY",
+        "#EXT-X-DISCONTINUITY\\r?\\n(?:#EXTINF:[\\d.]+,\\r?\\n38a3ba1efdc041834[0-9]+\\.ts\\r?\\n)+#EXT-X-DISCONTINUITY"
+    ]
+},
 
 { "名字": "索尼",
             "寻找词": "suonizy",
