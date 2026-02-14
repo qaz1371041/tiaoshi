@@ -99,12 +99,9 @@
 },
 	
  { "名字": "暴风",
-            "寻找词": "bfzy#s5.bfzycdn#bfbfvip#bfengbf#rrcdnbf#bfzy#bfbf#c1#bfengbf.com",
+            "寻找词": "https://s1#https://vip.#bfbfvip#bfengbf#rrcdnbf#bfzy#bfbf#c1#bfengbf.com",
             "正则规则": [
-		"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-		"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY", 
-		"#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+",    
-                "#EXTINF.*?\\s+.*?adjump.*?\\.ts\\s+"
+		"#EXT-X-DISCONTINUITY\\r?\\n(?:#EXTINF:\\d+(?:\\.\\d+)?,\\r?\\n/video/adjump/time/\\d+\\.ts\\r?\\n){9}#EXT-X-DISCONTINUITY"
             ]
         },
 
@@ -223,6 +220,7 @@
 {"name":"非凡资源","url":"http://api.ffzyapi.com/api.php/"},
 {"name":"如意资源","url":"https://cj.rycjapi.com/api.php/"},
 {"name":"闪电资源","url":"https://xsd.sdzyapi.com/api.php/"},
+{"name":"暴风资源","url":"https://bfzyapi.com/api.php/"},	
 {"name":"搜AV资源","url":"https://api.souavzy.vip/api.php/"},
 {"name":"瀑布盘","url":"https://dh.ha.cn/api.php/"},	
 {"name":"高清资源库","url":"https://api.1080zyku.com/inc/apijson.php"},
