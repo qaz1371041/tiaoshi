@@ -79,6 +79,16 @@
 		"#EXTINF.*?\\s+.*?\\/video\\/original.*?\\.ts\\s+"    
             ]
         },
+
+   {
+  "名字": "闪电",
+  "寻找词": "https://v14.#.fentvoss.com#yzzy",
+  "正则规则": [
+    "#EXT-X-DISCONTINUITY\\r?\\n(?:(?:#EXTINF:\\d+(?:\\.\\d+)?,\\r?\\nhttps?://[^\\r\\n]+\\.ts\\r?\\n){1,10})#EXT-X-DISCONTINUITY",
+    "#EXT-X-DISCONTINUITY\\r?\\n(?:(?:#EXTINF:\\d+(?:\\.\\d+)?,\\r?\\nhttps?://[^\\r\\n]+\\.ts\\r?\\n){1,10})#EXT-X-ENDLIST"
+  ]
+},
+	
  { "名字": "暴风",
             "寻找词": "bfzy#s5.bfzycdn#bfbfvip#bfengbf#rrcdnbf#bfzy#bfbf#c1#bfengbf.com",
             "正则规则": [
@@ -161,8 +171,8 @@
 //{"name":"填接口名称","url":"http://xxx/mogai_api.php/v1.vod"},
 //填写APP接口，支持以下5种接口格式。
 "zhuyejiekou": [
-{"name":"团夕影视","url":"http://yjyi.juyongjiu.com//api.php/app/"},	
-{"name":"小绵羊","url":"https://vs.okcdn100.top/api.php/app/"},
+
+//{"name":"小绵羊","url":"https://vs.okcdn100.top/api.php/app/"},
 {"name":"爱优腾","url":"http://114.66.55.28:4816/api.php/app/"},	
 {"name":" 开心影视","url":"http://117.50.204.35:520/api.php/app/"},
 {"name":"紫金草影视","url":"http://www.zjcvod.com/api.php/app/"},	//https://zijincao.cc//?post=42	
@@ -199,29 +209,13 @@
 "caijizhan": [
 {"name":"花旗资源","url":"http://www.seacms.org/api.php/"},
 {"name":"幸资源站","url":"https://xzybb1.com/api.php/"},	
+{"name":"电影天堂资源","url":"http://caiji.dyttzyapi.com/api.php/"},
+{"name":"量子云资源","url":"https://cj.lziapi.com/api.php/"},
+{"name":"非凡资源","url":"http://api.ffzyapi.com/api.php/"},
 {"name":"如意资源","url":"https://cj.rycjapi.com/api.php/"},
-{"name":"BILFUN影视","url":"https://giant.us.kg/api.php/"},	
-{"name":"播剧网影视","url":"https://www.ysxq.cc//api.php/"},	
-{"name":"七七看片","url":"https://www.5277kp.com//api.php/"},
-{"name":"七七看片","url":"https://www.77kkpp.com//api.php/"},
+{"name":"闪电资源","url":"https://xsd.sdzyapi.com/api.php/"},
 {"name":"搜AV资源","url":"https://api.souavzy.vip/api.php/"},
 {"name":"瀑布盘","url":"https://dh.ha.cn/api.php/"},	
-{"name":"量子资源","url":"https://cj.lziapi.com/api.php/"},
-{"name":"360资源","url":"https://360zy.com/api.php/"},
-{"name":"魔都资源","url":"https://moduzy2.com/api.php/"},	
-{"name":"华为吧资源","url":"https://cjhwba.com/api.php/"},
-{"name":"暴风","url":"http://by.bfzyapi.com/api.php"},	
-{"name":"爱坤采集","url":"https://ikunzyapi.com/api.php/"},	
-{"name":"黑木耳资源","url":"https://xml.heimuer.tv/api.php/"},	  
-{"name":"鸭鸭资源","url":"https://yayazy2.com/api.php/"},	
-{"name":"索尼资源","url":"https://suoniapi.com/api.php/"},
-{"name":"黑墙影视","url":"https://blackwallvideo.online/api.php/"},	
-{"name":"光速资源","url":"https://api.guangsuapi.com/api.php/"},
-{"name":"最大资源","url":"https://api.zuidapi.com/api.php/"},
-{"name":"豪华资源","url":"https://hhzyapi.com/api.php/"},
-{"name":"极速资源","url":"https://jszyapi.com/api.php/"},
-{"name":"非凡资源","url":"http://cj.ffzyapi.com/api.php/"},
-{"name":"梦梦影院","url":"https://www.gtrgt.com//api.php/"},	
 {"name":"高清资源库","url":"https://api.1080zyku.com/inc/apijson.php"},
 {"name":"爱片网","url":"https://www.ipian.net//api.php/"},	
 {"name":"卧龙资源{有广告}","url":"https://collect.wolongzyw.com/api.php/"}],
@@ -283,7 +277,8 @@
 {"name":"花旗解析","url":"https://www.huaqi.live/?url="},
 {"name":"播剧解析","type":1,"url":"https://play.91ju.cc/player/ec.php?code=lg&if=1&url="},	
 {"name":"解析","url":"https://t2.qlplayer.cyou/player/analysis.php?v="},	
-{"name":"量子、非凡、暴风","url":"https://del.mt320.com/lzff.php?url="},		
+{"name":"闪电","url":"https://www.shankubf.com/m3u8/?url="},
+{"name":"zyk","url":"https://vip.zykbf.com/?url="},	
 {"name":"py解析","url":"https://py.123456789.qpon/1/playm3u8.php?url="},	
 {"name":"八天影视","url":"https://jx.8ttv.cn/?url="},	
 {"name": "麒麟解析","url":"https://svip.qlplayer.cyou/?url="},	
