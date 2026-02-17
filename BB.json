@@ -48,8 +48,8 @@
 "去广告规则": [
 
                {
-                 "名字": "天堂_宽松",
-                 "寻找词": "dytt#discontinuity#ad#loose",
+                 "名字": "天堂",
+                 "寻找词": "vip.dytt",
                  "正则规则": [
                  "#EXT-X-DISCONTINUITY\\r*\\n*(?:#EXTINF:[0-9]\\.[0-9]+,?[^\\r\\n]*\\r*\\n*[0-9a-f]+\\.ts\\r*\\n*){3,6}\\r*\\n*#EXT-X-DISCONTINUITY"
                     ]
@@ -178,7 +178,7 @@
 //填写APP接口，支持以下5种接口格式。
 "zhuyejiekou": [
 
-//{"name":"小绵羊","url":"https://vs.okcdn100.top/api.php/app/"},
+{"name":"小绵羊","url":"https://vs.okcdn100.top/api.php/app/"},
 {"name":"爱优腾","url":"http://114.66.55.28:4816/api.php/app/"},	
 {"name":" 开心影视","url":"http://117.50.204.35:520/api.php/app/"},
 {"name":"紫金草影视","url":"http://www.zjcvod.com/api.php/app/"},	//https://zijincao.cc//?post=42	
@@ -186,6 +186,7 @@
 {"name":"奇奇影视","url":"http://154.94.233.164:8006/api.php/app/"},//http://qqsp.app/	
 {"name":"顾我影视","url":"http://117.50.204.35:520/api.php/app/"},
 {"name":"林中小屋","url":"http://m51.gotto.top/api.php/v1.vod"},
+{"name":"小枫视界","url":"http://103.236.72.171:9980//api.php/app/"},	
 {"name":"耗子视频","url":"http://122.228.193.2:9988//mogai_api.php/v1.vod"},	
 {"name":"旗星影视","url":"http://ys.qist.top/api.php/app/"},	//http://ys.qist.top/app/index.html
 {"name":"电影天堂","url":"http://cmstt.lyyytv.cn/api.php/app/"},
