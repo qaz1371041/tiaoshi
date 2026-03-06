@@ -465,8 +465,9 @@
 
 {"网站名字": "荐片影视👑秒播👑",
 "网站地址": "",   
-"访问请求ua": "Dart/3.9 (dart:io)",
+"访问请求ua": "User-Agent$jianpian-android/350#Referer$https://wangerniu.zxbwv.com#Host$wangerniu.zxbwv.com",
 "播放请求头": "User-Agent$123",
+"图片请求头": "User-Agent$jianpian-version353#Referer$https://wangerniu.zxbwv.com#Host$img.jgsfnl.com",	
 "是否启用解析模式": "1",
 "嗅探词": "m3u8?#.m3u8#.mp4#.flv#stariverpan#.m4a#data.aliyundrive.net",
 "过滤词": "51.la#cnzz.com#baidu.com#bilibili.com",
@@ -527,7 +528,7 @@
 "搜索带翻页模式": "https://wangerniu.zxbwv.com/api/v2/search/videoV2?key=搜索词&category_id=88&page=翻页&pageSize=20",
 "搜索二次截取": "\"data\":[$$]}]",
 "搜索截取数组": "{$$}]}",
-"搜索图片前缀": ""https://img.jgsfnl.com",",
+"搜索图片前缀": "https://img.jgsfnl.com"
 "搜索图片": "\"path\":\"$$\"",
 "搜索标题": "\"title\":\"$$\"",
 "搜索副标题": "\"vod_remarks\":\"$$\"",
