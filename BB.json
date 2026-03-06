@@ -528,7 +528,7 @@
 "搜索带翻页模式": "https://wangerniu.zxbwv.com/api/v2/search/videoV2?key=搜索词&category_id=88&page=翻页&pageSize=20",
 "搜索二次截取": "\"data\":[$$]}]",
 "搜索截取数组": "{$$}]}",
-"搜索图片前缀": "https://img.jgsfnl.com"
+"搜索图片前缀": "https://img.jgsfnl.com",
 "搜索图片": "\"path\":\"$$\"",
 "搜索标题": "\"title\":\"$$\"",
 "搜索副标题": "\"vod_remarks\":\"$$\"",
