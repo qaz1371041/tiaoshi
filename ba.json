@@ -1,6 +1,6 @@
 //首页的栏目可以自己设置标题名称和图片，key不用排序，是列表页的识别标志，每个栏目的顺序也可以手动排序。注意最后一个不用加,号
 {"Home": [
-{"key":"APP","title":"APP电影","pic":"https://pic.netbian.com/uploads/allimg/210827/234725-1630079245b80b.jpg"},
+{"key":"APP","title":"APP电影","pic":"https://pic.dmjnb.com/pic/a7abec30202b808c5b2b6441516de214"},
 {"key":"网页","title":"电影网站","pic":"https://pic.netbian.com/uploads/allimg/210728/232151-1627485711359c.jpg"},
 {"key":"采集","title":"采集电影","pic":"https://pic.netbian.com/uploads/allimg/210808/230955-1628435395326a.jpg"},
 {"key":"直播","title":"电视直播","pic":"https://pic.netbian.com/uploads/allimg/210827/234228-1630078948b949.jpg"},
