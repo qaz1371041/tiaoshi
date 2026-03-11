@@ -116,8 +116,14 @@
 
 {
   "名字": "1080zyk",
-  "寻找词": "cdn.yzzy33-play.com#cdn.yzzy31-play.com#cdn.yzzyvip-29.com#yzzy.tv#hdzyk.com#1080zyk1.com#1080zyk20.com#vip.zykbf.com#vip.yzzy-player.vip#pic3.yzzyimg.online#pic3.yzzyimages.com",
+  "寻找词": "cdn.yzzy33-play.com#cdn.yzzy31-play.com#cdn.yzzyvip-29.com#yzzy.tv#hdzyk.com#1080zyk1.com#1080zyk20.com#vip.zykbf.com#vip.yzzy-player.vip#pic3.yzzyimg.online#pic3.yzzyimages.com#cdn.yzzyvip-29.com#cdn.yzzy33-play.com#cdn.yzzy31-play.com#player.yzzyvip-35.com#yzzy.tv#hdzyk.com#1080zyk1.com#1080zyk4.com#1080zyk20.com",
   "正则规则": [
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:5\\.933333,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:5\\.166667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:5\\.366667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3\\.333333,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:2\\.800000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:0\\.233333,[\\s\\S]*?#EXT-X-DISCONTINUITY",
         "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:5\\.\\d+,[\\s\\S]*?#EXT-X-DISCONTINUITY",
         "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6\\.\\d+,[\\s\\S]*?#EXT-X-DISCONTINUITY",
         "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
