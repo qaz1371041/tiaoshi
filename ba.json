@@ -115,13 +115,12 @@
 	
 
 {
-  "名字": "1080zyk高清",
-  "寻找词": "cdn.yzzy#svip.high#vvip.high#yzzy-play#yzzyvip#playback-speed#zykbf#yzzy-player#yzzyimages#yzzyimg",
+  "名字": "1080zyk",
+  "寻找词": "cdn.yzzy33-play.com#cdn.yzzy31-play.com#cdn.yzzyvip-29.com#yzzy.tv#hdzyk.com#1080zyk1.com#1080zyk20.com#vip.zykbf.com#vip.yzzy-player.vip#pic3.yzzyimg.online#pic3.yzzyimages.com",
   "正则规则": [
- "#EXT-X-DISCONTINUITY\\n#EXTINF:5\\.933333,\\n[^\\n]+\\.ts\\n#EXTINF:3\\.333333,\\n[^\\n]+\\.ts\\n#EXTINF:2\\.800000,\\n[^\\n]+\\.ts\\n#EXTINF:5\\.366667,\\n[^\\n]+\\.ts\\n#EXTINF:0\\.233333,\\n[^\\n]+\\.ts\\n#EXT-X-DISCONTINUITY",
-    "#EXT-X-DISCONTINUITY\\n#EXTINF:5\\.166667,\\n[^\\n]+\\.ts\\n#EXTINF:5\\.766667,\\n[^\\n]+\\.ts\\n#EXTINF:1\\.566667,\\n[^\\n]+\\.ts\\n#EXTINF:4\\.133333,\\n[^\\n]+\\.ts\\n#EXT-X-DISCONTINUITY",
-    "#EXT-X-DISCONTINUITY\\n#EXTINF:5\\.933333,\\n[^\\n]+\\.ts\\n#EXTINF:3\\.333333,\\n[^\\n]+\\.ts\\n#EXTINF:2\\.800000,\\n[^\\n]+\\.ts\\n#EXTINF:5\\.366667,\\n[^\\n]+\\.ts\\n#EXTINF:0\\.233333,\\n[^\\n]+\\.ts\\n#EXT-X-DISCONTINUITY",
-    "#EXT-X-DISCONTINUITY\\n#EXTINF:5\\.933333,\\n[^\\n]+\\.ts\\n#EXTINF:3\\.333333,\\n[^\\n]+\\.ts\\n#EXTINF:2\\.800000,\\n[^\\n]+\\.ts\\n#EXTINF:5\\.366667,\\n[^\\n]+\\.ts\\n#EXTINF:0\\.233333,\\n[^\\n]+\\.ts\\n#EXT-X-ENDLIST"
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:5\\.\\d+,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6\\.\\d+,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+        "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
   ]
 },	
 	
