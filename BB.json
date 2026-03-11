@@ -117,13 +117,14 @@
 	
 
 {
-  "名字": "优质",
-  "寻找词": "cdn.#https://cdn13.#https://yzzy.play-",
+  "名字": "1080zyk",
+  "寻找词": "cdn.yzzy33-play.com#cdn.yzzy31-play.com#cdn.yzzyvip-29.com#yzzy.tv#hdzyk.com#1080zyk1.com#1080zyk20.com#vip.zykbf.com#vip.yzzy-player.vip#pic3.yzzyimg.online#pic3.yzzyimages.com",
   "正则规则": [
-   "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:5\\.933333,[\\s\\S]*?#EXTINF:0\\.233333,[^\\n]*\\.ts\\r*\\n*#EXT-X-DISCONTINUITY",
-   "#EXT-X-DISCONTINUITY\\r?\\n(?:(?:#EXTINF:\\d+\\.?\\d*,\\r?\\n[^\\r\\n]+\\.ts\\r?\\n){1,10})#EXT-X-ENDLIST"
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:5\\.\\d+,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6\\.\\d+,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+        "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
   ]
-},		
+},	
 	
 { "名字": "蚂蚁",
             "寻找词": "v.cdnlz1.com",
