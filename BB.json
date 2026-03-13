@@ -57,7 +57,7 @@
 	
        {
     "名字": "LZ",
-    "寻找词": "https://v.",
+    "寻找词": "https://v.#lz-cdn6.com#v.lzcdn#https://dow",
     "正则规则": [
         "#EXT-X-DISCONTINUITY\\r?\\n(?:#EXTINF:[\\d.]+,\\r?\\n970e2bc620895915[0-9]{2}\\.ts\\r?\\n)+#EXT-X-DISCONTINUITY",
         "#EXT-X-DISCONTINUITY\\r?\\n(?:#EXTINF:[\\d.]+,\\r?\\n[a-z0-9]{18}\\.ts\\r?\\n)+#EXT-X-DISCONTINUITY",
