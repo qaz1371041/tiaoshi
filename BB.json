@@ -252,6 +252,7 @@
 {"name":"巧技","url":"https://zy.qiaoji8.com/neibu.php?url="},
 {"name":"巧技二","url":"https://zy.qiaoji8.com/gouzi.php?url="},
 {"name":"巧技三","url":"https://zy.qiaoji8.com/xiafan.php?url="},
+{"name":"小枫视界","url":"http://cms.supertv01.com/api.php?url="}, 
 {"name":"团夕1","url":"https://api.nbyjson.top:7788//api//?key=MxbRUfgjyMy25MGhJQ&url="},
 {"name":"团夕2","url":"https://api.69mu.cn//api//?key=8240521537ecd78c49490daf08296625&url="},
 {"name":"团夕3","url":"https://co4k.1ljx.com:32010//api//?key=d837f49e-8a35-4503-af3f-14846167d656&url="},
@@ -1250,6 +1251,127 @@
 "是否url解码": "0",
 "官源是否走解析": "0"},
 
+
+{"网站名字": "🥇小枫视界",
+"网站地址": "",
+"访问请求ua": "okhttp/3.15",
+"播放请求头": "User-Agent$okhttp/3.15",
+"是否启用解析模式": "1",
+"嗅探词": "m3u8?#.m3u8#.mp4#.flv#stariverpan#.m4a#data.aliyundrive.net",
+"过滤词": "51.la#cnzz.com#baidu.com#bilibili.com",
+"列表分类": "电影$?source=1&ac=detail&pg=#电视剧$?source=2&ac=detail&pg=#综艺$/comic/av/cate?type=hot&page=#动漫$/vodshow/id/dongman/page/",
+"列表后缀": "&t=516&pagesize=30",
+//提示：类型剧情地区年代排序可以自由选择是否显示，注意和分类链接要联动，不显示的分类链接就去掉那个分类的动态词
+//0:否，1：是
+"筛选列表模式": "1",
+"筛选列表": [
+{
+"分类名称": "电影",
+"第一页分类链接": "空",
+"分类链接": "https://post.cfysoft.cc/api.php/provide/vod/from/YYNB?ac=list&ac=detail&t=20&pg=翻页",
+"排序": "空"
+},
+{
+"分类名称": "电视剧",
+"第一页分类链接": "空",
+"分类链接": "https://post.cfysoft.cc/api.php/provide/vod/from/YYNB?ac=list&ac=detail&t=21&pg=翻页",
+"排序": "空"
+},
+{
+"分类名称": "动漫",
+"第一页分类链接": "空",
+"分类链接": "https://post.cfysoft.cc/api.php/provide/vod/from/YYNB?ac=list&ac=detail&t=23&pg=翻页",
+"排序": "空"
+},
+{
+"分类名称": "综艺",
+"第一页分类链接": "空",
+"分类链接": "https://post.cfysoft.cc/api.php/provide/vod/from/YYNB?ac=list&ac=detail&t=22&pg=翻页",
+"排序": "空"
+},
+{
+"分类名称": "纪录片",
+"第一页分类链接": "空",
+"分类链接": "https://post.cfysoft.cc/api.php/provide/vod/from/YYNB?ac=list&ac=detail&t=25&pg=翻页",
+"排序": "空"
+},
+{
+"分类名称": "少儿",
+"第一页分类链接": "空",
+"分类链接": "https://post.cfysoft.cc/api.php/provide/vod/from/YYNB?ac=list&ac=detail&t=26&pg=翻页",
+"排序": "空"
+},
+{
+"分类名称": "欧美日韩剧",
+"第一页分类链接": "空",
+"分类链接": "https://post.cfysoft.cc/api.php/provide/vod/from/YYNB?ac=list&ac=detail&t=27&pg=翻页",
+"排序": "空"
+},
+{
+"分类名称": "教育",
+"第一页分类链接": "空",
+"分类链接": "https://post.cfysoft.cc/api.php/provide/vod/from/YYNB?ac=list&ac=detail&t=28&pg=翻页",
+"排序": "空"
+},
+{
+"分类名称": "同步课堂",
+"第一页分类链接": "空",
+"分类链接": "https://post.cfysoft.cc/api.php/provide/vod/from/YYNB?ac=list&ac=detail&t=29&pg=翻页",
+"排序": "空"
+}
+],
+"列表二次截取": "\"list\":[$$]",
+"列表截取数组": "{$$}",
+"列表图片前缀": "空",
+"列表图片": "\"vod_pic\":\"$$\"",
+"列表标题": "\"vod_name\":\"$$\"",
+"列表副标题": "\"vod_year\":\"$$\"",
+"列表链接": "\"vod_id\":$$,",
+"列表链接前缀": "https://post.cfysoft.cc/api.php/provide/vod/from/YYNB?ac=list&ac=detail&ids=",
+"列表链接后缀": "",
+"搜索请求方式": "0",
+"搜索模式": "1",
+"搜索前": "https://post.cfysoft.cc/api.php/provide/vod/from/YYNB?ac=list&wd=",
+"搜索后": "",
+"搜索连接后缀": "",
+"搜索二次截取": "\"list\":[$$]",
+"搜索截取数组": "{$$}",
+"搜索图片前缀": "空",
+"搜索图片": "\"vod_pic\":\"$$\"",
+"搜索标题": "\"vod_name\":\"$$\"",
+"搜索副标题": "\"vod_remarks\":\"$$\"",
+"搜索链接": "\"vod_id\":$$,",
+"搜索链接前缀": "https://post.cfysoft.cc/api.php/provide/vod/from/YYNB?ac=list&ac=detail&ids=",
+"搜索链接后缀": "&ac=detail",
+"搜索带翻页模式": "https://kptv.app/api.php?source=1&ac=detail&pg=翻页&wd=搜索词",
+"启用线路名": "1",
+"线路名二次截取": "",
+"线路名截取数组": "vod_play_from\":\"$$\"",
+"线路名数组分割字符": "$$$",
+"线路名标题": ":\"$$\"",
+"播放页状态": "\"vod_time\":\"$$\"",
+"播放页导演": "\"vod_director\":\"$$\"",
+"播放页演员": "\"vod_actor\":\"$$\"",
+"播放页剧情": "\"vod_content\":\"$$\"",
+"播放页二次截取": "",
+"播放页截取数组": "\"vod_play_url\":\"$$\"",
+//0：否，1：是
+"播放剧集自动分割模式": "1",
+"播放剧集数组分割字符": "$$$",
+"播放剧集二次截取": "",
+"播放剧集截取数组": "",
+"播放剧集标题": "",
+"播放剧集链接": "",
+"播放剧集链接前缀": "",
+"播放剧集链接后缀": "",
+//0：否，1：是
+"启用嗅探截取": "0",
+"嗅探请求头": "User-Agent$Dart/2.14 (dart:io)",
+"播放地址二次截取": "{$$}",
+"播放地址截取": "\"url\":\"$$\"",
+"是否base64解码": "0",
+"是否url解码": "0",
+"官源是否走解析": "0"},	
 
 
  
@@ -5488,7 +5610,7 @@
 
 
 {"网站名字": "🔞花都影视",
-"网站地址": "https://hd9.huaduzy.net/",//abc.hdys.top 、 abc.hdys.xyz  abc可以改为任意字母、数字、汉字或其组合
+"网站地址": "https://hd17.hdzy.net/",//abc.hdys.top 、 abc.hdys.xyz  abc可以改为任意字母、数字、汉字或其组合
 "访问请求ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36",
 "访问请求cookie": "空",
 "访问请求referer": "空",
@@ -5529,7 +5651,7 @@
 "搜索前": "/index.php/ajax/suggest?mid=1&wd=",
 "搜索后": "&limit=150",
 "搜索连接后缀": "/voddetail/",
-"搜索带翻页模式": "https://hd9.huaduzy.net/vodsearch/搜索词----------翻页---.html",
+"搜索带翻页模式": "https://hd17.hdzy.net/vodsearch/搜索词----------翻页---.html",
 "搜索二次截取": "空",
 "搜索截取数组": "前$$后",
 "搜索图片前缀": "空",
