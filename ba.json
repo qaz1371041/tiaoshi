@@ -186,6 +186,11 @@
 //{"name":"填接口名称","url":"http://xxx/mogai_api.php/v1.vod"},
 //填写APP接口，支持以下5种接口格式。
 "zhuyejiekou": [
+{"name":"久久影视","url":"http://99cms.jj99.icu:8199/api.php/app/"},
+{"name":"飞飞影视","url":"https://qpcj.69mini.com/api.php/app/"},
+{"name":"超前影视","url":"http://chaoqianys.top:91/api.php/app/"},
+{"name":"金牌影视","url":"https://qj4.catbb.xyz/api.php/app/"},
+{"name":"河狸影视","url":"https://www.heli888.cc//api.php/app/"},
 {"name":"紫金草影视","url":"http://www.zjcvod.com/api.php/app/"}],	//https://zijincao.cc//?post=42	
 
 
@@ -205,15 +210,8 @@
 
 //主解析是JSON直链格式的解析
 "zhujiexi":[	
-{"name":"麒麟解析DM","url":"http://61.164.242.188:10706//get_dm84.php?url="},
-{"name":"麒麟XL","url":"http://61.164.242.188:10706//get_xlys02.php?url="},
-{"name":"麒麟蓝光4k","url":"http://61.164.242.188:10706//get_2ys.php?action=jiexi&url="},
-{"name":"麒麟爱优腾","url":"http://61.164.242.188:10706//get_shdy5.php?url="},
-{"name":"麒麟解析","url":"http://61.164.242.188:10706//demo.php?url="},  
-{"name":"麒麟瓜子","url":"http://61.164.242.188:10706//get_guazi.php?url="},
-{"name":"麒麟Nkvod","url":"http://61.164.242.188:10706//get_nkvod.php?url="}, 
-{"name":"麒麟金牌","url":"http://61.164.242.188:10706//get_jinpai.php?url="},
-{"name":"麒麟4k","url":"http://61.164.242.188:10706//get_4kvm.php?url="},
+
+{"name":"金牌解析","url":"https://nojx.wtto.cc/proxy?key=jntm&url="},
 {"name":"影探解析","url":"https://jx.bhs6.com/api/?key=e9b9c8a21dfeab775de29040e824d415&url=","ua":"User-Agent$okhttp/3.12.0#referer$123"}],
 
 //备用解析是常规格式的解析
