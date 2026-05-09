@@ -188,6 +188,10 @@
 //{"name":"填接口名称","url":"http://xxx/mogai_api.php/v1.vod"},
 //填写APP接口，支持以下5种接口格式。
 "zhuyejiekou": [
+{"name":"久久影视","url":"http://99cms.jj99.icu:8199/api.php/app/"},
+{"name":"飞飞影视","url":"https://qpcj.69mini.com/api.php/app/"},
+{"name":"超前影视","url":"http://chaoqianys.top:91/api.php/app/"},
+{"name":"金牌影视","url":"https://qj4.catbb.xyz/api.php/app/"},
 {"name":"紫金草影视","url":"http://www.zjcvod.com/api.php/app/"},	//https://zijincao.cc//?post=42	
 {"name":"林中小屋","url":"http://m51.gotto.top/api.php/v1.vod"},
 {"name":"闪影","url":"http://38.47.213.61:41271/mogai_api.php/v1.vod"},
@@ -229,7 +233,7 @@
 //主解析是JSON直链格式的解析
 "zhujiexi":[
 {"name":"林中解析","url":"http://newjiexi.gotto.xyz/keyu42.php?url="},		
-{"name":"团夕5直播","url":"http://110.42.37.69:6688/live/live.php?token=hVD3vaL1vi&type=json&id="},	
+{"name":"金牌解析","url":"https://nojx.wtto.cc/proxy?key=jntm&url="},
 {"name":"巧技","url":"https://zy.qiaoji8.com/neibu.php?url="},
 {"name":"巧技二","url":"https://zy.qiaoji8.com/gouzi.php?url="},
 {"name":"巧技三","url":"https://zy.qiaoji8.com/xiafan.php?url="},
@@ -237,17 +241,11 @@
 {"name":"追番解析","url":"https://api.huaqi.pro/api/?key=e2f55624815d5176719ed6b3baf1ddc5&url="},
 {"name":"追番解析","url":"https://coffee.1ljx.com/api/?key=8605348c-d437-4130-9a52-2c95f1615d5f&url="},
 {"name":"追番解析","url":"https://vip.nsapi.sbs/api/?key=M0Z4jjscCAlhtlJW4A&url="},
-	
 {"name":"紫荆草解析","url":"http://jf.zijincao.cc//json//?url="},	
 {"name":"醉挽清风 摸鱼","url":"http://我不是.摸鱼儿.com/api/yyutx.php?play="},	
 {"name":"4k","url":"http://meilinvps.sopython.top/jiexi?url="},
 {"name":"麦田解析2","url":"http://23.225.248.61/jx.php?url="},	
 {"name":"麦田解析3","url":"https://api.nbyjson.top:7788/api/?key=ws9Lz1EtqfU09AzZKl&url="},
-{"name":"林中解析","url":"http://newjiexi.gotto.xyz/keyu42.php?url="},	
-{"name":"4k","url":"https://www.qljson.xyz/api/?key=7e6abec1476ced719e69225772823d31&url="},
-{"name":"G4K","url":"http://106.53.107.16:9922/ppxgz.php?url="},  
-{"name":"顾我解析","url":"http://106.12.191.132:1314/api/?key=HtdWt5c0AI9LjAVkkD&url="},	
-{"name":"zz","url":"http://106.53.107.16:9922/rr/rr.php?url="},	
 {"name":"闪影4K","url":"http://118.190.204.48:999/api/?key=EaeV4bBJfmbo9dxBz8&url="},	
 {"name":"解析1","url":"https://json.cfysoft.cc/api/?key=cd3093c515ae2297bb469379a2a34ee4&url=？"},
 {"name":"人人","url":"http://14.103.245.78:3369/jiexi.php?key=do88tip9g1&type=qiepian&url="}, 
