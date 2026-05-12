@@ -5357,7 +5357,6 @@
 "官源是否走解析": "0",
 "播放页跳转看图": "0"},
  
-
 {"网站名字": "黄色仓库[伪]",
 "网站地址": "https://hsck18.cctv38.com/",// https://hsck18.cctv38.com/  cctv12306.com   hsck69.com
 "访问请求ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 Edg/132.0.0.0",
@@ -5381,14 +5380,14 @@
 "列表显示": "0",
 "横图显示": "0",
 "列表起始页": "1",
-"列表分类": "国产新片$/?type=ycgc&p=#无码中文字幕$/?type=wz&p=#有码中文字幕$/?type=yz&p=#日本无码$/?type=rw&p=#日本有码$/?type=ry&p=#国产视频$/?type=gc&p=#欧美高清$/?type=om&p=#动漫剧情$/?type=dm&p=",
+"列表分类": "国产新片$/?type=ycgc&p=#无码中文字幕$/?type=wz&p=#有码中文字幕$/?type=yz&p=#日本无码$/?type=rw&p=#日本有码$/?type=ry&p=#骑兵破解$?type=qp&p=#国产视频$/?type=gc&p=#欧美高清$/?type=om&p=#动漫剧情$/?type=dm&p=",
 "列表后缀": "",
 "列表二次截取": "空",
 "列表截取数组": "class=\"stui-vodlist__box$$</a>",
 "列表图片前缀": "空",
 "列表图片": "data-original=\"$$\"",
 "列表标题": "title=\"$$\"",
-"列表副标题": "class=\"pic-text text-\">$$</span>",
+"列表副标题": "class=\"pic-text text-right\">$$</span>",
 "列表链接": "href=\"$$\"",
 "列表链接前缀": "空",
 "列表链接后缀": "空",
@@ -5436,7 +5435,12 @@
 "是否base64解码": "0",
 "是否url解码": "0",
 "官源是否走解析": "0",
-"播放页跳转看图": "0"},
+"播放页跳转看图": "0"}
+
+
+
+
+
 
 
 {"网站名字": "AV星球",
