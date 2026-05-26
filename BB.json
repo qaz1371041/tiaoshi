@@ -137,7 +137,7 @@
         },	
 
 { "名字": "蜗牛",
-            "寻找词": "vip.123pan.cn#rescdn.wuxivlog.cn",
+            "寻找词": "rescdn.wuxivlog.cn",
             "正则规则": [
                 "EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:10.840000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
 		"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:10.120000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
