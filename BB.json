@@ -80,7 +80,7 @@
 
 {
   "名字": "如意",
-  "寻找词": "https://svip.",
+  "寻找词": "",
   "正则规则": [
     "#EXT-X-DISCONTINUITY\\r?\\n#EXTINF:4\\.000000,\\r?\\n18c29e2a2e023bfd13a8b3e57a45d457\\.ts\\r?\\n#EXTINF:4\\.000000,\\r?\\nb2ada5f4cb6f9c4ebc035a2491792c27\\.ts\\r?\\n#EXTINF:4\\.000000,\\r?\\n52243eb0cd0ed6bb7988ed49943ab9de\\.ts\\r?\\n#EXTINF:4\\.000000,\\r?\\n455e2a0a1675d933950cc114bc412041\\.ts\\r?\\n#EXTINF:4\\.000000,\\r?\\n75c51a2ad481f19a3fa28ef3be165e00\\.ts\\r?\\n#EXTINF:0\\.560000,\\r?\\n17bc432f52e1d98d291c987250b5c635\\.ts\\r?\\n#EXT-X-DISCONTINUITY",
     "#EXT-X-DISCONTINUITY\\r?\\n#EXTINF:3\\.336667,\\r?\\n1c7faf6bebfa8e3a6fc759366a497a0b\\.ts\\r?\\n#EXTINF:0\\.667333,\\r?\\n831a7b41fb8eecc27d723e1d5f2b33cc\\.ts\\r?\\n"
