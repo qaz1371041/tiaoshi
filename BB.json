@@ -100,7 +100,7 @@
 },
 
 { "名字": "暴风",
-            "寻找词": "v10.baofeng10#https://vip.#bfbfvip#bfengbf#rrcdnbf#bfzy#bfbf#c1#bfengbf.com",
+            "寻找词": "v10.baofeng10#bfbfvip#bfengbf#rrcdnbf#bfzy#bfbf#c1#bfengbf.com",
             "正则规则": [
 		"#EXT-X-DISCONTINUITY\\r?\\n(?:#EXTINF:\\d+(?:\\.\\d+)?,\\r?\\n/video/adjump/time/\\d+\\.ts\\r?\\n){9}#EXT-X-DISCONTINUITY"
             ]
