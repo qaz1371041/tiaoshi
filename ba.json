@@ -45,17 +45,17 @@
 ],
 "去广告规则": [
 
-               {
+          {
                  "名字": "天堂",
                  "寻找词": "vip.dytt",
                  "正则规则": [
                  "#EXT-X-DISCONTINUITY\\r*\\n*(?:#EXTINF:[0-9]\\.[0-9]+,?[^\\r\\n]*\\r*\\n*[0-9a-f]+\\.ts\\r*\\n*){3,6}\\r*\\n*#EXT-X-DISCONTINUITY"
                     ]
                   },
-	
-       {
+            
+   {
     "名字": "LZ",
-    "寻找词": "https://v.",
+    "寻找词": "https://v.#lz-cdn6.com#v.lzcdn#https://dow",
     "正则规则": [
         "#EXT-X-DISCONTINUITY\\r?\\n(?:#EXTINF:[\\d.]+,\\r?\\n970e2bc620895915[0-9]{2}\\.ts\\r?\\n)+#EXT-X-DISCONTINUITY",
         "#EXT-X-DISCONTINUITY\\r?\\n(?:#EXTINF:[\\d.]+,\\r?\\n[a-z0-9]{18}\\.ts\\r?\\n)+#EXT-X-DISCONTINUITY",
@@ -64,30 +64,7 @@
     ]
 },
 
-{ "名字": "索尼",
-            "寻找词": "suonizy",
-            "正则规则": [
-
-		"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:1\\.15.2666,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-		"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:1\\.15.1666,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-		"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:1\\.16.3333,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-		"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:1\\.15.266667,[\\s\\S]*?#EXT-X-DISCONTINUITY",   
-                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:1\\.000000,[\\s\\S]*?#EXT-X-DISCONTINUITY",    
-                "#EXTINF.*?\\s+.*?p1ayer.*?\\.ts\\s+",
-		"#EXTINF.*?\\s+.*?\\/video\\/original.*?\\.ts\\s+"    
-            ]
-        },
-
 {
-  "名字": "如意",
-  "寻找词": "https://svip.",
-  "正则规则": [
-    "#EXT-X-DISCONTINUITY\\r?\\n#EXTINF:4\\.000000,\\r?\\n18c29e2a2e023bfd13a8b3e57a45d457\\.ts\\r?\\n#EXTINF:4\\.000000,\\r?\\nb2ada5f4cb6f9c4ebc035a2491792c27\\.ts\\r?\\n#EXTINF:4\\.000000,\\r?\\n52243eb0cd0ed6bb7988ed49943ab9de\\.ts\\r?\\n#EXTINF:4\\.000000,\\r?\\n455e2a0a1675d933950cc114bc412041\\.ts\\r?\\n#EXTINF:4\\.000000,\\r?\\n75c51a2ad481f19a3fa28ef3be165e00\\.ts\\r?\\n#EXTINF:0\\.560000,\\r?\\n17bc432f52e1d98d291c987250b5c635\\.ts\\r?\\n#EXT-X-DISCONTINUITY",
-    "#EXT-X-DISCONTINUITY\\r?\\n#EXTINF:3\\.336667,\\r?\\n1c7faf6bebfa8e3a6fc759366a497a0b\\.ts\\r?\\n#EXTINF:0\\.667333,\\r?\\n831a7b41fb8eecc27d723e1d5f2b33cc\\.ts\\r?\\n"
-  ]
-},
-	
-   {
   "名字": "闪电",
   "寻找词": "https://v14.#.fentvoss.com#yzzy",
   "正则规则": [
@@ -95,26 +72,8 @@
     "#EXT-X-DISCONTINUITY\\r?\\n(?:(?:#EXTINF:\\d+(?:\\.\\d+)?,\\r?\\nhttps?://[^\\r\\n]+\\.ts\\r?\\n){1,10})#EXT-X-ENDLIST"
   ]
 },
-	
- { "名字": "暴风",
-            "寻找词": "https://s1#https://vip.#bfbfvip#bfengbf#rrcdnbf#bfzy#bfbf#c1#bfengbf.com",
-            "正则规则": [
-		"#EXT-X-DISCONTINUITY\\r?\\n(?:#EXTINF:\\d+(?:\\.\\d+)?,\\r?\\n/video/adjump/time/\\d+\\.ts\\r?\\n){9}#EXT-X-DISCONTINUITY"
-            ]
-        },
-
-
-{ "名字": "快看",
-            "寻找词": "kuaikan",
-            "正则规则": [
-            "#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:5,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-	    "#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:2\\.4,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-	    "#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:1\\.467,[\\s\\S]*?#EXT-X-DISCONTINUITY"   
-            ]
-        },
-	
-
-{
+	 
+	{
   "名字": "1080zyk",
   "寻找词": "cdn.yzzy33-play.com#cdn.yzzy31-play.com#cdn.yzzyvip-29.com#yzzy.tv#hdzyk.com#1080zyk1.com#1080zyk20.com#vip.zykbf.com#vip.yzzy-player.vip#pic3.yzzyimg.online#pic3.yzzyimages.com#cdn.yzzyvip-29.com#cdn.yzzy33-play.com#cdn.yzzy31-play.com#player.yzzyvip-35.com#yzzy.tv#hdzyk.com#1080zyk1.com#1080zyk4.com#1080zyk20.com",
   "正则规则": [
@@ -130,46 +89,23 @@
   ]
 },	
 	
-{ "名字": "蚂蚁",
-            "寻找词": "v.cdnlz1.com",
-            "正则规则": [
-                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY"
-            ]
-        },	
+{
+  "名字": "如意",
+  "寻找词": "cdn.ryplay11.com.#cdn#svip.#svip.ryiplay18",
+  "正则规则": [
+    "#EXT-X-DISCONTINUITY\\r?\\n#EXTINF:4\\.000000,\\r?\\n18c29e2a2e023bfd13a8b3e57a45d457\\.ts\\r?\\n#EXTINF:4\\.000000,\\r?\\nb2ada5f4cb6f9c4ebc035a2491792c27\\.ts\\r?\\n#EXTINF:4\\.000000,\\r?\\n52243eb0cd0ed6bb7988ed49943ab9de\\.ts\\r?\\n#EXTINF:4\\.000000,\\r?\\n455e2a0a1675d933950cc114bc412041\\.ts\\r?\\n#EXTINF:4\\.000000,\\r?\\n75c51a2ad481f19a3fa28ef3be165e00\\.ts\\r?\\n#EXTINF:0\\.560000,\\r?\\n17bc432f52e1d98d291c987250b5c635\\.ts\\r?\\n#EXT-X-DISCONTINUITY",
+    "#EXT-X-DISCONTINUITY\\r?\\n#EXTINF:3\\.336667,\\r?\\n1c7faf6bebfa8e3a6fc759366a497a0b\\.ts\\r?\\n#EXTINF:0\\.667333,\\r?\\n831a7b41fb8eecc27d723e1d5f2b33cc\\.ts\\r?\\n"
+  ]
+},
 
-{ "名字": "蜗牛",
-            "寻找词": "vip.123pan.cn#rescdn.wuxivlog.cn",
+{ "名字": "暴风",
+            "寻找词": "v10.baofeng10#s1.fengbao9.com#s1.",
             "正则规则": [
-                "EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:10.840000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-		"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:10.120000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-		"#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"    
+        "#EXT-X-DISCONTINUITY(?:\\r\\n|\\n|\\r)(?:#EXTINF:\\d+(?:\\.\\d+)?,(?:\\r\\n|\\n|\\r)/video/adjump/time/\\d+\\.ts(?:\\r\\n|\\n|\\r)){9}#EXT-X-DISCONTINUITY",
+		"#EXT-X-DISCONTINUITY(?:\\r\\n|\\n|\\r)(?:#EXTINF:\\d+(?:\\.\\d+)?,(?:\\r\\n|\\n|\\r)/video/adjump/time/\\d+\\.ts(?:\\r\\n|\\n|\\r)){9}#EXT-X-DISCONTINUITY"
             ]
-        },	
-	
-{ "名字": "YQK",
-            "寻找词": "yqk88",
-            "正则规则": [
-                "#EXT-X-DISCONTINUITY\\r*\\n*[\\s\\S]*?#EXT-X-CUE-IN"
-            ]
-        },	
+        },    
 
-{ "名字": "开源棋牌",
-            "寻找词": "askzycdn#jkunbf#bfikuncdn#bfaskcdn",
-            "正则规则": [
-                 "#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:5,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-		 "#EXT-X-KEY:METHOD=AES-128,URI=\"[^\"]+\"\\r*\\n*#EXTINF:3.333,[\\s\\S]*?#EXT-X-DISCONTINUITY"
-            ]
-        },	
-	
-
-	
-{"名字":"星星",
-"寻找词":"aws.ulivetv.net",
-"正则规则": [
-                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:9,[\\s\\S]*?#EXT-X-DISCONTINUITY"
-            ]
-}, 
 {
   "名字": "非凡",
   "寻找词": "vip.ffzy#hd.ffzy#.ffzy*#super.ffzy#vip.ffzy#hd.ffzy#.ffzy*#super.ffzy",
@@ -180,6 +116,7 @@
 }
 
 ],
+
 //{"name":"填接口名称","url":"https://xxx/xgapp.php/v1/"},
 //{"name":"填接口名称","url":"http://xxx/api.php/app/"},
 //{"name":"填接口名称","url":"https://xxx/xgapp.php/v2/"},
