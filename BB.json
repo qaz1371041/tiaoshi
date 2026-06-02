@@ -4508,7 +4508,7 @@
 
 
 {"网站名字": "🔞花都影视",
-"网站地址": "https://hd17.hdzy.net/",//abc.hdys.top 、 abc.hdys.xyz  abc可以改为任意字母、数字、汉字或其组合
+"网站地址": "https://hd21.huaduzy.net/",//abc.hdys.top 、 abc.hdys.xyz  abc可以改为任意字母、数字、汉字或其组合
 "访问请求ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36",
 "访问请求cookie": "空",
 "访问请求referer": "空",
@@ -4549,7 +4549,7 @@
 "搜索前": "/index.php/ajax/suggest?mid=1&wd=",
 "搜索后": "&limit=150",
 "搜索连接后缀": "/voddetail/",
-"搜索带翻页模式": "https://hd17.hdzy.net/vodsearch/搜索词----------翻页---.html",
+"搜索带翻页模式": "https://hd21.huaduzy.net/vodsearch/搜索词----------翻页---.html",
 "搜索二次截取": "空",
 "搜索截取数组": "前$$后",
 "搜索图片前缀": "空",
@@ -4679,8 +4679,8 @@
 
 
 
-{"网站名字": "🔞99pron",
-"网站地址": "https://mjjav.org/",//https://dizhi.bcz.com/  https://99likes.com/  发布地址1：5050.mom  布地址2：6060.mom
+{"网站名字": "🔞小黄鸭",
+"网站地址": "https://www.xhy11.sbs/",//https://dizhi.bcz.com/  https://99likes.com/  发布地址1：5050.mom  布地址2：6060.mom
 "访问请求ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
 "访问请求cookie": "空",
 "访问请求referer": "空",
@@ -4703,13 +4703,13 @@
 "列表显示": "0",
 "横图显示": "0",
 "列表起始页": "1",
-"列表分类": "黑暗爆料$/vodtype/27-#强奸乱伦$/vodtype/28-#自拍偷拍$/vodtype/29-#淫乱学生$/vodtype/30-#社交网红$/vodtype/31-#国产传媒$/vodtype/32-#日韩AV$/vodtype/33-",
+"列表分类": "国产热播$/index.php/vod/type/id/15/page/#萝莉学生$/index.php/vod/type/id/16/page/#网黄精选$/index.php/vod/type/id/17/page/#福利姬$/index.php/vod/type/id/18/page/#p站$/index.php/vod/type/id/19/page/#日韩欧美$/index.php/vod/type/id/20/page/#厂牌传媒$/index.php/vod/type/id/21/page/#ai换脸$/index.php/vod/type/id/22/page/#野战车震$/index.php/vod/type/id/23/page/#国语解说$/index.php/vod/type/id/24/page/#媚黑淫娃$/index.php/vod/type/id/25/page/",
 "列表后缀": ".html",
-"列表二次截取": "空",
-"列表截取数组": "class=\"thumbnail group$$my-2 text-sm",
+"列表二次截取": "class=\"img-list$$</ul>",
+"列表截取数组": "<a$$</a>",
 "列表图片前缀": "空",
-"列表图片": "\" src=\"$$\"",
-"列表标题": "alt=\"$$\"",
+"列表图片": "data-original=\"$$\"",
+"列表标题": "class=\"txt-ov\">$$</p>",
 "列表副标题": "text-xs text-nord5 bg-gray-800 bg-opacity-75\">$$</span>",
 "列表链接": "href=\"$$\"",
 "列表链接前缀": "空",
@@ -4740,13 +4740,13 @@
 "播放页演员": "主演：$$</p>",
 "播放页剧情": "<p class=\"col-pd\">$$</p>",
 "播放页二次截取": "空",
-"播放页截取数组": "var player_bbbb=$$</div>",
+"播放页截取数组": "class=\"play-btn$$</div>",
 "播放剧集自动分割模式": "0",
 "播放剧集数组分割字符": "空",//json数据播放链接都集合在一起时才用到，不用时填空或者不填或者删除这个字段
 "播放剧集二次截取": "空",
-"播放剧集截取数组": "{$$}",
-"播放剧集标题": "\"flag\":\"$$\"",
-"播放剧集链接": "\"url\":\"$$\"",
+"播放剧集截取数组": "<a$$/a>",
+"播放剧集标题": ">$$<",
+"播放剧集链接": "href=\"$$\"",
 "播放剧集链接前缀": "空",
 "播放剧集链接后缀": "空",
 "启用嗅探截取": "0",
