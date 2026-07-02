@@ -150,7 +150,8 @@
 "zhujiexi":[		
 {"name":"小枫视界","url":"https://api.xiaofengtv.com/api2.php?url="},
 {"name":"米壹解析","url":"http://jiexi.69mini.com/api/?key=5cc632accf2f4b27a417b89c8edf69c7&url="},
-{"name":"无极解析","url":"http://111.170.140.70:1332/?url="},	
+{"name":"无极解析","url":"http://111.170.140.70:1332/?url="},
+{"name":"花旗","url":"https://api.huaqi.pro/api/?key=5bd0db7c858ba9f999373450f3651af7&url="},	
 {"name":"金牌解析","url":"https://nojx.wtto.cc/proxy?key=jntm&url="},
 {"name":"影探解析","url":"https://jx.bhs6.com/api/?key=e9b9c8a21dfeab775de29040e824d415&url=","ua":"User-Agent$okhttp/3.12.0#referer$123"}],
 
