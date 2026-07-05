@@ -66,6 +66,17 @@
 },
 
 {
+                "名字": "魔都广告",
+"寻找词": "modujx15.com*#00r6WSPR#qyBLBThC#play.modujx11#modujiexi",
+"正则规则": [
+    "#EXT-X-DISCONTINUITY\\r?\\n(?:#EXTINF:[\\d.]+,\\r?\\nhttps://bf\\.modujx15\\.com/[\\s\\S]*?\\.ts\\r?\\n)+#EXT-X-DISCONTINUITY",
+    "#EXT-X-DISCONTINUITY\\r?\\n#EXTINF.*?\\s+https://bf\\.modujx15\\.com/[\\s\\S]*?#EXT-X-DISCONTINUITY",
+    "#EXT-X-DISCONTINUITY\\r?\\n(?:#EXTINF:[\\d.]+,\\r?\\nhttps://bf\\.modujx15\\.com/20260629/qyBLBThC/10155kb/hls/[a-zA-Z0-9]{8}\\.ts\\r?\\n)+#EXT-X-DISCONTINUITY",
+    "#EXT-X-DISCONTINUITY\\r?\\n(?:#EXTINF:[\\d.]+,\\r?\\nhttps://bf\\.modujx15\\.com/[0-9]{8}/[a-zA-Z0-9]+/[0-9]+kb/hls/[a-zA-Z0-9]{8}\\.ts\\r?\\n)+#EXT-X-DISCONTINUITY"
+]
+                  },
+	 
+{
   "名字": "闪电",
   "寻找词": "https://v14.#.fentvoss.com#yzzy",
   "正则规则": [
