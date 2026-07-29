@@ -165,7 +165,7 @@
 //填写采集接口
 "caijizhan": [
 {"name":"花旗资源","url":"http://www.seacms.org/api.php/"},
-{"name":"暖TV","url":"https://www.nuantv.com//api.php/"},	
+{"name":"暖TV","url":"https://json.fongmi.cc/web?url="},	
 {"name":"幸资源站","url":"https://xzybb1.com/api.php/"},	
 {"name":"电影天堂资源","url":"http://caiji.dyttzyapi.com/api.php/"},
 {"name":"量子云资源","url":"https://cj.lziapi.com/api.php/"},
