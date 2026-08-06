@@ -5199,11 +5199,10 @@
 "播放页跳转看图": "0"},
 	
 
-
 {"网站名字": "🔞MISSAV",
-"网站地址": "https://avmiss34.life/",//MissAV.CX#  MissAV.MX https://m.avmiss9.cc/
+"网站地址": "",//https://x96.one/ https://missavt38.com/   https://missavt01.pages.dev/
 "访问请求ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
-"访问请求cookie": "空",
+"访问请求cookie": "user_uuid=accdc9c5-8746-48a1-a48b-bc0cf02052fd; x-index-auth=authed",
 "访问请求referer": "空",
 "播放请求头": "User-Agent$123",
 "图片请求头": "空",
@@ -5215,19 +5214,22 @@
 "自动点击字符": "空",
 "启用js加载源码":"0",
 "js加载源码时间":"15",
-"嗅探词": "m3u8?#.m3u8#.mp4#.flv#.mp3#.m4a",
+"嗅探词": "video.m3u8",
 "过滤词": "51.la#cnzz.com#baidu.com#bilibili.com#?url=",
 "是否记录历史": "0",
-"直接播放": "0",
+"直接播放": "1",
 "列表显示": "0",
 "横图显示": "0",
 "列表起始页": "1",
-"列表分类": "最近更新$/label/rank/by/time/page/#國產视频$/vod/type/id/1/page/#无码流出$/vod/type/id/2/page/#中文字幕$/vod/type/id/3/page/#日本AV$/vod/type/id/6/page/#动漫$/vod/type/id/4/page/#欧美$/vod/type/id/5/page/",
-"列表后缀": ".html",
+"列表分类": "最近更新$https://www.missav888.net/dm539/cn/new?page=#新品上市$https://www.missav888.net/dm635/cn/release?page=#无码流出$https://www.missav888.net/dm817/cn/uncensored-leak?page=#中文字幕$https://www.missav888.net/dm278/cn/chinese-subtitle?page=2#SIRO$https://www.missav888.net/dm36/cn/siro?page=#LUXU$https://www.missav888.net/dm34/cn/luxu?page=#GANA$https://www.missav888.net/dm32/cn/gana?page=#PRESTIGE PREMIUM$https://www.missav888.net/dm1001/cn/maan?page=#S-CUTE$https://www.missav888.net/dm38/cn/scute?page=#ARA$https://www.missav888.net/dm34/cn/ara?page=#无码流出$https://www.missav888.net/dm816/cn/uncensored-leak?page=#FC2$https://www.missav888.net/dm473/cn/fc2
+?page=#HEYZO$https://www.missav888.net/dm1977446/cn/heyzo?page=#东京热$https://www.missav888.net/dm42/cn/tokyohot?page=#一本道$https://www.missav888.net/dm4364834/cn/1pondo?page=#Caribbeancom$https://www.missav888.net/dm7414012/cn/caribbeancom?page=#Caribbeancompr$https://www.missav888.net/dm83900/cn/caribbeancompr?page=#10musume$https://www.missav888.net/dm6341956/cn/10musume?page=#pacopacomama$https://www.missav888.net/dm2479243/cn/pacopacomama?page=#Gachinco$https://www.missav888.net/dm150/cn/gachinco?page=#XXX-AV$https://www.missav888.net/dm42/cn/xxxav
+?page=#人妻斩$https://www.missav888.net/dm37/cn/marriedslash?page=#顽皮 4610$https://www.missav888.net/dm33/cn/naughty4610?page=#顽皮 0930$https://www.missav888.net/dm37/cn/naughty0930?page=#麻豆传媒$https://www.missav888.net/dm63/cn/madou?page=#TWAV$https://www.missav888.net/dm31/cn/twav
+?page=#Furuke$https://www.missav888.net/dm15/cn/furuke?page=#韩国直播$https://www.missav888.net/cn/klive?page=#中国直播$https://www.missav888.net/cn/clive?page=#VR$https://www.missav888.net/dm2093/cn/genres/VR?page=2",
+"列表后缀": "",
 "列表二次截取": "空",
-"列表截取数组": "class=\"relative aspect-w-16$$</div>",
+"列表截取数组": "class=\"preview hidden$$</div>",
 "列表图片前缀": "空",
-"列表图片": "data-src=\"$$\"",
+"列表图片": "src=\"$$\"",
 "列表标题": "alt=\"$$\"",
 "列表副标题": "bg-opacity-75\">$$</span>",
 "列表链接": "href=\"$$\"",
@@ -5236,14 +5238,14 @@
 //0：get方式，1：post方式，注意：如果用post方式，【搜索模式】要填：1
 "搜索请求方式": "0",
 "搜索模式":"1",
-"搜索前": "/vod/search.html?wd=",
+"搜索前": "https://www.missav888.net/cn/search/",
 "搜索后": "",
 "搜索连接后缀":"/vodplay/",
-"搜索带翻页模式": "https://avmiss34.life/vod/search/page/翻页/wd/搜索词.html",
+"搜索带翻页模式": "https://www.missav888.net/cn/search/搜索词?page=翻页",
 "搜索二次截取": "空",
-"搜索截取数组": "class=\"relative aspect-w-16$$</div>",
+"搜索截取数组": "class=\"preview hidden$$</div>",
 "搜索图片前缀": "空",
-"搜索图片": "data-src=\"$$\"",
+"搜索图片": "src=\"$$\"",
 "搜索标题": "alt=\"$$\"",
 "搜索副标题": "class=\"pic-text text-right\">$$</span>",
 "搜索链接": "href=\"$$\"",
@@ -5268,7 +5270,7 @@
 "播放剧集链接": "href=\"$$\"",
 "播放剧集链接前缀": "空",
 "播放剧集链接后缀": "空",
-"启用嗅探截取": "1",
+"启用嗅探截取": "0",
 "嗅探请求头": "User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",//User-Agent$123#Referer$123
 "播放地址二次截取": "var player_$$</script>",
 "播放地址截取": "\"url\":\"$$\"",
@@ -5278,6 +5280,7 @@
 "是否url解码": "0",
 "官源是否走解析": "0",
 "播放页跳转看图": "0"},
+
  
 
 
